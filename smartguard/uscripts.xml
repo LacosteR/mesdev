@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list>
+	<!-- THIS IS __INTERLUDE__ ONLY AT THIS STAGE! -->
+    <config>
+        <!--
+            Operation mode:
+            	CHECKLIST - Only check specified scripts, allow the rest
+                WHITELIST - Allow only listed scripts to be loaded by game client
+         -->
+        <mode value="CHECKLIST" />
+        <!-- This url is opened when check of one or more scripts failed -->
+        <failUrl value="https://google.com/" />
+
+    </config>
+
+	<!--
+	<uscript name="interface.u">
+		<crc val="AABBCCDD"/>
+		<crc val="EEFF1122"/>
+	</uscript>
+	<uscript name="engine.u">
+		<crc val="11223344"/>
+	</uscript>
+	-->
+</list>

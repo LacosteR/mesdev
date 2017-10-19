@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list>
+    <config>
+        <!-- This url is opened when check of one or more files failed -->
+        <failUrl value="https://google.com/"/>
+    </config>
+
+    <!--
+	<file path="\$system\Interface.u">
+		<crc val="AABBCCDD"/>
+		<crc val="EEFF1122"/>
+	</file>
+	<file path="\$system\NWindow.dll">
+		<crc val="11223344"/>
+	</file>
+	-->
+</list>
