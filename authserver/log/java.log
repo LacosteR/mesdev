@@ -1,0 +1,8 @@
+[18.10.17 23:16:36:706]  INFO authserver.ServerNameHolder: Loaded 127 server names
+[18.10.17 23:16:36:709]  INFO authserver.AuthorizationServer: Server socket loaded at port: 1499
+[18.10.17 23:16:36:872]  INFO authserver.AuthCrypt: Loaded whirlpool2 as default crypt.
+[18.10.17 23:16:37:213]  INFO authserver.AuthCrypt: Cached 10 KeyPairs for RSA communication
+[18.10.17 23:16:37:217]  INFO authserver.AuthCrypt: Stored 20 keys for Blowfish communication
+[18.10.17 23:16:37:228]  INFO authserver.GameServerManager: Loaded 0 registered GameServer(s).
+[18.10.17 23:16:37:236]  INFO authserver.AuthorizationServer: Listening for gameservers on *:9014
+[18.10.17 23:16:37:236]  INFO authserver.AuthorizationServer: Listening for clients on *:1499

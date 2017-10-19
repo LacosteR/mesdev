@@ -1,0 +1,8 @@
+[23:16:36]  INFO Loaded 127 server names
+[23:16:36]  INFO Server socket loaded at port: 1499
+[23:16:36]  INFO Loaded whirlpool2 as default crypt.
+[23:16:37]  INFO Cached 10 KeyPairs for RSA communication
+[23:16:37]  INFO Stored 20 keys for Blowfish communication
+[23:16:37]  INFO Loaded 0 registered GameServer(s).
+[23:16:37]  INFO Listening for gameservers on *:9014
+[23:16:37]  INFO Listening for clients on *:1499
