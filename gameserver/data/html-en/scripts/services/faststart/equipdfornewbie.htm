@@ -1,8 +1,68 @@
-<html><body>
-Дэ эквип ёбт
-<table>
-<tr>
-	<td width=60><button value="Получить Д" action="bypass -h scripts_services.PlayerFastStartService:giveEquipment" width=50 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" ></td>
-</tr>
-</table>
-</body></html>
+<html>
+	<body>
+		
+		<table border=0 width=280>
+			<tr>
+				<td>
+					<center><img src="winstart.wnd_head_bg" width=263 height=69></center>
+				</td>
+			</tr>
+			<tr>
+				<td height=8></td>
+			</tr>
+			<tr>				
+				<td>
+					<table>
+						<tr>
+							<td width=280>
+								<center><font name=ScreenMessageSmall color=FF8C00>Поздравляем!</font></center>
+							</td>
+						</tr>
+					</table>
+				</td>			
+			</tr>
+			<tr>				
+				<td>
+					<table>
+						<tr>
+							<td height=70 width=280>
+								<center><font color=ffffff>Для дальнейшей охоты тебе необходимо получить специальную экипировку. Жми на кнопку "Получить экипировку", пора становиться сильнее!</font></center>
+							</td>
+						</tr>
+					</table>
+				</td>			
+			</tr>
+			<tr>
+				<td height=5></td>
+			</tr>
+			<tr>		
+				<td height=69>
+					<center><button width=200 height=30 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h scripts_services.PlayerFastStartService:giveEquipment" value="Получить экипировку!"></center>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<center><img src="winstart.horizontal_line" width=239 height=3></center>
+				</td>
+			</tr>
+			<tr>
+				<td height=5></td>
+			</tr>
+			<tr>
+				<td><center>
+					<table width=239 height=105 background="winstart.wnd_banner_ru_bg">
+						<tr>
+							<td height=20>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<center><button width=215 height=71 back="winstart.getprem_ru_DF_Down" fore="winstart.getprem_ru_DF" action=" " value=" "></center>
+							</td>
+						</tr>
+					</table>
+				</center></td>
+			</tr>
+		</table>		
+	</body>
+</html>

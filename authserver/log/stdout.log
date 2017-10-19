@@ -1,8 +1,30 @@
-[23:16:36]  INFO Loaded 127 server names
-[23:16:36]  INFO Server socket loaded at port: 1499
-[23:16:36]  INFO Loaded whirlpool2 as default crypt.
-[23:16:37]  INFO Cached 10 KeyPairs for RSA communication
-[23:16:37]  INFO Stored 20 keys for Blowfish communication
-[23:16:37]  INFO Loaded 0 registered GameServer(s).
-[23:16:37]  INFO Listening for gameservers on *:9014
-[23:16:37]  INFO Listening for clients on *:1499
+[07:30:09]  INFO Loaded 127 server names
+[07:30:09]  INFO Server socket check success at port: 1499
+[07:30:09]  INFO Loaded whirlpool2 as default crypt.
+[07:30:10]  INFO Cached 10 KeyPairs for RSA communication
+[07:30:10]  INFO Stored 20 keys for Blowfish communication
+[07:30:10]  INFO Loaded 0 registered GameServer(s).
+[07:30:10]  INFO Listening for gameservers on *:9014
+[07:30:10]  INFO Listening for clients on *:1499
+[07:32:32]  INFO Trying to register gameserver: 1 [127.0.0.1]
+[07:32:32]  INFO Gameserver registration successful.
+[07:32:37]  INFO Connection with gameserver 1 [Bartz] lost.
+[07:32:37]  INFO Setting gameserver down.
+[07:41:01]  INFO Trying to register gameserver: 1 [127.0.0.1]
+[07:41:01]  INFO Gameserver registration successful.
+[07:43:19]  INFO Connection with gameserver 1 [Bartz] lost.
+[07:43:19]  INFO Setting gameserver down.
+[08:01:25]  INFO Trying to register gameserver: 1 [127.0.0.1]
+[08:01:25]  INFO Gameserver registration successful.
+[08:07:20]  INFO Connection with gameserver 1 [Bartz] lost.
+[08:07:20]  INFO Setting gameserver down.
+[08:08:36]  INFO Trying to register gameserver: 1 [127.0.0.1]
+[08:08:36]  INFO Gameserver registration successful.
+[08:21:56]  INFO Connection with gameserver 1 [Bartz] lost.
+[08:21:56]  INFO Setting gameserver down.
+[08:23:06]  INFO Trying to register gameserver: 1 [127.0.0.1]
+[08:23:06]  INFO Gameserver registration successful.
+[08:36:32]  INFO Connection with gameserver 1 [Bartz] lost.
+[08:36:32]  INFO Setting gameserver down.
+[08:37:15]  INFO Trying to register gameserver: 1 [127.0.0.1]
+[08:37:15]  INFO Gameserver registration successful.

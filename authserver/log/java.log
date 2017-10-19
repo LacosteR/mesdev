@@ -1,8 +1,30 @@
-[18.10.17 23:16:36:706]  INFO authserver.ServerNameHolder: Loaded 127 server names
-[18.10.17 23:16:36:709]  INFO authserver.AuthorizationServer: Server socket loaded at port: 1499
-[18.10.17 23:16:36:872]  INFO authserver.AuthCrypt: Loaded whirlpool2 as default crypt.
-[18.10.17 23:16:37:213]  INFO authserver.AuthCrypt: Cached 10 KeyPairs for RSA communication
-[18.10.17 23:16:37:217]  INFO authserver.AuthCrypt: Stored 20 keys for Blowfish communication
-[18.10.17 23:16:37:228]  INFO authserver.GameServerManager: Loaded 0 registered GameServer(s).
-[18.10.17 23:16:37:236]  INFO authserver.AuthorizationServer: Listening for gameservers on *:9014
-[18.10.17 23:16:37:236]  INFO authserver.AuthorizationServer: Listening for clients on *:1499
+[19.10.17 07:30:09:465]  INFO authserver.ServerNameHolder: Loaded 127 server names
+[19.10.17 07:30:09:468]  INFO authserver.AuthorizationServer: Server socket check success at port: 1499
+[19.10.17 07:30:09:623]  INFO authserver.AuthCrypt: Loaded whirlpool2 as default crypt.
+[19.10.17 07:30:10:096]  INFO authserver.AuthCrypt: Cached 10 KeyPairs for RSA communication
+[19.10.17 07:30:10:101]  INFO authserver.AuthCrypt: Stored 20 keys for Blowfish communication
+[19.10.17 07:30:10:111]  INFO authserver.GameServerManager: Loaded 0 registered GameServer(s).
+[19.10.17 07:30:10:119]  INFO authserver.AuthorizationServer: Listening for gameservers on *:9014
+[19.10.17 07:30:10:119]  INFO authserver.AuthorizationServer: Listening for clients on *:1499
+[19.10.17 07:32:32:764]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 07:32:32:765]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 07:32:37:900]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[19.10.17 07:32:37:901]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[19.10.17 07:41:01:553]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 07:41:01:553]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 07:43:19:960]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[19.10.17 07:43:19:961]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[19.10.17 08:01:25:083]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 08:01:25:083]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 08:07:20:360]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[19.10.17 08:07:20:361]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[19.10.17 08:08:36:461]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 08:08:36:461]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 08:21:56:212]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[19.10.17 08:21:56:212]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[19.10.17 08:23:06:995]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 08:23:06:996]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 08:36:32:488]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[19.10.17 08:36:32:489]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[19.10.17 08:37:15:684]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 08:37:15:684]  INFO gspackets.AuthRequest: Gameserver registration successful.
