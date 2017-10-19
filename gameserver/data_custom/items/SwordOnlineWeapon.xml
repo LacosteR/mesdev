@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+ <weapon id="81200" name="Dark Repulser">
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="SwordArtTex.darkrepulser_nosa"/>
+    <set name="kamael_convert" value="15555"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81201" name="Dark Repulser" add_name="Focus">
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="SwordArtTex.darkrepulser_sa"/>
+    <set name="kamael_convert" value="15904"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="5"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81202" name="Dark Repulser" add_name="Haste">
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="SwordArtTex.darkrepulser_sa"/>
+    <set name="kamael_convert" value="15905"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3564" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81203" name="Dark Repulser" add_name="Health">
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="SwordArtTex.darkrepulser_sa"/>
+    <set name="kamael_convert" value="15906"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81204" name="Dark Repulser {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="SwordArtTex.darkrepulser_nosa"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81205" name="Dark Repulser {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="SwordArtTex.darkrepulser_sa"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="5"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81206" name="Dark Repulser {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="SwordArtTex.darkrepulser_sa"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3564" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81207" name="Dark Repulser {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="SwordArtTex.darkrepulser_sa"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+ <weapon id="81208" name="Elucidator">
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="SwordArtTex.Elucidator_nosa"/>
+    <set name="kamael_convert" value="15555"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81209" name="Elucidator" add_name="Focus">
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="SwordArtTex.Elucidator_sa"/>
+    <set name="kamael_convert" value="15904"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="5"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81210" name="Elucidator" add_name="Haste">
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="SwordArtTex.Elucidator_sa"/>
+    <set name="kamael_convert" value="15905"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3564" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81211" name="Elucidator" add_name="Health">
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="SwordArtTex.Elucidator_sa"/>
+    <set name="kamael_convert" value="15906"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81212" name="Elucidator {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="SwordArtTex.Elucidator_nosa"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81213" name="Elucidator {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="SwordArtTex.Elucidator_sa"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="5"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81214" name="Elucidator {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="SwordArtTex.Elucidator_sa"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3564" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81215" name="Elucidator {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="SwordArtTex.Elucidator_sa"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="437"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81216" name="Elucidator + Dark Repulser Dual Sword">
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="SwordArtTex.dualkirito"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="type" value="DUAL"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+    </skills>
+    <enchant4_skill id="3411" level="1"/>
+    <for>
+      <add stat="pAtk" order="0x10" value="532"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  <weapon id="81217" name="Elucidator + Dark Repulser Dual Sword {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="9872"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="SwordArtTex.dualkirito"/>
+    <set name="price" value="205668000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="false"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUAL"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3656" level="1"/>
+    </skills>
+    <enchant4_skill id="3411" level="1"/>
+    <for>
+      <add stat="pAtk" order="0x10" value="532"/>
+      <add stat="mAtk" order="0x10" value="192"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+  
+ </list>

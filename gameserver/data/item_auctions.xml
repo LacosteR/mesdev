@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<instance id="32320" schedule="0 17 * * tue">
+		<!--ACCESSORIES-->
+		<item auctionItemId="25" itemId="13497" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Chick Hat-->
+		<item auctionItemId="26" itemId="13498" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Wizard Hat-->
+		<item auctionItemId="27" itemId="13500" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Black Feather Mask-->
+		<item auctionItemId="28" itemId="13501" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Romantic Chapeau-->
+		<item auctionItemId="29" itemId="13499" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Jester Hat-->
+		<item auctionItemId="30" itemId="13493" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Carnival Circlet-->
+		<!--ELEGIA ARMORS-->
+		<item auctionItemId="59" itemId="15728" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Circlet-->
+		<item auctionItemId="60" itemId="15729" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Breastplate-->
+		<item auctionItemId="61" itemId="15730" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Breastplate-->
+		<item auctionItemId="62" itemId="15731" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Tunic-->
+		<item auctionItemId="63" itemId="15740" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Shoes-->
+		<item auctionItemId="64" itemId="15733" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Legging-->
+		<item auctionItemId="65" itemId="15736" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Gloves-->
+		<item auctionItemId="66" itemId="15739" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Boots-->
+		<item auctionItemId="67" itemId="15732" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Gaiter-->
+		<item auctionItemId="68" itemId="15737" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Gloves-->
+		<item auctionItemId="69" itemId="15735" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Gauntlet-->
+		<item auctionItemId="70" itemId="15738" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Boots-->
+		<item auctionItemId="71" itemId="15734" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Stockings-->
+		<item auctionItemId="72" itemId="15727" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Helmet-->
+		<item auctionItemId="73" itemId="15742" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Sigil-->
+		<item auctionItemId="74" itemId="15726" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Helmet-->
+		<item auctionItemId="75" itemId="15741" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Shield-->
+		<!--IMPROVED RAID BOSS JEWELS-->
+		<item auctionItemId="76" itemId="22175" itemCount="1" auctionInitBid="10000" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Improved Blessed Earring of Zake-->
+		<item auctionItemId="77" itemId="22173" itemCount="1" auctionInitBid="10000" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Improved Ring of Baium-->
+		<item auctionItemId="78" itemId="22174" itemCount="1" auctionInitBid="10000" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Improved Ring of Queen Ant-->
+	</instance>
+	<instance id="32321" schedule="0 17 * * thu">
+		<!--ACCESSORIES-->
+		<item auctionItemId="25" itemId="13497" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Chick Hat-->
+		<item auctionItemId="26" itemId="13498" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Wizard Hat-->
+		<item auctionItemId="27" itemId="13500" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Black Feather Mask-->
+		<item auctionItemId="28" itemId="13501" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Romantic Chapeau-->
+		<item auctionItemId="29" itemId="13499" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Jester Hat-->
+		<item auctionItemId="30" itemId="13493" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Carnival Circlet-->
+		<!--ELEGIA ARMORS-->
+		<item auctionItemId="59" itemId="15728" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Circlet-->
+		<item auctionItemId="60" itemId="15729" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Breastplate-->
+		<item auctionItemId="61" itemId="15730" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Breastplate-->
+		<item auctionItemId="62" itemId="15731" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Tunic-->
+		<item auctionItemId="63" itemId="15740" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Shoes-->
+		<item auctionItemId="64" itemId="15733" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Legging-->
+		<item auctionItemId="65" itemId="15736" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Gloves-->
+		<item auctionItemId="66" itemId="15739" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Boots-->
+		<item auctionItemId="67" itemId="15732" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Gaiter-->
+		<item auctionItemId="68" itemId="15737" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Gloves-->
+		<item auctionItemId="69" itemId="15735" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Gauntlet-->
+		<item auctionItemId="70" itemId="15738" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Boots-->
+		<item auctionItemId="71" itemId="15734" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Stockings-->
+		<item auctionItemId="72" itemId="15727" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Helmet-->
+		<item auctionItemId="73" itemId="15742" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Sigil-->
+		<item auctionItemId="74" itemId="15726" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Helmet-->
+		<item auctionItemId="75" itemId="15741" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Shield-->
+		<!--IMPROVED RAID BOSS JEWELS-->
+		<item auctionItemId="76" itemId="22175" itemCount="1" auctionInitBid="10000" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Improved Blessed Earring of Zake-->
+		<item auctionItemId="77" itemId="22173" itemCount="1" auctionInitBid="10000" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Improved Ring of Baium-->
+		<item auctionItemId="78" itemId="22174" itemCount="1" auctionInitBid="10000" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Improved Ring of Queen Ant-->
+	</instance>
+	<instance id="32322" schedule="0 17 * * sat">
+		<!--ACCESSORIES-->
+		<item auctionItemId="25" itemId="13497" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Chick Hat-->
+		<item auctionItemId="26" itemId="13498" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Wizard Hat-->
+		<item auctionItemId="27" itemId="13500" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Black Feather Mask-->
+		<item auctionItemId="28" itemId="13501" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Romantic Chapeau-->
+		<item auctionItemId="29" itemId="13499" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Jester Hat-->
+		<item auctionItemId="30" itemId="13493" itemCount="1" auctionInitBid="1000" auctionLenght="60"/>
+		<!--Refined Carnival Circlet-->
+		
+		<!--ELEGIA ARMORS-->
+		<item auctionItemId="59" itemId="15728" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Circlet-->
+		<item auctionItemId="60" itemId="15729" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Breastplate-->
+		<item auctionItemId="61" itemId="15730" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Breastplate-->
+		<item auctionItemId="62" itemId="15731" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Tunic-->
+		<item auctionItemId="63" itemId="15740" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Shoes-->
+		<item auctionItemId="64" itemId="15733" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Legging-->
+		<item auctionItemId="65" itemId="15736" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Gloves-->
+		<item auctionItemId="66" itemId="15739" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Boots-->
+		<item auctionItemId="67" itemId="15732" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Gaiter-->
+		<item auctionItemId="68" itemId="15737" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Gloves-->
+		<item auctionItemId="69" itemId="15735" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Gauntlet-->
+		<item auctionItemId="70" itemId="15738" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Boots-->
+		<item auctionItemId="71" itemId="15734" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Stockings-->
+		<item auctionItemId="72" itemId="15727" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Leather Helmet-->
+		<item auctionItemId="73" itemId="15742" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Sigil-->
+		<item auctionItemId="74" itemId="15726" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Helmet-->
+		<item auctionItemId="75" itemId="15741" itemCount="1" auctionInitBid="100" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Sealed Elegia Shield-->
+		<!--IMPROVED RAID BOSS JEWELS-->
+		<item auctionItemId="76" itemId="22175" itemCount="1" auctionInitBid="10000" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Improved Blessed Earring of Zake-->
+		<item auctionItemId="77" itemId="22173" itemCount="1" auctionInitBid="10000" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Improved Ring of Baium-->
+		<item auctionItemId="78" itemId="22174" itemCount="1" auctionInitBid="10000" auctionLenght="60">
+			<extra enchant_level="12"/>
+		</item>
+		<!--Improved Ring of Queen Ant-->
+	</instance>
+</list>

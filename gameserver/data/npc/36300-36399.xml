@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="36300" name="Rebel Private" title="Aaru Fortress">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="36301" name="Court Guard" title="Aaru Fortress">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="98"/>
+			<!--Halberd-->
+		</equip>
+	</npc>
+	<npc id="36302" name="Guard" title="Aaru Fortress">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="287"/>
+			<!--Bow of Peril-->
+		</equip>
+	</npc>
+	<npc id="36303" name="Power Control Unit" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.siege.PowerControlUnit"/>
+	</npc>
+	<npc id="36304" name="Dwarven Gunnery Sergeant" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="36305" name="Guard Captain" title="Guard">
+		<set name="ai_type" value="residences.fortress.siege.GuardCaption"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="641"/>
+			<!--Dark Crystal Shield-->
+		</equip>
+	</npc>
+	<npc id="36306" name="Guard" title="Guard">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="36307" name="Guard" title="Guard">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="36308" name="Support Unit Captain" title="Support Unit">
+		<set name="ai_type" value="residences.fortress.siege.SupportUnitCaption"/>
+		<set name="type" value="residences.SiegeGuard"/>
+	</npc>
+	<npc id="36309" name="Wizard" title="Support Unit">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="36310" name="Healer" title="Support Unit">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="92"/>
+			<!--Sprite's Staff-->
+		</equip>
+	</npc>
+	<npc id="36311" name="Archer Captain" title="Archer">
+		<set name="ai_type" value="residences.fortress.siege.ArcherCaption"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="10212"/>
+			<!--For NPC (Bow)-->
+		</equip>
+	</npc>
+	<npc id="36312" name="Archer" title="Archer">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="287"/>
+			<!--Bow of Peril-->
+		</equip>
+	</npc>
+	<npc id="36313" name="Ballista" title="Aaru Fortress">
+		<set name="ai_type" value="residences.fortress.siege.Ballista"/>
+		<set name="type" value="residences.fortress.siege.Ballista"/>
+	</npc>
+	<npc id="36314" name="Mercenary Captain" title="">
+		<set name="ai_type" value="residences.fortress.siege.MercenaryCaption"/>
+		<set name="type" value="residences.fortress.siege.MercenaryCaption"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6377"/>
+			<!--Imperial Crusader Shield-->
+		</equip>
+	</npc>
+	<npc id="36315" name="Mercenary Private" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="96"/>
+			<!--Scythe-->
+		</equip>
+	</npc>
+	<npc id="36316" name="Flagpole" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36317" name="Foreman" title="Demon Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Manager"/>
+	</npc>
+	<npc id="36318" name="Suspicious Merchant" title="Demon Fortress">
+		<set name="ai_type" value="suspiciousmerchant.SuspiciousMerchantDemon"/>
+		<set name="type" value="residences.fortress.peace.SuspiciousMerchant"/>
+	</npc>
+	<npc id="36319" name="Guard Captain" title="Demon Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="641"/>
+			<!--Dark Crystal Shield-->
+		</equip>
+	</npc>
+	<npc id="36320" name="Archer Captain" title="Demon Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.peace.ArcherCaption"/>
+	</npc>
+	<npc id="36321" name="General" title="Demon Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="9813"/>
+			<!--Orc Officer-->
+			<lhand item_id="9813"/>
+			<!--Orc Officer-->
+		</equip>
+	</npc>
+	<npc id="36322" name="Support Unit Captain" title="Demon Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.peace.SupportUnitCaption"/>
+	</npc>
+	<npc id="36323" name="Engineering Manager" title="Demon Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36324" name="Logistics Officer" title="Demon Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.LogisticsOfficer"/>
+	</npc>
+	<npc id="36325" name="Supply Box" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="36326" name="Detention Camp Warden" title="Demon Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="PailakaGatekeeper"/>
+	</npc>
+	<npc id="36327" name="Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Doorman"/>
+		<ai_params>
+			<set name="tele_loc" value="100284 -55278 240"/>
+			<set name="doors" value="23160008"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="36328" name="Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Doorman"/>
+		<ai_params>
+			<set name="tele_loc" value="100284 -55278 240"/>
+			<set name="doors" value="23160001"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="36329" name="Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Doorman"/>
+		<ai_params>
+			<set name="tele_loc" value="100284 -55278 240"/>
+			<set name="doors" value="23160004;23160005;23160006;23160007"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="36330" name="Rebel Commander" title="Demon Fortress">
+		<set name="ai_type" value="residences.fortress.siege.RebelCommander"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6377"/>
+			<!--Imperial Crusader Shield-->
+		</equip>
+	</npc>
+	<npc id="36331" name="Decorated Rebel Soldier" title="Demon Fortress">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="36332" name="Rebel Private" title="Demon Fortress">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="36333" name="Court Guard" title="Demon Fortress">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="98"/>
+			<!--Halberd-->
+		</equip>
+	</npc>
+	<npc id="36334" name="Guard" title="Demon Fortress">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="287"/>
+			<!--Bow of Peril-->
+		</equip>
+	</npc>
+	<npc id="36335" name="Main Machine" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.siege.MainMachine"/>
+	</npc>
+	<npc id="36336" name="Backup Power Unit" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.siege.BackupPowerUnit"/>
+	</npc>
+	<npc id="36337" name="Control Unit" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.siege.ControlUnit"/>
+	</npc>
+	<npc id="36338" name="Power Control Unit" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.siege.PowerControlUnit"/>
+	</npc>
+	<npc id="36339" name="Dwarven Gunnery Sergeant" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="36340" name="Scout Golem" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36341" name="Guard Captain" title="Guard">
+		<set name="ai_type" value="residences.fortress.siege.GuardCaption"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="641"/>
+			<!--Dark Crystal Shield-->
+		</equip>
+	</npc>
+	<npc id="36342" name="Guard" title="Guard">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="36343" name="Guard" title="Guard">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="36344" name="Support Unit Captain" title="Support Unit">
+		<set name="ai_type" value="residences.fortress.siege.SupportUnitCaption"/>
+		<set name="type" value="residences.SiegeGuard"/>
+	</npc>
+	<npc id="36345" name="Wizard" title="Support Unit">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="36346" name="Healer" title="Support Unit">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="92"/>
+			<!--Sprite's Staff-->
+		</equip>
+	</npc>
+	<npc id="36347" name="Archer Captain" title="Archer">
+		<set name="ai_type" value="residences.fortress.siege.ArcherCaption"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="10212"/>
+			<!--For NPC (Bow)-->
+		</equip>
+	</npc>
+	<npc id="36348" name="Archer" title="Archer">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="287"/>
+			<!--Bow of Peril-->
+		</equip>
+	</npc>
+	<npc id="36349" name="General" title="Officer's Barracks">
+		<set name="ai_type" value="residences.fortress.siege.General"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="9813"/>
+			<!--Orc Officer-->
+			<lhand item_id="9813"/>
+			<!--Orc Officer-->
+		</equip>
+	</npc>
+	<npc id="36350" name="Minister" title="Officer's Barracks">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="7895"/>
+			<!--Flaming Dragon Skull-->
+		</equip>
+	</npc>
+	<npc id="36351" name="Ballista" title="Demon Fortress">
+		<set name="ai_type" value="residences.fortress.siege.Ballista"/>
+		<set name="type" value="residences.fortress.siege.Ballista"/>
+	</npc>
+	<npc id="36352" name="Mercenary Captain" title="">
+		<set name="ai_type" value="residences.fortress.siege.MercenaryCaption"/>
+		<set name="type" value="residences.fortress.siege.MercenaryCaption"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6377"/>
+			<!--Imperial Crusader Shield-->
+		</equip>
+	</npc>
+	<npc id="36353" name="Mercenary Private" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="96"/>
+			<!--Scythe-->
+		</equip>
+	</npc>
+	<npc id="36354" name="Flagpole" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36355" name="Foreman" title="Monastic Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Manager"/>
+	</npc>
+	<npc id="36356" name="Suspicious Merchant" title="Monastic Fortress">
+		<set name="ai_type" value="suspiciousmerchant.SuspiciousMerchantMonastic"/>
+		<set name="type" value="residences.fortress.peace.SuspiciousMerchant"/>
+	</npc>
+	<npc id="36357" name="Guard Captain" title="Monastic Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="641"/>
+			<!--Dark Crystal Shield-->
+		</equip>
+	</npc>
+	<npc id="36358" name="Archer Captain" title="Monastic Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.peace.ArcherCaption"/>
+	</npc>
+	<npc id="36359" name="General" title="Monastic Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="9813"/>
+			<!--Orc Officer-->
+			<lhand item_id="9813"/>
+			<!--Orc Officer-->
+		</equip>
+	</npc>
+	<npc id="36360" name="Support Unit Captain" title="Monastic Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.peace.SupportUnitCaption"/>
+	</npc>
+	<npc id="36361" name="Engineering Manager" title="Monastic Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36362" name="Logistics Officer" title="Monastic Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.LogisticsOfficer"/>
+	</npc>
+	<npc id="36363" name="Supply Box" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="36364" name="Detention Camp Warden" title="Monastic Fortress">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="PailakaGatekeeper"/>
+	</npc>
+	<npc id="36365" name="Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Doorman"/>
+		<ai_params>
+			<set name="tele_loc" value="72362 -94384 -536"/>
+			<set name="doors" value="22150008"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="36366" name="Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Doorman"/>
+		<ai_params>
+			<set name="tele_loc" value="72362 -94384 -536"/>
+			<set name="doors" value="22150001"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="36367" name="Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Doorman"/>
+		<ai_params>
+			<set name="tele_loc" value="72362 -94384 -536"/>
+			<set name="doors" value="22150002;22150003;22150006;22150007"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="36368" name="Rebel Commander" title="Monastic Fortress">
+		<set name="ai_type" value="residences.fortress.siege.RebelCommander"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6377"/>
+			<!--Imperial Crusader Shield-->
+		</equip>
+	</npc>
+	<npc id="36369" name="Decorated Rebel Soldier" title="Monastic Fortress">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="36370" name="Rebel Private" title="Monastic Fortress">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="36371" name="Court Guard" title="Monastic Fortress">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="98"/>
+			<!--Halberd-->
+		</equip>
+	</npc>
+	<npc id="36372" name="Guard" title="Monastic Fortress">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="287"/>
+			<!--Bow of Peril-->
+		</equip>
+	</npc>
+	<npc id="36373" name="Main Machine" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.siege.MainMachine"/>
+	</npc>
+	<npc id="36374" name="Backup Power Unit" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.siege.BackupPowerUnit"/>
+	</npc>
+	<npc id="36375" name="Control Unit" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.siege.ControlUnit"/>
+	</npc>
+	<npc id="36376" name="Power Control Unit" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.siege.PowerControlUnit"/>
+	</npc>
+	<npc id="36377" name="Dwarven Gunnery Sergeant" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="36378" name="Scout Golem" title="Control Room">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36379" name="Guard Captain" title="Guard">
+		<set name="ai_type" value="residences.fortress.siege.GuardCaption"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="641"/>
+			<!--Dark Crystal Shield-->
+		</equip>
+	</npc>
+	<npc id="36380" name="Guard" title="Guard">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="36381" name="Guard" title="Guard">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="36382" name="Support Unit Captain" title="Support Unit">
+		<set name="ai_type" value="residences.fortress.siege.SupportUnitCaption"/>
+		<set name="type" value="residences.SiegeGuard"/>
+	</npc>
+	<npc id="36383" name="Wizard" title="Support Unit">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="36384" name="Healer" title="Support Unit">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="92"/>
+			<!--Sprite's Staff-->
+		</equip>
+	</npc>
+	<npc id="36385" name="Archer Captain" title="Archer">
+		<set name="ai_type" value="residences.fortress.siege.ArcherCaption"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="10212"/>
+			<!--For NPC (Bow)-->
+		</equip>
+	</npc>
+	<npc id="36386" name="Archer" title="Archer">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="287"/>
+			<!--Bow of Peril-->
+		</equip>
+	</npc>
+	<npc id="36387" name="General" title="Officer's Barracks">
+		<set name="ai_type" value="residences.fortress.siege.General"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="9813"/>
+			<!--Orc Officer-->
+			<lhand item_id="9813"/>
+			<!--Orc Officer-->
+		</equip>
+	</npc>
+	<npc id="36388" name="Minister" title="Officer's Barracks">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="7895"/>
+			<!--Flaming Dragon Skull-->
+		</equip>
+	</npc>
+	<npc id="36389" name="Ballista" title="Monastic Fortress">
+		<set name="ai_type" value="residences.fortress.siege.Ballista"/>
+		<set name="type" value="residences.fortress.siege.Ballista"/>
+	</npc>
+	<npc id="36390" name="Mercenary Captain" title="">
+		<set name="ai_type" value="residences.fortress.siege.MercenaryCaption"/>
+		<set name="type" value="residences.fortress.siege.MercenaryCaption"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6377"/>
+			<!--Imperial Crusader Shield-->
+		</equip>
+	</npc>
+	<npc id="36391" name="Mercenary Private" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="96"/>
+			<!--Scythe-->
+		</equip>
+	</npc>
+	<npc id="36392" name="Improvised Explosive" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36393" name="Special Envoy" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Envoy"/>
+		<ai_params>
+			<set name="castle_id" value="1"/>
+			<set name="main_dialog" value="residence2/fortress/gludio_ambassador001.htm"/>
+			<set name="fail_dialog" value="residence2/fortress/gludio_ambassador003.htm"/>
+			<set name="success_contract_dialog" value="residence2/fortress/gludio_ambassador004.htm"/>
+			<set name="success_independent_dialog" value="residence2/fortress/gludio_ambassador002.htm"/>
+			<set name="fail_contract_dialog" value="residence2/fortress/gludio_ambassador005.htm"/>
+		</ai_params>
+	</npc>
+	<npc id="36394" name="Special Envoy" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Envoy"/>
+		<ai_params>
+			<set name="castle_id" value="1"/>
+			<set name="main_dialog" value="residence2/fortress/gludio_ambassador001.htm"/>
+			<set name="fail_dialog" value="residence2/fortress/gludio_ambassador003.htm"/>
+			<set name="success_contract_dialog" value="residence2/fortress/gludio_ambassador004.htm"/>
+			<set name="success_independent_dialog" value="residence2/fortress/gludio_ambassador002.htm"/>
+			<set name="fail_contract_dialog" value="residence2/fortress/gludio_ambassador005.htm"/>
+		</ai_params>
+	</npc>
+	<npc id="36395" name="Special Envoy" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Envoy"/>
+		<ai_params>
+			<set name="castle_id" value="2"/>
+			<set name="main_dialog" value="residence2/fortress/dion_ambassador001.htm"/>
+			<set name="fail_dialog" value="residence2/fortress/gludio_ambassador003.htm"/>
+			<set name="success_contract_dialog" value="residence2/fortress/gludio_ambassador004.htm"/>
+			<set name="success_independent_dialog" value="residence2/fortress/gludio_ambassador002.htm"/>
+			<set name="fail_contract_dialog" value="residence2/fortress/gludio_ambassador005.htm"/>
+		</ai_params>
+	</npc>
+	<npc id="36396" name="Special Envoy" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Envoy"/>
+		<ai_params>
+			<set name="castle_id" value="3"/>
+			<set name="main_dialog" value="residence2/fortress/giran_ambassador001.htm"/>
+			<set name="fail_dialog" value="residence2/fortress/gludio_ambassador003.htm"/>
+			<set name="success_contract_dialog" value="residence2/fortress/gludio_ambassador004.htm"/>
+			<set name="success_independent_dialog" value="residence2/fortress/gludio_ambassador002.htm"/>
+			<set name="fail_contract_dialog" value="residence2/fortress/gludio_ambassador005.htm"/>
+		</ai_params>
+	</npc>
+	<npc id="36397" name="Special Envoy" title="Oren">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Envoy"/>
+		<ai_params>
+			<set name="castle_id" value="4"/>
+			<set name="main_dialog" value="residence2/fortress/oren_ambassador001.htm"/>
+			<set name="fail_dialog" value="residence2/fortress/gludio_ambassador003.htm"/>
+			<set name="success_contract_dialog" value="residence2/fortress/gludio_ambassador004.htm"/>
+			<set name="success_independent_dialog" value="residence2/fortress/gludio_ambassador002.htm"/>
+			<set name="fail_contract_dialog" value="residence2/fortress/gludio_ambassador005.htm"/>
+		</ai_params>
+	</npc>
+	<npc id="36398" name="Special Envoy" title="Aden">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Envoy"/>
+		<ai_params>
+			<set name="castle_id" value="5"/>
+			<set name="main_dialog" value="residence2/fortress/oren_ambassador001.htm"/>
+			<set name="fail_dialog" value="residence2/fortress/gludio_ambassador003.htm"/>
+			<set name="success_contract_dialog" value="residence2/fortress/gludio_ambassador004.htm"/>
+			<set name="success_independent_dialog" value="residence2/fortress/gludio_ambassador002.htm"/>
+			<set name="fail_contract_dialog" value="residence2/fortress/gludio_ambassador005.htm"/>
+		</ai_params>
+	</npc>
+	<npc id="36399" name="Special Envoy" title="Aden">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.fortress.Envoy"/>
+		<ai_params>
+			<set name="castle_id" value="5"/>
+			<set name="main_dialog" value="residence2/fortress/oren_ambassador001.htm"/>
+			<set name="fail_dialog" value="residence2/fortress/gludio_ambassador003.htm"/>
+			<set name="success_contract_dialog" value="residence2/fortress/gludio_ambassador004.htm"/>
+			<set name="success_independent_dialog" value="residence2/fortress/gludio_ambassador002.htm"/>
+			<set name="fail_contract_dialog" value="residence2/fortress/gludio_ambassador005.htm"/>
+		</ai_params>
+	</npc>
+</list>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="14700" name="Mechanic Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14701" name="Mechanic Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14702" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14703" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14704" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14705" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14706" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14707" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14708" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14709" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14710" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14711" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14712" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14713" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14714" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14715" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14716" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14717" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14718" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14719" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14720" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14721" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14722" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14723" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14724" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14725" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14726" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14727" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14728" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14729" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14730" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14731" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14732" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14733" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14734" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14735" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14736" name="Big Boom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14737" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14738" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14739" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14740" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14741" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14742" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14743" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14744" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14745" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14746" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14747" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14748" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14749" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14750" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14751" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14752" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14753" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14754" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14755" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14756" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14757" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14758" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14759" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14760" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14761" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14762" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14763" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14764" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14765" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14766" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14767" name="Siege Golem" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14768" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14769" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14770" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14771" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14772" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14773" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14774" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14775" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14776" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14777" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14778" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14779" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14780" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14781" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14782" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14783" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14784" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14785" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14786" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14787" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14788" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14789" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14790" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14791" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14792" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14793" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14794" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14795" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14796" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14797" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14798" name="Wild Hog Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14799" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+</list>

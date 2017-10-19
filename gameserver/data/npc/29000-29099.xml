@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="29001" name="Queen Ant" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="QueenAnt"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="2500"/>
+		</ai_params>
+		<minions>
+			<minion npc_id="29003" count="6"/>
+			<!--Nurse Ant-->
+			<minion npc_id="29005" count="6"/>
+			<!--Court Guard Ant-->
+		</minions>
+		<absorblist>
+			<absorb chance="50" min_level="11" max_level="11" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29002" name="Queen Ant Larva" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="QueenAntLarva"/>
+		<ai_params>
+			<set name="ParalizeOnAttack" value="10"/>
+		</ai_params>
+	</npc>
+	<npc id="29003" name="Nurse Ant" title="">
+		<set name="ai_type" value="QueenAntNurse"/>
+		<set name="type" value="Minion"/>
+		<ai_params>
+			<set name="ParalizeOnAttack" value="13"/>
+		</ai_params>
+	</npc>
+	<npc id="29004" name="Guard Ant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="3000"/>
+			<set name="ParalizeOnAttack" value="11"/>
+		</ai_params>
+	</npc>
+	<npc id="29005" name="Royal Guard Ant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="3000"/>
+			<set name="ParalizeOnAttack" value="9"/>
+		</ai_params>
+	</npc>
+	<npc id="29006" name="Core" title="">
+		<set name="ai_type" value="Core"/>
+		<set name="type" value="Boss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<minions>
+			<minion npc_id="29011" count="4"/>
+			<!--Susceptor-->
+			<minion npc_id="29008" count="3"/>
+			<!--Doom Wraith-->
+			<minion npc_id="29007" count="10"/>
+			<!--Death Knight-->
+		</minions>
+		<absorblist>
+			<absorb chance="50" min_level="11" max_level="13" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29007" name="Death Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="29008" name="Doom Wraith" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="29009" name="Dicor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="29010" name="Validus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="29011" name="Susceptor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29012" name="Perum" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="29013" name="Premo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="29014" name="Orfen" title="">
+		<set name="ai_type" value="Orfen"/>
+		<set name="type" value="Orfen"/>
+		<ai_params>
+			<set name="FactionNotifyInterval" value="1000"/>
+			<set name="MaxPursueRange" value="5000"/>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<minions>
+			<minion npc_id="29016" count="4"/>
+			<!--Raikel Leos-->
+		</minions>
+		<absorblist>
+			<absorb chance="50" min_level="11" max_level="13" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29015" name="Raikel" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="FactionNotifyInterval" value="1000"/>
+			<set name="ParalizeOnAttack" value="10"/>
+		</ai_params>
+	</npc>
+	<npc id="29016" name="Raikel Leos" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<ai_params>
+			<set name="FactionNotifyInterval" value="1000"/>
+		</ai_params>
+	</npc>
+	<npc id="29017" name="Riba" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="FactionNotifyInterval" value="1000"/>
+			<set name="ParalizeOnAttack" value="10"/>
+		</ai_params>
+	</npc>
+	<npc id="29018" name="Riba Iren" title="">
+		<set name="ai_type" value="Orfen_RibaIren"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="FactionNotifyInterval" value="1000"/>
+			<set name="ParalizeOnAttack" value="9"/>
+		</ai_params>
+	</npc>
+	<npc id="29019" name="Antharas" title="">
+		<set name="ai_type" value="Antharas"/>
+		<set name="type" value="Boss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="100" min_level="13" max_level="17" type="PARTY_ALL"/>
+			<absorb chance="50" min_level="18" max_level="18" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29020" name="Baium" title="">
+		<set name="ai_type" value="Baium"/>
+		<set name="type" value="Boss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="20000"/>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<minions>
+			<minion npc_id="29021" count="5"/>
+			<!--Archangel-->
+		</minions>
+		<absorblist>
+			<absorb chance="100" min_level="11" max_level="12" type="PARTY_ALL"/>
+			<absorb chance="100" min_level="13" max_level="13" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29021" name="Archangel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="93"/>
+			<!--Winged Spear-->
+		</equip>
+	</npc>
+	<npc id="29022" name="Zaken" title="">
+		<set name="ai_type" value="ZakenNightly"/>
+		<set name="type" value="ReflectionBoss"/>
+		<ai_params>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="100" min_level="11" max_level="12" type="PARTY_ALL"/>
+			<absorb chance="5" min_level="13" max_level="14" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29023" name="Doll Blader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5129"/>
+			<!--Doll Knife-->
+		</equip>
+	</npc>
+	<npc id="29024" name="Vale master" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="29025" name="Baium" title="">
+		<set name="ai_type" value="BaiumNpc"/>
+		<set name="type" value="BaiumGatekeeper"/>
+	</npc>
+	<npc id="29026" name="Pirate Zombie Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="232"/>
+			<!--Dark Elven Dagger-->
+		</equip>
+	</npc>
+	<npc id="29027" name="Pirate Zombie" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="225"/>
+			<!--Mithril Dagger-->
+		</equip>
+	</npc>
+	<npc id="29028" name="Valakas" title="">
+		<set name="ai_type" value="Valakas"/>
+		<set name="type" value="Boss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="50000"/>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="30"/>
+			<set name="canSeeInHide" value="true"/>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="100" min_level="13" max_level="17" type="PARTY_ALL"/>
+			<absorb chance="50" min_level="18" max_level="18" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29029" name="Elderly Lavasaurus" title="Family of Valakas">
+		<set name="ai_type" value="freya.ValakasMinion"/>
+		<set name="type" value="SpecialMinion"/>
+	</npc>
+	<npc id="29030" name="Fenril Hound Kerinne" title="Family of Valakas">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="29031" count="2"/>
+			<!--Kerinne's Ifrit-->
+			<minion npc_id="29032" count="2"/>
+			<!--Kerinne's Golem-->
+		</minions>
+	</npc>
+	<npc id="29031" name="Kerinne's Ifrit" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29032" name="Kerinne's Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29033" name="Fenril Hound Freki" title="Family of Valakas">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="29034" count="2"/>
+			<!--Freki's Ifrit-->
+			<minion npc_id="29035" count="2"/>
+			<!--Freki's Golem-->
+		</minions>
+	</npc>
+	<npc id="29034" name="Freki's Ifrit" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29035" name="Freki's Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29036" name="Fenril Hound Uruz" title="Family of Valakas">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="29037" name="Fenril Hound Kinaz" title="Family of Valakas">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="29038" count="2"/>
+			<!--Kinaz's Ifrit-->
+			<minion npc_id="29039" count="2"/>
+			<!--Kinaz's Ifrit-->
+		</minions>
+	</npc>
+	<npc id="29038" name="Kinaz's Ifrit" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29039" name="Kinaz's Ifrit" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29040" name="Wings of Flame Ixion" title="Gatekeeper of Valakas">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="29041" count="1"/>
+			<!--Inferno Golem-->
+			<minion npc_id="29042" count="1"/>
+			<!--Inferno Golem-->
+			<minion npc_id="29043" count="1"/>
+			<!--Howling Ifrit-->
+			<minion npc_id="29044" count="1"/>
+			<!--Howling Ifrit-->
+		</minions>
+	</npc>
+	<npc id="29041" name="Inferno Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29042" name="Inferno Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29043" name="Howling Ifrit" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29044" name="Howling Ifrit" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29045" name="Frintezza" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Frintezza"/>
+	</npc>
+	<npc id="29046" name="Scarlet van Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Boss"/>
+		<equip>
+			<rhand item_id="8204"/>
+			<!--Monster Only (Follower of Frintezza Calibur)-->
+		</equip>
+	</npc>
+	<npc id="29047" name="Scarlet van Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Boss"/>
+		<equip>
+			<rhand item_id="8222"/>
+			<!--Monster Only (Follower of Frintezza Tran Calibur)-->
+		</equip>
+		<absorblist>
+			<absorb chance="100" min_level="13" max_level="14" type="PARTY_ALL"/>
+			<absorb chance="50" min_level="15" max_level="15" type="PARTY_RANDOM"/>
+			<absorb chance="10" min_level="16" max_level="16" type="PARTY_ONE"/>
+			<absorb chance="15" min_level="17" max_level="17" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="29048" name="Evil Spirit" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+		</ai_params>
+	</npc>
+	<npc id="29049" name="Evil Spirit" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+		</ai_params>
+	</npc>
+	<npc id="29050" name="Breath of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+		</ai_params>
+	</npc>
+	<npc id="29051" name="Breath of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+		</ai_params>
+	</npc>
+	<npc id="29052" name=" " title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29053" name=" " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="29054" name="Venom" title="Triol's Leader">
+		<set name="ai_type" value="residences.castle.Venom"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="ParalizeOnAttack" value="8"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8203"/>
+			<!--Monster Only (Venom Sword)-->
+			<lhand item_id="8203"/>
+			<!--Monster Only (Venom Sword)-->
+		</equip>
+	</npc>
+	<npc id="29055" name="Teleportation Cubic" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.castle.VenomTeleportCubic"/>
+	</npc>
+	<npc id="29056" name="Ice Fairy Sirra" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="29057" name="Sirra's Page" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29058" name="Sirra's Beholder" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29059" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29060" name="Captain of the Ice Queen's Royal Guard" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="29061" name="Teleportation Cubic" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="29062" name="Andreas Van Halter" title="Seer of Pagan">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="8208"/>
+			<!--Monster Only (Heretic Private Staff)-->
+		</equip>
+		<minions>
+			<minion npc_id="29063" count="1"/>
+			<!--Andreas' Acolyte-->
+			<minion npc_id="29064" count="1"/>
+			<!--Andreas' Acolyte-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="29063" name="Andreas' Acolyte" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="29064" name="Andreas' Acolyte" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+			<lhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+		</equip>
+	</npc>
+	<npc id="29065" name="Sailren" title="Sealed Evil Power">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Boss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="20" min_level="11" max_level="12" type="PARTY_ONE"/>
+			<absorb chance="3" min_level="13" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="29066" name="Antharas" title="">
+		<set name="ai_type" value="Antharas"/>
+		<set name="type" value="Boss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="100" min_level="13" max_level="17" type="PARTY_ALL"/>
+			<absorb chance="50" min_level="18" max_level="18" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29067" name="Antharas" title="">
+		<set name="ai_type" value="Antharas"/>
+		<set name="type" value="Boss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="100" min_level="13" max_level="17" type="PARTY_ALL"/>
+			<absorb chance="50" min_level="18" max_level="18" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29068" name="Antharas" title="">
+		<set name="ai_type" value="Antharas"/>
+		<set name="type" value="Boss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+			<set name="isMadness" value="15"/>
+			<set name="canSeeInHide" value="true"/>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="100" min_level="13" max_level="17" type="PARTY_ALL"/>
+			<absorb chance="50" min_level="18" max_level="18" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="29069" name="Behemoth Dragon" title="">
+		<set name="ai_type" value="freya.AntharasMinion"/>
+		<set name="type" value="SpecialMinion"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="10000"/>
+		</ai_params>
+	</npc>
+	<npc id="29070" name="Dragon Bomber" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="10000"/>
+		</ai_params>
+	</npc>
+	<npc id="29071" name="Dragon Bomber" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="10000"/>
+		</ai_params>
+	</npc>
+	<npc id="29072" name="Dragon Bomber" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="10000"/>
+		</ai_params>
+	</npc>
+	<npc id="29073" name="Dragon Bomber" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="10000"/>
+		</ai_params>
+	</npc>
+	<npc id="29074" name="Dragon Bomber" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="10000"/>
+		</ai_params>
+	</npc>
+	<npc id="29075" name="Dragon Bomber" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="10000"/>
+		</ai_params>
+	</npc>
+	<npc id="29076" name="Dragon Bomber" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="10000"/>
+		</ai_params>
+	</npc>
+	<npc id="29077" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29078" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29079" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29080" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29081" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29082" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29083" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29084" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29085" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29086" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29087" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29088" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29089" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29090" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29091" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29092" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29093" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29094" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="29095" name="Gordon" title="Knight of Destruction">
+		<set name="ai_type" value="Gordon"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="30000"/>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="29096" name="Anais" title="Lord of Splendor">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="8214"/>
+			<!--Monster Only (Solina Priest Pole)-->
+		</equip>
+		<minions>
+			<minion npc_id="29097" count="1"/>
+			<!--Disciple of Splendor -->
+			<minion npc_id="29098" count="3"/>
+			<!--Splendor Worshiper-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="29097" name="Splendor Disciple" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="8221"/>
+			<!--Monster Only (Grail Apostle Spear)-->
+		</equip>
+	</npc>
+	<npc id="29098" name="Splendor Worshiper" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="29099" name="Baylor" title="Warden">
+		<set name="ai_type" value="Baylor"/>
+		<set name="type" value="Boss"/>
+		<ai_params>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="100" cursed_chance="50" min_level="14" max_level="14" type="PARTY_ALL"/>
+			<absorb chance="5" min_level="13" max_level="17" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+</list>

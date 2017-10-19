@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="12621" name="Wyvern" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+  <!--Red Soul Crystal: Stage 13-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="5908" count="1" />
+</item>
+
+<!--Red Soul Crystal - Stage 14-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9570" count="1" />
+</item>
+
+<!--Red Soul Crystal - Stage 15-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="10480" count="1" />
+</item>
+
+<!--Red Soul Crystal - Stage 16-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="13071" count="1" />
+</item>
+
+<!--Green Soul Crystal: Stage 13-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="5911" count="1" />
+</item>
+
+<!--Green Soul Crystal - Stage 14-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9572" count="1" />
+</item>
+
+<!--Green Soul Crystal - Stage 15-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="10482" count="1" />
+</item>
+
+<!--Green Soul Crystal - Stage 16-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="13073" count="1" />
+</item>
+
+<!--Blue Soul Crystal: Stage 13-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="5914" count="1" />
+</item>
+
+<!--Blue Soul Crystal - Stage 14-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9571" count="1" />
+</item>
+
+<!--Blue Soul Crystal - Stage 15-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="10481" count="1" />
+</item>
+
+<!--Blue Soul Crystal - Stage 16-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="13072" count="1" />
+</item>
+
+</list>

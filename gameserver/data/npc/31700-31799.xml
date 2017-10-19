@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="31700" name="Saint's Follower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="61"/>
+			<!--Mithril Plate Gloves-->
+		</equip>
+	</npc>
+	<npc id="31701" name="Saint's Follower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31702" name="Saint's Follower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31703" name="Saint's Follower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31704" name="Saint's Follower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31705" name="Daimon the White-Eyed" title="">
+		<set name="ai_type" value="DaimonTheWhiteEyed"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31706" name="Miki the Cat" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31707" name="Ketra Van Grunt" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+	</npc>
+	<npc id="31708" name="Ketra Van Shaman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="92"/>
+			<!--Sprite's Staff-->
+		</equip>
+	</npc>
+	<npc id="31709" name="Ketra Van Captain " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="31710" name="Ketra Van Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="31711" name="Ketra Van Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="31712" name="Varka Raider" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="31713" name="Preacher of Doom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31714" name="Preacher of Doom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31715" name="Preacher of Doom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31716" name="Preacher of Doom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31717" name="Preacher of Doom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31718" name="Preacher of Doom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31719" name="Preacher of Doom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31720" name="Preacher of Doom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31721" name="Orator of Revelations" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31722" name="Orator of Revelations" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+		<equip>
+			<rhand item_id="3"/>
+			<!--Broadsword-->
+		</equip>
+	</npc>
+	<npc id="31723" name="Orator of Revelations" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+		<equip>
+			<rhand item_id="5"/>
+			<!--Mace-->
+		</equip>
+	</npc>
+	<npc id="31724" name="Orator of Revelations" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31725" name="Orator of Revelations" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31726" name="Orator of Revelations" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31727" name="Orator of Revelations" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31728" name="Orator of Revelations" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31729" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="156"/>
+			<!--Hand Axe-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="31730" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="130"/>
+			<!--Elven Sword-->
+		</equip>
+	</npc>
+	<npc id="31731" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="224"/>
+			<!--Maingauche-->
+		</equip>
+	</npc>
+	<npc id="31732" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+	</npc>
+	<npc id="31733" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+	</npc>
+	<npc id="31734" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+			<lhand item_id="102"/>
+			<!--Round Shield-->
+		</equip>
+	</npc>
+	<npc id="31735" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="231"/>
+			<!--Grace Dagger-->
+		</equip>
+	</npc>
+	<npc id="31736" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="151"/>
+			<!--Sword of Miracles-->
+		</equip>
+	</npc>
+	<npc id="31737" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="31738" name="Adventurer Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="31739" name="Talien" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="4202"/>
+			<!--Chrono Cithara-->
+		</equip>
+	</npc>
+	<npc id="31740" name="Caradine" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="285"/>
+			<!--Noble Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="31741" name="Ossian" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+			<lhand item_id="102"/>
+			<!--Round Shield-->
+		</equip>
+	</npc>
+	<npc id="31742" name="Virgil" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31743" name="Kassandra" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31744" name="Ogmar" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31745" name="Lady of the Lake" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31746" name="Fallen Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31747" name="Pure White Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31748" name="Cornerstone of Restraining" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31750" name="Mysterious Woman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31751" name="Mysterious Dark Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="31752" name="Corpse of Angel" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="31755" name="Halaster" title="Grand Magister">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="VillageMaster"/>
+	</npc>
+	<npc id="31756" name="Mr. Cat" title="Test Server Helper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31757" name="Miss Queen" title="Test Server Helper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31758" name="Rafi" title="">
+		<set name="ai_type" value="RndWalkAndAnim"/>
+		<set name="type" value="NpcNotSay"/>
+	</npc>
+	<npc id="31759" name="Teleportation Cubic" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31760" name="Miss Queen" title="Adventurers' Guide">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31761" name="Miss Queen" title="Adventurers' Guide">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31762" name="Miss Queen" title="Adventurers' Guide">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31763" name="Miss Queen" title="Adventurers' Guide">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31764" name="Miss Queen" title="Adventurers' Guide">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31765" name="Miss Queen" title="Adventurers' Guide">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31766" name="Miss Queen" title="Adventurers' Guide">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31767" name="Event Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+		<teleportlist>
+			<sublist id="1">
+				<target loc="165054 -47861 -3560" item_id="57" price="660" name="1010568"/>
+				<target loc="181322 -49933 -3526" item_id="57" price="1200" name="1010605"/>
+				<target loc="132997 -60608 -2960" item_id="57" price="570" name="1010549"/>
+				<target loc="106349 -61870 -2904" item_id="57" price="1500" name="1010550"/>
+				<target loc="125740 -40864 -3726" item_id="57" price="1200" name="1010491"/>
+				<target loc="146990 -67128 -3640" item_id="57" price="570" name="1010492"/>
+				<target loc="144880 -113468 -2560" item_id="57" price="2700" name="1010609"/>
+				<target loc="144337 -102384 -3512" item_id="57" price="2200" name="1010610"/>
+			</sublist>
+		</teleportlist>
+	</npc>
+	<npc id="31768" name="Event Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+		<teleportlist>
+			<sublist id="1">
+				<target loc="43805 -88010 -2752" item_id="57" price="1400" name="1010537"/>
+				<target loc="65307 -71445 -3696" item_id="57" price="1100" name="1010600"/>
+				<target loc="84092 -80084 -3504" item_id="57" price="1800" name="1010601"/>
+				<target loc="52107 -54328 -3152" item_id="57" price="380" name="1010592"/>
+				<target loc="54425 -41692 -3072" item_id="57" price="430" name="1010593"/>
+				<target loc="69340 -50203 -3288" item_id="57" price="920" name="1010565"/>
+				<target loc="59720 -42555 -3000" item_id="57" price="720" name="1010539"/>
+			</sublist>
+		</teleportlist>
+	</npc>
+	<npc id="31769" name="Monument of Heroes" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="OlympiadManager"/>
+	</npc>
+	<npc id="31770" name="Monument of Heroes" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="OlympiadManager"/>
+	</npc>
+	<npc id="31771" name="Monument of Heroes" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="OlympiadManager"/>
+	</npc>
+	<npc id="31772" name="Monument of Heroes" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="OlympiadManager"/>
+	</npc>
+	<npc id="31773" name="Sonin" title="Warehouse Keeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Warehouse"/>
+	</npc>
+	<npc id="31774" name="Beryl the Cat" title="Event Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31775" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+			<lhand item_id="102"/>
+			<!--Round Shield-->
+		</equip>
+	</npc>
+	<npc id="31776" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="156"/>
+			<!--Hand Axe-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="31777" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="224"/>
+			<!--Maingauche-->
+		</equip>
+	</npc>
+	<npc id="31778" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="151"/>
+			<!--Sword of Miracles-->
+		</equip>
+	</npc>
+	<npc id="31779" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="151"/>
+			<!--Sword of Miracles-->
+		</equip>
+	</npc>
+	<npc id="31780" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="130"/>
+			<!--Elven Sword-->
+		</equip>
+	</npc>
+	<npc id="31781" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="231"/>
+			<!--Grace Dagger-->
+		</equip>
+	</npc>
+	<npc id="31782" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+	</npc>
+	<npc id="31783" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="31784" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+	</npc>
+	<npc id="31785" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="31786" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="31787" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+			<lhand item_id="102"/>
+			<!--Round Shield-->
+		</equip>
+	</npc>
+	<npc id="31788" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+	</npc>
+	<npc id="31789" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="31790" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="231"/>
+			<!--Grace Dagger-->
+		</equip>
+	</npc>
+	<npc id="31791" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="151"/>
+			<!--Sword of Miracles-->
+		</equip>
+	</npc>
+	<npc id="31792" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="130"/>
+			<!--Elven Sword-->
+		</equip>
+	</npc>
+	<npc id="31793" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="224"/>
+			<!--Maingauche-->
+		</equip>
+	</npc>
+	<npc id="31794" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="231"/>
+			<!--Grace Dagger-->
+		</equip>
+	</npc>
+	<npc id="31795" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+	</npc>
+	<npc id="31796" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+	</npc>
+	<npc id="31797" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="31798" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+			<lhand item_id="102"/>
+			<!--Round Shield-->
+		</equip>
+	</npc>
+	<npc id="31799" name="Adventure Guildsman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Adventurer"/>
+	</npc>
+</list>

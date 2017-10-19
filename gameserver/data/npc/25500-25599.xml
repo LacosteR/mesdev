@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="25500" name="Alligator of Istary" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25501" name="Boss Akata" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="8528"/>
+			<!--For Monsters Only (Doom Hammer)-->
+		</equip>
+		<minions>
+			<minion npc_id="25502" count="3"/>
+			<!--Akata's Thug-->
+			<minion npc_id="25503" count="2"/>
+			<!--Akata's Lackey-->
+		</minions>
+	</npc>
+	<npc id="25502" name="Akata's Thug" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="8527"/>
+			<!--For Monsters Only (Reinforced Bow)-->
+		</equip>
+	</npc>
+	<npc id="25503" name="Akata's Lackey" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="8529"/>
+			<!--For Monsters Only (Knife)-->
+		</equip>
+	</npc>
+	<npc id="25504" name="Nellis' Vengeful Spirit" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="8532"/>
+			<!--For Monsters Only (Spinebone Sword)-->
+		</equip>
+		<minions>
+			<minion npc_id="25505" count="3"/>
+			<!--Nellis' Follower-->
+		</minions>
+	</npc>
+	<npc id="25505" name="Nellis' Follower" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25506" name="Rayito the Looter" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="67"/>
+			<!--Orcish Sword-->
+			<lhand item_id="633"/>
+			<!--Zubei's Shield-->
+		</equip>
+		<minions>
+			<minion npc_id="25507" count="1"/>
+			<!--Rayito's Henchman-->
+			<minion npc_id="25508" count="3"/>
+			<!--Rayito's Henchman-->
+		</minions>
+	</npc>
+	<npc id="25507" name="Rayito's Henchman" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+			<lhand item_id="19"/>
+			<!--Small Shield-->
+		</equip>
+	</npc>
+	<npc id="25508" name="Rayito's Henchman" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+			<lhand item_id="102"/>
+			<!--Round Shield-->
+		</equip>
+	</npc>
+	<npc id="25509" name="Dark Shaman Varangka " title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+		<minions>
+			<minion npc_id="25510" count="1"/>
+			<!--Varangka's Descendant-->
+			<minion npc_id="25511" count="3"/>
+			<!--Varangka's Page-->
+		</minions>
+	</npc>
+	<npc id="25510" name="Varangka's Descendant" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="25511" name="Varangka's Page" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="179"/>
+			<!--Mace of Prayer-->
+		</equip>
+	</npc>
+	<npc id="25512" name="Gigantic Chaos Golem" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25514" name="Queen Shyeed" title="Raid Boss">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25515" count="4"/>
+			<!--Spiked Stakato  -->
+			<minion npc_id="25516" count="2"/>
+			<!--Spiked Stakato  -->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="16" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25515" name="Spiked Stakato  " title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+		</equip>
+	</npc>
+	<npc id="25516" name="Spiked Stakato  " title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25523" name="Plague Golem" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="SelfAggressive" value="100"/>
+			<set name="isMadness" value="15"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25524" name="Flamestone Giant" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25525" count="2"/>
+			<!--Flame Spirit-->
+			<minion npc_id="25526" count="2"/>
+			<!--Charged Spirit-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25525" name="Flame Spirit" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25526" name="Charged Spirit" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25527" name="Uruka" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25528" name="Tiberias" title="Prime Inspector">
+		<set name="ai_type" value="Tiberias"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="9646"/>
+			<!--For NPC (Rapier)-->
+		</equip>
+	</npc>
+	<npc id="25529" name="Garden Guard" title="Vice Inspector">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25530" name="Garden Guard" title="Vice Inspector">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25531" name="Darnel" title="Torture Maiden">
+		<set name="ai_type" value="isle_of_prayer.Darnel"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="1000"/>
+		</ai_params>
+		<minions>
+			<minion npc_id="22302" count="1"/>
+			<!--Darnels's Guardian-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="16" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25532" name="Kechi" title="Fire">
+		<set name="ai_type" value="isle_of_prayer.Kechi"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="1000"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="16" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25533" name="Kechi's Henchman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25534" name="Tears" title="Ice">
+		<set name="ai_type" value="isle_of_prayer.Tears"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="1000"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9638"/>
+			<!--Tears r1-->
+			<lhand item_id="9638"/>
+			<!--Tears r1-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="16" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25535" template_id="25535" name="Tears" title="Ice">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="9638"/>
+			<!--Tears r1-->
+			<lhand item_id="9638"/>
+			<!--Tears r1-->
+		</equip>
+	</npc>
+	<npc id="25536" name="Hannibal" title="Raid Boss">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<minions>
+			<minion npc_id="25537" count="1"/>
+			<!--Enmity-->
+			<minion npc_id="25538" count="1"/>
+			<!--Vengeance-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25537" name="Enmity" title="Raid Fighter">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25538" name="Vengeance" title="Raid Fighter">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25539" name="Typhoon" title="Raid Boss">
+		<set name="ai_type" value="hellbound.Typhoon"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="SelfAggressive" value="100"/>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25540" name="Demon Prince" title="Raid Boss">
+		<set name="ai_type" value="hellbound.DemonPrince"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25541" count="6"/>
+			<!--Fiend-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25541" name="Fiend" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25542" name="Ranku" title="Raid Boss">
+		<set name="ai_type" value="hellbound.Ranku"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25543" name="Eidolon" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25544" name="Tully" title="Steel Citadel">
+		<set name="ai_type" value="hellbound.Tully"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25545" count="3"/>
+			<!--Tully's Banshee-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25545" name="Tully's Banshee" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25546" name="Rhianna the Traitor" title="Forsaken Prisoner">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3939"/>
+			<!--Lady's Fan-->
+		</equip>
+		<minions>
+			<minion npc_id="25547" count="1"/>
+			<!--Rhianna's Escort-->
+			<minion npc_id="25548" count="1"/>
+			<!--Rhianna's Healer-->
+		</minions>
+	</npc>
+	<npc id="25547" name="Rhianna's Escort" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25548" name="Rhianna's Healer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25549" name="Tesla the Deceiver" title="Forsaken Prisoner">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+		<minions>
+			<minion npc_id="25550" count="1"/>
+			<!--Tesla's Apprentice-->
+			<minion npc_id="25551" count="1"/>
+			<!--Tesla's Herald-->
+		</minions>
+	</npc>
+	<npc id="25550" name="Tesla's Apprentice" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="25551" name="Tesla's Herald" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="25552" name="Soul Hunter Chakundel" title="Forsaken Prisoner">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25553" name="Durango the Crusher" title="Forsaken Prisoner">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25554" name="Brutus the Obstinate" title="Forsaken Prisoner">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="25555" count="1"/>
+			<!--Brutus' Right Hand-->
+			<minion npc_id="25556" count="1"/>
+			<!--Brutus' Left Hand-->
+		</minions>
+	</npc>
+	<npc id="25555" name="Brutus' Right Hand" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="25556" name="Brutus' Left Hand" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="25557" name="Ranger Karankawa" title="Forsaken Prisoner">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="25558" count="1"/>
+			<!--Karankawa's Root-->
+			<minion npc_id="25559" count="1"/>
+			<!--Karankawa's Blossom-->
+		</minions>
+	</npc>
+	<npc id="25558" name="Karankawa's Root" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25559" name="Karankawa's Blossom" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25560" name="Sargon the Mad" title="Forsaken Prisoner">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+		<minions>
+			<minion npc_id="25561" count="1"/>
+			<!--Sargon's Attendant-->
+			<minion npc_id="25562" count="1"/>
+			<!--Sargon's Squire-->
+		</minions>
+	</npc>
+	<npc id="25561" name="Sargon Attendant" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="200"/>
+			<!--Sage's Staff-->
+		</equip>
+	</npc>
+	<npc id="25562" name="Sargon's Squire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="228"/>
+			<!--Crystal Dagger-->
+		</equip>
+	</npc>
+	<npc id="25563" name="Beautiful Atrielle" title="Forsaken Prisoner">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="25564" count="1"/>
+			<!--Atrielle's Follower-->
+			<minion npc_id="25565" count="1"/>
+			<!--Atrielle's Minion-->
+		</minions>
+	</npc>
+	<npc id="25564" name="Atrielle's Follower" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25565" name="Atrielle's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25566" name="Nagen the Tomboy" title="Forsaken Prisoner">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="25567" count="1"/>
+			<!--Nagen's Cohort-->
+			<minion npc_id="25568" count="1"/>
+			<!--Nagen's Friend-->
+		</minions>
+	</npc>
+	<npc id="25567" name="Nagen's Cohort" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25568" name="Nagen's Friend" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25569" name="Jax the Destroyer" title="Forsaken Prisoner">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+		<minions>
+			<minion npc_id="25570" count="1"/>
+			<!--Jax's Vanguard-->
+			<minion npc_id="25571" count="1"/>
+			<!--Jax's Raider-->
+		</minions>
+	</npc>
+	<npc id="25570" name="Jax's Vanguard" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="279"/>
+			<!--Reinforced Long Bow-->
+		</equip>
+	</npc>
+	<npc id="25571" name="Jax's Raider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="68"/>
+			<!--Falchion-->
+		</equip>
+	</npc>
+	<npc id="25572" name="Hager the Outlaw" title="Forsaken Inmate">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="201"/>
+			<!--Club of Nature-->
+		</equip>
+		<minions>
+			<minion npc_id="25573" count="1"/>
+			<!--Hager's Henchman-->
+			<minion npc_id="25574" count="1"/>
+			<!--Hager's Bodyguard-->
+		</minions>
+	</npc>
+	<npc id="25573" name="Hager's Henchman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="9"/>
+			<!--Cedar Staff-->
+		</equip>
+	</npc>
+	<npc id="25574" name="Hager's Bodyguard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="25575" name="All-Seeing Rango" title="Forsaken Inmate">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="25576" count="1"/>
+			<!--Rango's Iris-->
+			<minion npc_id="25577" count="1"/>
+			<!--Rango's Lens-->
+		</minions>
+	</npc>
+	<npc id="25576" name="Rango's Iris" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25577" name="Rango's Lens" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25578" name="Jakard" title="Forsaken Inmate">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25579" name="Helsing" title="Forsaken Inmate">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="25580" count="1"/>
+			<!--Helsing's Guard-->
+			<minion npc_id="25581" count="1"/>
+			<!--Helsing's Assassin-->
+		</minions>
+	</npc>
+	<npc id="25580" name="Helsing's Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="25581" name="Helsing's Assassin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="229"/>
+			<!--Kris-->
+		</equip>
+	</npc>
+	<npc id="25582" name="Gillien" title="Forsaken Inmate">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6723"/>
+			<!--Monster Only(Vampire Warrior)-->
+		</equip>
+		<minions>
+			<minion npc_id="25583" count="1"/>
+			<!--Gillien's Daughter-->
+			<minion npc_id="25584" count="1"/>
+			<!--Gillien's Attendant-->
+		</minions>
+	</npc>
+	<npc id="25583" name="Gillien's Daughter" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="25584" name="Gillien's Attendant" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="25585" name="Medici" title="Forsaken Inmate">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="25586" count="1"/>
+			<!--Medici's Sister-->
+			<minion npc_id="25587" count="1"/>
+			<!--Medici's Brother-->
+		</minions>
+	</npc>
+	<npc id="25586" name="Medici's Sister" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25587" name="Medici's Brother" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="229"/>
+			<!--Kris-->
+		</equip>
+	</npc>
+	<npc id="25588" name="Immortal Muus" title="Forsaken Inmate">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="25589" name="Brand the Exile" title="Forsaken Inmate">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5131"/>
+			<!--Parhit Staff-->
+		</equip>
+		<minions>
+			<minion npc_id="25590" count="1"/>
+			<!--Brand's Chamberlain-->
+			<minion npc_id="25591" count="1"/>
+			<!--Brand's Servant-->
+		</minions>
+	</npc>
+	<npc id="25590" name="Brand's Chamberlain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="162"/>
+			<!--War Axe-->
+		</equip>
+	</npc>
+	<npc id="25591" name="Brand's Servant" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="200"/>
+			<!--Sage's Staff-->
+		</equip>
+	</npc>
+	<npc id="25592" name="Commander Koenig" title="Forsaken Inmate">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25593" name="Gerg the Hunter" title="Forsaken Inmate">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="25594" count="1"/>
+			<!--Gerg's Follower-->
+			<minion npc_id="25595" count="1"/>
+			<!--Gerg's Henchman-->
+		</minions>
+	</npc>
+	<npc id="25594" name="Gerg's Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2507"/>
+			<!--Lizardspear-->
+		</equip>
+	</npc>
+	<npc id="25595" name="Gerg's Henchman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="25596" name="Ocular Servitor" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25597" name="Heurel" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25598" name="Gegei" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25599" name="Iglas" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+</list>

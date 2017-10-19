@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="35100" name="Sayres" title="Chamberlain">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.castle.Chamberlain"/>
+	</npc>
+	<npc id="35101" name="Grad" title="Wyvern Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="WyvernManager"/>
+	</npc>
+	<npc id="35102" name="Greenspan" title="Mercenary Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="MercManager"/>
+	</npc>
+	<npc id="35103" name="Manor Manager" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="ManorManager"/>
+	</npc>
+	<npc id="35104" name="Tyron" title="Sir">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.castle.CastleMessenger"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="35105" name="Dion Holy Artifact" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Artefact"/>
+	</npc>
+	<npc id="35106" name="Duke Byron Ashton" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="35107" name="Ivano" title="Sir">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="35108" name="Royal Knight" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="35109" name="Court Sorcerer" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35110" name="Court Sorcerer" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="35111" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="35112" name="Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35113" name="Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2499"/>
+			<!--Elven Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35114" name="Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="276"/>
+			<!--Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="35115" name="Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35116" name="Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35117" name="Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35118" name="Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35119" name="Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35120" name="Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35121" name="Royal Knight" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="35122" name="Court Sorcerer" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35123" name="Court Sorcerer" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="35124" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="35125" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="93"/>
+			<!--Winged Spear-->
+		</equip>
+	</npc>
+	<npc id="35126" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2499"/>
+			<!--Elven Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35127" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="276"/>
+			<!--Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="35128" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35129" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35130" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35131" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35132" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35133" name="Court Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35134" name="Gatekeeper" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35135" name="Gatekeeper" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35136" name="Gatekeeper" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35137" name="Mass Gatekeeper" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.castle.CastleMassTeleporter"/>
+		<ai_params>
+			<set name="teleport_loc" value="22070 160524 -2669"/>
+		</ai_params>
+	</npc>
+	<npc id="35138" name="Outer Doorman" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.castle.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/castle/gludio_outter_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/castle/gludio_outter_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/castle/gludio_outter_doorman003.htm"/>
+			<set name="territory_id" value="82"/>
+			<set name="tele_loc0" value="22314 156430 -2960"/>
+			<set name="tele_loc1" value="22307 156901 -2960"/>
+			<set name="doors" value="20220001;20220002"/>
+		</ai_params>
+	</npc>
+	<npc id="35139" name="Inner Doorman" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.castle.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/castle/gludio_inner_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/castle/gludio_inner_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/castle/gludio_inner_doorman003.htm"/>
+			<set name="territory_id" value="82"/>
+			<set name="tele_loc0" value="22071 159049 -2720"/>
+			<set name="tele_loc1" value="22077 159515 -2704"/>
+			<set name="doors" value="20220005;20220006"/>
+		</ai_params>
+	</npc>
+	<npc id="35140" name="Blacksmith" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.castle.Blacksmith"/>
+		<equip>
+			<rhand item_id="89"/>
+			<!--Big Hammer-->
+		</equip>
+	</npc>
+	<npc id="35141" name="Warehouse Keeper" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.castle.Warehouse"/>
+	</npc>
+	<npc id="35142" name="Crosby" title="Chamberlain">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.castle.Chamberlain"/>
+	</npc>
+	<npc id="35143" name="Hodler" title="Wyvern Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="WyvernManager"/>
+	</npc>
+	<npc id="35144" name="Mercenary Manager Sanford" title="Mercenary Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="MercManager"/>
+	</npc>
+	<npc id="35145" name="Manor Manager" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="ManorManager"/>
+	</npc>
+	<npc id="35146" name="Gibbson" title="Herald">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.castle.CastleMessenger"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="35147" name="Giran Holy Artifact" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Artefact"/>
+	</npc>
+	<npc id="35148" name="Baron Carmon Esthus" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="35149" name="Ulric" title="Sir">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="35150" name="Royal Knight" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="35151" name="Court Sorcerer" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35152" name="Court Sorcerer" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="35153" name="Court Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="35154" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35155" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2499"/>
+			<!--Elven Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35156" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="276"/>
+			<!--Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="35157" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35158" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35159" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35160" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35161" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35162" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35163" name="Royal Knight" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="35164" name="Court Sorcerer" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35165" name="Court Sorcerer" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="35166" name="Court Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="35167" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="93"/>
+			<!--Winged Spear-->
+		</equip>
+	</npc>
+	<npc id="35168" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2499"/>
+			<!--Elven Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35169" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="276"/>
+			<!--Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="35170" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35171" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35172" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35173" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35174" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35175" name="Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35176" name="Gatekeeper" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35177" name="Gatekeeper" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35178" name="Gatekeeper" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35179" name="Mass Gatekeeper" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.castle.CastleMassTeleporter"/>
+		<ai_params>
+			<set name="teleport_loc" value="116629 145055 -2544"/>
+		</ai_params>
+	</npc>
+	<npc id="35180" name="Outer Doorman" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.castle.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/castle/gludio_outter_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/castle/gludio_outter_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/castle/gludio_outter_doorman003.htm"/>
+			<set name="territory_id" value="83"/>
+			<set name="tele_loc0" value="112613 144856 -2832"/>
+			<set name="tele_loc1" value="113105 144850 -2832"/>
+			<set name="doors" value="23220001;23220002"/>
+		</ai_params>
+	</npc>
+	<npc id="35181" name="Inner Doorman" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.castle.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/castle/gludio_inner_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/castle/gludio_inner_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/castle/gludio_inner_doorman003.htm"/>
+			<set name="territory_id" value="83"/>
+			<set name="tele_loc0" value="115234 145096 -2592"/>
+			<set name="tele_loc1" value="115660 145091 -2576"/>
+			<set name="doors" value="23220005;23220006"/>
+		</ai_params>
+	</npc>
+	<npc id="35182" name="Blacksmith" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.castle.Blacksmith"/>
+		<equip>
+			<rhand item_id="89"/>
+			<!--Big Hammer-->
+		</equip>
+	</npc>
+	<npc id="35183" name="Warehouse Keeper" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.castle.Warehouse"/>
+	</npc>
+	<npc id="35184" name="Saul" title="Chamberlain">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.castle.Chamberlain"/>
+	</npc>
+	<npc id="35185" name="Bryce" title="Wyvern Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="WyvernManager"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35186" name="Arvid" title="Mercenary Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="MercManager"/>
+	</npc>
+	<npc id="35187" name="Manor Manager" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="ManorManager"/>
+	</npc>
+	<npc id="35188" name="Holmes" title="Sir">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.castle.CastleMessenger"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="35189" name="Oren Holy Artifact" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Artefact"/>
+	</npc>
+	<npc id="35190" name="Balthus Van Dyke" title="Duke">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="35191" name="Quant" title="Sir">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="35192" name="Royal Knight" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="35193" name="Court Sorcerer" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35194" name="Court Sorcerer" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="35195" name="Court Guard" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="35196" name="Guard" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35197" name="Guard" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2499"/>
+			<!--Elven Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35198" name="Guard" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="276"/>
+			<!--Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="35199" name="Guard" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+</list>

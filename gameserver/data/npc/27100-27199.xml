@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="27100" name="Skeletal Mercenary" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+		</equip>
+	</npc>
+	<npc id="27101" name="Drevanul Prince Zeruel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27102" name="Pako The Cat" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27103" name="Unicorn Racer" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27104" name="Shadow Turen" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27105" name="Mimi The Cat" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27106" name="Unicorn Phantasm" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27107" name="Silhouette Tilfo" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27108" name="Stenoa Gorgon Queen" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="27109" name="Handmaiden Of Stenoa" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27110" name="Shyslassys" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27111" name="Cave Basilisk" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27112" name="Gorr" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27113" name="Baraham" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27114" name="Succubus Queen" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="27115" count="3"/>
+			<!--Claw Of Succubus-->
+		</minions>
+	</npc>
+	<npc id="27115" name="Claw Of Succubus" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="27116" name="Lava Salamander" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27117" name="Nahir" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27118" name="Black Willow" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27119" name="Spirit of Sir Herod" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+		</equip>
+	</npc>
+	<npc id="27120" name="Luell Of Zephyr Winds" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27121" name="Actea Of Verdant Wilds" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27122" name="Leto Lizardman Agent" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="1"/>
+			<!--Short Sword-->
+		</equip>
+	</npc>
+	<npc id="27123" name="Leto Lizardman Leader" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+		</equip>
+	</npc>
+	<npc id="27124" name="Leto Lizardman Assassin" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="217"/>
+			<!--Shining Knife-->
+		</equip>
+	</npc>
+	<npc id="27125" name="Leto Lizardman Sniper" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="27126" name="Leto Lizardman Wizard" title="Quest Monster">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="27127" name="Leto Lizardman Lord" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+		</equip>
+	</npc>
+	<npc id="27128" name="Aruraune" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27129" name="Ol Mahum Inspector" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="27130" name="Ol Mahum Betrayer" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="12"/>
+			<!--Knife-->
+		</equip>
+	</npc>
+	<npc id="27131" name="Crimson Werewolf" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27132" name="Krudel Lizardman" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27133" name="Evil Eye Lord" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27134" name="Tatoma" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+		</equip>
+	</npc>
+	<npc id="27135" name="Grima" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27136" name="Succubus Of Seduction" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27137" name="Demon King" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27138" name="Great Demon King" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="27139" name="Secret Keeper Tree" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27140" name="Breka Overlord Haka" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+		</equip>
+	</npc>
+	<npc id="27141" name="Breka Overlord Jaka" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+		</equip>
+	</npc>
+	<npc id="27142" name="Breka Overlord Marka" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+		</equip>
+	</npc>
+	<npc id="27143" name="Windsus Aleph" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27144" name="Tarlk Raider Athu" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+		</equip>
+	</npc>
+	<npc id="27145" name="Tarlk Raider Lanka" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+		</equip>
+	</npc>
+	<npc id="27146" name="Tarlk Raider Triska" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+		</equip>
+	</npc>
+	<npc id="27147" name="Tarlk Raider Motura" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+		</equip>
+	</npc>
+	<npc id="27148" name="Tarlk Raider Kalath" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+		</equip>
+	</npc>
+	<npc id="27149" name="Gremlin Filcher" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27150" name="Black Legion Stormtrooper" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="217"/>
+			<!--Shining Knife-->
+		</equip>
+	</npc>
+	<npc id="27151" name="Delu Lizardman Headhunter" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2507"/>
+			<!--Lizardspear-->
+		</equip>
+	</npc>
+	<npc id="27152" name="Marsh Stakato Marquess" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27153" name="Alexandro Sanches " title="Dark Lord">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27154" name="Bonaparterius" title="Abyss King">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="4"/>
+			<!--Club-->
+		</equip>
+	</npc>
+	<npc id="27155" name="Ramsebalius" title="Evil Overlord">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="27156" name="Leto Shaman Ketz" title="Quest Monster">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="159"/>
+			<!--Bonebreaker-->
+		</equip>
+	</npc>
+	<npc id="27157" name="Leto Chief Narak" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+	</npc>
+	<npc id="27158" name="Timak Raider Kaikee" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+		</equip>
+	</npc>
+	<npc id="27159" name="Timak Overlord Okun" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="27160" name="Gok Magok" title="Grandis Chief">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27161" name="Taik Overlord Kakran" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+		</equip>
+	</npc>
+	<npc id="27162" name="Hatar Chieftain Kubel" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27163" name="Vanor Elder Kerunos" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="179"/>
+			<!--Mace of Prayer-->
+		</equip>
+	</npc>
+	<npc id="27164" name="Karul Chief Orooto" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+		</equip>
+	</npc>
+	<npc id="27165" name="Abyssal Jewel 1" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27166" name="Abyssal Jewel 2" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27167" name="Abyssal Jewel 3" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27168" name="Jewel Guardian Mara" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27169" name="Jewel Guardian Musfel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27170" name="Jewel Guardian Pyton" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="27171" name="Sacrifice Of The Sacrificed" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27172" name="Harit Lizardman Zealot" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="27173" name="Box Of Athrea 1" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27174" name="Box Of Athrea 2" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27175" name="Box Of Athrea 3" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27176" name="Box Of Athrea 4" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27177" name="Box Of Athrea 5" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27178" name="Blitz Wyrm" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27179" name="Grave Keymaster" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27180" name="Imperial Slave" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27181" name="Imperial Gravekeeper" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+		<minions>
+			<minion npc_id="27180" count="4"/>
+			<!--Imperial Slave-->
+		</minions>
+	</npc>
+	<npc id="27182" name="Ark Guardian Elberoth" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6370"/>
+			<!--Saint Spear-->
+		</equip>
+	</npc>
+	<npc id="27183" name="Ark Guardian Shadowfang" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="288"/>
+			<!--Carnage Bow-->
+		</equip>
+	</npc>
+	<npc id="27184" name="Angel Killer" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="130"/>
+			<!--Elven Sword-->
+		</equip>
+	</npc>
+	<npc id="27185" name="Fairy Tree of Wind" title="Quest Monster">
+		<set name="ai_type" value="Quest421FairyTree"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="27186" name="Fairy Tree of Star" title="Quest Monster">
+		<set name="ai_type" value="Quest421FairyTree"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="27187" name="Fairy Tree of Twilight" title="Quest Monster">
+		<set name="ai_type" value="Quest421FairyTree"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="27188" name="Fairy Tree of Abyss" title="Quest Monster">
+		<set name="ai_type" value="Quest421FairyTree"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="27189" name="Soul of Tree Guardian" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27190" name="Ol Mahum Support Troop" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+		</equip>
+	</npc>
+	<npc id="27191" name="Malcom" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27192" name="Succubus Handmaiden" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27193" name="Goblin Servant" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27194" name="Julie the Ripper" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5129"/>
+			<!--Doll Knife-->
+			<lhand item_id="5129"/>
+			<!--Doll Knife-->
+		</equip>
+	</npc>
+	<npc id="27195" name="Male Ant" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27196" name="Bluebacked Alligator" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27197" name="Bejewelled Alligator" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27199" name="Crimson Werewolf" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

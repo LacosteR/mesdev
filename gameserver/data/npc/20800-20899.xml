@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="20800" name="Eva's Seeker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20801" name="Theeder Piker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="302"/>
+			<!--Body Slasher-->
+		</equip>
+	</npc>
+	<npc id="20802" name="Theeder Mage" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="192"/>
+			<!--Crystal Staff-->
+		</equip>
+	</npc>
+	<npc id="20803" name="Doll Master" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20804" name="Crokian Lad" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5128"/>
+			<!--Crokian Blade-->
+		</equip>
+	</npc>
+	<npc id="20805" name="Dailaon Lad" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5127"/>
+			<!--Dailaon Knife-->
+		</equip>
+	</npc>
+	<npc id="20806" name="Crokian Lad Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5128"/>
+			<!--Crokian Blade-->
+		</equip>
+	</npc>
+	<npc id="20807" name="Farhite Lad" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5131"/>
+			<!--Parhit Staff-->
+		</equip>
+	</npc>
+	<npc id="20808" name="Nos Lad" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="128"/>
+			<!--Knight's Sword-->
+		</equip>
+	</npc>
+	<npc id="20809" name="Ghost of the Tower" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20810" name="Seer of Hallate" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20811" name="Ghastly Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20812" name="Archer of Despair" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="284"/>
+			<!--Dark Elven Long Bow-->
+		</equip>
+	</npc>
+	<npc id="20813" name="Crendion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20814" name="Blader of Despair" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+		<minions>
+			<minion npc_id="20812" count="2"/>
+			<!--Archer of Despair-->
+		</minions>
+	</npc>
+	<npc id="20815" name="Hound Dog of Hallate" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20816" name="Hallate's Royal Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+		<minions>
+			<minion npc_id="20815" count="3"/>
+			<!--Hound Dog of Hallate-->
+		</minions>
+	</npc>
+	<npc id="20817" name="Corrupt Sage" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="210"/>
+			<!--Staff of Evil Spirits-->
+		</equip>
+	</npc>
+	<npc id="20818" name="Hallate's Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="20819" name="Archer of Abyss" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20820" name="Hallate's Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="20821" name="Erin Ediunce" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3939"/>
+			<!--Lady's Fan-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20822" name="Hallate's Maid" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20823" name="Platinum Tribe Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="242"/>
+			<!--Soulfire Dirk-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20824" name="Hallate's Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+		<minions>
+			<minion npc_id="20820" count="1"/>
+			<!--Hallate's Knight-->
+			<minion npc_id="20822" count="1"/>
+			<!--Hallate's Maid-->
+			<minion npc_id="20818" count="1"/>
+			<!--Hallate's Warrior-->
+		</minions>
+	</npc>
+	<npc id="20825" name="Hallate's Inspector" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="21061" count="3"/>
+			<!--Hallate's Guardian-->
+		</minions>
+	</npc>
+	<npc id="20826" name="Platinum Tribe Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="288"/>
+			<!--Carnage Bow-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20827" name="Platinum Tribe Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20828" name="Platinum Tribe Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="202"/>
+			<!--Mace of Underworld-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20829" name="Platinum Tribe Overlord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="147"/>
+			<!--Tear of Darkness-->
+		</equip>
+		<minions>
+			<minion npc_id="20828" count="1"/>
+			<!--Platinum Tribe Shaman-->
+			<minion npc_id="20827" count="1"/>
+			<!--Platinum Tribe Warrior-->
+			<minion npc_id="20826" count="2"/>
+			<!--Platinum Tribe Archer-->
+			<minion npc_id="20823" count="1"/>
+			<!--Platinum Tribe Soldier-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20830" name="Guardian Angel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<ai_params>
+			<set name="transformOnDead" value="20859"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20831" name="Seal Angel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<ai_params>
+			<set name="transformOnDead" value="20860"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20832" name="Zaken's Pikeman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="292"/>
+			<!--Pike-->
+		</equip>
+	</npc>
+	<npc id="20833" name="Zaken's Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="279"/>
+			<!--Reinforced Long Bow-->
+		</equip>
+	</npc>
+	<npc id="20834" name="Mardian" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20835" name="Zaken's Seer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20836" name="Pirate Zombie" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="225"/>
+			<!--Mithril Dagger-->
+		</equip>
+	</npc>
+	<npc id="20837" name="Tainted Ogre" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="194"/>
+			<!--Heavy Doom Axe-->
+		</equip>
+	</npc>
+	<npc id="20838" name="Bloody Bat" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20839" name="Unpleasant Humming" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20840" name="Death Flyer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20841" name="Fiend Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20842" name="Musveren" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20843" name="Zaken's Royal Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="225"/>
+			<!--Mithril Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="20844" name="Kaim Vanul" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20845" name="Pirate's Zombie Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="232"/>
+			<!--Dark Elven Dagger-->
+		</equip>
+	</npc>
+	<npc id="20846" name="Doll Blader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5129"/>
+			<!--Doll Knife-->
+			<lhand item_id="5129"/>
+			<!--Doll Knife-->
+		</equip>
+	</npc>
+	<npc id="20847" name="Vale Master" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20848" name="Light Bringer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20849" name="Light Worm" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20850" name="Golden Stag Lord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20851" name="Theeder" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20852" name="Banshee" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3939"/>
+			<!--Lady's Fan-->
+		</equip>
+	</npc>
+	<npc id="20853" name="Kel Mahum" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="242"/>
+			<!--Soulfire Dirk-->
+		</equip>
+	</npc>
+	<npc id="20854" name="Kel Mahum Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="20855" name="Kel Mahum Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="288"/>
+			<!--Carnage Bow-->
+		</equip>
+	</npc>
+	<npc id="20856" name="Kel Mahum Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="202"/>
+			<!--Mace of Underworld-->
+		</equip>
+	</npc>
+	<npc id="20857" name="Kel Mahum Champion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="147"/>
+			<!--Tear of Darkness-->
+		</equip>
+	</npc>
+	<npc id="20858" name="Angel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20859" name="Guardian Angel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20860" name="Seal Angel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20861" name="Oel Mahum Champion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="20862" name="Death Lord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+</list>

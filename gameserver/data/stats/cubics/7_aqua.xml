@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<cubic id="7" level="1" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="282" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="1"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="2" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="377" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="2"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="3" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="497" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="3"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="4" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="644" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="4"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="5" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="820" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="5"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="6" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="1141" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="6"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="7" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="1394" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="7"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="8" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="1673" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="8"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="9" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="1975" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="9"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="101" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="2081" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="10"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="102" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="2133" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="11"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="103" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="2184" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="12"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="104" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="2234" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="13"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="105" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="2283" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="14"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="106" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="2331" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="15"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="107" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="2378" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="16"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+	<cubic id="7" level="108" slot="7">
+		<set name="duration" val="900" />
+		<set name="delay" val="30" />
+		<set name="max_count" val="10" />
+		<set name="use_up" val="0" />
+		<set name="power" val="2423" />
+		<set name="target_type" val="target" />
+		<op_cond>
+			<cond type="0"/>
+			<cond percent="33"/>
+			<cond constant="1000"/>
+		</op_cond>
+		<skill1>
+			<def personal_chance="100"/>
+			<def skill="4165"/>
+			<def skill_lv="17"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+		</skill2>
+		<skill3>
+		</skill3>
+	</cubic>
+</list>

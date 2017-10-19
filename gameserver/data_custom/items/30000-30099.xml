@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<etcitem id="30000" name="Theria">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="destroyable" value="false"/>
+		<set name="icon" value="icon.etc_manaks_gold_giant_i00"/>
+		<set name="price" value="0"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="30001" name="Enchant Scroll Blueprint">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="destroyable" value="false"/>
+		<set name="icon" value="icon.scroll_of_verification_i05"/>
+		<set name="price" value="0"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="30002" name="Premium Gift">
+		<set name="freightable" value="false"/>
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.event_six_party_box_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false" />
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<capsuled_items>
+			<capsuled_item id="30001" min_count="6" max_count="12" chance="10.0"/> <!-- Echant Scroll Blueprint -->
+			<capsuled_item id="14052" min_count="1" max_count="5" chance="10.0"/> <!-- Noble Stone -->
+			<capsuled_item id="5592" min_count="20" max_count="50" chance="50.0"/> <!-- Greater CP Potion -->
+			<capsuled_item id="21247" min_count="1" max_count="1" chance="5.0"/> <!-- Vitality Potion -->
+			<capsuled_item id="10649" min_count="1" max_count="1" chance="3.0"/> <!-- Feather of Blessing -->
+			<capsuled_item id="20517" min_count="1" max_count="1" chance="1.0"/> <!-- Echant Weapon: S (+10%) -->
+			<capsuled_item id="20518" min_count="1" max_count="1" chance="1.0"/> <!-- Echant Armor S (+10%) -->
+			<capsuled_item id="9546" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9547" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9548" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9549" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9550" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9551" min_count="1" max_count="5" chance="20.0" group="1"/>
+		</capsuled_items>
+	</etcitem>
+	
+	<etcitem id="30003" name="Ramsheart's Treasure Box">
+		<set name="freightable" value="false"/>
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<capsuled_items>
+			<capsuled_item id="14169" min_count="1" max_count="1" chance="20.0"/> <!-- Top Grade LS 84 -->
+			<capsuled_item id="9627" min_count="2" max_count="4" chance="30.0"/> <!-- Giant Codex - Mastery -->
+			<capsuled_item id="-300" min_count="360" max_count="760" chance="50.0"/> <!-- Fame -->
+		</capsuled_items>
+	</etcitem>
+	
+	<etcitem id="30004" name="Zaken's Treasure Box">
+		<set name="freightable" value="false"/>
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.event_big_july_seven_park_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="100"/>
+		<capsuled_items>
+			<capsuled_item id="30100" min_count="1" max_count="1" chance="20.0" group="1"/> <!-- Queen Ant's Ring Event -->
+			<capsuled_item id="30101" min_count="1" max_count="1" chance="20.0" group="1"/> <!-- Ring of Core Event -->
+			<capsuled_item id="30102" min_count="1" max_count="1" chance="17.0" group="1"/> <!-- Frintezza's Necklace Event -->
+			<capsuled_item id="30103" min_count="1" max_count="1" chance="15.0" group="1"/> <!-- Earring of Orfen Event -->
+			<capsuled_item id="30104" min_count="1" max_count="1" chance="15.0" group="1"/> <!-- Earring of Zaken Event -->
+			<capsuled_item id="30105" min_count="1" max_count="1" chance="8.0" group="1"/> <!-- Blessed Earring of Zaken Event -->
+			<capsuled_item id="30106" min_count="1" max_count="1" chance="2.0" group="1"/> <!-- Antharas's Earring Event -->
+			<capsuled_item id="30107" min_count="1" max_count="1" chance="2.0" group="1"/> <!-- Valakas's Necklace Event -->
+			<capsuled_item id="30108" min_count="1" max_count="1" chance="1.0" group="1"/> <!-- Beleth's Ring Event -->
+		</capsuled_items>
+	</etcitem>
+	
+	<etcitem id="30005" name="Beleth's Treasure Box">
+		<set name="freightable" value="false"/>
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.event_july_seven_park_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false" />
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<capsuled_items>
+			<capsuled_item id="14052" min_count="10" max_count="50" chance="20.0"/> <!-- Noble Stone -->
+			<capsuled_item id="959" min_count="1" max_count="1" chance="3.0"/> <!-- Scroll: Ecnhant Weapon (S)-->
+			<capsuled_item id="960" min_count="1" max_count="2" chance="6.0"/> <!-- Scroll: Ecnhant Armor (S) -->
+			<capsuled_item id="9552" min_count="1" max_count="5" chance="20.0" group="1"/> <!-- Fire Stone -->
+			<capsuled_item id="9553" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9554" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9555" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9556" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9557" min_count="1" max_count="5" chance="20.0" group="1"/>
+			<capsuled_item id="9546" min_count="5" max_count="25" chance="50.0" group="2"/> <!-- Fire Crystal -->
+			<capsuled_item id="9547" min_count="5" max_count="25" chance="50.0" group="2"/>
+			<capsuled_item id="9548" min_count="5" max_count="25" chance="50.0" group="2"/>
+			<capsuled_item id="9549" min_count="5" max_count="25" chance="50.0" group="2"/>
+			<capsuled_item id="9550" min_count="5" max_count="25" chance="50.0" group="2"/>
+			<capsuled_item id="9551" min_count="5" max_count="25" chance="50.0" group="2"/>
+			<capsuled_item id="21579" min_count="1" max_count="1" chance="1.0"/> <!-- Neolithic Crystal - B-S84 -->
+		</capsuled_items>
+	</etcitem>
+	
+	<etcitem id="30098" name="Olympiad Medal">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="destroyable" value="false"/>
+		<set name="icon" value="icon.etc_event_glitter_medal_i00"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false" />
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	
+	<etcitem id="30099" name="Gladiator Point">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.skill5661"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="QUEST"/>
+	</etcitem>
+</list>

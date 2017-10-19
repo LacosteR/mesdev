@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="18500" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18501" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18502" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18503" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18504" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18505" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18506" name="Soul Crystal Pillar" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18507" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18508" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18509" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18510" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18511" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18512" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18513" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18514" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18515" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18516" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18517" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18518" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18519" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18520" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18521" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18522" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18523" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18524" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18525" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18526" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18527" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18528" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18529" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18530" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18531" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18532" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18533" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18534" name="Kertang's Treasure Chest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Chest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18535" name="Kertang's Treasure Chest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Chest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18536" name="Kertang's Treasure Chest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Chest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18537" name="Kertang's Treasure Chest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Chest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18538" name="Kertang's Treasure Chest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Chest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18539" name="Resurrection Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18540" name="Resurrection Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18541" name="Resurrection Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18542" name="Resurrection Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18543" name="Resurrection Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18544" name="Cruma Border" title="Event Monster">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18545" name="Ancient Experiment" title="Event Monster">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="18546" name="Ancient Experiment" title="Event Monster">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18547" name="Ancient Experiment" title="Event Monster">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18548" name="Ancient Experiment" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18549" name="Ancient Experiment" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18550" name="Cruma Phantom" title="Event Monster">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="18551" name="Cruma Phantom" title="Event Monster">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18552" name="Cruma Phantom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="6307"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="18553" name="Cruma Phantom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="6307"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="18554" name="Tomlan Kamos" title="Kaneus">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="KamalokaBoss"/>
+		<equip>
+			<rhand item_id="4"/>
+			<!--Club-->
+		</equip>
+	</npc>
+	<npc id="18555" name="Ol Ariosh" title="Kaneus">
+		<set name="ai_type" value="OiAriosh"/>
+		<set name="type" value="Kama26Boss"/>
+		<equip>
+			<rhand item_id="67"/>
+			<!--Orcish Sword-->
+			<lhand item_id="633"/>
+			<!--Zubei's Shield-->
+		</equip>
+	</npc>
+	<npc id="18556" name="Follower of Ariosh" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+			<lhand item_id="102"/>
+			<!--Round Shield-->
+		</equip>
+	</npc>
+	<npc id="18557" name="Ranc Deumus" title="Kaneus">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="93"/>
+			<!--Winged Spear-->
+		</equip>
+	</npc>
+	<npc id="18558" name="Crimson Hatu Otis" title="Kaneus">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="KamalokaBoss"/>
+	</npc>
+	<npc id="18559" name="Seer Flouros" title="Kaneus">
+		<set name="ai_type" value="SeerFlouros"/>
+		<set name="type" value="KamalokaBoss"/>
+	</npc>
+	<npc id="18560" name="Follower of Flouros" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="18561" name="Granitick Duerga" title="Kaneus">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18562" name="Blade Otis" title="Kaneus">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="KamalokaBoss"/>
+		<equip>
+			<rhand item_id="131"/>
+			<!--Spirit Sword-->
+		</equip>
+	</npc>
+	<npc id="18563" name="Follower of Otis" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="18564" name="Weird Bunei" title="Kaneus">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="KamalokaBoss"/>
+	</npc>
+	<npc id="18565" name="Brave Martim" title="Kaneus">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="298"/>
+			<!--Orcish Glaive-->
+		</equip>
+	</npc>
+	<npc id="18566" name="Kaim Abigore" title="Kaneus">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="KamalokaBoss"/>
+	</npc>
+	<npc id="18567" name="Follower of Abigore" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="18568" name="Knight Montagnar" title="Kaneus">
+		<set name="ai_type" value="Kama56Boss"/>
+		<set name="type" value="KamalokaBoss"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+		<minions>
+			<minion npc_id="18569" count="6"/>
+			<!--Follower of Montagnar-->
+		</minions>
+	</npc>
+	<npc id="18569" name="Follower of Montagnar" title="">
+		<set name="ai_type" value="Kama56Minion"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="18570" name="Summer Yaganitan" title="Kaneus">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18571" name="Venomous Storace" title="Kaneus">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="KamalokaBoss"/>
+		<equip>
+			<rhand item_id="73"/>
+			<!--Shamshir-->
+		</equip>
+	</npc>
+	<npc id="18572" name="Follower of Storace" title="">
+		<set name="ai_type" value="Kama63Minion"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="73"/>
+			<!--Shamshir-->
+		</equip>
+	</npc>
+	<npc id="18573" name="Kel Bilette" title="Kaneus">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="KamalokaBoss"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="18574" name="Follower of Bilette" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="18575" name="Warlord Tamuze" title="Kaneus">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="8686"/>
+			<!--Themis' Tongue-->
+		</equip>
+	</npc>
+	<npc id="18576" name="Follower of Tamuze" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18577" name="White Allosce" title="Kaneus">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="KamalokaBoss"/>
+	</npc>
+	<npc id="18578" name="Follower of Allosce" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="18579" name="Hunting Ground Keeper" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13062"/>
+			<!--Exclusive to Monsters (Employee's Friend)-->
+		</equip>
+	</npc>
+	<npc id="18580" name="Cursed Girl" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18581" name="Gardener" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18582" name="Turned Girl" title="Kratei's Fortune">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18583" name="Housekeeper" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18584" name="Turned Boy" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18585" name="Cursed Girl" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18586" name="Gardener" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18587" name="Begrudged Maid" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18588" name="Hunting Ground Keeper" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13062"/>
+			<!--Exclusive to Monsters (Employee's Friend)-->
+		</equip>
+	</npc>
+	<npc id="18589" name="Cursed Gardener" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18590" name="Baroness' Employee" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13061"/>
+			<!--Exclusive to Monsters (Baroness' Employee)-->
+		</equip>
+	</npc>
+	<npc id="18591" name="Begrudged Boy" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18592" name="Kratei's Steward" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18593" name="Housekeeper" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18594" name="Mansion Guide" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18595" name="Baroness' Employee" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13061"/>
+			<!--Exclusive to Monsters (Baroness' Employee)-->
+		</equip>
+	</npc>
+	<npc id="18596" name="Cursed Gardener" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18597" name="Begrudged Maid" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18598" name="Cursed Head Maid" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18599" name="Mansion Manager" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

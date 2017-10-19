@@ -1,0 +1,129 @@
+Файл EventSetting.txt
+
+Блок event_setting
+map_cluster_id - по этому ID ивент находит для себя карты из файла EventMap.txt
+is_active - 1 если ивент включен, 0 если выключен
+event - здесь задается ID ивента и его название. {event_int_id;event_string_name}
+variables - здесь задаются переменные для ивента. {{[variable_name];variable_int_value}}
+player_variables - здесь задаются переменные для каждого участника ивента. {{[variable_name];variable_int_value}}
+start_time - здесь задается время автоматического запуска ивента (по серверному времени). {{hh:mm}}
+
+Блок global_settings
+min_to_start - минимальное количество человек, для запуска ивента
+max_to_start - максимальное количество человек, для запуска ивента
+team_name - здесь задаются команды-участницы. {{team_id;abnormal_set_id;team_name}}. abnormal_set_id берется из файла AbnormalSet.txt
+base_fight_time - базовая длительность ивента в секундах
+player_respawn_time - длительность респавна игрока в секундах
+pre_fight_time - длительность подготовительной стадии в секундах
+teleport_to_event_time - длительность стадии телепортации в секундах
+registration_time - длительность стадии регистрации в секундах
+
+Блок global_rewards
+Здесь задаются награды, которые будут применены для всех карт этого ивента. Каждый тип награды должен быть заключен в блок rewards_begin/rewards_end
+
+reward_type - здесь задается тип награды
+win - за победу
+lose - за поражение
+per_kill - за каждое убийство
+top_killer - за наибольшее количество убийств (пока не работает)
+win_premium - за победу, если у игрока есть премиум аккаунт
+lose_premium - за поражение, если у игрока есть премиум аккаунт
+
+reward_items - здесь задаются сами предметы. {{item_id;item_min_count;item_max_count;chance}}
+
+Блок global_triggers
+Здесь задаются триггеры, которые будут примененеы для всех карт этого ивента. Каждый триггер должен быть заключен в блок trigger_begin/trigger_end
+
+trigger
+open_doors - {open_doors;{door_id;door_id}}
+close_doors - {close_doors;{door_id;door_id}}
+add_effect - {add_effect;{skill_id;skill_lv}}
+add_effect_list - {add_effect;[buff_scheme_id]}
+remove_effect - {remove_effect;{skill_id;skill_lv}}
+remove_effect_by_slot_type - {remove_effect_by_slot_type;[debuff/buff/all]}
+give_hero - {give_hero;hours}
+victory_all - {victory;{all}}
+victory_team - {victory;{team;team_id}}
+victory_player - {victory;{player}}
+defeat_all - {defeat;{all}}
+defeat_team - {defeat;{team;team_id}}
+defeat_player - {defeat;{player}}
+teleport_player - {teleport_player;team_id;[zone_name]}
+teleport_team_back - {teleport_team_back;team_id}
+show_message - {show_message;{team_id;team_id}[message]}
+spawn_npc - {spawn_npc;npc_id;npc_count;team_id;respawn_time;[event_npc_name];[zone_name]}
+change_npc_team - {change_npc_team;team_id;[event_npc_name]}
+start_abnormal - {start_abnormal;target;[abnormal_name]} targets - {player;team_id}|{npc;[event_npc_name]}  добавляет абнормал по имени
+stop_abnormal - {stop_abnormal;target;[abnormal_name]} targets - {player;team_id}|{npc;[event_npc_name]}  убирает абнормал по имени
+add_skill - {add_skill;{skill_id;skill_lv};target}  добавляет скилл по ИД и ЛВЛу. target - {player;team_id}/{npc;[event_npc_name]}
+remove_skill - {remove_skill;{skill_id;skill_lv};target}  убирает скилл по ИД и ЛВЛу. target - {player;team_id}/{npc;[event_npc_name]}
+player_restore_health - {player_restore_health;{cp;diff_per};{hp;diff_per};{mp;diff_per}}
+player_remove_cooldown - {player_remove_cooldown;{type}} // убирает КД со скиллов. type = {all, nonstatic, static} - nonstatic (только скиллы без статичного КД), static (только скиллы со статичным КД), all (все скиллы)
+change_variable - {change_variable;[variable_name];operation;int_value} operations - plus;minus;assign
+change_player_variable - {change_player_variable;[variable_name];operation;int_value}  operations - plus;minus;assign
+announce - {announce;[message]}
+
+conditions
+variable - {variable;[name];operation;target} operations - is_more;is_less;is_equal;is_more_or_equal;is_less_or_equal  target - [other_variable_name]|int_value
+player_variable - {player_variable;[name];operation;target}
+player_team - {player_team;team_id}
+is_npc_in_zone - {is_npc_in_zone;[event_npc_name];[zone_name]}
+is_player_in_zone - {is_player_in_zone;[zone_name]}
+is_name - {is_name;[name]}
+player_have_effect - {player_have_effect;{skill_id;skill_lv}}
+	
+activator
+battle_begin - активируется после отсчета до начала сражения
+event_begin - активируется при телепортации игроков
+event_end - активируется в конце ивента
+every_time - активируется каждую секунду ивента
+on_death_npc - активируется при смерти NPC
+on_death_player - активируется при смерти игрока
+player_enter_zone - активируется при попадании игрока в зону
+player_leave_zone - активируется при покидании игроком зоны
+player_variable_changed - активируется при изменения любой переменной игрока
+registration_begin - активируется при начале регистрации на ивент
+variable_changed - активируется при изменения любой переменной ивента
+
+Файл EventMutator.txt
+Блок mutator
+name - имя мутатора
+id - id мутатора
+robe_p_def - меняет физ. защ. игрока на заданную, вне зависимости надетых итемов (для робы) {тело;штаны;шлем;перчи;боты}
+light_p_def - меняет физ. защ. игрока на заданную, вне зависимости надетых итемов (для легких доспехов) {тело;штаны;шлем;перчи;боты}
+heavy_p_def - меняет физ. защ. игрока на заданную, вне зависимости надетых итемов (для тяжелых доспехов) {тело;штаны;шлем;перчи;боты}
+m_def - меняет маг. защ. игрока на заданную, вне зависимости надетых итемов {некля;серьга;серьга;кольцо;кольцо}
+phys_attack - меняет физ. атк. игрока на заданную, вне зависимости надетых итемов (для не магических оружий) {меч;дубина;двуручный меч;двуручная дубина;рапира;древний меч;дуал мечи;кастеты;даггер;дуал даггеры;лук;арбалет}
+phys_attack_magic - меняет физ. атк. игрока на заданную, вне зависимости надетых итемов (для магических оружий) {меч;дубина;двуручный меч;двуручная дубина;рапира;древний меч;дуал мечи;кастеты;даггер;дуал даггеры;лук;арбалет}
+mag_attack - меняет маг. атк. игрока на заданную, вне зависимости надетых итемов (для не магических оружий) {меч;дубина;двуручный меч;двуручная дубина;рапира;древний меч;дуал мечи;кастеты;даггер;дуал даггеры;лук;арбалет}
+mag_attack_magic - меняет маг. атк. игрока на заданную, вне зависимости надетых итемов (для магических оружий) {меч;дубина;двуручный меч;двуручная дубина;рапира;древний меч;дуал мечи;кастеты;даггер;дуал даггеры;лук;арбалет}
+
+Файл EventAbnormalSet.txt
+Блок armor_set
+name - имя сета-абнормала
+id - его id
+armor_robe - заменяет визуально надетую броню на заданную. Необходимо внписать id предметов (для робы) {тело;штаны;шлем;перчи;боты}
+armor_light - заменяет визуально надетую броню на заданную. Необходимо внписать id предметов (для легких доспехов) {тело;штаны;шлем;перчи;боты}
+armor_heavy - заменяет визуально надетую броню на заданную. Необходимо внписать id предметов (для тяжелых доспехов) {тело;штаны;шлем;перчи;боты}
+
+Файл EventMap.txt
+
+Блок map
+
+Блок map_options
+instance_id - id инстант зоны из файла config\event_pvp\instances\inst_zone.xml
+map_name - имя карты
+map_cluster_id - id кластера карт
+is_active - 1 если карта активна, 0 если не активна
+mutators - список мутаторов {id;id;id}
+
+Блок rewards
+То же, что и в EventSetting.txt, но учитывается только для этой конкретной карты
+
+Блок areas
+Здесь задаются зоны, которые будут примененеы для этой карты. Каждая зона должна быть заключена в блок area_begin/area_end
+area_name - имя зоны
+team_id - id команды, которой она принадлежит
+
+Блок triggers
+То же, что и в EventSetting.txt, но учитывается только для этой конкретной карты

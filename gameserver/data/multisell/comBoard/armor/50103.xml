@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+	<!--Кираса Синего Волка-->
+	<item>
+		<ingredient id="57" count="2722500" />
+		<production id="358" count="1" />
+	</item>
+
+	<!--Набедренники Синего Волка-->
+	<item>
+		<ingredient id="57" count="1701810" />
+		<production id="2380" count="1" />
+	</item>
+
+	<!--Перчатки Синего Волка-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5718" count="1" />
+	</item>
+
+	<!--Сапоги Синего Волка-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5734" count="1" />
+	</item>
+
+	<!--Шлем Синего Волка-->
+	<item>
+		<ingredient id="57" count="1021130" />
+		<production id="2416" count="1" />
+	</item>
+
+	<!--Латный Доспех Рока-->
+	<item>
+		<ingredient id="57" count="4424200" />
+		<production id="2381" count="1" />
+	</item>
+
+	<!--Перчатки Рока-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5722" count="1" />
+	</item>
+
+	<!--Сапоги Рока-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5738" count="1" />
+	</item>
+
+	<!--Шлем Рока-->
+	<item>
+		<ingredient id="57" count="1021130" />
+		<production id="2417" count="1" />
+	</item>
+
+	<!--Щит Рока-->
+	<item>
+		<ingredient id="57" count="714780" />
+		<production id="110" count="1" />
+	</item>
+
+	<!--Кираса Зубея-->
+	<item>
+		<ingredient id="57" count="1755600" />
+		<production id="357" count="1" />
+	</item>
+
+	<!--Набедренники Зубея-->
+	<item>
+		<ingredient id="57" count="1097470" />
+		<production id="383" count="1" />
+	</item>
+
+	<!--Шлем Зубея-->
+	<item>
+		<ingredient id="57" count="658460" />
+		<production id="503" count="1" />
+	</item>
+
+	<!--Рукавицы Зубея-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5710" count="1" />
+	</item>
+
+	<!--Сапоги Зубея-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5726" count="1" />
+	</item>
+
+	<!--Щит Зубея-->
+	<item>
+		<ingredient id="57" count="460900" />
+		<production id="633" count="1" />
+	</item>
+
+	<!--Кираса Авадона-->
+	<item>
+		<ingredient id="57" count="1755600" />
+		<production id="2376" count="1" />
+	</item>
+
+	<!--Набедренники Авадона-->
+	<item>
+		<ingredient id="57" count="1097470" />
+		<production id="2379" count="1" />
+	</item>
+
+	<!--Диадема Авадона-->
+	<item>
+		<ingredient id="57" count="658460" />
+		<production id="2415" count="1" />
+	</item>
+
+	<!--Перчатки Авадона-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5714" count="1" />
+	</item>
+
+	<!--Сапоги Авадона-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5730" count="1" />
+	</item>
+
+	<!--Щит Авадона-->
+	<item>
+		<ingredient id="57" count="460900" />
+		<production id="673" count="1" />
+	</item>
+
+	<!--Кожаный Доспех Рока-->
+	<item>
+		<ingredient id="57" count="3318700" />
+		<production id="2392" count="1" />
+	</item>
+
+	<!--Перчатки Рока-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5723" count="1" />
+	</item>
+
+	<!--Сапоги Рока-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5739" count="1" />
+	</item>
+
+	<!--Шлем Рока-->
+	<item>
+		<ingredient id="57" count="1021130" />
+		<production id="2417" count="1" />
+	</item>
+
+	<!--Кожаный Доспех Синего Волка-->
+	<item>
+		<ingredient id="57" count="3318700" />
+		<production id="2391" count="1" />
+	</item>
+
+	<!--Перчатки Синего Волка-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5719" count="1" />
+	</item>
+
+	<!--Сапоги Синего Волка-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5735" count="1" />
+	</item>
+
+	<!--Шлем Синего Волка-->
+	<item>
+		<ingredient id="57" count="1021130" />
+		<production id="2416" count="1" />
+	</item>
+
+	<!--Кожаная Рубаха Зубея-->
+	<item>
+		<ingredient id="57" count="1316700" />
+		<production id="2384" count="1" />
+	</item>
+
+	<!--Кожаные Набедренники Зубея-->
+	<item>
+		<ingredient id="57" count="823130" />
+		<production id="2388" count="1" />
+	</item>
+
+	<!--Рукавицы Зубея-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5711" count="1" />
+	</item>
+
+	<!--Сапоги Зубея-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5727" count="1" />
+	</item>
+
+	<!--Шлем Зубея-->
+	<item>
+		<ingredient id="57" count="658460" />
+		<production id="503" count="1" />
+	</item>
+
+	<!--Кожаный Доспех Авадона-->
+	<item>
+		<ingredient id="57" count="2140600" />
+		<production id="2390" count="1" />
+	</item>
+
+	<!--Перчатки Авадона-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5715" count="1" />
+	</item>
+
+	<!--Сапоги Авадона-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5731" count="1" />
+	</item>
+
+	<!--Диадема Авадона-->
+	<item>
+		<ingredient id="57" count="658460" />
+		<production id="2415" count="1" />
+	</item>
+
+	<!--Туника Синего Волка-->
+	<item>
+		<ingredient id="57" count="2042700" />
+		<production id="2398" count="1" />
+	</item>
+
+	<!--Штаны Синего Волка-->
+	<item>
+		<ingredient id="57" count="1276330" />
+		<production id="2403" count="1" />
+	</item>
+
+	<!--Перчатки Синего Волка-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5720" count="1" />
+	</item>
+
+	<!--Сапоги Синего Волка-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5736" count="1" />
+	</item>
+
+	<!--Шлем Синего Волка-->
+	<item>
+		<ingredient id="57" count="1021130" />
+		<production id="2416" count="1" />
+	</item>
+
+	<!--Мантия Авадона-->
+	<item>
+		<ingredient id="57" count="2140600" />
+		<production id="2406" count="1" />
+	</item>
+
+	<!--Перчатки Авадона-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5716" count="1" />
+	</item>
+
+	<!--Сапоги Авадона-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5732" count="1" />
+	</item>
+
+	<!--Диадема Авадона-->
+	<item>
+		<ingredient id="57" count="658460" />
+		<production id="2415" count="1" />
+	</item>
+
+	<!--Туника Рока-->
+	<item>
+		<ingredient id="57" count="2042700" />
+		<production id="2399" count="1" />
+	</item>
+
+	<!--Штаны Рока-->
+	<item>
+		<ingredient id="57" count="1276330" />
+		<production id="2404" count="1" />
+	</item>
+
+	<!--Перчатки Рока-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5724" count="1" />
+	</item>
+
+	<!--Сапоги Рока-->
+	<item>
+		<ingredient id="57" count="680680" />
+		<production id="5740" count="1" />
+	</item>
+
+	<!--Шлем Рока-->
+	<item>
+		<ingredient id="57" count="1021130" />
+		<production id="2417" count="1" />
+	</item>
+
+	<!--Туника Зубея-->
+	<item>
+		<ingredient id="57" count="1316700" />
+		<production id="2397" count="1" />
+	</item>
+
+	<!--Штаны Зубея-->
+	<item>
+		<ingredient id="57" count="823130" />
+		<production id="2402" count="1" />
+	</item>
+
+	<!--Рукавицы Зубея-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5712" count="1" />
+	</item>
+
+	<!--Сапоги Зубея-->
+	<item>
+		<ingredient id="57" count="439010" />
+		<production id="5728" count="1" />
+	</item>
+
+	<!--Шлем Зубея-->
+	<item>
+		<ingredient id="57" count="658460" />
+		<production id="503" count="1" />
+	</item>
+</list>

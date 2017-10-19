@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="20738" name="Kobold Looter Bepook" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="4"/>
+			<!--Club-->
+		</equip>
+		<minions>
+			<minion npc_id="20739" count="5"/>
+			<!--Bepook's Pet-->
+		</minions>
+	</npc>
+	<npc id="20739" name="Bepook's Pet" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="20742" name="Mystical Weaver" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20743" name="Howler" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20744" name="Red Eye Vampire Bat" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20745" name="Gigantiops" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="20746" count="2"/>
+			<!--Young Gigantiops-->
+		</minions>
+	</npc>
+	<npc id="20746" name="Young Gigantiops" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="20747" name="Roxide" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="20748" count="2"/>
+			<!--Roxide Cohort-->
+		</minions>
+	</npc>
+	<npc id="20748" name="Roxide Cohort" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="73"/>
+			<!--Shamshir-->
+		</equip>
+	</npc>
+	<npc id="20749" name="Death Fire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="20750" count="2"/>
+			<!--Fire Archer-->
+		</minions>
+	</npc>
+	<npc id="20750" name="Fire Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="20751" name="Snipe" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="20752" count="3"/>
+			<!--Snipe Cohort-->
+		</minions>
+	</npc>
+	<npc id="20752" name="Snipe Cohort" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="20753" name="Dark Lord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+		<minions>
+			<minion npc_id="20754" count="4"/>
+			<!--Dark Knight-->
+		</minions>
+	</npc>
+	<npc id="20754" name="Dark Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="20755" name="Talakin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+		<minions>
+			<minion npc_id="20756" count="1"/>
+			<!--Talakin Archer-->
+			<minion npc_id="20757" count="1"/>
+			<!--Talakin Raider-->
+		</minions>
+	</npc>
+	<npc id="20756" name="Talakin Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="20757" name="Talakin Raider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="3"/>
+			<!--Broadsword-->
+		</equip>
+	</npc>
+	<npc id="20758" name="Dragon Bearer Chief" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+		<minions>
+			<minion npc_id="20759" count="1"/>
+			<!--Dragon Bearer Warrior-->
+			<minion npc_id="20760" count="1"/>
+			<!--Dragon Bearer Archer-->
+		</minions>
+	</npc>
+	<npc id="20759" name="Dragon Bearer Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="20760" name="Dragon Bearer Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="20761" name="Pytan" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="20762" count="3"/>
+			<!--Pytan Knight-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20762" name="Pytan Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20763" name="Lord of the Plains" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+		<minions>
+			<minion npc_id="20764" count="1"/>
+			<!--Shaman of the Plains-->
+			<minion npc_id="20765" count="1"/>
+			<!--Warrior of the Plains-->
+			<minion npc_id="20766" count="1"/>
+			<!--Scout of the Plains-->
+		</minions>
+	</npc>
+	<npc id="20764" name="Shaman of the Plains" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="179"/>
+			<!--Mace of Prayer-->
+		</equip>
+	</npc>
+	<npc id="20765" name="Warrior of the Plains" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="20766" name="Scout of the Plains" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="20767" name="Timak Orc Troop Leader" title="">
+		<set name="ai_type" value="TimakOrcTroopLeader"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="20768" name="Timak Orc Troop Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="20769" name="Timak Orc Troop Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+			<lhand item_id="19"/>
+			<!--Small Shield-->
+		</equip>
+	</npc>
+	<npc id="20770" name="Timak Orc Troop Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13"/>
+			<!--Short Bow-->
+		</equip>
+	</npc>
+	<npc id="20771" name="Barif" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3938"/>
+			<!--Giant Rod-->
+		</equip>
+		<minions>
+			<minion npc_id="20772" count="3"/>
+			<!--Barif's Pet-->
+		</minions>
+	</npc>
+	<npc id="20772" name="Barif's Pet" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20773" name="Conjurer Bat Lord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="20774" count="3"/>
+			<!--Conjurer Bat -->
+		</minions>
+	</npc>
+	<npc id="20774" name="Conjurer Bat " title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="20775" name="Bugbear Raider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20776" name="Dark Succubus" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20777" name="Hunter Bear" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20778" name="Ragna Orc Overlord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="20779" name="Ragna Orc Seer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="20780" name="Bloody Axe Elite" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="20781" name="Delu Lizardman Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="20782" name="Ol Mahum Novice" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="1"/>
+			<!--Short Sword-->
+		</equip>
+	</npc>
+	<npc id="20783" name="Dread Wolf" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20784" name="Tasaba Lizardman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2507"/>
+			<!--Lizardspear-->
+		</equip>
+	</npc>
+	<npc id="20785" name="Tasaba Lizardman Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="20786" name="Lienrik" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20787" name="Lienrik Lad" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20788" name="Rakul" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3"/>
+			<!--Broadsword-->
+		</equip>
+	</npc>
+	<npc id="20789" name="Crokian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5128"/>
+			<!--Crokian Blade-->
+		</equip>
+	</npc>
+	<npc id="20790" name="Dailaon" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5127"/>
+			<!--Dailaon Knife-->
+		</equip>
+	</npc>
+	<npc id="20791" name="Crokian Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5128"/>
+			<!--Crokian Blade-->
+		</equip>
+	</npc>
+	<npc id="20792" name="Farhite" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5131"/>
+			<!--Parhit Staff-->
+		</equip>
+	</npc>
+	<npc id="20793" name="Nos" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5130"/>
+			<!--Nos Sword-->
+		</equip>
+	</npc>
+	<npc id="20794" name="Blade Stakato" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="20795" name="Blade Stakato Worker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="226"/>
+			<!--Cursed Dagger-->
+		</equip>
+	</npc>
+	<npc id="20796" name="Blade Stakato Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="232"/>
+			<!--Dark Elven Dagger-->
+		</equip>
+	</npc>
+	<npc id="20797" name="Blade Stakato Drone" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="20798" name="Water Giant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5132"/>
+			<!--Giant Trident-->
+		</equip>
+	</npc>
+	<npc id="20799" name="Queen Undine Lad" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

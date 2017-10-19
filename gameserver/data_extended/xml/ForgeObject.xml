@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<forging id="1">
+		<ingredients>
+			<item item_id="57" count="1"/>
+		</ingredients>
+		<manufactured_items>
+			<item item_id="13505" count="1"/>
+		</manufactured_items>
+	</forging>
+	<forging id="2">
+		<ingredients>
+			<item item_id="57" count="10"/>
+		</ingredients>
+		<manufactured_items>
+		    <item item_id="4356" count="1"/>
+		</manufactured_items>
+	</forging>
+</list>

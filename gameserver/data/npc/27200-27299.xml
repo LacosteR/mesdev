@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="27200" name="Krudel Lizardman" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27201" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27202" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27203" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27204" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27205" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27206" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27207" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27208" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27209" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27210" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27211" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27212" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27213" name="" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27214" name="Guardian of Forbidden Knowledge" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="27215" name="Guardian of Forbidden Knowledge" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="27216" name="Guardian of Forbidden Knowledge" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="27217" name="Soul of Well" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27218" name="Triol's Pawn" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27219" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27220" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27221" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27222" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27223" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27224" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27225" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27226" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27227" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27228" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27229" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27230" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27231" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27232" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27233" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27234" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27235" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27236" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27237" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27238" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27239" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27240" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27241" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27242" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27243" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27244" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27245" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27246" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27247" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27248" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27249" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27250" name="Fallen Angel Allector" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27251" name="Fallen Angel Allector" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27252" name="Fallen Angel Allector" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27253" name="Hell Fire" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27254" name="Unknown Stopper" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27255" name="Unknown Stopper" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27256" name="Unknown Stopper" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27257" name="Archangel Iconoclasis" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27258" name="Archangel Iconoclasis" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27259" name="Archangel Iconoclasis" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27260" name="Archangel Iconoclasis" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27261" name="Bead of Sacred Flame" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27262" name="Death Lord Hallate" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="27263" name="Death Lord Hallate" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="27264" name="Death Lord Hallate" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="27265" name="Lich King Icarus" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="205"/>
+			<!--Ghoul's Staff-->
+		</equip>
+	</npc>
+	<npc id="27266" name="Fallen Angel Haures" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27267" name="Fallen Angel Haures" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27268" name="Guard of Haures" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27269" name="Fallen Angel Naverius" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3939"/>
+			<!--Lady's Fan-->
+		</equip>
+	</npc>
+	<npc id="27270" name="Fallen Angel Naverius" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3939"/>
+			<!--Lady's Fan-->
+		</equip>
+	</npc>
+	<npc id="27271" name="Chimera Golem" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27272" name="Hallate's Dancer Lillian" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3939"/>
+			<!--Lady's Fan-->
+		</equip>
+	</npc>
+	<npc id="27273" name="Assassin Pezel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="242"/>
+			<!--Soulfire Dirk-->
+		</equip>
+	</npc>
+	<npc id="27274" name="Fallen Angel Tanakia" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="286"/>
+			<!--Eminence Bow-->
+		</equip>
+	</npc>
+	<npc id="27275" name="Fallen Angel Tanakia" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="286"/>
+			<!--Eminence Bow-->
+		</equip>
+	</npc>
+	<npc id="27276" name="Fallen Angel Tanakia" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="286"/>
+			<!--Eminence Bow-->
+		</equip>
+	</npc>
+	<npc id="27277" name="Fallen Angel Tanakia" title="Quest Monster">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="286"/>
+			<!--Eminence Bow-->
+		</equip>
+	</npc>
+	<npc id="27278" name="Shadow of Beleth" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="205"/>
+			<!--Ghoul's Staff-->
+		</equip>
+	</npc>
+	<npc id="27279" name="Cursed Kesadein" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27280" name="Fallen Angel Narcissus" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27281" name="Fallen Angel Metellus" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27282" name="Dark Angel Othiel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27283" name="Grandpapa Askalius" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27284" name="Flame Evil Spirit Azira" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27285" name="Lizard's Totem Sharuhi" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="72"/>
+			<!--Stormbringer-->
+		</equip>
+	</npc>
+	<npc id="27286" name="Fallen Knight Adhil" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+			<lhand item_id="107"/>
+			<!--Composite Shield-->
+		</equip>
+	</npc>
+	<npc id="27287" name="Bound Elf Panacea" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="145"/>
+			<!--Sword of Whispering Death-->
+		</equip>
+	</npc>
+	<npc id="27288" name="Sword Player Biel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+			<lhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="27289" name="Ancient Sword Master Iron" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5800"/>
+			<!--Nephilim Lord-->
+			<lhand item_id="5799"/>
+			<!--Nephilim Lord-->
+		</equip>
+	</npc>
+	<npc id="27290" name="White Wing Commander " title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27291" name="White Wing Fighter" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="27292" name="Fallen Noble Orc Muhark" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7834"/>
+			<!--Art of Battle Axe-->
+		</equip>
+	</npc>
+	<npc id="27293" name="Khavatari Uruz" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27294" name="Overlord Atrus" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+	</npc>
+	<npc id="27295" name="Sharuhi Mouth Mudaha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+	</npc>
+	<npc id="27296" name="Monument Watcher Ezekiel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27297" name="Monument Watcher Ezekiel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27298" name="Monument Watcher Ezekiel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27299" name="Monument Watcher Ezekiel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+</list>

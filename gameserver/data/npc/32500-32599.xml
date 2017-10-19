@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="32500" name="Inspector Sinai" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32501" name="Devil's Isle Supporter" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32502" name="Ketra Orc Supporter" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32503" name="Entrance Manager" title="Kratei's Cube">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/KrateiCube/"/>
+		<set name="type" value="events.KrateisCubeManager"/>
+	</npc>
+	<npc id="32504" name="Match Manager" title="Kratei's Cube">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/KrateiCube/"/>
+		<set name="type" value="events.KrateisCubeMatchManager"/>
+	</npc>
+	<npc id="32505" name="Match Manager" title="Kratei's Cube">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/KrateiCube/"/>
+		<set name="type" value="events.KrateisCubeMatchManager"/>
+	</npc>
+	<npc id="32506" name="Match Manager" title="Kratei's Cube">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/KrateiCube/"/>
+		<set name="type" value="events.KrateisCubeMatchManager"/>
+	</npc>
+	<npc id="32507" name="Temple Inspector" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32508" name="Dwarf Adventurer" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32509" name="Ketra Orc Intelligence Officer" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32510" name="Inspector Adler" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32511" name="Dwarf Adventurer" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32512" name="Ketra Orc Supporter" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32513" name="Kun" title="Entrance Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32514" name="Tarion" title="Entrance Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32515" name="Leo" title="Entrance Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32516" name="Candice" title="Entrance Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32517" name="Airship Controller" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="ClanAirShipController"/>
+		<ai_params>
+			<set name="dockId" value="100"/>
+			<set name="platformId" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="32518" name="Vortex Gate" title="Aerial Cleft">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="events.CleftVortexGate"/>
+	</npc>
+	<npc id="32519" name="Vortex Gate" title="Aerial Cleft">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32520" name="Emery Converter" title="Aerial Cleft">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32521" name="Entrance Manager" title="Handy's Block Checker - Arena 1">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="HandysBlockChecker"/>
+	</npc>
+	<npc id="32522" name="Entrance Manager" title="Handy's Block Checker - Arena 2">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="HandysBlockChecker"/>
+	</npc>
+	<npc id="32523" name="Entrance Manager" title="Handy's Block Checker - Arena 3">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="HandysBlockChecker"/>
+	</npc>
+	<npc id="32524" name="Entrance Manager" title="Handy's Block Checker - Arena 4">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="HandysBlockChecker"/>
+	</npc>
+	<npc id="32525" name="Tiat" title="Witch of the Dragon of Darkness">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32526" name="Allenos" title="Sergeant">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Allenos"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32527" name="Edric" title="Officer">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32528" name="Medibal's Corpse" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="32529" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32530" name="Tepios" title="Officer">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TepiosReward"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32531" name="Destroyed Tumor" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="32532" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32533" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32534" name="Jaedin" title="Guide of Infinity">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32535" name="Destroyed Tumor" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="DeadTumor"/>
+	</npc>
+	<npc id="32536" name="Destroyed Tumor" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="DeadTumor"/>
+	</npc>
+	<npc id="32537" name="Mouth of Ekimus" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="EkimusMouth"/>
+	</npc>
+	<npc id="32538" name="Closed Mouth of Ekimus" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="32539" name="Gatekeeper of Abyss" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="AbyssGaze"/>
+	</npc>
+	<npc id="32540" name="Gatekeeper of Abyss" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="AbyssGaze"/>
+	</npc>
+	<npc id="32541" name="Unstable Seed of Generation" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32542" name="Stabilized Seed of Generation" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32543" name="Energy of Generation" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32544" name="Seed of Generation" title="Artificial">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32545" name="Kurkle" title="Gracian Special Product Middleman">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32546" name="Asyatei" title="Soul Trader">
+		<set name="ai_type" value="RndWalkAndAnim"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="32547" name="Center Tumor" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32548" name="Keucereus" title="Admiral">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32549" name="Dilios" title="General">
+		<set name="ai_type" value="GeneralDilios"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32550" name="Kirklan" title="Special Product Broker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32551" name="Noiless" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32552" name="Tomaris" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32553" name="Jisans" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32554" name="Moira" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+		</equip>
+	</npc>
+	<npc id="32555" name="Tenius" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32556" name="El" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32557" name="Lekon" title="Engineer">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Lekon"/>
+	</npc>
+	<npc id="32558" name="Barrier Orb" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32559" name="Artius" title="War Mage">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32560" name="Orbyu" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32561" name="Kunota" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32562" name="Siest" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32563" name="Plenos" title="Soldier">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32564" name="Papiku" title="Magister">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32565" name="Felix" title="Master">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32566" name="Ginby" title="Soldier ">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13524"/>
+			<!--Gracian Soldier One-handed Sword-->
+			<lhand item_id="13525"/>
+			<!--Gracian Soldier Shield-->
+		</equip>
+	</npc>
+	<npc id="32567" name="Lelrikia" title="Priest of Shilen">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32568" name="Unidentified Body" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="32569" name="Cain" title="Priest">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32570" name="Eric" title="Herb Collector ">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32571" name="Colin" title="Secret Agent">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32572" name="Frog" title="Great King">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32573" name="Tess" title="Grandma">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32574" name="Kuta" title="Native">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32575" name="Light of Dawn" title="Teleporter">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32576" name="John" title="Captain of the Dawn">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32577" name="Password Entry Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32578" name="Identity Confirm Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32579" name="Darkness of Dawn" title="Teleporter">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32580" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32581" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32582" name="Jaina" title="Priest">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32583" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32584" name="Merchant of Mammon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32585" name="Promise of Mammon" title="Teleporter">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32586" name="Shunaiman" title="Emperor of Elmoreden">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32587" name="Leon" title="Emperor's Guard">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32588" name="Emperor's Seal Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32589" name="Emperor's Seal Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32590" name="Emperor's Seal Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32591" name="Emperor's Seal Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32592" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32593" name="Wood" title="Priest">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32594" name="Leopard" title="Password Decoder">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32595" name="Lawrence" title="Great Teacher">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32596" name="Sophia" title="Library of Sages Director">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32597" name="Franz" title="Witness of Dawn">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32598" name="Court Magician" title="Elmore-Aden's">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="32599" name="Master Yogi" title="Mountain Ascetic">
+		<set name="ai_type" value="MasterYogi"/>
+		<set name="type" value="Npc"/>
+	</npc>
+</list>

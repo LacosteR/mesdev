@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="12311" name="Hatchling of the Wind" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+		<equip>
+			<rhand item_id="5191"/>
+			<!--Diabolic Grinder-->
+		</equip>
+	</npc>
+	<npc id="12312" name="Hatchling of the Stars" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+		<equip>
+			<rhand item_id="3923"/>
+			<!--Torturer-->
+		</equip>
+	</npc>
+	<npc id="12313" name="Hatchling of Twilight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+</list>

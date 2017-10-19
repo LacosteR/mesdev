@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="14900" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14901" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14902" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14903" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14904" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14905" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14906" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14907" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14908" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14909" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14910" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14911" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14912" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14913" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14914" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14915" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14916" name="Tigress" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14917" name="Tigress" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14918" name="Imperial Phoenix" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+</list>

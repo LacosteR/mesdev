@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="22700" name="Varangka's Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22701" name="Varangka's Dre Vanul" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22702" name="Varangka's Destroyer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22703" name="Contaminated Morek Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="22704" name="Contaminated Batur Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="22705" name="Contaminated Batur Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="22706" name="Turka Follower's Ghost" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="22707" name="Turka Commander's Ghost" title="Grave Guardian Spirit">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformChance" value="20"/>
+			<set name="transformOnDead" value="18815"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+	</npc>
+	<npc id="22708" name="Invader Warrior of Nightmare" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="134"/>
+			<!--Sword of Nightmare-->
+			<lhand item_id="6721"/>
+			<!--Monster Only(Shield of Imperial Warlord Zombie)-->
+		</equip>
+	</npc>
+	<npc id="22709" name="Invader Healer of Nightmare" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22710" name="Invader Guide of Nightmare" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22711" name="Invader Destroyer of Nightmare" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="22712" name="Invader Assassin of Nightmare" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22713" name="Invader Shaman of Nightmare" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22714" name="Invader Archer of Nightmare" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22715" name="Invader Soldier of Nightmare" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22716" name="Invader Soldier of Nightmare" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22717" name="Invader Disciple of Nightmare" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22718" name="Invader Elite Soldier of Nightmare" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="22719" name="Nihil Invader Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22720" name="Nihil Invader Healer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22721" name="Nihil Invader Guide" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22722" name="Nihil Invader Destroyer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22723" name="Nihil Invader Assassin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22724" name="Nihil Invader Shaman" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22725" name="Nihil Invader Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22726" name="Nihil Invader Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22727" name="Nihil Invader Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22728" name="Nihil Invader Disciple" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22729" name="Nihil Invader Elite Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22730" name="Mutant Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22731" name="Mutant Healer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22732" name="Mutant Guide" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22733" name="Mutant Destroyer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22734" name="Mutant Assassin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22735" name="Mutant Shaman" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22736" name="Mutant Overlord" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22737" name="Mutant Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22738" name="Mutant Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22739" name="Mutant Disciple" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22740" name="Mutant Elite Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22741" name="Grave Robber Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22742" name="Ornithomimus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22743" name="Deinonychus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22744" name="Ornithomimus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22745" name="Deinonychus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22746" name="Bgurent" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22747" name="Brakian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22748" name="Groikan" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22749" name="Treykan" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22750" name="Elite Bgurent" title="Bistakon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="SeedOfAnnihilation"/>
+	</npc>
+	<npc id="22751" name="Elite Brakian" title="Bistakon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="SeedOfAnnihilation"/>
+	</npc>
+	<npc id="22752" name="Elite Groikan" title="Bistakon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="SeedOfAnnihilation"/>
+	</npc>
+	<npc id="22753" name="Elite Treykan" title="Bistakon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="SeedOfAnnihilation"/>
+	</npc>
+	<npc id="22754" name="Turtlelian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22755" name="Krajian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22756" name="Tardyon" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22757" name="Elite Turtlelian" title="Reptilikon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="22754" count="1"/>
+			<!--Turtlelian-->
+			<minion npc_id="22755" count="1"/>
+			<!--Krajian-->
+			<minion npc_id="22756" count="1"/>
+			<!--Tardyon-->
+		</minions>
+	</npc>
+	<npc id="22758" name="Elite Krajian" title="Reptilikon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="22754" count="1"/>
+			<!--Turtlelian-->
+			<minion npc_id="22755" count="1"/>
+			<!--Krajian-->
+			<minion npc_id="22756" count="1"/>
+			<!--Tardyon-->
+		</minions>
+	</npc>
+	<npc id="22759" name="Elite Tardyon" title="Reptilikon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="22754" count="1"/>
+			<!--Turtlelian-->
+			<minion npc_id="22755" count="1"/>
+			<!--Krajian-->
+			<minion npc_id="22756" count="1"/>
+			<!--Tardyon-->
+		</minions>
+	</npc>
+	<npc id="22760" name="Kanibi" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22761" name="Kiriona" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22762" name="Kaiona" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22763" name="Elite Kanibi" title="Kokracon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="SeedOfAnnihilation"/>
+	</npc>
+	<npc id="22764" name="Elite Kiriona" title="Kokracon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="SeedOfAnnihilation"/>
+	</npc>
+	<npc id="22765" name="Elite Kaiona" title="Kokracon">
+		<set name="ai_type" value="freya.AnnihilationFighter"/>
+		<set name="type" value="SeedOfAnnihilation"/>
+	</npc>
+	<npc id="22766" name="Mithril Millipede" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22767" name="Archery Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22768" name="Tanta Lizardman Scout" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="98"/>
+			<!--Halberd-->
+		</equip>
+	</npc>
+	<npc id="22769" name="Tanta Lizardman Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8682"/>
+			<!--Naga Storm-->
+		</equip>
+	</npc>
+	<npc id="22770" name="Tanta Lizardman Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22771" name="Tanta Lizardman Berserker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22772" name="Tanta Lizardman Archer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22773" name="Tanta Lizardman Magician" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="22774" name="Tanta Lizardman Summoner" title="">
+		<set name="ai_type" value="LizardmanSummoner"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22775" name="Sel Mahum Drill Sergeant" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumTrainer"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22776" name="Sel Mahum Training Officer" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumTrainer"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22777" name="Sel Mahum Drill Sergeant" title="">
+		<set name="ai_type" value="SkyshadowMeadow.DrillSergeant"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22778" name="Sel Mahum Drill Sergeant" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumTrainer"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22779" name="Sel Mahum Escort Guard" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22780" name="Sel Mahum Recruit" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumRecruit"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22781" name="Sel Mahum Soldier" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22782" name="Sel Mahum Recruit" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumRecruit"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22783" name="Sel Mahum Soldier" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumRecruit"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22784" name="Sel Mahum Recruit" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumRecruit"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22785" name="Sel Mahum Soldier" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumRecruit"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22786" name="Sel Mahum Squad Leader" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumSquadLeader"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22787" name="Sel Mahum Squad Leader" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumSquadLeader"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22788" name="Sel Mahum Squad Leader" title="">
+		<set name="ai_type" value="SkyshadowMeadow.SelMahumSquadLeader"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22789" name="Guide Solina" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8212"/>
+			<!--Monster Only (Solina Brother Mace)-->
+		</equip>
+	</npc>
+	<npc id="22790" name="Seeker Solina" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8213"/>
+			<!--Monster Only (Solina Father Mace)-->
+		</equip>
+	</npc>
+	<npc id="22791" name="Savior Solina" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22792" name="Disciple Solina" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22793" name="Ascetic Solina" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8212"/>
+			<!--Monster Only (Solina Brother Mace)-->
+		</equip>
+	</npc>
+	<npc id="22794" name="Divinity Judge" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="22795" name="Divinity Manager" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="22796" name="Divinity Supervisor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8221"/>
+			<!--Monster Only (Grail Apostle Spear)-->
+		</equip>
+	</npc>
+	<npc id="22797" name="Divinity Worshipper" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22798" name="Divinity Protector" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22799" name="Divinity Fighter" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+</list>

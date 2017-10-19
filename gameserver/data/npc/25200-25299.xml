@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="25200" name="Family of Sheshark" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25201" name="Guard of Sheshark" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="6370"/>
+			<!--Saint Spear-->
+		</equip>
+	</npc>
+	<npc id="25202" name="Krokian Padisha Sobekk" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="5130"/>
+			<!--Nos Sword-->
+		</equip>
+		<minions>
+			<minion npc_id="25203" count="1"/>
+			<!--Parhit Padisha Sobekk-->
+			<minion npc_id="25204" count="2"/>
+			<!--Krokian Padisha Sobekk-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25203" name="Parhit Padisha Sobekk" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="5131"/>
+			<!--Parhit Staff-->
+		</equip>
+	</npc>
+	<npc id="25204" name="Krokian Padisha Sobekk" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="5128"/>
+			<!--Crokian Blade-->
+		</equip>
+	</npc>
+	<npc id="25205" name="Ocean Flame Ashakiel" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="98"/>
+			<!--Halberd-->
+		</equip>
+		<minions>
+			<minion npc_id="25206" count="1"/>
+			<!--Ashakiel's Blade-->
+			<minion npc_id="25207" count="4"/>
+			<!--Ashakiel's Rod-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25206" name="Ashakiel's Blade" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="6717"/>
+			<!--Monster Only(Einhasad Warrior)-->
+		</equip>
+	</npc>
+	<npc id="25207" name="Ashakiel's Rod" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="6718"/>
+			<!--Monster Only(Einhasad Shaman)-->
+		</equip>
+	</npc>
+	<npc id="25208" name="Water Couatle Ateka" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25209" count="3"/>
+			<!--Ateka's Shaman-->
+			<minion npc_id="25210" count="1"/>
+			<!--Ateka's Grunt-->
+		</minions>
+	</npc>
+	<npc id="25209" name="Ateka's Shaman" title="Raid Fighter">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25210" name="Ateka's Grunt" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25211" name="Sebek" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="5130"/>
+			<!--Nos Sword-->
+		</equip>
+		<minions>
+			<minion npc_id="25212" count="3"/>
+			<!--Sebek's Priest-->
+			<minion npc_id="25213" count="1"/>
+			<!--Sebek's Fanatic-->
+		</minions>
+	</npc>
+	<npc id="25212" name="Sebek's Priest" title="Raid Fighter">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="279"/>
+			<!--Reinforced Long Bow-->
+		</equip>
+	</npc>
+	<npc id="25213" name="Sebek's Fanatic" title="Raid Fighter">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="5127"/>
+			<!--Dailaon Knife-->
+		</equip>
+	</npc>
+	<npc id="25214" name="Fafurion's Page Sika" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="5132"/>
+			<!--Giant Trident-->
+		</equip>
+		<minions>
+			<minion npc_id="25215" count="3"/>
+			<!--Sika's Wizard-->
+			<minion npc_id="25216" count="2"/>
+			<!--Sika's Fighter-->
+		</minions>
+	</npc>
+	<npc id="25215" name="Sika's Wizard" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25216" name="Sika's Fighter" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25217" name="Cursed Clara" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25218" count="3"/>
+			<!--Clara's Marksman-->
+			<minion npc_id="25219" count="1"/>
+			<!--Clara's Pawn-->
+		</minions>
+	</npc>
+	<npc id="25218" name="Clara's Marksman" title="Raid Fighter">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2507"/>
+			<!--Lizardspear-->
+		</equip>
+	</npc>
+	<npc id="25219" name="Clara's Pawn" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="25220" name="Death Lord Hallate" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+		<minions>
+			<minion npc_id="25221" count="3"/>
+			<!--Death Mage Krician-->
+			<minion npc_id="25222" count="1"/>
+			<!--Death Fighter Harik-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25221" name="Death Mage Krician" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="25222" name="Death Fighter Harik" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="25223" name="Soul Collector Acheron" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="192"/>
+			<!--Crystal Staff-->
+		</equip>
+		<minions>
+			<minion npc_id="25224" count="3"/>
+			<!--Soul Slasher-->
+			<minion npc_id="25225" count="1"/>
+			<!--Soul Strainer-->
+		</minions>
+	</npc>
+	<npc id="25224" name="Soul Slasher" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25225" name="Soul Strainer" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25226" name="Roaring Lord Kastor" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="186"/>
+			<!--Staff of Magic-->
+		</equip>
+		<minions>
+			<minion npc_id="25227" count="2"/>
+			<!--Kastor's Seer-->
+			<minion npc_id="25228" count="2"/>
+			<!--Kastor's Prefect-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25227" name="Kastor's Seer" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="9"/>
+			<!--Cedar Staff-->
+		</equip>
+	</npc>
+	<npc id="25228" name="Kastor's Prefect" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="25229" name="Storm Winged Naga" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25230" name="Timak Seer Ragoth" title="Raid Boss">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="201"/>
+			<!--Club of Nature-->
+		</equip>
+		<minions>
+			<minion npc_id="25231" count="1"/>
+			<!--Ragoth's Guard-->
+			<minion npc_id="25232" count="4"/>
+			<!--Ragoth's Herald-->
+		</minions>
+	</npc>
+	<npc id="25231" name="Ragoth's Guard" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+			<lhand item_id="657"/>
+			<!--Inferno Shield-->
+		</equip>
+	</npc>
+	<npc id="25232" name="Ragoth's Herald" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="25233" name="Spirit of Andras the Betrayer" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25234" name="Ancient Weird Drake" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25235" name="Vanor Chief Kandra" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+		<minions>
+			<minion npc_id="25236" count="2"/>
+			<!--Kandra's Healer-->
+			<minion npc_id="25237" count="2"/>
+			<!--Kandra's Guard-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25236" name="Kandra's Healer" title="Raid Fighter">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="200"/>
+			<!--Sage's Staff-->
+		</equip>
+	</npc>
+	<npc id="25237" name="Kandra's Guard" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="228"/>
+			<!--Crystal Dagger-->
+		</equip>
+	</npc>
+	<npc id="25238" name="Abyss Brukunt" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25239" count="2"/>
+			<!--Monstrous Beast of Abyss Brukunt-->
+			<minion npc_id="25240" count="2"/>
+			<!--Wild Beast of Abyss Brukunt-->
+		</minions>
+	</npc>
+	<npc id="25239" name="Monstrous Beast of Abyss Brukunt" title="Raid Fighter">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25240" name="Wild Beast of Abyss Brukunt" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25241" name="Harit Hero Tamash" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="298"/>
+			<!--Orcish Glaive-->
+		</equip>
+		<minions>
+			<minion npc_id="25242" count="1"/>
+			<!--Tamash's Advisor-->
+			<minion npc_id="25243" count="3"/>
+			<!--Tamash's Servant-->
+		</minions>
+	</npc>
+	<npc id="25242" name="Tamash's Advisor" title="Raid Fighter">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="25243" name="Tamash's Servant" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="25244" name="Last Lesser Giant Olkuth" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+		<minions>
+			<minion npc_id="25246" count="1"/>
+			<!--Glaki's Henchman-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25245" name="Last Lesser Giant Glaki" title="Raid Boss">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="179"/>
+			<!--Mace of Prayer-->
+		</equip>
+		<minions>
+			<minion npc_id="25246" count="1"/>
+			<!--Glaki's Henchman-->
+			<minion npc_id="25247" count="4"/>
+			<!--Glaki's Servant-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25246" name="Glaki's Henchman" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="169"/>
+			<!--Skull Breaker-->
+		</equip>
+	</npc>
+	<npc id="25247" name="Glaki's Servant" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="166"/>
+			<!--Heavy Mace-->
+		</equip>
+	</npc>
+	<npc id="25248" name="Doom Blade Tanatos" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25249" name="Palatanos of Horrific Power" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25250" count="3"/>
+			<!--Man-Eating Plant of Palatanos-->
+			<minion npc_id="25251" count="1"/>
+			<!--Sapling of Palatanos-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25250" name="Man-Eating Plant of Palatanos" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25251" name="Sapling of Palatanos" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="145"/>
+			<!--Sword of Whispering Death-->
+			<lhand item_id="629"/>
+			<!--Kite Shield-->
+		</equip>
+	</npc>
+	<npc id="25252" name="Palibati Queen Themis" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+		<minions>
+			<minion npc_id="25253" count="3"/>
+			<!--Handmaiden of Themis-->
+			<minion npc_id="25254" count="1"/>
+			<!--Themis's Sentinel-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25253" name="Handmaiden of Themis" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25254" name="Themis's Sentinel" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="25255" name="Gargoyle Lord Tiphon" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25256" name="Taik High Prefect Arak" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="71"/>
+			<!--Flamberge-->
+		</equip>
+		<minions>
+			<minion npc_id="25257" count="3"/>
+			<!--Arak's Archer-->
+			<minion npc_id="25258" count="2"/>
+			<!--Arak's Footman-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25257" name="Arak's Archer" title="Raid Fighter">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="283"/>
+			<!--Akat Long Bow-->
+		</equip>
+	</npc>
+	<npc id="25258" name="Arak's Footman" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="25259" name="Zaken's Butcher Krantz" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="297"/>
+			<!--Glaive-->
+		</equip>
+	</npc>
+	<npc id="25260" name="Iron Giant Totem" title="Raid Boss">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25261" count="3"/>
+			<!--Totem Guard Archer-->
+			<minion npc_id="25262" count="2"/>
+			<!--Totem Guard-->
+		</minions>
+	</npc>
+	<npc id="25261" name="Totem Guard Archer" title="Raid Fighter">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="282"/>
+			<!--Elemental Bow-->
+		</equip>
+	</npc>
+	<npc id="25262" name="Totem Guard" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="215"/>
+			<!--Doom Dagger-->
+		</equip>
+	</npc>
+	<npc id="25263" name="Kernon's Faithful Servant Kelone" title="Raid Boss">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25264" count="1"/>
+			<!--Kelone's Assassin-->
+			<minion npc_id="25265" count="3"/>
+			<!--Kelone's Secret Knight-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25264" name="Kelone's Assassin" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="229"/>
+			<!--Kris-->
+		</equip>
+	</npc>
+	<npc id="25265" name="Kelone's Secret Knight" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="229"/>
+			<!--Kris-->
+		</equip>
+	</npc>
+	<npc id="25266" name="Bloody Empress Decarbia" title="Raid Boss">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="8209"/>
+			<!--Monster Only (Lidia Von Helmann Sword)-->
+		</equip>
+		<minions>
+			<minion npc_id="25267" count="1"/>
+			<!--Decarbia's Royal Guard-->
+			<minion npc_id="25268" count="4"/>
+			<!--Decarbia's Escort-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25267" name="Decarbia's Royal Guard" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="5286"/>
+			<!--Berserker Blade-->
+		</equip>
+	</npc>
+	<npc id="25268" name="Decarbia's Escort" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="25269" name="Beast Lord Behemoth" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25270" count="3"/>
+			<!--Behemoth Javeliner-->
+			<minion npc_id="25271" count="2"/>
+			<!--Behemoth Flare-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25270" name="Behemoth Javeliner" title="Raid Fighter">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2507"/>
+			<!--Lizardspear-->
+		</equip>
+	</npc>
+	<npc id="25271" name="Behemoth Flare" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25272" name="Partisan Leader Talakin" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="77"/>
+			<!--Tsurugi-->
+		</equip>
+	</npc>
+	<npc id="25273" name="Carnamakos" title="Raid Boss">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25274" count="1"/>
+			<!--Carnabarun-->
+			<minion npc_id="25275" count="1"/>
+			<!--Carnassiud-->
+		</minions>
+	</npc>
+	<npc id="25274" name="Carnabarun" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25275" name="Carnassiud" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25276" name="Death Lord Ipos" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25277" name="Lilith's Witch Marilion" title="Raid Boss">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25278" name="Dead Soul of Stigma" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+		<minions>
+			<minion npc_id="25279" count="4"/>
+			<!--Evil Spirit of Stigma-->
+		</minions>
+	</npc>
+	<npc id="25279" name="Evil Spirit of Stigma" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25280" name="Pagan Watcher Cerberon" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="25281" name="Anakim's Nemesis Zakaron" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25282" name="Death Lord Shax" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25283" name="Lilith" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25284" count="4"/>
+			<!--Lilith's Agent-->
+			<minion npc_id="25285" count="2"/>
+			<!--Lilith's Escort-->
+		</minions>
+		<absorblist>
+			<absorb chance="100" min_level="11" max_level="12" type="PARTY_ALL"/>
+			<absorb chance="10" min_level="13" max_level="14" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="25284" name="Lilith's Agent" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25285" name="Lilith's Escort" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="5800"/>
+			<!--Nephilim Lord-->
+			<lhand item_id="5799"/>
+			<!--Nephilim Lord-->
+		</equip>
+	</npc>
+	<npc id="25286" name="Anakim" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25287" count="4"/>
+			<!--Anakim's Guardian-->
+			<minion npc_id="25288" count="2"/>
+			<!--Anakim's Royal Guard-->
+		</minions>
+		<absorblist>
+			<absorb chance="100" min_level="11" max_level="12" type="PARTY_ALL"/>
+			<absorb chance="10" min_level="13" max_level="14" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="25287" name="Anakim's Guardian" title="Raid Fighter">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25288" name="Anakim's Royal Guard" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25289" name="Anakim's Executor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="25290" name="Daimon the White-Eyed" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25291" count="1"/>
+			<!--Family of Daimon-->
+			<minion npc_id="25292" count="1"/>
+			<!--Family of Daimon-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25291" name="Family of Daimon" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25292" name="Family of Daimon" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25293" name="Hestia" title="Guardian Deity of the Hot Springs">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25294" count="1"/>
+			<!--Fighter of Hestia-->
+			<minion npc_id="25295" count="1"/>
+			<!--Follower of Hestia-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="13" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25294" name="Fighter of Hestia" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25295" name="Follower of Hestia" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25296" name="Icicle Emperor Bumbalump" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25297" count="1"/>
+			<!--Icicle Giant-->
+			<minion npc_id="25298" count="1"/>
+			<!--Icicle Giant-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25297" name="Icicle Giant" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25298" name="Icicle Giant" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25299" name="Ketra's Hero Hekaton" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+		<minions>
+			<minion npc_id="25300" count="1"/>
+			<!--Scout of Hekaton-->
+			<minion npc_id="25301" count="1"/>
+			<!--Servant of Hekaton-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+</list>

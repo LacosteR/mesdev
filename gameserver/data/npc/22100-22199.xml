@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="22100" name="Freya's Gardener" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="22101" name="Freya's Servant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="22102" name="Freya's Servant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="22103" name="Freya's White Bear" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22104" name="Freya's Dog" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="22105" name="Spiked Stakato" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22106" name="Spiked Stakato Worker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+	</npc>
+	<npc id="22107" name="Spiked Stakato Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+		</equip>
+	</npc>
+	<npc id="22108" name="Female Spiked Stakato" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+		</equip>
+	</npc>
+	<npc id="22109" name="Male Spiked Stakato" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="22110" name="Male Spiked Stakato" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="22111" name="Spiked Stakato Sorcerer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+	</npc>
+	<npc id="22112" name="Cannibalistic Stakato Follower " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="22113" name="Cannibalistic Stakato Leader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="22112" count="3"/>
+			<!--Cannibalistic Stakato Follower -->
+		</minions>
+	</npc>
+	<npc id="22114" name="Cannibalistic Stakato Leader " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="22112" count="3"/>
+			<!--Cannibalistic Stakato Follower -->
+		</minions>
+	</npc>
+	<npc id="22115" name="Spiked Stakato Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22116" name="Spiked Stakato Drone" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="235"/>
+			<!--Bloody Orchid-->
+		</equip>
+	</npc>
+	<npc id="22117" name="Spiked Stakato Captain" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="22118" name="Spiked Stakato Nurse" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="132"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="22119" name="Spiked Stakato Nurse" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22120" name="Spiked Stakato Baby" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="235"/>
+			<!--Bloody Orchid-->
+		</equip>
+	</npc>
+	<npc id="22121" name="Spiked Stakato Shaman" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+	</npc>
+	<npc id="22122" name="Monastic Pilgrim" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="22123" name="Monastic Crusader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+		<minions>
+			<minion npc_id="22122" count="3"/>
+			<!--Monastic Pilgrim-->
+		</minions>
+	</npc>
+	<npc id="22124" name="Solina Brother" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8212"/>
+			<!--Monster Only (Solina Brother Mace)-->
+		</equip>
+	</npc>
+	<npc id="22125" name="Solina Lay Brother" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8212"/>
+			<!--Monster Only (Solina Brother Mace)-->
+		</equip>
+	</npc>
+	<npc id="22126" name="Silent Seeker" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8213"/>
+			<!--Monster Only (Solina Father Mace)-->
+		</equip>
+	</npc>
+	<npc id="22127" name="Silent Brother" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8213"/>
+			<!--Monster Only (Solina Father Mace)-->
+		</equip>
+	</npc>
+	<npc id="22128" name="Monastery Guardian" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22129" name="Warrior Monk" title="">
+		<set name="ai_type" value="MoSMonk"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8211"/>
+			<!--Monster Only (Monk Warrior Sword)-->
+			<lhand item_id="8210"/>
+			<!--Monster Only (Monk Warrior Shield)-->
+		</equip>
+	</npc>
+	<npc id="22130" name="Divine Advocate" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="6717"/>
+			<!--Monster Only(Einhasad Warrior)-->
+		</equip>
+	</npc>
+	<npc id="22131" name="Pilgrim of Light" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="6718"/>
+			<!--Monster Only(Einhasad Shaman)-->
+		</equip>
+	</npc>
+	<npc id="22132" name="Judge of Light" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8220"/>
+			<!--Monster Only (Grail Apostle Bow)-->
+		</equip>
+	</npc>
+	<npc id="22133" name="Guardian of the Grail" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22134" name="Guardian of the Holy Land" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8214"/>
+			<!--Monster Only (Solina Priest Pole)-->
+		</equip>
+	</npc>
+	<npc id="22135" name="Beholder of Light" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8221"/>
+			<!--Monster Only (Grail Apostle Spear)-->
+		</equip>
+		<minions>
+			<minion npc_id="22130" count="1"/>
+			<!--Divine Advocate-->
+			<minion npc_id="22131" count="1"/>
+			<!--Pilgrim of Light-->
+		</minions>
+	</npc>
+	<npc id="22136" name="Gatekeeper Zombie" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="8217"/>
+			<!--Monster Only (Zombie Gateguard Spear)-->
+		</equip>
+	</npc>
+	<npc id="22137" name="Penance Guard" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8217"/>
+			<!--Monster Only (Zombie Gateguard Spear)-->
+		</equip>
+	</npc>
+	<npc id="22138" name="Chapel Guard" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8217"/>
+			<!--Monster Only (Zombie Gateguard Spear)-->
+		</equip>
+	</npc>
+	<npc id="22139" name="Old Aristocrat's Soldier" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8216"/>
+			<!--Monster Only (Zombie Enlisted Man Claw)-->
+		</equip>
+	</npc>
+	<npc id="22140" name="Zombie Worker" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+		</equip>
+	</npc>
+	<npc id="22141" name="Forgotten Victim" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+		</equip>
+	</npc>
+	<npc id="22142" name="Triol's Layperson" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+			<lhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+		</equip>
+	</npc>
+	<npc id="22143" name="Triol's Believer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22144" name="Resurrected Temple Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22145" name="Ritual Sacrifice" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22146" name="Triol's Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22147" name="Ritual Offering" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22148" name="Triol's Believer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22149" name="Ritual Offering" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22150" name="Triol's Believer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22151" name="Triol's Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22152" name="Temple Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8215"/>
+			<!--Monster Only (Zombie Enlisted Man Sword)-->
+			<lhand item_id="8219"/>
+			<!--Monster Only (Zombie Laborer Sword)-->
+		</equip>
+	</npc>
+	<npc id="22153" name="Temple Guard Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8215"/>
+			<!--Monster Only (Zombie Enlisted Man Sword)-->
+		</equip>
+	</npc>
+	<npc id="22154" name="Ritual Sacrifice" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22155" name="Triol's High Priest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8206"/>
+			<!--Monster Only (Heretic Priest Sword)-->
+			<lhand item_id="8206"/>
+			<!--Monster Only (Heretic Priest Sword)-->
+		</equip>
+	</npc>
+	<npc id="22156" name="Triol's Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22157" name="Triol's Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22158" name="Triol's Believer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+			<lhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+		</equip>
+	</npc>
+	<npc id="22159" name="Triol's High Priest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8206"/>
+			<!--Monster Only (Heretic Priest Sword)-->
+			<lhand item_id="8206"/>
+			<!--Monster Only (Heretic Priest Sword)-->
+		</equip>
+	</npc>
+	<npc id="22160" name="Triol's Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22161" name="Ritual Sacrifice" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22162" name="Triol's Believer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+			<lhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+		</equip>
+	</npc>
+	<npc id="22163" name="Triol's High Priest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8208"/>
+			<!--Monster Only (Heretic Private Staff)-->
+		</equip>
+	</npc>
+	<npc id="22164" name="Triol's Believer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+			<lhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+		</equip>
+	</npc>
+	<npc id="22165" name="Triol's Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22166" name="Triol's Believer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22167" name="Triol's High Priest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8206"/>
+			<!--Monster Only (Heretic Priest Sword)-->
+			<lhand item_id="8206"/>
+			<!--Monster Only (Heretic Priest Sword)-->
+		</equip>
+	</npc>
+	<npc id="22168" name="Triol's Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22169" name="Ritual Sacrifice" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22170" name="Triol's Believer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+			<lhand item_id="8207"/>
+			<!--Monster Only (Heretic Private Axe)-->
+		</equip>
+	</npc>
+	<npc id="22171" name="Triol's High Priest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8208"/>
+			<!--Monster Only (Heretic Private Staff)-->
+		</equip>
+	</npc>
+	<npc id="22172" name="Ritual Sacrifice" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22173" name="Triol's Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22174" name="Triol's Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22175" name="Andreas' Captain of the Royal Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8215"/>
+			<!--Monster Only (Zombie Enlisted Man Sword)-->
+		</equip>
+	</npc>
+	<npc id="22176" name="Andreas' Royal Guards" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8215"/>
+			<!--Monster Only (Zombie Enlisted Man Sword)-->
+		</equip>
+	</npc>
+	<npc id="22188" name="Andreas' Captain of the Royal Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8208"/>
+			<!--Monster Only (Heretic Private Staff)-->
+		</equip>
+	</npc>
+	<npc id="22189" name="Andreas' Royal Guards" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22190" name="Ritual Sacrifice" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22191" name="Andreas' Captain of the Royal Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8208"/>
+			<!--Monster Only (Heretic Private Staff)-->
+		</equip>
+	</npc>
+	<npc id="22192" name="Andreas' Royal Guards" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22193" name="Andreas' Royal Guards" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8205"/>
+			<!--Monster Only (Heretic Priest Sigil)-->
+		</equip>
+	</npc>
+	<npc id="22194" name="Penance Guard" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8217"/>
+			<!--Monster Only (Zombie Gateguard Spear)-->
+		</equip>
+	</npc>
+	<npc id="22195" name="Ritual Sacrifice" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22196" name="Velociraptor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<minions>
+			<minion npc_id="22197" count="1"/>
+			<!--Velociraptor-->
+			<minion npc_id="22218" count="1"/>
+			<!--Velociraptor-->
+			<minion npc_id="22223" count="1"/>
+			<!--Velociraptor-->
+		</minions>
+	</npc>
+	<npc id="22197" name="Velociraptor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22198" name="Velociraptor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<minions>
+			<minion npc_id="22197" count="1"/>
+			<!--Velociraptor-->
+			<minion npc_id="22218" count="1"/>
+			<!--Velociraptor-->
+			<minion npc_id="22223" count="1"/>
+			<!--Velociraptor-->
+		</minions>
+	</npc>
+	<npc id="22199" name="Pterosaur" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+</list>

@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="22500" name="Lost Watcher" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWatcher"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="22501" name="Lost Watcher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="22502" name="Lost Beholder" title="">
+		<set name="ai_type" value="custom.LabyrinthLostBeholder"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6717"/>
+			<!--Monster Only(Einhasad Warrior)-->
+		</equip>
+	</npc>
+	<npc id="22503" name="Lost Watcher" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWatcher"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+			<lhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+		</equip>
+	</npc>
+	<npc id="22504" name="Lost Watcher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+			<lhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+		</equip>
+	</npc>
+	<npc id="22505" name="Lost Beholder" title="">
+		<set name="ai_type" value="custom.LabyrinthLostBeholder"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22506" name="Boom - Child" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22507" name="Boom - Child" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22508" name="Boom - Child" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22509" name="Fanatic of Infinity" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22510" name="Rotten Messenger" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22511" name="Zealot of Infinity" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22512" name="Body Severer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22513" name="Body Harvester" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22514" name="Soul Exploiter" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22515" name="Soul Devourer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22516" name="Butcher of Infinity" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22517" name="Disciple of Infinity" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22518" name="Rotten Messenger" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22519" name="Body Harvester" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22520" name="Body Severer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22521" name="Soul Exploiter" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22522" name="Soul Devourer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22523" name="Soul Devourer" title="Food of Ekimus">
+		<set name="ai_type" value="seedofinfinity.EkimusFood"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="900"/>
+			<!--Ring of Grace-->
+		</equip>
+	</npc>
+	<npc id="22524" name="Emissary of Death" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13984"/>
+			<!--Exclusive to Monsters (Death Slayer_1hs)-->
+		</equip>
+	</npc>
+	<npc id="22525" name="Emissary of Death" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13984"/>
+			<!--Exclusive to Monsters (Death Slayer_1hs)-->
+		</equip>
+	</npc>
+	<npc id="22526" name="Emissary of Death" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13985"/>
+			<!--Exclusive to Monsters (Death Slayer_r)-->
+			<lhand item_id="13986"/>
+			<!--Exclusive to Monsters (Death Slayer_l)-->
+		</equip>
+	</npc>
+	<npc id="22527" name="Emissary of Death" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13985"/>
+			<!--Exclusive to Monsters (Death Slayer_r)-->
+			<lhand item_id="13986"/>
+			<!--Exclusive to Monsters (Death Slayer_l)-->
+		</equip>
+	</npc>
+	<npc id="22528" name="Cursed Prefect" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13982"/>
+			<!--Exclusive to Monsters (Death Knight_pole)-->
+		</equip>
+	</npc>
+	<npc id="22529" name="Cursed Prefect" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13982"/>
+			<!--Exclusive to Monsters (Death Knight_pole)-->
+		</equip>
+	</npc>
+	<npc id="22530" name="Cursed Prefect" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13983"/>
+			<!--Exclusive to Monsters (Death Knight_2hs)-->
+		</equip>
+	</npc>
+	<npc id="22531" name="Cursed Prefect" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13983"/>
+			<!--Exclusive to Monsters (Death Knight_2hs)-->
+		</equip>
+	</npc>
+	<npc id="22532" name="Law Scholar of Conclusions" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22533" name="Law Scholar of Conclusions" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22534" name="Law Scholar of Conclusions" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22535" name="Law Scholar of Conclusions" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22536" name="Royal Guard Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+	</npc>
+	<npc id="22537" name="Dragon Steed Troop Grand Magician" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+	</npc>
+	<npc id="22538" name="Dragon Steed Troop Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="22539" name="Dragon Steed Troops No 1 Battalion Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="22540" name="White Dragon Leader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="22541" name="Dragon Steed Troop Infantry" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="22542" name="Dragon Steed Troop Magic Leader" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+	</npc>
+	<npc id="22543" name="Dragon Steed Troop Magician" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+	</npc>
+	<npc id="22544" name="Dragon Steed Troop Magic Soldier" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13981"/>
+			<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+	</npc>
+	<npc id="22545" name="Wife of the Dragon of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22546" name="Warrior of Light" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+	</npc>
+	<npc id="22547" name="Dragon Steed Troop Healer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13981"/>
+			<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+	</npc>
+	<npc id="22548" name="Dragon Steed Troop Javelin Thrower" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13843"/>
+			<!--Draconic Peltast Weapon-->
+		</equip>
+	</npc>
+	<npc id="22549" name="Dragon Steed Troop Javelin Thrower" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+			<set name="MaxPursueRange" value="6000"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13843"/>
+			<!--Draconic Peltast Weapon-->
+		</equip>
+	</npc>
+	<npc id="22550" name="Savage Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13987"/>
+			<!--Exclusive to Monsters (Savage Warrior)-->
+		</equip>
+	</npc>
+	<npc id="22551" name="Priest of Darkness" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+		</ai_params>
+	</npc>
+	<npc id="22552" name="Mutation Drake" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformChance" value="3"/>
+			<set name="transformOnDead" value="22545"/>
+		</ai_params>
+	</npc>
+	<npc id="22553" name="Large Crystal Core" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22554" name="Small Crystal Core" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22555" name="Small Crystal Core" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22556" name="Small Crystal Core" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22557" name="Defense Mechanism" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22558" name="Defense Battery" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22559" name="Defeated Troops Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22560" name="Defeated Troops No 1 Battalion Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22561" name="Defeated Troops White Dragon Leader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22562" name="Defeated Troops Infantry" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22563" name="Defeated Troops Magic Leader" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22564" name="Defeated Troops Magician" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22565" name="Defeated Troops Magic Soldier" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22566" name="Defeated Troops Healer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22567" name="Defeated Troops Javelin Thrower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22568" name="Defeated Troops Javelin Thrower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22569" name="Soldiers of Bravery" title="Tiat's Bodyguard">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22570" name="Royal Guard Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22571" name="Dragon Steed Troop Grand Magician" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22572" name="Dragon Steed Troop Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="22573" name="Dragon Steed Troops No 1 Battalion Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="22574" name="White Dragon Leader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="22575" name="Dragon Steed Troop Infantry" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="22576" name="Dragon Steed Troop Magic Leader" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22577" name="Dragon Steed Troop Magician" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22578" name="Dragon Steed Troop Magic Soldier" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13981"/>
+			<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+	</npc>
+	<npc id="22579" name="Warrior of Light" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22580" name="Dragon Steed Troop Healer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13981"/>
+			<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+	</npc>
+	<npc id="22581" name="Dragon Steed Troop Javelin Thrower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13843"/>
+			<!--Draconic Peltast Weapon-->
+		</equip>
+	</npc>
+	<npc id="22582" name="Dragon Steed Troop Javelin Thrower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13843"/>
+			<!--Draconic Peltast Weapon-->
+		</equip>
+	</npc>
+	<npc id="22583" name="Dragon Steed Troop Magic Leader" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22584" name="Dragon Steed Troop Magician" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22585" name="Dragon Steed Troop Magic Soldier" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13981"/>
+			<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+	</npc>
+	<npc id="22586" name="Dragon Steed Troop Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="22587" name="Dragon Steed Troop Captain #1" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="22588" name="White Dragon Leader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="22589" name="Dragon Steed Troop Infantry" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="22590" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22591" name="Dragon Steed Troop Magic Leader" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22592" name="Dragon Steed Troop Magician" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22593" name="Dragon Steed Troop Magic Soldier" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13981"/>
+			<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+	</npc>
+	<npc id="22594" name="Dragon Steed Troop Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="22595" name="Dragon Steed Troops No 1 Battalion Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="22596" name="White Dragon Leader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="22597" name="Dragon Steed Troop Infantry" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="22598" name="Obelisk" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22599" name="Great Powerful Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

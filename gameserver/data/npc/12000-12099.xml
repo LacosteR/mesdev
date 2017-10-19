@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="12077" name="Wolf" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+</list>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="25000" levels="1" name="Blessed Resurrection">
+		<!--
+			Description: Allows the use of Blessed Resurrection.
+		-->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="300000" />
+		<set name="power" val="100" />
+		<set name="magicLevel" val="1" />
+		<set name="castRange" val="400" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="effectPoint" val="624" />
+		<set name="target" val="TARGET_CORPSE_PLAYER" />
+		<set name="corpse" val="true" />
+		<set name="skillType" val="RESURRECT" />
+		<set name="useSS" val="false" />
+		<set name="canPet" val="false" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	
+	<skill id="25001" levels="1" name="Blessed Escape">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="300000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="200" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="RECALL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" val="true" />
+	</skill>
+	
+	<skill id="25002" levels="1" name="Weight Limit">
+		<set name="icon" val="icon.skill0234" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxLoad" val="36000" />
+		</for>
+	</skill>
+</list>

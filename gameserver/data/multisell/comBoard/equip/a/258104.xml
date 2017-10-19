@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Etc -->
+	<!-- А рубашки -->
+	<item>
+		<production id="9587" count="1"/>
+		<ingredient id="57" count="50000000"/>
+	</item>
+	<item>
+		<production id="9591" count="1"/>
+		<ingredient id="57" count="50000000"/>
+	</item>
+	<item>
+		<production id="14941" count="1"/>
+		<ingredient id="57" count="50000000"/>
+	</item>
+	<item>
+		<production id="14945" count="1"/>
+		<ingredient id="57" count="50000000"/>
+	</item>
+	<item>
+		<production id="14949" count="1"/>
+		<ingredient id="57" count="50000000"/>
+	</item>
+</list>

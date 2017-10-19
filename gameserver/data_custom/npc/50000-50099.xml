@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="50000" name="Dire Kanabion" title="">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="Kanabion" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4151.659" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="80.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="958" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="725" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1507.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2551" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="824" />
+		<set name="baseRunSpd" value="165" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="40.6" />
+		<set name="collision_radius" value="20.0" />
+		<set name="level" value="83" />
+		<set name="rewardExp" value="38721" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="4519" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Monster" />
+		<faction name="rim_clan" range="200"/>
+		<skills>
+			<skill id="4032" level="8" />	<!--NPC Strike-->
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4410" level="11" />	<!--Average P. Atk.-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="5" />	<!--Blunt Weapons-->
+			<skill id="4416" level="9" />	<!--Demons-->
+			<skill id="5565" level="1" />	<!--Expose Weak Point-->
+		</skills>
+		<rewardlist type="NOT_RATED_GROUPED">
+			<group chance="42.0">
+				<reward item_id="8600" min="1" max="1" chance="20.0000" />	<!--Herb of Life-->
+				<reward item_id="8601" min="1" max="1" chance="45.0000" />	<!--Greater Herb of Life-->
+				<reward item_id="8602" min="1" max="1" chance="35.0000" />	<!--Superior Herb of Life-->
+			</group>
+			<group chance="11.0">
+				<reward item_id="8603" min="1" max="1" chance="10.0000" />	<!--Herb of Mana-->
+				<reward item_id="8604" min="1" max="1" chance="54.0000" />	<!--Greater Herb of Mana-->
+				<reward item_id="8605" min="1" max="1" chance="36.0000" />	<!--Superior Herb of Mana-->
+			</group>
+			<group chance="25.0">
+				<reward item_id="8606" min="1" max="1" chance="20.0000" />	<!--Herb of Power-->
+				<reward item_id="8608" min="1" max="1" chance="20.0000" />	<!--Herb of Alacrity-->
+				<reward item_id="8610" min="1" max="1" chance="20.0000" />	<!--Herb of Critical Attack - Probability-->
+				<reward item_id="10655" min="1" max="1" chance="20.0000" />	<!--Herb of Vampiric Rage-->
+				<reward item_id="10656" min="1" max="1" chance="20.0000" />	<!--Herb of Critical Attack - Power-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="8607" min="1" max="1" chance="50.0000" />	<!--Herb of Magic-->
+				<reward item_id="8609" min="1" max="1" chance="50.0000" />	<!--Herb of Casting Spd.-->
+			</group>
+			<group chance="1.0">
+				<reward item_id="8612" min="1" max="1" chance="33.0000" />	<!--Herb of the Warrior-->
+				<reward item_id="8613" min="1" max="1" chance="33.0000" />	<!--Herb of the Mystic-->
+				<reward item_id="8614" min="1" max="1" chance="34.0000" />	<!--Herb of Recovery-->
+			</group>
+			<group chance="11.0">
+				<reward item_id="8611" min="1" max="1" chance="94.0000" />	<!--Herb of Speed-->
+				<reward item_id="10657" min="1" max="1" chance="3.0000" />	<!--Herb of Doubt-->
+				<reward item_id="13028" min="1" max="1" chance="3.0000" />	<!--Vitality Replenishing Herb-->
+			</group>
+		</rewardlist>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="60.0">
+				<reward item_id="5575" min="5376" max="10752" chance="100.0000" />	<!--Ancient Adena-->
+			</group>
+			<group chance="5.0">
+				<reward item_id="5550" min="1" max="1" chance="20.0000" />	<!--Durable Metal Plate-->
+				<reward item_id="1880" min="1" max="2" chance="30.0000" />	<!--Steel-->
+				<reward item_id="1894" min="1" max="2" chance="50.0000" />	<!--Crafted Leather-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="1874" min="1" max="1" chance="20.0000" />	<!--Oriharukon Ore-->
+				<reward item_id="4039" min="1" max="2" chance="20.0000" />	<!--Mold Glue-->
+				<reward item_id="1876" min="2" max="4" chance="40.0000" />	<!--Mithril Ore-->
+				<reward item_id="1875" min="1" max="1" chance="20.0000" />	<!--Stone of Purity-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="4042" min="1" max="1" chance="40.0000" />	<!--Enria-->
+				<reward item_id="4043" min="1" max="1" chance="60.0000" />	<!--Asofe-->
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="50001" name="Dire Kanabion" title="Doppler">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="Kanabion" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="4676.659" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="188.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="958" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="425" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1507.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="2951" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="524" />
+		<set name="baseRunSpd" value="165" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="49.0" />
+		<set name="collision_radius" value="33.0" />
+		<set name="level" value="84" />
+		<set name="rewardExp" value="48721" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="4919" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Monster" />
+		<faction name="rim_clan" range="200">
+			<ignore npc_id="-1000000" />	<!--null-->
+		</faction>
+		<skills>
+			<skill id="4032" level="8" />	<!--NPC Strike-->
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4410" level="11" />	<!--Average P. Atk.-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="7" />	<!--Daggers-->
+			<skill id="4416" level="9" />	<!--Demons-->
+			<skill id="5565" level="1" />	<!--Expose Weak Point-->
+		</skills>
+		<rewardlist type="NOT_RATED_GROUPED">
+			<group chance="42.0">
+				<reward item_id="8600" min="1" max="1" chance="20.0000" />	<!--Herb of Life-->
+				<reward item_id="8601" min="1" max="1" chance="45.0000" />	<!--Greater Herb of Life-->
+				<reward item_id="8602" min="1" max="1" chance="35.0000" />	<!--Superior Herb of Life-->
+			</group>
+			<group chance="11.0">
+				<reward item_id="8603" min="1" max="1" chance="10.0000" />	<!--Herb of Mana-->
+				<reward item_id="8604" min="1" max="1" chance="54.0000" />	<!--Greater Herb of Mana-->
+				<reward item_id="8605" min="1" max="1" chance="36.0000" />	<!--Superior Herb of Mana-->
+			</group>
+			<group chance="25.0">
+				<reward item_id="8606" min="1" max="1" chance="20.0000" />	<!--Herb of Power-->
+				<reward item_id="8608" min="1" max="1" chance="20.0000" />	<!--Herb of Alacrity-->
+				<reward item_id="8610" min="1" max="1" chance="20.0000" />	<!--Herb of Critical Attack - Probability-->
+				<reward item_id="10655" min="1" max="1" chance="20.0000" />	<!--Herb of Vampiric Rage-->
+				<reward item_id="10656" min="1" max="1" chance="20.0000" />	<!--Herb of Critical Attack - Power-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="8607" min="1" max="1" chance="50.0000" />	<!--Herb of Magic-->
+				<reward item_id="8609" min="1" max="1" chance="50.0000" />	<!--Herb of Casting Spd.-->
+			</group>
+			<group chance="1.0">
+				<reward item_id="8612" min="1" max="1" chance="33.0000" />	<!--Herb of the Warrior-->
+				<reward item_id="8613" min="1" max="1" chance="33.0000" />	<!--Herb of the Mystic-->
+				<reward item_id="8614" min="1" max="1" chance="34.0000" />	<!--Herb of Recovery-->
+			</group>
+			<group chance="11.0">
+				<reward item_id="8611" min="1" max="1" chance="94.0000" />	<!--Herb of Speed-->
+				<reward item_id="10657" min="1" max="1" chance="3.0000" />	<!--Herb of Doubt-->
+				<reward item_id="13028" min="1" max="1" chance="3.0000" />	<!--Vitality Replenishing Herb-->
+			</group>
+		</rewardlist>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="60.0">
+				<reward item_id="5575" min="5376" max="10752" chance="100.0000" />	<!--Ancient Adena-->
+			</group>
+			<group chance="5.0">
+				<reward item_id="5550" min="1" max="1" chance="20.0000" />	<!--Durable Metal Plate-->
+				<reward item_id="1880" min="1" max="2" chance="30.0000" />	<!--Steel-->
+				<reward item_id="1894" min="1" max="2" chance="50.0000" />	<!--Crafted Leather-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="1874" min="1" max="1" chance="20.0000" />	<!--Oriharukon Ore-->
+				<reward item_id="4039" min="1" max="2" chance="20.0000" />	<!--Mold Glue-->
+				<reward item_id="1876" min="2" max="4" chance="40.0000" />	<!--Mithril Ore-->
+				<reward item_id="1875" min="1" max="1" chance="20.0000" />	<!--Stone of Purity-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="4042" min="1" max="1" chance="40.0000" />	<!--Enria-->
+				<reward item_id="4043" min="1" max="1" chance="60.0000" />	<!--Asofe-->
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="50002" name="Dire Kanabion" title="Void">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="Kanabion" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="5676.659" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="108.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="981" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="330" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1507.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="3570" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="430" />
+		<set name="baseRunSpd" value="165" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="49.0" />
+		<set name="collision_radius" value="33.0" />
+		<set name="level" value="85" />
+		<set name="rewardExp" value="50217" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="5022" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Monster" />
+		<faction name="rim_clan" range="300">
+			<ignore npc_id="-1000000" />	<!--null-->
+		</faction>
+		<skills>
+			<skill id="4032" level="8" />	<!--NPC Strike-->
+			<skill id="4045" level="1" />	<!--Resist Full Magic Attack-->
+			<skill id="4340" level="1" />	<!--Ultimate Buff, 2nd-->
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4410" level="11" />	<!--Average P. Atk.-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="7" />	<!--Daggers-->
+			<skill id="4416" level="9" />	<!--Demons-->
+			<skill id="4494" level="1" />	<!--Raid Boss-->
+			<skill id="5479" level="1" />	<!--Boss Petrification Resistance-->
+			<skill id="5565" level="1" />	<!--Expose Weak Point-->
+		</skills>
+		<rewardlist type="NOT_RATED_GROUPED">
+			<group chance="42.0">
+				<reward item_id="8600" min="1" max="1" chance="20.0000" />	<!--Herb of Life-->
+				<reward item_id="8601" min="1" max="1" chance="45.0000" />	<!--Greater Herb of Life-->
+				<reward item_id="8602" min="1" max="1" chance="35.0000" />	<!--Superior Herb of Life-->
+			</group>
+			<group chance="11.0">
+				<reward item_id="8603" min="1" max="1" chance="10.0000" />	<!--Herb of Mana-->
+				<reward item_id="8604" min="1" max="1" chance="54.0000" />	<!--Greater Herb of Mana-->
+				<reward item_id="8605" min="1" max="1" chance="36.0000" />	<!--Superior Herb of Mana-->
+			</group>
+			<group chance="25.0">
+				<reward item_id="8606" min="1" max="1" chance="20.0000" />	<!--Herb of Power-->
+				<reward item_id="8608" min="1" max="1" chance="20.0000" />	<!--Herb of Alacrity-->
+				<reward item_id="8610" min="1" max="1" chance="20.0000" />	<!--Herb of Critical Attack - Probability-->
+				<reward item_id="10655" min="1" max="1" chance="20.0000" />	<!--Herb of Vampiric Rage-->
+				<reward item_id="10656" min="1" max="1" chance="20.0000" />	<!--Herb of Critical Attack - Power-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="8607" min="1" max="1" chance="50.0000" />	<!--Herb of Magic-->
+				<reward item_id="8609" min="1" max="1" chance="50.0000" />	<!--Herb of Casting Spd.-->
+			</group>
+			<group chance="1.0">
+				<reward item_id="8612" min="1" max="1" chance="33.0000" />	<!--Herb of the Warrior-->
+				<reward item_id="8613" min="1" max="1" chance="33.0000" />	<!--Herb of the Mystic-->
+				<reward item_id="8614" min="1" max="1" chance="34.0000" />	<!--Herb of Recovery-->
+			</group>
+			<group chance="11.0">
+				<reward item_id="8611" min="1" max="1" chance="94.0000" />	<!--Herb of Speed-->
+				<reward item_id="10657" min="1" max="1" chance="3.0000" />	<!--Herb of Doubt-->
+				<reward item_id="13028" min="1" max="1" chance="3.0000" />	<!--Vitality Replenishing Herb-->
+			</group>
+		</rewardlist>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="60.0">
+				<reward item_id="5575" min="5376" max="10752" chance="100.0000" />	<!--Ancient Adena-->
+			</group>
+			<group chance="5.0">
+				<reward item_id="5550" min="1" max="1" chance="20.0000" />	<!--Durable Metal Plate-->
+				<reward item_id="1880" min="1" max="2" chance="30.0000" />	<!--Steel-->
+				<reward item_id="1894" min="1" max="2" chance="50.0000" />	<!--Crafted Leather-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="1874" min="1" max="1" chance="20.0000" />	<!--Oriharukon Ore-->
+				<reward item_id="4039" min="1" max="2" chance="20.0000" />	<!--Mold Glue-->
+				<reward item_id="1876" min="2" max="4" chance="40.0000" />	<!--Mithril Ore-->
+				<reward item_id="1875" min="1" max="1" chance="20.0000" />	<!--Stone of Purity-->
+			</group>
+			<group chance="10.0">
+				<reward item_id="4042" min="1" max="1" chance="40.0000" />	<!--Enria-->
+				<reward item_id="4043" min="1" max="1" chance="60.0000" />	<!--Asofe-->
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+	</npc>
+	<npc id="50003" name="Soulless Abomination" title="Raid Boss">
+		<set name="aggroRange" value="300" />
+		<set name="ai_type" value="InstanceBoss" />
+		<set name="baseAtkRange" value="100" />
+		<set name="baseCON" value="57" />
+		<set name="baseCritRate" value="120" />
+		<set name="baseDEX" value="73" />
+		<set name="baseHpMax" value="1162603.418" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="142.223" />
+		<set name="baseINT" value="76" />
+		<set name="baseMAtk" value="2146" />
+		<set name="baseMAtkSpd" value="3819" />
+		<set name="baseMDef" value="1043" />
+		<set name="baseMEN" value="80" />
+		<set name="baseMpMax" value="1939.14" />
+		<set name="baseMpReg" value="3.15" />
+		<set name="basePAtk" value="14647" />
+		<set name="basePAtkSpd" value="453" />
+		<set name="basePDef" value="1412" />
+		<set name="baseRunSpd" value="200" />
+		<set name="baseSTR" value="60" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="70" />
+		<set name="baseWalkSpd" value="92" />
+		<set name="collision_height" value="40.8" />
+		<set name="collision_radius" value="24.0" />
+		<set name="level" value="83" />
+		<set name="rewardExp" value="5437589" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="1219007" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="RaidBoss" />
+		<skills>
+			<skill id="4045" level="1" />	<!--Resist Full Magic Attack-->
+			<skill id="4408" level="1" />	<!--HP Increase (1x)-->
+			<skill id="4409" level="1" />	<!--MP Increase (1x)-->
+			<skill id="4410" level="11" />	<!--Average P. Atk.-->
+			<skill id="4411" level="11" />	<!--Average M. Atk.-->
+			<skill id="4412" level="11" />	<!--Average P. Def.-->
+			<skill id="4413" level="11" />	<!--Average M. Def.-->
+			<skill id="4414" level="2" />	<!--Standard Type-->
+			<skill id="4415" level="3" />	<!--One-handed Sword-->
+			<skill id="4416" level="1" />	<!--Undead-->
+			<skill id="4494" level="1" />	<!--Raid Boss-->
+			<skill id="4911" level="1" />	<!--Raid Boss - Level 80-->
+			<skill id="5893" level="1" />	<!--Ritual of Cannibalism-->
+			<skill id="5894" level="1" />	<!--Mark of Despair-->
+			<skill id="5899" level="1" />	<!--Burst of Pain-->
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="100.0000">
+				<reward item_id="6578" min="2" max="4" chance="70.0000" />	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+				<reward item_id="6577" min="1" max="2" chance="30.0000" />	<!--Blessed Scroll of Resurrection-->
+			</group>
+			<group chance="100.0000">
+				<reward item_id="30099" min="120" max="240" chance="100.0000" />	<!--Gladiator Point-->
+			</group>
+			<group chance="20.0000">
+				<reward item_id="30001" min="54" max="96" chance="90.0000" />	<!--Enchant Scroll Fragment-->
+				<reward item_id="30000" min="150" max="250" chance="10.0000" />	<!--Theria-->
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="150" />
+			<defence attribute="water" value="150" />
+			<defence attribute="wind" value="150" />
+			<defence attribute="earth" value="150" />
+			<defence attribute="holy" value="150" />
+			<defence attribute="unholy" value="150" />
+		</attributes>
+	</npc>
+</list>

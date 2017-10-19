@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="4301" name="Queen of Hearts" title="Valentine Messenger">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4302" name="Master Dugi" title="Soul Healer">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4303" name="Skooldy" title="Halloween Children">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4304" name="White-Bearded Santa" title="Merry Christmas~">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4305" name="Rosalia" title="Helpless Romantic">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4306" name="Steve Shyagel" title="Eva's High Priest">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4307" name="Santa Claus" title="Event Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4308" name="Angel Cat" title="Love's Envoy">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4309" name="Prophet" title="Sinister">
+		<set name="ai_type" value="adept.AdeptGludio"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4310" name="Prophet" title="Sinister">
+		<set name="ai_type" value="adept.AdeptGiran"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4311" name="Prophet" title="Sinister">
+		<set name="ai_type" value="adept.AdeptAden"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4312" name="Prophet" title="Sinister">
+		<set name="ai_type" value="adept.AdeptRune"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4313" name="Angel Cat" title="Character Collector">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4314" name="Teleport Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4315" name="Warehouse Keeper" title="Fantasy Isle Warehouse Keeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/"/>
+		<set name="type" value="Warehouse"/>
+	</npc>
+	<npc id="4316" name="Kind Sno" title="Photo NPC">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4317" name="Kind Sno" title="Photo NPC">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4318" name="Kind Sno" title="Photo NPC">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4319" name="Kind Sno" title="Photo NPC">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4320" name="Kind Sno" title="Photo NPC">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4321" name="Kind Sno" title="Photo NPC">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4322" name="Kind Sno" title="Photo NPC">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4323" name="Kind Sno" title="Photo NPC">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="htm_root" value="Town/FantasyIsle/"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4324" name="Worshipper" title="Sinister">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4325" name="Altar Guard" title="">
+		<set name="ai_type" value="Guard"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="4326" name="Nevit's Herald" title="Invoker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4327" name="Worshipper" title="Sinister">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="4328" name="Altar Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+</list>

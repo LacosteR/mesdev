@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "armor_sets.dtd">
+<!-- 
+@pchayka
+id - порядковый номер сета (хранение, соответствует скриптам)
+Все прочие параметры могут быть указаны как массив строк, разделенных ";" - legs="2402;11378". 
+Уровень и ид скила разделяется "-"
+Если у сета нет части или умения, параметр указывать не нужно
+3006 скилл сета добавляется сервером, вносить сюда его не нужно
+shield="15587" shield_skills="3417-1"
+ -->
+<list>
+	<set id="199" chest="36000" legs="36001" head="36002" skills="30005-1" />
+	<set id="200" chest="36010" legs="36011" gloves="36012" skills="30005-2" />
+	<set id="201" chest="36019" legs="36020" head="36030" gloves="36021" feet="36022" skills="30005-3" />
+	<set id="202" chest="36003" legs="36004" head="36005" skills="30006-1" />
+	<set id="203" chest="36013" legs="36014" feet="36015" skills="30006-2" />
+	<set id="204" chest="36023" legs="36024" head="36030" gloves="36026" feet="36025" skills="30006-3" />
+	<set id="205" chest="36006" legs="36007" gloves="36008" feet="36009" skills="30007-1" />
+	<set id="205" chest="36016" legs="36017" head="36018" skills="30007-2" />
+	<set id="205" chest="36027" gloves="36029" feet="36028" head="36030" skills="30007-3" shield="36053" shield_skills="30008-1"/>
+</list>

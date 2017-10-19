@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="14800" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14801" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14802" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14803" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14804" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14805" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14806" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14807" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14808" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14809" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14810" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14811" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14812" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14813" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14814" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14815" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14816" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14817" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14818" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14819" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14820" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14821" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14822" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14823" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14824" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14825" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14826" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14827" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14828" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14829" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14830" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14831" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14832" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14833" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14834" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14835" name="Dark Panther" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14836" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14837" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14838" name="Spectral Lord" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14839" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14840" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14841" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14842" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14843" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14844" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14845" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14846" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14847" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14848" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14849" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14850" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14851" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14852" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14853" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14854" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14855" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14856" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14857" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14858" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14859" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14860" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14861" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14862" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14863" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14864" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14865" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14866" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14867" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14868" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14869" name="Swoop Cannon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14870" name="Divine Beast" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14871" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14872" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14873" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14874" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14875" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14876" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14877" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14878" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14879" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14880" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14881" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14882" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14883" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14884" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14885" name="Feline King" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14886" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14887" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14888" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14889" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14890" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14891" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14892" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14893" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14894" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14895" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14896" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14897" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14898" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="14899" name="Magnus the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+</list>

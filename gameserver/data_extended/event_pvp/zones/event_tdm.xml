@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<!-- Куб Кратери 1 -->
+	<zone name="tdm_respawn_map1_t1" type="event_zone" >
+		<polygon>
+			<coords loc="-87432 -82296 -8352 -8352"/>
+			<coords loc="-86632 -82312 -8352 -8352"/>
+			<coords loc="-86648 -81320 -8352 -8352"/>
+			<coords loc="-87432 -81320 -8352 -8352"/>
+		</polygon>
+	</zone>
+	<!-- Куб Кратери 2 -->
+	<zone name="tdm_respawn_map1_t2" type="event_zone" >
+		<polygon>
+			<coords loc="-87432 -82296 -8352 -8352"/>
+			<coords loc="-86632 -82312 -8352 -8352"/>
+			<coords loc="-86648 -81320 -8352 -8352"/>
+			<coords loc="-87432 -81320 -8352 -8352"/>
+		</polygon>
+	</zone>
+</list>

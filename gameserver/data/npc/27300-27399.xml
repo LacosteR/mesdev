@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="27300" name="Monument Watcher Ezekiel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27301" name="Monument Watcher Ezekiel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27302" name="Monument Defender Azrael" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27303" name="Monument Defender Azrael" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27304" name="Monument Defender Azrael" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27305" name="Monument Defender Azrael" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27306" name="Monument Defender Azrael" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27307" name="Monument Defender Azrael" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27308" name="Assassin Frost" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="229"/>
+			<!--Kris-->
+		</equip>
+	</npc>
+	<npc id="27309" name="Minervia Van Hacken" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="229"/>
+			<!--Kris-->
+		</equip>
+	</npc>
+	<npc id="27310" name="Kitanis Van Hacken" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27311" name="Judgment Hound Dog Kelvas" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27312" name="Mysterious Servitor" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27313" name="Vision Guardian Shakiel" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27314" name="Vision Guardian Shakiel" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27315" name="Vision Guardian Shakiel" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27316" name="Fallen Chieftain Vegus" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27317" name="Restrainer of Glory" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27318" name="Wendy's Guardian" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27319" name="Black Leopard" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27320" name="Timora Orc" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="27321" name="Bruin Lizardman" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="27322" name="Picot Araneid" title="Quest Monster">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27323" name="Divine Emissary" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="27324" name="Vision Guard Eranus" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6717"/>
+			<!--Monster Only(Einhasad Warrior)-->
+		</equip>
+	</npc>
+	<npc id="27325" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27326" name="Archangel Kanriel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27327" name="Zakorel's Executor" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6718"/>
+			<!--Monster Only(Einhasad Shaman)-->
+		</equip>
+	</npc>
+	<npc id="27328" name="Zakorel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6717"/>
+			<!--Monster Only(Einhasad Warrior)-->
+		</equip>
+	</npc>
+	<npc id="27329" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27332" name="Guardian Angel" title="Quest Monster">
+		<set name="ai_type" value="GuardianAngel"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="196"/>
+			<!--Stick of Eternity-->
+		</equip>
+	</npc>
+	<npc id="27333" name="Crimson Duchess" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="27334" name="Archon of Halisha" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="27335" name="Dark Angel Othiel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="27336" name="Crimson Lady" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27337" name="Ol Mahum Officer Tak" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+		</equip>
+	</npc>
+	<npc id="27338" name="Fallen Angel" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6717"/>
+			<!--Monster Only(Einhasad Warrior)-->
+		</equip>
+	</npc>
+	<npc id="27339" name="Cruma Marshlands Traitor" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="27340" name="Pursuer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="219"/>
+			<!--Sword Breaker-->
+		</equip>
+	</npc>
+	<npc id="27341" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27342" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27343" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27344" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27345" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27346" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27347" name="Guards of the Dawn Oracle" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27348" name="Guards of the Dawn Oracle" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27349" name="Guards of the Dawn Oracle" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27350" name="Guards of the Dawn Oracle" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27351" name="Guards of the Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27352" name="Guards of the Dawn Oracle" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="GuradsOfDawn"/>
+	</npc>
+	<npc id="27353" name="Lilim Butcher" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27354" name="Lilim Magus" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27355" name="Lilim Slave Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27356" name="Lilim Stabber" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27357" name="Lilim Seer" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27358" name="Lilim Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27359" name="Lilim Assassin" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27360" name="Lilim Great Magus" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27361" name="Lilim Guard Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27362" name="Lilim Butcher" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27363" name="Lilim Magus" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27364" name="Lilim Slave Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27365" name="Lilim Stabber" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27366" name="Lilim Seer" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27367" name="Lilim Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27368" name="Lilim Assassin" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27369" name="Lilim Great Magus" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27370" name="Lilim Guard Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27371" name="Lilim Butcher" title="">
+		<set name="ai_type" value="custom.SSQLilimServantFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27372" name="Lilim Magus" title="">
+		<set name="ai_type" value="custom.SSQLilimServantMage"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27373" name="Lilim Slave Knight" title="">
+		<set name="ai_type" value="custom.SSQLilimServantFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5800"/>
+			<!--Nephilim Lord-->
+			<lhand item_id="5799"/>
+			<!--Nephilim Lord-->
+		</equip>
+	</npc>
+	<npc id="27374" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="custom.SSQLilimServantFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27375" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="custom.SSQLilimServantFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27376" name="Lilim Knight" title="">
+		<set name="ai_type" value="custom.SSQLilimServantFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5800"/>
+			<!--Nephilim Lord-->
+			<lhand item_id="5799"/>
+			<!--Nephilim Lord-->
+		</equip>
+	</npc>
+	<npc id="27377" name="Lilim Assassin" title="">
+		<set name="ai_type" value="custom.SSQLilimServantFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+			<lhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="27378" name="Lilim Great Magus" title="">
+		<set name="ai_type" value="custom.SSQLilimServantMage"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27379" name="Lilim Guard Knight" title="">
+		<set name="ai_type" value="custom.SSQLilimServantFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5800"/>
+			<!--Nephilim Lord-->
+			<lhand item_id="5799"/>
+			<!--Nephilim Lord-->
+		</equip>
+	</npc>
+	<npc id="27380" name="Reckless Sprite of Water" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27381" name="Reckless Sprite of Air" title="Quest Monster">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27382" name="Power of Seal Isolation" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27383" name="Power of Seal Isolation" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27384" name="Seal Device" title="Emperor Shunaiman's">
+		<set name="ai_type" value="SealDevice"/>
+		<set name="type" value="SealDevice"/>
+	</npc>
+	<npc id="27385" name="Lilith" title="Holy Mother of Abyss">
+		<set name="ai_type" value="custom.SSQLilith"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27386" name="Lilith's Steward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27387" name="Lilith's Elite" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="5800"/>
+			<!--Nephilim Lord-->
+			<lhand item_id="5799"/>
+			<!--Nephilim Lord-->
+		</equip>
+	</npc>
+	<npc id="27388" name="Anakim" title="Flames of Sacred Fire">
+		<set name="ai_type" value="custom.SSQAnakim"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27389" name="Anakim's Guardian" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27390" name="Anakim's Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27391" name="Anakim's Executor" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27392" name="Bloody Axe Aide" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+			<lhand item_id="19"/>
+			<!--Small Shield-->
+		</equip>
+	</npc>
+	<npc id="27393" name="Headless Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="27394" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27395" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27396" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="27397" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27398" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="27399" name="Shilen's Evil Thoughts" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+</list>

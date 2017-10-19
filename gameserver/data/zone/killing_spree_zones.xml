@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<zone name="[killing_spree_zones]" type="killing_spree_zones" >
+		<polygon>
+			<coords loc="-22615 104510 -4448 3551" />
+			<coords loc="-13290 104564 -4448 3551" />
+			<coords loc="-13313 116950 -4448 3551" />
+			<coords loc="-22638 116896 -4448 3551" />
+		</polygon>
+	</zone>
+</list>

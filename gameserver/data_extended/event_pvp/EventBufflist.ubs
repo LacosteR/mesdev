@@ -1,0 +1,17 @@
+// Используетс€ дл€ авто-пвп ивентов
+event_buff_scheme_begin
+	scheme_id = 200
+	buff_list_begin
+		// Шаблон:
+		// buff_begin	skill_id = ;	skill_lv = ;	skill_time = ;	buff_end
+		buff_begin	skill_id = 1035	skill_lv = 4	skill_time = 10	buff_end	// ћентальный ўит
+		buff_begin	skill_id = 1500	skill_lv = 1	skill_time = 10	buff_end	// Improved Magic
+		buff_begin	skill_id = 1501	skill_lv = 1	skill_time = 10	buff_end	// Improved Condition
+		buff_begin	skill_id = 1535	skill_lv = 1	skill_time = 10	buff_end	// Chant of Movement
+		buff_begin	skill_id = 1389	skill_lv = 3	skill_time = 10	buff_end	// Greater Shield
+		buff_begin	skill_id = 1062	skill_lv = 2	skill_time = 10	buff_end	// Berserker Spirit
+		buff_begin	skill_id = 1517	skill_lv = 1	skill_time = 10	buff_end	// Chant of Combat
+		buff_begin	skill_id = 1518	skill_lv = 1	skill_time = 10	buff_end	// Chant of Critical Attack
+		buff_begin	skill_id = 1519	skill_lv = 1	skill_time = 10	buff_end	// Chant of Blood Awakening
+	buff_list_end
+event_buff_scheme_end

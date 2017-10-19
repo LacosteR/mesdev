@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="22400" name="Parme's Healer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9639"/>
+			<!--Tears r2-->
+			<lhand item_id="9639"/>
+			<!--Tears r2-->
+		</equip>
+	</npc>
+	<npc id="22401" name="Parme's Healer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9639"/>
+			<!--Tears r2-->
+			<lhand item_id="9639"/>
+			<!--Tears r2-->
+		</equip>
+	</npc>
+	<npc id="22402" name="Shadow Column" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22403" name="Foundry Foreman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22404" name="Arcane Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22405" name="Darion's Faithful Servant" title="">
+		<set name="ai_type" value="hellbound.DarionFaithfulServant6Floor"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22406" name="Darion's Faithful Servant" title="">
+		<set name="ai_type" value="hellbound.DarionFaithfulServant6Floor"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22407" name="Darion's Faithful Servant" title="">
+		<set name="ai_type" value="hellbound.DarionFaithfulServant6Floor"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22408" name="Darion's Faithful Servant" title="">
+		<set name="ai_type" value="hellbound.DarionFaithfulServant8Floor"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22409" name="Darion's Faithful Servant" title="">
+		<set name="ai_type" value="hellbound.DarionFaithfulServant8Floor"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22410" name="Darion's Faithful Servant" title="">
+		<set name="ai_type" value="hellbound.DarionFaithfulServant8Floor"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22411" name="Beleth's Retainer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22412" name="Beleth's Fighter" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+			<lhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+		</equip>
+	</npc>
+	<npc id="22413" name="Beleth's Low Servant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22414" name="Beleth's Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8217"/>
+			<!--Monster Only (Zombie Gateguard Spear)-->
+		</equip>
+	</npc>
+	<npc id="22415" name="Beleth's Devotee" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22416" name="Kechi's Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22417" name="Kechi's Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22418" name="Burning Iris" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22419" name="Flame Iris" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22420" name="Brimstone Iris" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22422" name="Failan's Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22423" name="Original Sin Warden" title="">
+		<set name="ai_type" value="hellbound.OriginalSinWarden6Floor"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+			<lhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+		</equip>
+	</npc>
+	<npc id="22424" name="Slave of Greed" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22425" name="Slave of Lust" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22426" name="Slave of Wrath" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22427" name="Slave of Sloth" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22428" name="Slave of Envy" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22429" name="Slave of Pride" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22430" name="Slave of Gluttony" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22431" name="Original Sin Warden" title="">
+		<set name="ai_type" value="hellbound.OriginalSinWarden8Floor"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+			<lhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+		</equip>
+	</npc>
+	<npc id="22432" name="Slave of Greed" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22433" name="Slave of Lust" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22434" name="Slave of Wrath" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22435" name="Slave of Sloth" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22436" name="Slave of Envy" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22437" name="Slave of Pride" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22438" name="Slave of Gluttony" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22439" name="Beleth's Assassin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="22440" name="Beleth's Assassin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="22441" name="Beleth's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8686"/>
+			<!--Themis' Tongue-->
+		</equip>
+	</npc>
+	<npc id="22442" name="Beleth's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8686"/>
+			<!--Themis' Tongue-->
+		</equip>
+	</npc>
+	<npc id="22443" name="Kertang's Messenger" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22444" name="Kertang's Messenger" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22445" name="Kertang's Messenger" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22446" name="Kertang's Messenger" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22447" name="Kertang's Messenger" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22448" name="Leodas" title="Resistance Commander">
+		<set name="ai_type" value="hellbound.Leodas"/>
+		<set name="type" value="ImmuneMonster"/>
+		<equip>
+			<rhand item_id="6611"/>
+			<!--Infinity Blade-->
+		</equip>
+	</npc>
+	<npc id="22449" name="Amaskari" title="Torture Expert">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+		<minions>
+			<minion npc_id="22450" count="12"/>
+			<!--Tortured Native-->
+		</minions>
+	</npc>
+	<npc id="22450" name="Tortured Native" title="">
+		<set name="ai_type" value="hellbound.TorturedNative"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="22451" name="Native Elite Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="22452" name="White Skull Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="292"/>
+			<!--Pike-->
+		</equip>
+	</npc>
+	<npc id="22453" name="White Skull Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5285"/>
+			<!--Heavy Sword-->
+		</equip>
+	</npc>
+	<npc id="22454" name="White Skull Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="236"/>
+			<!--Soul Separator-->
+		</equip>
+	</npc>
+	<npc id="22455" name="Begrudged Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="22456" name="Begrudged Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+		</equip>
+	</npc>
+	<npc id="22457" name="Begrudged Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7886"/>
+			<!--Sword of Magic Fog-->
+		</equip>
+	</npc>
+	<npc id="22458" name="Rotten Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22459" name="Rotten Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22460" name="Rotten Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22461" name="Gluttonous Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5128"/>
+			<!--Crokian Blade-->
+		</equip>
+	</npc>
+	<npc id="22462" name="Gluttonous Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22463" name="Gluttonous Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5130"/>
+			<!--Nos Sword-->
+		</equip>
+	</npc>
+	<npc id="22464" name="Callous Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7887"/>
+			<!--Mysterious Sword-->
+		</equip>
+	</npc>
+	<npc id="22465" name="Callous Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="298"/>
+			<!--Orcish Glaive-->
+		</equip>
+	</npc>
+	<npc id="22466" name="Callous Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="226"/>
+			<!--Cursed Dagger-->
+		</equip>
+	</npc>
+	<npc id="22467" name="Savage Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="77"/>
+			<!--Tsurugi-->
+		</equip>
+	</npc>
+	<npc id="22468" name="Savage Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="22469" name="Savage Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="84"/>
+			<!--Homunkulus's Sword-->
+		</equip>
+	</npc>
+	<npc id="22470" name="Peerless Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7888"/>
+			<!--Ecliptic Sword-->
+		</equip>
+	</npc>
+	<npc id="22471" name="Peerless Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="84"/>
+			<!--Homunkulus's Sword-->
+		</equip>
+	</npc>
+	<npc id="22472" name="Peerless Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="22473" name="Massive Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="22474" name="Massive Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="22475" name="Massive Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="161"/>
+			<!--Silver Axe-->
+		</equip>
+	</npc>
+	<npc id="22476" name="Fervent Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="85"/>
+			<!--Phantom Sword-->
+		</equip>
+	</npc>
+	<npc id="22477" name="Fervent Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6723"/>
+			<!--Monster Only(Vampire Warrior)-->
+		</equip>
+	</npc>
+	<npc id="22478" name="Fervent Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8686"/>
+			<!--Themis' Tongue-->
+		</equip>
+	</npc>
+	<npc id="22479" name="Ruptured Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22480" name="Ruptured Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22481" name="Ruptured Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22482" name="Sword Kanabion" title="">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22483" name="Sword Kanabion" title="Doppler">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22484" name="Sword Kanabion" title="Void">
+		<set name="ai_type" value="Kanabion"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22485" name="Lost Watcher" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWatcher"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="22486" name="Lost Watcher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="22487" name="Lost Beholder" title="">
+		<set name="ai_type" value="custom.LabyrinthLostBeholder"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="72"/>
+			<!--Stormbringer-->
+		</equip>
+	</npc>
+	<npc id="22488" name="Lost Watcher" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWatcher"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="68"/>
+			<!--Falchion-->
+		</equip>
+	</npc>
+	<npc id="22489" name="Lost Watcher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="68"/>
+			<!--Falchion-->
+		</equip>
+	</npc>
+	<npc id="22490" name="Lost Beholder" title="">
+		<set name="ai_type" value="custom.LabyrinthLostBeholder"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="22491" name="Lost Watcher" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWatcher"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22492" name="Lost Watcher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22493" name="Lost Beholder" title="">
+		<set name="ai_type" value="custom.LabyrinthLostBeholder"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22494" name="Lost Watcher" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWatcher"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="22495" name="Lost Watcher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="22496" name="Lost Beholder" title="">
+		<set name="ai_type" value="custom.LabyrinthLostBeholder"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22497" name="Lost Watcher" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWatcher"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22498" name="Lost Watcher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22499" name="Lost Beholder" title="">
+		<set name="ai_type" value="custom.LabyrinthLostBeholder"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+</list>

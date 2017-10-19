@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<!-- Fantasy Island resp 1 -->
+	<zone name="tvt_respawn_map1_t1" type="event_zone" >
+		<polygon>
+			<coords loc="-51144 -70408 -3416 -3416"/>
+			<coords loc="-51128 -70024 -3424 -3424"/>
+			<coords loc="-52264 -69992 -3416 -3416"/>
+			<coords loc="-52136 -70424 -3416 -3416"/>
+		</polygon>
+	</zone>
+	<!-- Fantasy Island resp 2 -->
+	<zone name="tvt_respawn_map1_t2" type="event_zone" >
+		<polygon>
+			<coords loc="-50936 -69144 -3424 -3424"/>
+			<coords loc="-51192 -68632 -3424 -3424"/>
+			<coords loc="-52040 -68632 -3416 -3416"/>
+			<coords loc="-52152 -69240 -3416 -3416"/>
+		</polygon>
+	</zone>
+	<!-- Ферма 1 -->
+	<zone name="tvt_respawn_map2_t1" type="event_zone" >
+		<polygon>
+			<coords loc="59496 -94248 -1360 -1360"/>
+			<coords loc="59176 -93848 -1360 -1360"/>
+			<coords loc="59528 -93048 -1360 -1360"/>
+			<coords loc="60024 -93336 -1360 -1360"/>
+		</polygon>
+	</zone>
+	<!-- Ферма 2 -->
+	<zone name="tvt_respawn_map2_t2" type="event_zone" >
+		<polygon>
+			<coords loc="55848 -92424 -1360 -1360"/>
+			<coords loc="56376 -92504 -1360 -1360"/>
+			<coords loc="56504 -93208 -1360 -1360"/>
+			<coords loc="55992 -93288 -1360 -1360"/>
+		</polygon>
+	</zone>
+	<!-- Замок Руны 1 -->
+	<zone name="tvt_respawn_map3_t1" type="event_zone" >
+		<polygon>
+			<coords loc="48840 -11784 -9392 -9392"/>
+			<coords loc="49256 -11768 -9392 -9392"/>
+			<coords loc="49272 -12728 -9392 -9392"/>
+			<coords loc="48824 -12712 -9392 -9392"/>
+		</polygon>
+	</zone>
+	<!-- Замок Руны 2 -->
+	<zone name="tvt_respawn_map3_t2" type="event_zone" >
+		<polygon>
+			<coords loc="51432 -12504 -9392 -9392"/>
+			<coords loc="51400 -11960 -9392 -9392"/>
+			<coords loc="51000 -11960 -9392 -9392"/>
+			<coords loc="51000 -12488 -9392 -9392"/>
+		</polygon>
+	</zone>
+	<!-- Железная Цитадель 1 -->
+	<zone name="tvt_respawn_map4_t1" type="event_zone" >
+		<polygon>
+			<coords loc="-21656 280136 -15040 -15040"/>
+			<coords loc="-22728 280136 -15040 -15040"/>
+			<coords loc="-22728 279688 -15040 -15040"/>
+			<coords loc="-21688 279688 -15040 -15040"/>
+		</polygon>
+	</zone>
+	<!-- Железная Цитадель 2 -->
+	<zone name="tvt_respawn_map4_t2" type="event_zone" >
+		<polygon>
+			<coords loc="-21672 277032 -15040 -15040"/>
+			<coords loc="-22776 277064 -15040 -15040"/>
+			<coords loc="-22744 277480 -15040 -15040"/>
+			<coords loc="-21656 277496 -15040 -15040"/>
+		</polygon>
+	</zone>
+	<!-- Грация 1 -->
+	<zone name="tvt_respawn_map5_t1" type="event_zone" >
+		<polygon>
+			<coords loc="-214360 244344 2040 2050"/>
+			<coords loc="-212600 244328 2040 2050"/>
+			<coords loc="-212600 245432 2040 2050"/>
+			<coords loc="-214360 245464 2040 2050"/>
+		</polygon>
+	</zone>
+	<!-- Грация 2 -->
+	<zone name="tvt_respawn_map5_t2" type="event_zone" >
+		<polygon>
+			<coords loc="-214360 244344 2040 2050"/>
+			<coords loc="-212600 244328 2040 2050"/>
+			<coords loc="-212600 245432 2040 2050"/>
+			<coords loc="-214360 245464 2040 2050"/>
+		</polygon>
+	</zone>
+	<!-- Валакас 1 -->
+	<zone name="tvt_respawn_map6_t1" type="event_zone" >
+		<polygon>
+			<coords loc="214136 -113352 -1632 -1642"/>
+			<coords loc="214008 -115688 -1632 -1642"/>
+			<coords loc="212088 -115640 -1632 -1642"/>
+			<coords loc="212056 -113512 -1632 -1642"/>
+		</polygon>
+	</zone>
+	<!-- Валакас 2 -->
+	<zone name="tvt_respawn_map6_t2" type="event_zone" >
+		<polygon>
+			<coords loc="214136 -113352 -1632 -1642"/>
+			<coords loc="214008 -115688 -1632 -1642"/>
+			<coords loc="212088 -115640 -1632 -1642"/>
+			<coords loc="212056 -113512 -1632 -1642"/>
+		</polygon>
+	</zone>
+	<!-- Емеральд 1 -->
+	<zone name="tvt_respawn_map7_t1" type="event_zone" >
+		<polygon>
+			<coords loc="17336 214376 -9352 -9362"/>
+			<coords loc="17256 211896 -9352 -9362"/>
+			<coords loc="15336 211848 -9352 -9362"/>
+			<coords loc="15400 214504 -9352 -9362"/>
+		</polygon>
+	</zone>
+	<!-- Емеральд 2 -->
+	<zone name="tvt_respawn_map7_t2" type="event_zone" >
+		<polygon>
+			<coords loc="17336 214376 -9352 -9362"/>
+			<coords loc="17256 211896 -9352 -9362"/>
+			<coords loc="15336 211848 -9352 -9362"/>
+			<coords loc="15400 214504 -9352 -9362"/>
+		</polygon>
+	</zone>
+	<!-- Emerald Labyrint 1 -->
+	<zone name="tvt_respawn_map8_t1" type="event_zone" >
+		<polygon>
+			<coords loc="140760 153960 -11808 -11808"/>
+			<coords loc="140792 154888 -11808 -11808"/>
+			<coords loc="141704 154872 -11808 -11808"/>
+			<coords loc="141688 153976 -11808 -11808"/>
+		</polygon>
+	</zone>
+	<!-- Emerald Labyrint 2 -->
+	<zone name="tvt_respawn_map8_t2" type="event_zone" >
+		<polygon>
+			<coords loc="140776 149768 -11808 -11808"/>
+			<coords loc="141704 149752 -11808 -11808"/>
+			<coords loc="141688 150568 -11808 -11808"/>
+			<coords loc="140824 150552 -11808 -11808"/>
+		</polygon>
+	</zone>
+	<!-- Tuli 8 1 -->
+	<zone name="tvt_respawn_map9_t1" type="event_zone" >
+		<polygon>
+			<coords loc="-13416 280936 -10496 -10496"/>
+			<coords loc="-13064 280488 -10496 -10496"/>
+			<coords loc="-13960 279640 -10496 -10496"/>
+			<coords loc="-14040 280344 -10496 -10496"/>
+		</polygon>
+	</zone>
+	<!-- Tuli 8 2 -->
+	<zone name="tvt_respawn_map9_t2" type="event_zone" >
+		<polygon>
+			<coords loc="-11992 278872 -10496 -10496"/>
+			<coords loc="-11640 278344 -10496 -10496"/>
+			<coords loc="-10968 279064 -10496 -10496"/>
+			<coords loc="-11224 279624 -10496 -10496"/>
+		</polygon>
+	</zone>
+
+	<!-- zone name="tvt_respawn_map10_t1" type="event_zone" >
+		<polygon>
+			<coords loc="152136 149720 -12168 -12168"/>
+			<coords loc="152136 150232 -12168 -12168"/>
+			<coords loc="151848 149736 -12168 -12168"/>
+			<coords loc="151848 150232 -12168 -12168"/>
+		</polygon>
+	</zone -->
+
+	<!-- zone name="tvt_respawn_map10_t2" type="event_zone" >
+		<polygon>
+			<coords loc="150104 150216 -12168 -12168"/>
+			<coords loc="150104 149736 -12168 -12168"/>
+			<coords loc="149832 150232 -12168 -12168"/>
+			<coords loc="149816 149720 -12168 -12168"/>
+		</polygon>
+	</zone -->
+</list>

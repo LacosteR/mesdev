@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="567" />
+	<production id="90000" count="1" />
+</item>
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="567" />
+	<production id="90001" count="1" />
+</item>
+
+
+</list>

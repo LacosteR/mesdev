@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="25600" name="Temenir" title="Darion's Challenger">
+		<set name="ai_type" value="hellbound.DarionChallenger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="10277"/>
+			<!--Monster Only (Behamah Pole)-->
+		</equip>
+	</npc>
+	<npc id="25601" name="Draksius" title="Darion's Challenger">
+		<set name="ai_type" value="hellbound.DarionChallenger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="25602" name="Kiretcenah" title="Darion's Challenger">
+		<set name="ai_type" value="hellbound.DarionChallenger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="25603" name="Darion" title="">
+		<set name="ai_type" value="hellbound.Darion"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<lhand item_id="10548"/>
+			<!--Monster Only (Transparent Shield)-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="16" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25604" name="Mutated Elpy" title="Naia's Creature">
+		<set name="ai_type" value="hellbound.MutatedElpy"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25605" name="Naia Spore" title="">
+		<set name="ai_type" value="hellbound.NaiaSpore"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25606" name="Naia Spore" title="">
+		<set name="ai_type" value="hellbound.NaiaSpore"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25607" name="Naia Spore" title="">
+		<set name="ai_type" value="hellbound.NaiaSpore"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25608" name="Naia Spore" title="">
+		<set name="ai_type" value="hellbound.NaiaSpore"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25609" name="Epidos" title="Naia Shambler">
+		<set name="ai_type" value="hellbound.Epidos"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25610" name="Epidos" title="Naia Shambler">
+		<set name="ai_type" value="hellbound.Epidos"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25611" name="Epidos" title="Naia Shambler">
+		<set name="ai_type" value="hellbound.Epidos"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25612" name="Epidos" title="Naia Shambler">
+		<set name="ai_type" value="hellbound.Epidos"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25613" name="Naia Spore" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25614" name="Floating Ghost" title="">
+		<set name="ai_type" value="hellbound.FloatingGhost"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25615" name="Floating Ghost" title="">
+		<set name="ai_type" value="hellbound.FloatingGhost"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25616" name="Lost Warden" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWarden"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="201"/>
+			<!--Club of Nature-->
+		</equip>
+	</npc>
+	<npc id="25617" name="Lost Warden" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWarden"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+	</npc>
+	<npc id="25618" name="Lost Warden" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWarden"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25619" name="Lost Warden" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWarden"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="25620" name="Lost Warden" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWarden"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25621" name="Lost Warden" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWarden"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8221"/>
+			<!--Monster Only (Grail Apostle Spear)-->
+		</equip>
+	</npc>
+	<npc id="25622" name="Lost Warden" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWarden"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="25623" name="Valdstone" title="Master Rider">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25624" name="Rok" title="King of Birds">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25625" name="Enira" title="Banshee Queen">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25626" name="Dius" title="Deadman of Destruction">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25627" name="Mutant Bird" title="Subordinate of King">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25628" name="Dra Hawk" title="Subordinate of King">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25629" name="Floating Skull" title="Enira's Evil Spirit">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25630" name="Floating Zombie" title="Enira's Evil Spirit">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25631" name="Drake Wing" title="Underling of Destruction">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25632" name="Drak" title="Underling of Destruction">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25633" name="Elite Rider" title="Valdstone's Elites">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="25634" name="Cohemenes" title="Soul Collector">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25635" count="1"/>
+			<!--Argekunte-->
+		</minions>
+	</npc>
+	<npc id="25635" name="Argekunte" title="Vacuous Soul">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="13985"/>
+			<!--Exclusive to Monsters (Death Slayer_r)-->
+			<lhand item_id="13986"/>
+			<!--Exclusive to Monsters (Death Slayer_l)-->
+		</equip>
+	</npc>
+	<npc id="25636" name="Ravenous Soul Devourer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25637" name="Karpencharr" title="Prophet of Lies">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25638" name="Romerohiv" title="Betrayer of Oblivion">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25639" name="Hitchkarshiek" title="Wise Retainer of Suffering">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13985"/>
+			<!--Exclusive to Monsters (Death Slayer_r)-->
+			<lhand item_id="13986"/>
+			<!--Exclusive to Monsters (Death Slayer_l)-->
+		</equip>
+	</npc>
+	<npc id="25640" name="Freedkyilla" title="Hand of Night">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13984"/>
+			<!--Exclusive to Monsters (Death Slayer_1hs)-->
+		</equip>
+	</npc>
+	<npc id="25641" name="Yehan Cravenizad" title="Bloodsucker">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13982"/>
+			<!--Exclusive to Monsters (Death Knight_pole)-->
+		</equip>
+	</npc>
+	<npc id="25642" name="Yehan Jaxsibhan" title="Dark Guardian">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13983"/>
+			<!--Exclusive to Monsters (Death Knight_2hs)-->
+		</equip>
+	</npc>
+	<npc id="25643" name="Awakened Ancient Sentry" title="Raid Boss">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25644" name="Awakened Ancient Severer" title="Raid Boss">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25645" name="Awakened Ancient Soul Extractor" title="Raid Boss">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25646" name="Awakened Ancient Soul Devourer" title="Raid Boss">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25647" name="Awakened Ancient Fighter" title="Raid Boss">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13982"/>
+			<!--Exclusive to Monsters (Death Knight_pole)-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25648" name="Awakened Ancient Fighter" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="13983"/>
+			<!--Exclusive to Monsters (Death Knight_2hs)-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25649" name="Awakened Ancient Executor" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="13985"/>
+			<!--Exclusive to Monsters (Death Slayer_r)-->
+			<lhand item_id="13986"/>
+			<!--Exclusive to Monsters (Death Slayer_l)-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25650" name="Awakened Ancient Executor" title="Raid Boss">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13984"/>
+			<!--Exclusive to Monsters (Death Slayer_1hs)-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25651" name="Awakened Ancient Prophet" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25652" name="Awakened Ancient Prophet" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25653" name="Kanadis Herald" title="Invading Forces">
+		<set name="ai_type" value="custom.GvGBoss"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="25654" name="Kanadis Herald" title="Invading Forces">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25655" name="Kanadis Herald" title="Invading Forces">
+		<set name="ai_type" value="custom.GvGBoss"/>
+		<set name="type" value="GvGBoss"/>
+	</npc>
+	<npc id="25656" name="Kanadis Fanatic" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="152"/>
+			<!--Heavy Chisel-->
+		</equip>
+	</npc>
+	<npc id="25657" name="Kanadis Fanatic" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="8212"/>
+			<!--Monster Only (Solina Brother Mace)-->
+		</equip>
+	</npc>
+	<npc id="25658" name="Kanadis Fanatic" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25659" name="Kanadis Guide" title="Invading Forces">
+		<set name="ai_type" value="KanadisGuide"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25660" name="Kanadis Guide" title="Invading Forces">
+		<set name="ai_type" value="KanadisGuide"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25661" name="Kanadis Guide" title="Invading Forces">
+		<set name="ai_type" value="KanadisGuide"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25662" name="Kanadis Follower" title="">
+		<set name="ai_type" value="KanadisFollower"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="152"/>
+			<!--Heavy Chisel-->
+		</equip>
+	</npc>
+	<npc id="25663" name="Kanadis Follower" title="">
+		<set name="ai_type" value="KanadisFollower"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8212"/>
+			<!--Monster Only (Solina Brother Mace)-->
+		</equip>
+	</npc>
+	<npc id="25664" name="Kanadis Follower" title="">
+		<set name="ai_type" value="KanadisFollower"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="152"/>
+			<!--Heavy Chisel-->
+		</equip>
+	</npc>
+	<npc id="25665" name="Yehan Klodekus" title="Soul Destroyer">
+		<set name="ai_type" value="seedofinfinity.YehanBrother"/>
+		<set name="type" value="YehanBrother"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="1500"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13982"/>
+			<!--Exclusive to Monsters (Death Knight_pole)-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25666" name="Yehan Klanikus" title="Guide of Darkness">
+		<set name="ai_type" value="seedofinfinity.YehanBrother"/>
+		<set name="type" value="YehanBrother"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="1500"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="13983"/>
+			<!--Exclusive to Monsters (Death Knight_2hs)-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25667" name="Cannibalistic Stakato Chief" title="Shadow of Violence">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="CannibalisticStakatoChief"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25668" name="Cannibalistic Stakato Chief" title="Shadow of Violence">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="CannibalisticStakatoChief"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25669" name="Cannibalistic Stakato Chief" title="Shadow of Violence">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="CannibalisticStakatoChief"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25670" name="Cannibalistic Stakato Chief" title="Shadow of Violence">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="CannibalisticStakatoChief"/>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25671" name="Queen Shyeed" title="Raid Boss">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25672" count="4"/>
+			<!--Spiked Stakato-->
+			<minion npc_id="25673" count="2"/>
+			<!--Spiked Stakato-->
+		</minions>
+	</npc>
+	<npc id="25672" name="Spiked Stakato" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+		</equip>
+	</npc>
+	<npc id="25673" name="Spiked Stakato" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25674" name="Gwindorr" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25675" count="1"/>
+			<!--Guard of Gwindorr-->
+			<minion npc_id="25676" count="1"/>
+			<!--Follower of Gwindorr-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25675" name="Guard of Gwindorr" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25676" name="Follower of Gwindorr" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25677" name="Water Spirit Lian" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25678" count="1"/>
+			<!--Sprite of Gildor-->
+			<minion npc_id="25679" count="1"/>
+			<!--Guardian of Gildor-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25678" name="Sprite of Gildor" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25679" name="Guardian of Gildor" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25680" name="Giant Marpanak" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="3937"/>
+			<!--Giant Bar-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25681" name="Gorgolos" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25682" count="1"/>
+			<!--Cursed Life-->
+			<minion npc_id="25683" count="1"/>
+			<!--Cursed Soul-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25682" name="Cursed Life" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25683" name="Cursed Soul" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25684" name="Last Titan Utenus" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="3938"/>
+			<!--Giant Rod-->
+		</equip>
+		<minions>
+			<minion npc_id="25685" count="1"/>
+			<!--Utenus's Wizard-->
+			<minion npc_id="25686" count="1"/>
+			<!--Utenus's Guard-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25685" name="Utenus's Wizard" title="Raid Fighter">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="3938"/>
+			<!--Giant Rod-->
+		</equip>
+	</npc>
+	<npc id="25686" name="Utenus's Guard" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25687" name="Hekaton Prime" title="Raid Boss">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25688" count="1"/>
+			<!--Hekaton Cottus-->
+			<minion npc_id="25689" count="4"/>
+			<!--Hekaton Chires-->
+		</minions>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25688" name="Hekaton Cottus" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25689" name="Hekaton Chires" title="Raid Fighter">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="3938"/>
+			<!--Giant Rod-->
+		</equip>
+	</npc>
+	<npc id="25690" name="Aenkinel" title="Invader of Dream">
+		<set name="ai_type" value="Aenkinel"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="false"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25691" name="Aenkinel" title="Invader of Dream">
+		<set name="ai_type" value="Aenkinel"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="false"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25692" name="Aenkinel" title="Invader of Dream">
+		<set name="ai_type" value="Aenkinel"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="false"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25693" name="Aenkinel" title="Invader of Dream">
+		<set name="ai_type" value="Aenkinel"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="false"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="14" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25694" name="Aenkinel" title="Invader of Dream">
+		<set name="ai_type" value="Aenkinel"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="false"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="11" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25695" name="Aenkinel" title="Invader of Dream">
+		<set name="ai_type" value="Aenkinel"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="false"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="20" min_level="13" max_level="14" type="PARTY_ONE"/>
+			<absorb chance="5" min_level="15" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25696" name="Taklacan" title="Bistakon">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="false"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="16" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25697" name="Torumba" title="Reptilikon">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="25698" name="Dopagen" title="Kokracon">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<ai_params>
+			<set name="noRandomWalk" value="false"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="16" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25699" name="Glakias" title="Archery Knight Captain">
+		<set name="ai_type" value="freya.IceCaptainKnight"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="10" min_level="13" max_level="14" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+</list>

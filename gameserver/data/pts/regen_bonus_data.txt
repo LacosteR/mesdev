@@ -1,0 +1,23 @@
+//HP????
+org_hp_regen_weight_begin
+	sit		= {1; 51; 1.5; 0.0033; 50; 1.5}
+	stand	= {0; 0; 1.1; 0; 0; 0}
+	low		= {0; 0; 1; 0; 0; 0}
+	high	= {0; 0; 0.7; 0; 0; 0}
+org_hp_regen_weight_end
+
+//MP????
+org_mp_regen_weight_begin
+	sit		= {0; 0; 1.5; 0; 0; 0}
+	stand	= {0; 0; 1.1; 0; 0; 0}
+	low		= {0; 0; 1; 0; 0; 0}
+	high	= {0; 0; 0.7; 0; 0; 0}
+org_mp_regen_weight_end
+
+//CP????
+org_cp_regen_weight_begin
+	sit		= {0; 0; 1.5; 0; 0; 0}
+	stand	= {0; 0; 1.1; 0; 0; 0}
+	low		= {0; 0; 1; 0; 0; 0}
+	high	= {0; 0; 0.7; 0; 0; 0}
+org_cp_regen_weight_end

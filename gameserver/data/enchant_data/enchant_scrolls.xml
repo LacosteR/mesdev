@@ -1,0 +1,1026 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!--Стандартные настройки для енчанта, -1 в макс , означает нелимитирова-->
+	<config>
+		<max_enchant_weapon val="20" />
+		<max_enchant_armor val="20" />
+		<succ_eff_ench_min val="6" />
+		<succ_eff_ench_max val="15" />
+		<ench_protect_weapon val="65535" />
+		<ench_protect_weapon_mage val="65535" />
+		<ench_protect_armor	val="65535" />
+		<ench_protect_jewel val="65535" />
+		<oe_bonus_armor val="2" /> <!-- offlike 2 -->
+		<oe_bonus_jewel val="2" /> <!-- offlike 2 -->
+		<stones>
+			<stone grade="D" chance_adder_armor="35" chance_adder_weapon="20" />
+			<stone grade="C" chance_adder_armor="27" chance_adder_weapon="18" />
+			<stone grade="B" chance_adder_armor="23" chance_adder_weapon="15" />
+			<stone grade="A" chance_adder_armor="18" chance_adder_weapon="12" />
+			<stone grade="S" chance_adder_armor="15" chance_adder_weapon="10" />
+		</stones>
+	</config>
+	<!-- 
+		on_fail = { CRYSTALS, DROP_ENCHANT, NOTHING }
+		type = { WEAPON, ARMOR }
+		succ_eff_ench_min - минимальный левел заточки, чтобы был визуальный эффект от удачного энчанта
+		succ_eff_ench_max - максимальный левел заточки, чтобы был визуальный эффект от удачного энчанта
+		grade = { D, C, B, A, S }
+		chance - шанс для этого свитка (стандартный)
+		magic_chance - шанс для маг оружия (стандартный)
+		
+		контейнер, в котором можно задать шансы энчанта для каждого уровня заточки
+		
+		min - минимальное
+		max - максимальное
+		val - шанс для всего
+		val_f - шанс для физ пушек
+		val_m - шанс для маг пушек
+		max="MAX" - действительно до максимального
+		* - примечание: val не может быть в одной строчке с val_f и val_m.
+		** - примечание: val_f и val_m нужно использовать только в свитках заточки оружия
+		
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="15" val_f="70" val_m="40" />
+			<var min="16" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	-->
+	
+	<!--Common Enchant Scrolls-->
+	<!--Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="955" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="D">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="956" on_fail="CRYSTALS" type="ARMOR" grade="D">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="951" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="C">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="952" on_fail="CRYSTALS" type="ARMOR" grade="C">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="947" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="B">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="948" on_fail="CRYSTALS" type="ARMOR" grade="B">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="729" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="A">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="730" on_fail="CRYSTALS" type="ARMOR" grade="A">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="959" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="S">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="960" on_fail="CRYSTALS" type="ARMOR" grade="S">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Enchant Scrolls-->
+	<!--Crystal Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="957" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="D">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="958" on_fail="CRYSTALS" type="ARMOR" grade="D">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="953" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="C">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="954" on_fail="CRYSTALS" type="ARMOR" grade="C">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="949" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="B">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="950" on_fail="CRYSTALS" type="ARMOR" grade="B">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="731" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="A">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="732" on_fail="CRYSTALS" type="ARMOR" grade="A">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="961" on_fail="CRYSTALS" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="S">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Crystal Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="962" on_fail="CRYSTALS" type="ARMOR" grade="S">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Enchant Scrolls-->
+	<!--Blessed Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="6575" on_fail="DROP_ENCHANT" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="D">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="6576" on_fail="DROP_ENCHANT" type="ARMOR" grade="D">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="6573" on_fail="DROP_ENCHANT" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="C">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="6574" on_fail="DROP_ENCHANT" type="ARMOR" grade="C">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="6571" on_fail="DROP_ENCHANT" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="B">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="6572" on_fail="DROP_ENCHANT" type="ARMOR" grade="B">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="6569" on_fail="DROP_ENCHANT" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="A">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="6570" on_fail="DROP_ENCHANT" type="ARMOR" grade="A">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="6577" on_fail="DROP_ENCHANT" type="WEAPON" chance="70" magic_chance="40" succ_eff_ench_min="7" grade="S">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+			<var min="15" max="MAX" val_f="30" val_m="20" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Blessed Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="6578" on_fail="DROP_ENCHANT" type="ARMOR" grade="S">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="66" />
+			<var min="4" max="5" val="52" />
+			<var min="5" max="6" val="44" />
+			<var min="6" max="7" val="22" />
+			<var min="7" max="8" val="18" />
+			<var min="8" max="9" val="16" />
+			<var min="9" max="10" val="14" />
+			<var min="10" max="11" val="12" />
+			<var min="11" max="12" val="11" />
+			<var min="12" max="13" val="10" />
+			<var min="13" max="14" val="9" />
+			<var min="14" max="15" val="8" />
+			<var min="15" max="16" val="7" />
+			<var min="16" max="17" val="6" />
+			<var min="17" max="18" val="5" />
+			<var min="18" max="19" val="3" />
+			<var min="19" max="MAX" val="2" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Item-Mall Enchant Scrolls-->
+	<!--Scroll: Enchant Weapon (D-Grade) +10% -->
+	<enchant_scroll id="22006" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="D" chance="80" magic_chance="50">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="80" val_m="50" />
+			<var min="15" max="MAX" val_f="40" val_m="30" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (D-Grade) +10% -->
+	<enchant_scroll id="22010" on_fail="CRYSTALS" type="ARMOR" grade="D">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon (C-Grade) +10% -->
+	<enchant_scroll id="22007" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="C" chance="80" magic_chance="50">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="80" val_m="50" />
+			<var min="15" max="MAX" val_f="40" val_m="30" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (C-Grade) +10% -->
+	<enchant_scroll id="22011" on_fail="CRYSTALS" type="ARMOR" grade="C">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon (B-Grade) +10% -->
+	<enchant_scroll id="22008" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="B" chance="80" magic_chance="50">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="80" val_m="50" />
+			<var min="15" max="MAX" val_f="40" val_m="30" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (B-Grade) +10% -->
+	<enchant_scroll id="22012" on_fail="CRYSTALS" type="ARMOR" grade="B">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon (A-Grade) +10% -->
+	<enchant_scroll id="22009" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="A" chance="80" magic_chance="50">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="80" val_m="50" />
+			<var min="15" max="MAX" val_f="40" val_m="30" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (A-Grade) +10% -->
+	<enchant_scroll id="22013" on_fail="CRYSTALS" type="ARMOR" grade="A">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon (S-Grade) +10% -->
+	<enchant_scroll id="20517" on_fail="CRYSTALS" type="WEAPON" succ_eff_ench_min="7" grade="S" chance="80" magic_chance="50">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="80" val_m="50" />
+			<var min="15" max="MAX" val_f="40" val_m="30" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor (S-Grade) +10% -->
+	<enchant_scroll id="20518" on_fail="CRYSTALS" type="ARMOR" grade="S">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Ancient Enchant Scrolls-->
+	<!--Ancient Scroll: Enchant Weapon (B-Grade) +10%, max 16 -->
+	<enchant_scroll id="22014" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="B" chance="80" magic_chance="50" max_enchant="16">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="80" val_m="50" />
+			<var min="15" max="16" val_f="40" val_m="30" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Ancient Scroll: Enchant Armor (B-Grade) +10%, max 16 -->
+	<enchant_scroll id="22016" on_fail="NOTHING" type="ARMOR" grade="B" max_enchant="16">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Ancient Scroll: Enchant Weapon (A-Grade) +10%, max 16 -->
+	<enchant_scroll id="22015" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="A" chance="80" magic_chance="50" max_enchant="16">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="80" val_m="50" />
+			<var min="15" max="16" val_f="40" val_m="30" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Ancient Scroll: Enchant Armor (A-Grade) +10%, max 16 -->
+	<enchant_scroll id="22017" on_fail="NOTHING" type="ARMOR" grade="A" max_enchant="16">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Ancient Scroll: Enchant Weapon (S-Grade) +10%, max 16 -->
+	<enchant_scroll id="20519" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="S" chance="80" magic_chance="50" max_enchant="16">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="80" val_m="50" />
+			<var min="15" max="16" val_f="40" val_m="30" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Ancient Scroll: Enchant Armor (S-Grade) +10%, max 16 -->
+	<enchant_scroll id="20520" on_fail="NOTHING" type="ARMOR" grade="S" max_enchant="16">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Divine Enchant Scrolls-->
+	<!--Divine Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22018" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="B" chance="100" magic_chance="100"/>
+
+	<!--Divine Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22020" on_fail="NOTHING" type="ARMOR" grade="B" chance="100"/>
+
+	<!--Divine Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22019" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="A" chance="100" magic_chance="100"/>
+
+	<!--Divine Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22021" on_fail="NOTHING" type="ARMOR" grade="A" chance="100"/>
+
+	<!--Divine Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20521" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="S" chance="100" magic_chance="100"/>
+
+	<!--Divine Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20522" on_fail="NOTHING" type="ARMOR" grade="S" chance="100"/>
+
+	<!--Enchant Scrolls of Destruction-->
+	<!--Scroll: Enchant Weapon of Destruction (D-Grade) max 15 -->
+	<enchant_scroll id="22229" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="D" chance="70" magic_chance="40" max_enchant="15"/>
+
+	<!--Scroll: Enchant Armor of Destruction (D-Grade) max 6 -->
+	<enchant_scroll id="22230" on_fail="NOTHING" type="ARMOR" grade="D" max_enchant="6">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon of Destruction (C-Grade) max 15 -->
+	<enchant_scroll id="22227" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="C" chance="70" magic_chance="40" max_enchant="15">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor of Destruction (C-Grade) max 6 -->
+	<enchant_scroll id="22228" on_fail="NOTHING" type="ARMOR" grade="C" max_enchant="6">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon of Destruction (B-Grade) max 15 -->
+	<enchant_scroll id="22225" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="B" chance="70" magic_chance="40" max_enchant="15">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor of Destruction (B-Grade) max 6 -->
+	<enchant_scroll id="22226" on_fail="NOTHING" type="ARMOR" grade="B" max_enchant="6">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon of Destruction (A-Grade) max 15 -->
+	<enchant_scroll id="22223" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="A" chance="70" magic_chance="40" max_enchant="15">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor of Destruction (A-Grade) max 6 -->
+	<enchant_scroll id="22224" on_fail="NOTHING" type="ARMOR" grade="A" max_enchant="6">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Weapon of Destruction (S-Grade) max 15 -->
+	<enchant_scroll id="22221" on_fail="NOTHING" type="WEAPON" succ_eff_ench_min="7" grade="S" chance="70" magic_chance="40" max_enchant="15">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="4" max="14" val_f="70" val_m="40" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Scroll: Enchant Armor of Destruction (S-Grade) max 6 -->
+	<enchant_scroll id="22222" on_fail="NOTHING" type="ARMOR" grade="S" max_enchant="6">
+		<various_enchant_list>
+			<var min="0" max="3" val="100" />
+			<var min="3" max="4" val="76" />
+			<var min="4" max="5" val="62" />
+			<var min="5" max="6" val="54" />
+			<var min="6" max="7" val="32" />
+			<var min="7" max="8" val="28" />
+			<var min="8" max="9" val="26" />
+			<var min="9" max="10" val="24" />
+			<var min="10" max="11" val="22" />
+			<var min="11" max="12" val="21" />
+			<var min="12" max="13" val="20" />
+			<var min="13" max="14" val="19" />
+			<var min="14" max="15" val="18" />
+			<var min="15" max="16" val="17" />
+			<var min="16" max="17" val="16" />
+			<var min="17" max="18" val="15" />
+			<var min="18" max="19" val="13" />
+			<var min="19" max="MAX" val="12" />
+		</various_enchant_list>
+	</enchant_scroll>
+
+	<!--Special Enchant Scrolls-->
+	<!--Master Yogi's Scroll: Enchant Weapon-->
+	<enchant_scroll id="13540" on_fail="CRYSTALS" type="WEAPON" grade="NONE" max_enchant="28" succ_eff_ench_min="4" succ_eff_ench_max="28" chance="70" magic_chance="70" show_fail_effect="true">
+		<item_list>
+			<item id="13539"/>  <!--Staff of Master Yogi-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Olf's T-shirt Enchant Scroll-->
+	<enchant_scroll id="21581" on_fail="CRYSTALS" type="ARMOR" grade="NONE" max_enchant="10" chance="50">
+		<item_list>
+			<item id="21580"/> <!--Olf's T-shirt-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Blessed Olf's T-shirt Enchant Scroll-->
+	<enchant_scroll id="21582" on_fail="DROP_ENCHANT" type="ARMOR" grade="NONE" max_enchant="10" chance="50">
+		<item_list>
+			<item id="21580"/> <!--Olf's T-shirt-->
+		</item_list>
+	</enchant_scroll>
+
+	<!--Event - Herdsman's Love Scroll-->
+	<enchant_scroll id="15381" on_fail="CRYSTALS" type="ARMOR" grade="NONE" max_enchant="50" chance="50">
+		<item_list>
+			<item id="15383"/> <!--Weaver's Multi-colored Clothes 7 day-->
+			<item id="15384"/> <!--Weaver's Multi-colored Clothes 30 day-->
+			<item id="15385"/> <!--Weaver's Multi-colored Clothes 60 day-->
+			<item id="15386"/> <!--Weaver's Multi-colored Clothes 90 day-->
+			<item id="15387"/> <!--Weaver's Multi-colored Clothes Permanent-->
+			<item id="15388"/> <!--Weaver's Multi-colored Clothes (Event) 7 day-->
+			<item id="15389"/> <!--Weaver's Multi-colored Clothes (Event) 30 day-->
+			<item id="15390"/> <!--Weaver's Multi-colored Clothes (Event) 60 day-->
+			<item id="15391"/> <!--Weaver's Multi-colored Clothes (Event) 90 day-->
+			<item id="15392"/> <!--Weaver's Multi-colored Clothes (Event) Permanent-->
+		</item_list>
+	</enchant_scroll>
+</list>

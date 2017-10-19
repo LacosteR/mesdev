@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="22200" name="Ornithomimus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<minions>
+			<minion npc_id="22201" count="1"/>
+			<!--Ornithomimus-->
+			<minion npc_id="22202" count="1"/>
+			<!--Ornithomimus-->
+			<minion npc_id="22219" count="1"/>
+			<!--Ornithomimus-->
+		</minions>
+	</npc>
+	<npc id="22201" name="Ornithomimus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22202" name="Ornithomimus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22203" name="Deinonychus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<minions>
+			<minion npc_id="22204" count="1"/>
+			<!--Deinonychus-->
+			<minion npc_id="22205" count="1"/>
+			<!--Deinonychus-->
+			<minion npc_id="22220" count="1"/>
+			<!--Deinonychus-->
+			<minion npc_id="22225" count="1"/>
+			<!--Deinonychus-->
+		</minions>
+	</npc>
+	<npc id="22204" name="Deinonychus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22205" name="Deinonychus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22208" name="Pachycephalosaurus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<minions>
+			<minion npc_id="22209" count="1"/>
+			<!--Pachycephalosaurus-->
+			<minion npc_id="22210" count="1"/>
+			<!--Pachycephalosaurus-->
+			<minion npc_id="22221" count="1"/>
+			<!--Pachycephalosaurus-->
+		</minions>
+	</npc>
+	<npc id="22209" name="Pachycephalosaurus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22210" name="Pachycephalosaurus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22211" name="Wild Strider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<minions>
+			<minion npc_id="22212" count="1"/>
+			<!--Wild Strider-->
+			<minion npc_id="22213" count="1"/>
+			<!--Wild Strider-->
+			<minion npc_id="22222" count="1"/>
+			<!--Wild Strider-->
+		</minions>
+	</npc>
+	<npc id="22212" name="Wild Strider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22213" name="Wild Strider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22214" name="Elroki" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22215" name="Tyrannosaurus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22216" name="Tyrannosaurus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<absorblist>
+			<absorb chance="15" min_level="11" max_level="12" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="22217" name="Tyrannosaurus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22218" name="Velociraptor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22219" name="Ornithomimus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22220" name="Deinonychus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22221" name="Pachycephalosaurus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22222" name="Wild Strider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22223" name="Velociraptor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22224" name="Ornithomimus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22225" name="Deinonychus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22226" name="Pachycephalosaurus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22227" name="Wild Strider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22228" name="Grey Elpy" title="">
+		<set name="ai_type" value="Elpy"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22229" name="Young Grey Keltir" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22230" name="Grey Keltir" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22231" name="Dominant Grey Keltir" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22232" name="Black Wolf" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22233" name="Dominant Black Wolf" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22234" name="Green Goblin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="4"/>
+			<!--Club-->
+		</equip>
+	</npc>
+	<npc id="22235" name="Mountain Werewolf" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5"/>
+			<!--Mace-->
+		</equip>
+	</npc>
+	<npc id="22236" name="Muertos Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="10128"/>
+			<!--For Monster only (Crossbow)-->
+		</equip>
+	</npc>
+	<npc id="22237" name="Mountain Fungus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22238" name="Mountain Werewolf Chief" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5"/>
+			<!--Mace-->
+		</equip>
+	</npc>
+	<npc id="22239" name="Muertos Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22240" name="Muertos Scout" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22241" name="Colossus" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22242" name="Muertos Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22243" name="Muertos Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22244" name="Crimson Spider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22245" name="Muertos Lieutenant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22246" name="Muertos Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22247" name="Grotto Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22248" name="Shady Muertos" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22249" name="Shady Muertos Guard" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="10128"/>
+			<!--For Monster only (Crossbow)-->
+		</equip>
+	</npc>
+	<npc id="22250" name="Grotto Leopard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22251" name="Shady Muertos Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22252" name="Grotto Grizzly" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22253" name="Shady Muertos Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22254" name="Shady Muertos Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="10128"/>
+			<!--For Monster only (Crossbow)-->
+		</equip>
+	</npc>
+	<npc id="22255" name="Shady Muertos Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22256" name="Shady Muertos Wizard" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22257" name="Island Guardian" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerMystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22258" name="White Sand Mirage" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerMystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22259" name="Muddy Coral" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="192"/>
+			<!--Crystal Staff-->
+		</equip>
+	</npc>
+	<npc id="22260" name="Kleopora" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerMystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22261" name="Seychelles" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerMystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5132"/>
+			<!--Giant Trident-->
+		</equip>
+	</npc>
+	<npc id="22262" name="Naiad" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerMystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9638"/>
+			<!--Tears r1-->
+			<lhand item_id="9638"/>
+			<!--Tears r1-->
+		</equip>
+	</npc>
+	<npc id="22263" name="Sonneratia" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22264" name="Castalia" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9638"/>
+			<!--Tears r1-->
+			<lhand item_id="9638"/>
+			<!--Tears r1-->
+		</equip>
+	</npc>
+	<npc id="22265" name="Chrysocolla" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerMystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22266" name="Pythia" title="">
+		<set name="ai_type" value="isle_of_prayer.IsleOfPrayerMystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9638"/>
+			<!--Tears r1-->
+			<lhand item_id="9638"/>
+			<!--Tears r1-->
+		</equip>
+	</npc>
+	<npc id="22267" name="Dark Water Dragon" title="">
+		<set name="ai_type" value="isle_of_prayer.DarkWaterDragon"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22268" name="Shade" title="">
+		<set name="ai_type" value="isle_of_prayer.Shade"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22269" name="Shade" title="">
+		<set name="ai_type" value="isle_of_prayer.Shade"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22270" name="Water Dragon Detractor" title="">
+		<set name="ai_type" value="isle_of_prayer.WaterDragonDetractor"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="SelfAggressive" value="100"/>
+		</ai_params>
+	</npc>
+	<npc id="22271" name="Water Dragon Detractor" title="">
+		<set name="ai_type" value="isle_of_prayer.WaterDragonDetractor"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="SelfAggressive" value="100"/>
+		</ai_params>
+	</npc>
+	<npc id="22272" name="Beleth's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="210"/>
+			<!--Staff of Evil Spirits-->
+		</equip>
+	</npc>
+	<npc id="22273" name="Beleth's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22274" name="Beleth's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22275" name="Gatekeeper Lohan" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22276" name="Gatekeeper of the Square" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="92"/>
+			<!--Sprite's Staff-->
+		</equip>
+	</npc>
+	<npc id="22277" name="Gatekeeper Provo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22278" name="Gatekeeper of Fire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22279" name="Chromatic Detainee" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22280" name="Rodo Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22281" name="Plaza Caiman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22282" name="Chromatic Detainee" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22283" name="Emerald Alligar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22284" name="Chromatic Detainee" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="243"/>
+			<!--Hell Knife-->
+		</equip>
+	</npc>
+	<npc id="22285" name="Chromatic Detainee" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="243"/>
+			<!--Hell Knife-->
+		</equip>
+	</npc>
+	<npc id="22286" name="Plaza Gaviel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22287" name="Crystalline Unicorn" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22288" name="Emerald Boar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22289" name="Plaza Helm" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22290" name="Terod's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22291" name="Weylin's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22292" name="Tourmaline" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22293" name="Spinel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22294" name="Fire Opal" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22295" name="Reef Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22296" name="Reef Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22297" name="Reef Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22298" name="Weylin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3939"/>
+			<!--Lady's Fan-->
+		</equip>
+	</npc>
+	<npc id="22299" name="Dolph" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="213"/>
+			<!--Branch of the Mother Tree-->
+		</equip>
+	</npc>
+</list>

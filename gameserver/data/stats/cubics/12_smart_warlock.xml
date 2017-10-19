@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- Warlock -->
+	<cubic id="12" level="1" slot="10">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="50" />
+		<set name="use_up" val="0" />
+		<set name="power" val="2106" />
+		<set name="target_type" val="by_skill" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def personal_chance="20"/>
+			<def skill="4165"/>
+			<def skill_lv="9"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+			<def>
+				<sk_cond skill_cond="target"/>
+				<sk_cond type="0"/>
+				<sk_cond percent="33"/>
+				<sk_cond constant="1000"/>
+			</def>
+		</skill1>
+		<skill2>
+			<def personal_chance="30"/>
+			<def skill="4051"/>
+			<def skill_lv="1"/>
+			<def success_chance="30"/>
+			<def can_attack_static_object="0"/>
+			<def>
+				<sk_cond skill_cond="heal"/>
+				<sk_cond type="0"/>
+				<sk_cond percent="80"/>
+				<sk_cond constant="3000"/>
+			</def>
+		</skill2>
+		<skill3>
+			<def personal_chance="50"/>
+			<def skill="5579"/>
+			<def skill_lv="1"/>
+			<def success_chance="99"/>
+			<def can_attack_static_object="0"/>
+			<def>
+				<sk_cond skill_cond="master"/>
+			</def>
+		</skill3>
+	</cubic>
+</list>

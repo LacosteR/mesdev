@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+ <!--Greater Healing Potion-->
+<item>
+	<ingredient id="57" count="200000" />
+	<production id="1539" count="1" />
+</item>
+
+<!--Mana Potion-->
+<item>
+	<ingredient id="57" count="1000000" />
+	<production id="728" count="1" />
+</item>
+
+<!--CP Potion-->
+<item>
+	<ingredient id="57" count="50000" />
+	<production id="5591" count="1" />
+</item>
+
+<!--Greater CP Potion-->
+<item>
+	<ingredient id="57" count="1000000" />
+	<production id="5592" count="1" />
+</item>
+
+<!--Full Bottle of Souls - 10 Souls-->
+<item>
+	<ingredient id="57" count="100000" />
+	<production id="10412" count="1" />
+</item>
+
+<!--Greater Magic Haste Potion-->
+<item>
+	<ingredient id="57" count="1000000" />
+	<production id="6036" count="1" />
+</item>
+
+<!--Greater Swift Attack Potion-->
+<item>
+	<ingredient id="57" count="1000000" />
+	<production id="1375" count="1" />
+</item>
+
+<!--Greater Haste Potion-->
+<item>
+	<ingredient id="57" count="1000000" />
+	<production id="1374" count="1" />
+</item>
+
+<!--Elixir of CP (A-Grade)-->
+<item>
+	<ingredient id="57" count="500000" />
+	<production id="8638" count="1" />
+</item>
+
+<!--Elixir of CP (S-Grade)-->
+<item>
+	<ingredient id="57" count="1000000" />
+	<production id="8639" count="1" />
+</item>
+
+<!--Elixir of Life (A-Grade)-->
+<item>
+	<ingredient id="57" count="500000" />
+	<production id="8626" count="1" />
+</item>
+
+<!--Elixir of Life (S-Grade)-->
+<item>
+	<ingredient id="57" count="1000000" />
+	<production id="8627" count="1" />
+</item>
+
+<!--Hair Style Change Potion - A-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5242" count="1" />
+</item>
+
+<!--Hair Style Change Potion - B-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5243" count="1" />
+</item>
+
+<!--Hair Style Change Potion - C-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5244" count="1" />
+</item>
+
+<!--Hair Style Change Potion - D-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5245" count="1" />
+</item>
+
+<!--Hair Style Change Potion - E-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5246" count="1" />
+</item>
+
+<!--Hair Style Change Potion - F-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5247" count="1" />
+</item>
+
+<!--Hair Style Change Potion - G-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5248" count="1" />
+</item>
+
+<!--Dye Potion - A-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5238" count="1" />
+</item>
+
+<!--Dye Potion - B-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5239" count="1" />
+</item>
+
+<!--Dye Potion - C-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5240" count="1" />
+</item>
+
+<!--Dye Potion - D-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5241" count="1" />
+</item>
+
+<!--Facelifting Potion - A-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5235" count="1" />
+</item>
+
+<!--Facelifting Potion - B-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5236" count="1" />
+</item>
+
+<!--Facelifting Potion - C-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="5237" count="1" />
+</item>
+
+</list>

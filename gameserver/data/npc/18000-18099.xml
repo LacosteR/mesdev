@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="18001" name="Blood Queen" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18002" name="Blood Queen" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18003" name="Bearded Keltir" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18004" name="Susceptor Prime" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18005" name="Mimic" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18006" name="Maruk Lord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="18007" name="Limal Karinness" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18008" name="Karik" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18009" name="Offering of Branded Elder" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="18010" name="Offering of the Branded" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="218"/>
+			<!--Throwing Knife-->
+		</equip>
+	</npc>
+	<npc id="18011" name="Offering of Branded Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="18012" name="Offering of Branded Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="125"/>
+			<!--Spinebone Sword-->
+		</equip>
+	</npc>
+	<npc id="18013" name="Offering of Branded Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="18014" name="Offering of Branded Berserker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="292"/>
+			<!--Pike-->
+		</equip>
+	</npc>
+	<npc id="18015" name="Offering of Branded Zealot" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="158"/>
+			<!--Tarbar-->
+		</equip>
+	</npc>
+	<npc id="18016" name="Offering of Branded Marksman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="273"/>
+			<!--Composite Bow-->
+		</equip>
+	</npc>
+	<npc id="18017" name="Offering of Branded Disciple" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+		</equip>
+	</npc>
+	<npc id="18018" name="Offering of Branded Saint" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="72"/>
+			<!--Stormbringer-->
+		</equip>
+	</npc>
+	<npc id="18019" name="Apostate's Offering Elder" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="72"/>
+			<!--Stormbringer-->
+		</equip>
+	</npc>
+	<npc id="18020" name="Apostate's Offering " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="18021" name="Apostate's Offering Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="275"/>
+			<!--Long Bow-->
+		</equip>
+	</npc>
+	<npc id="18022" name="Apostate's Offering Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="18023" name="Apostate's Offering Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="18024" name="Apostate's Offering Berserker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="297"/>
+			<!--Glaive-->
+		</equip>
+	</npc>
+	<npc id="18025" name="Apostate's Offering Zealot" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="172"/>
+			<!--Heavy Bone Club-->
+		</equip>
+	</npc>
+	<npc id="18026" name="Apostate's Offering Marksman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="277"/>
+			<!--Dark Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="18027" name="Apostate's Offering Disciple" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="18028" name="Apostate's Offering Saint" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="133"/>
+			<!--Raid Sword-->
+		</equip>
+	</npc>
+	<npc id="18029" name="Witch's Offering Elder" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="133"/>
+			<!--Raid Sword-->
+		</equip>
+	</npc>
+	<npc id="18030" name="Witch's Offering" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="226"/>
+			<!--Cursed Dagger-->
+		</equip>
+	</npc>
+	<npc id="18031" name="Witch's Offering Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="278"/>
+			<!--Gastraphetes-->
+		</equip>
+	</npc>
+	<npc id="18032" name="Witch's Offering Warrior" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="72"/>
+			<!--Stormbringer-->
+		</equip>
+	</npc>
+	<npc id="18033" name="Witch's Offering Follower" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="18034" name="Witch's Offering Berserker" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="301"/>
+			<!--Scorpion-->
+		</equip>
+	</npc>
+	<npc id="18035" name="Witch's Offering Zealot" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="91"/>
+			<!--Heavy War Axe-->
+		</equip>
+	</npc>
+	<npc id="18036" name="Witch's Offering Marksman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="282"/>
+			<!--Elemental Bow-->
+		</equip>
+	</npc>
+	<npc id="18037" name="Witch's Offering Disciple" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="18038" name="Witch's Offering Saint" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="18039" name="Dark Omen Offering Elder" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="18040" name="Dark Omen Offering" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="18041" name="Dark Omen Offering Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="283"/>
+			<!--Akat Long Bow-->
+		</equip>
+	</npc>
+	<npc id="18042" name="Dark Omen Offering Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="133"/>
+			<!--Raid Sword-->
+		</equip>
+	</npc>
+	<npc id="18043" name="Dark Omen Offering Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="18044" name="Dark Omen Offering Berserker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="18045" name="Dark Omen Offering Zealot" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="2503"/>
+			<!--Yaksa Mace-->
+		</equip>
+	</npc>
+	<npc id="18046" name="Dark Omen Offering Marksman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="286"/>
+			<!--Eminence Bow-->
+		</equip>
+	</npc>
+	<npc id="18047" name="Dark Omen Offering Disciple" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="18048" name="Dark Omen Offering Saint" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="18049" name="Offering of Forbidden Path Elder" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="18050" name="Offering of Forbidden Path" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="236"/>
+			<!--Soul Separator-->
+		</equip>
+	</npc>
+	<npc id="18051" name="Offering of Forbidden Path Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="287"/>
+			<!--Bow of Peril-->
+		</equip>
+	</npc>
+	<npc id="18052" name="Offering of Forbidden Path Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="18053" name="Offering of Forbidden Path Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="18054" name="Offering of Forbidden Path Berserker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="305"/>
+			<!--Tallum Glaive-->
+		</equip>
+	</npc>
+	<npc id="18055" name="Offering of Forbidden Path Zealot" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="175"/>
+			<!--Art of Battle Axe-->
+		</equip>
+	</npc>
+	<npc id="18056" name="Offering of Forbidden Path Marksman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="289"/>
+			<!--Soul Bow-->
+		</equip>
+	</npc>
+	<npc id="18057" name="Offering of Forbidden Path Disciple" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="151"/>
+			<!--Sword of Miracles-->
+		</equip>
+	</npc>
+	<npc id="18058" name="Offering of Forbidden Path Saint" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="18059" name="Offering of Branded Elder" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="18060" name="Offering of the Branded" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="218"/>
+			<!--Throwing Knife-->
+		</equip>
+	</npc>
+	<npc id="18061" name="Offering of Branded Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="18062" name="Offering of Branded Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="125"/>
+			<!--Spinebone Sword-->
+		</equip>
+	</npc>
+	<npc id="18063" name="Offering of Branded Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="18064" name="Offering of Branded Berserker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="292"/>
+			<!--Pike-->
+		</equip>
+	</npc>
+	<npc id="18065" name="Offering of Branded Zealot" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="158"/>
+			<!--Tarbar-->
+		</equip>
+	</npc>
+	<npc id="18066" name="Offering of Branded Marksman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="273"/>
+			<!--Composite Bow-->
+		</equip>
+	</npc>
+	<npc id="18067" name="Offering of Branded Disciple" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+		</equip>
+	</npc>
+	<npc id="18068" name="Offering of Branded Saint" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="72"/>
+			<!--Stormbringer-->
+		</equip>
+	</npc>
+	<npc id="18069" name="Apostate's Offering Elder" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="72"/>
+			<!--Stormbringer-->
+		</equip>
+	</npc>
+	<npc id="18070" name="Apostate's Offering " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="223"/>
+			<!--Kukuri-->
+		</equip>
+	</npc>
+	<npc id="18071" name="Apostate's Offering Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="275"/>
+			<!--Long Bow-->
+		</equip>
+	</npc>
+	<npc id="18072" name="Apostate's Offering Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="18073" name="Apostate's Offering Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="18074" name="Apostate's Offering Berserker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="297"/>
+			<!--Glaive-->
+		</equip>
+	</npc>
+	<npc id="18075" name="Apostate's Offering Zealot" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="172"/>
+			<!--Heavy Bone Club-->
+		</equip>
+	</npc>
+	<npc id="18076" name="Apostate's Offering Marksman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="277"/>
+			<!--Dark Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="18077" name="Apostate's Offering Disciple" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="18078" name="Apostate's Offering Saint" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="133"/>
+			<!--Raid Sword-->
+		</equip>
+	</npc>
+	<npc id="18079" name="Witch's Offering Elder" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="133"/>
+			<!--Raid Sword-->
+		</equip>
+	</npc>
+	<npc id="18080" name="Witch's Offering" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="226"/>
+			<!--Cursed Dagger-->
+		</equip>
+	</npc>
+	<npc id="18081" name="Witch's Offering Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="278"/>
+			<!--Gastraphetes-->
+		</equip>
+	</npc>
+	<npc id="18082" name="Witch's Offering Warrior" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="72"/>
+			<!--Stormbringer-->
+		</equip>
+	</npc>
+	<npc id="18083" name="Witch's Offering Follower" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="18084" name="Witch's Offering Berserker" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="301"/>
+			<!--Scorpion-->
+		</equip>
+	</npc>
+	<npc id="18085" name="Witch's Offering Zealot" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="91"/>
+			<!--Heavy War Axe-->
+		</equip>
+	</npc>
+	<npc id="18086" name="Witch's Offering Marksman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="282"/>
+			<!--Elemental Bow-->
+		</equip>
+	</npc>
+	<npc id="18087" name="Witch's Offering Disciple" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="18088" name="Witch's Offering Saint" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="18089" name="Dark Omen Offering Elder" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="18090" name="Dark Omen Offering" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="18091" name="Dark Omen Offering Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="283"/>
+			<!--Akat Long Bow-->
+		</equip>
+	</npc>
+	<npc id="18092" name="Dark Omen Offering Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="133"/>
+			<!--Raid Sword-->
+		</equip>
+	</npc>
+	<npc id="18093" name="Dark Omen Offering Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="18094" name="Dark Omen Offering Berserker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="18095" name="Dark Omen Offering Zealot" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="2503"/>
+			<!--Yaksa Mace-->
+		</equip>
+	</npc>
+	<npc id="18096" name="Dark Omen Offering Marksman" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="286"/>
+			<!--Eminence Bow-->
+		</equip>
+	</npc>
+	<npc id="18097" name="Dark Omen Offering Disciple" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="18098" name="Dark Omen Offering Saint" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="18099" name="Offering of Forbidden Path Elder" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FestivalMonster"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+</list>

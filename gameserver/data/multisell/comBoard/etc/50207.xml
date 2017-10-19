@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+  
+  <item>
+    <ingredient id="57" count="50000000"/>
+    <production id="10503" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="57" count="50000000"/>
+    <production id="10504" count="1"/>
+  </item> 
+  
+  <item>
+    <ingredient id="57" count="50000000"/>
+    <production id="10505" count="1"/>
+  </item> 
+  
+  <!--B Grade-->
+  <item>
+    <ingredient id="57" count="100000000"/>
+    <production id="10506" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="57" count="100000000"/>
+    <production id="10507" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="57" count="100000000"/>
+    <production id="10508" count="1"/>
+  </item>
+  
+  <!--A Grade-->
+  <item>
+    <ingredient id="57" count="250000000"/>
+    <production id="10509" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="57" count="250000000"/>
+    <production id="10510" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="57" count="250000000"/>
+    <production id="10511" count="1"/>
+  </item>
+  
+  <!--S Grade-->
+  <item>
+    <ingredient id="57" count="1000000000"/>
+    <production id="10512" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="57" count="1000000000"/>
+    <production id="10513" count="1"/>
+  </item>
+  
+  <item>
+    <ingredient id="57" count="1000000000"/>
+    <production id="10514" count="1"/>
+  </item>
+  
+  <!--M.def shirt S Grade-->
+  <item>
+    <ingredient id="57" count="1000000000"/>
+    <production id="10208" count="1"/>
+  </item>
+
+</list>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<cubic id="3" level="1" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="1"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="1"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="1"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="2" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="2"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="2"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="2"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="3" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="3"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="3"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="3"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="4" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="4"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="4"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="4"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="5" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="5"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="5"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="5"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="6" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="6"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="6"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="6"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="7" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="7"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="7"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="7"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="101" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="8"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="8"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="8"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="102" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="9"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="9"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="9"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="103" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="10"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="10"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="10"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="104" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="11"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="11"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="11"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="105" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="12"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="12"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="12"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="106" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="13"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="13"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="13"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="107" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="14"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="14"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="14"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="108" slot="3">
+		<set name="duration" val="900" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="15"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="15"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="15"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+	<cubic id="3" level="20" slot="3">
+		<set name="duration" val="3600" />
+		<set name="delay" val="13" />
+		<set name="max_count" val="20" />
+		<set name="use_up" val="0" />
+		<set name="power" val="0" />
+		<set name="target_type" val="heal;90;60;30;0" />
+		<op_cond>
+		</op_cond>
+		<skill1>
+			<def skill="4051"/>
+			<def skill_lv="20"/>
+			<def success_chance="13"/>
+			<def can_attack_static_object="0"/>
+		</skill1>
+		<skill2>
+			<def skill="4051"/>
+			<def skill_lv="20"/>
+			<def success_chance="33"/>
+			<def can_attack_static_object="0"/>
+		</skill2>
+		<skill3>
+			<def skill="4051"/>
+			<def skill_lv="20"/>
+			<def success_chance="53"/>
+			<def can_attack_static_object="0"/>
+		</skill3>
+	</cubic>
+</list>

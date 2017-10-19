@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="13001" name="Heart of Warding" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="HeartOfWarding"/>
+	</npc>
+	<npc id="13002" name="Life Control Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.castle.CastleControlTower"/>
+	</npc>
+	<npc id="13003" name="Life Control Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13004" name="Flame Control Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.castle.CastleFlameTower"/>
+	</npc>
+	<npc id="13005" name="Flame Control Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13006" name="Christmas Tree" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="XmassTree"/>
+	</npc>
+	<npc id="13007" name="Special Christmas Tree" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="XmassTree"/>
+	</npc>
+	<npc id="13014" name=" " title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13015" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13016" name="King Squash" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Squash"/>
+	</npc>
+	<npc id="13017" name="Emperor Squash" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Squash"/>
+	</npc>
+	<npc id="13018" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13019" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13020" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13021" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13022" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13023" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13024" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13025" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13026" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13027" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13028" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13029" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13030" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13031" name="Huge Pig" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13032" name="Huge Pig" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13033" name="Huge Pig" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13034" name="Super Huge Pig" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13035" name="Golden Pig" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13036" name="Alchemist's Chest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="13037" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13038" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13039" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13040" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13041" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13042" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13043" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13044" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13045" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13046" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13047" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13048" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13049" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13050" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13051" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13052" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13053" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13054" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13055" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13056" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13057" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13058" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13059" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13060" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13061" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13062" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13063" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13064" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13065" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13066" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13067" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13068" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13069" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13070" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Trap"/>
+	</npc>
+	<npc id="13071" name="Virtual Image" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13072" name="Virtual Image" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13073" name="Virtual Image" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13074" name="Virtual Image" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13075" name="Virtual Image" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13076" name="Virtual Image" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13077" name="Onyx Beast" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13078" name="Doom Wraith" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="13079" name="Grail Apostle" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="8221"/>
+			<!--Monster Only (Grail Apostle Spear)-->
+		</equip>
+	</npc>
+	<npc id="13080" name="Grail Apostle" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="8221"/>
+			<!--Monster Only (Grail Apostle Spear)-->
+		</equip>
+	</npc>
+	<npc id="13081" name="Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13082" name="Lilim Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13083" name="Golem Guardian" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="5800"/>
+			<!--Nephilim Lord-->
+		</equip>
+	</npc>
+	<npc id="13084" name="Inferno Drake" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13085" name="Dragon Bomber" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13086" name="Zariche" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="8190"/>
+			<!--Demonic Sword Zariche-->
+		</equip>
+	</npc>
+	<npc id="13087" name="Akamanah" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="8689"/>
+			<!--Blood Sword Akamanah-->
+		</equip>
+	</npc>
+	<npc id="13088" name="Final Form" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13089" name="Final Form" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13090" name="Native" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13091" name="Yeti" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13092" name="Buffalo" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13093" name="Pig" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13094" name="Zombie" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13095" name="Pixy" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13096" name="Rabbit" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13097" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13098" name="Event Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="13099" name="Zaken" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+</list>

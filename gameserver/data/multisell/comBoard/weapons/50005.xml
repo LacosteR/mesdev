@@ -1,0 +1,168 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="false" keepenchanted="false" />
+	<!--Длинный Меч Эльфов-->
+	<item>
+		<ingredient id="57" count="1525700" />
+		<production id="2499" count="1" />
+	</item>
+
+	<!--Меч Революции-->
+	<item>
+		<ingredient id="57" count="1181400" />
+		<production id="129" count="1" />
+	</item>
+
+	<!--Меч Рыцаря-->
+	<item>
+		<ingredient id="57" count="545050" />
+		<production id="128" count="1" />
+	</item>
+
+	<!--Клеймор-->
+	<item>
+		<ingredient id="57" count="1525700" />
+		<production id="70" count="1" />
+	</item>
+
+	<!--Меч Титана-->
+	<item>
+		<ingredient id="57" count="1181400" />
+		<production id="7881" count="1" />
+	</item>
+
+	<!--Двуручный Меч-->
+	<item>
+		<ingredient id="57" count="817850" />
+		<production id="124" count="1" />
+	</item>
+
+	<!--Меч Рыцаря*Меч Эльфов-->
+	<item>
+		<ingredient id="57" count="1403270" />
+		<production id="2548" count="1" />
+	</item>
+
+	<!--Меч Рыцаря*Меч Рыцаря-->
+	<item>
+		<ingredient id="57" count="1181400" />
+		<production id="2546" count="1" />
+	</item>
+
+	<!--Сабля*Полуторный Меч-->
+	<item>
+		<ingredient id="57" count="899580" />
+		<production id="2517" count="1" />
+	</item>
+
+	<!--Мифриловый Кинжал-->
+	<item>
+		<ingredient id="57" count="1525700" />
+		<production id="225" count="1" />
+	</item>
+
+	<!--Проклятая Дага-->
+	<item>
+		<ingredient id="57" count="1181400" />
+		<production id="1660" count="1" />
+	</item>
+
+	<!--Нож Шилен-->
+	<item>
+		<ingredient id="57" count="817850" />
+		<production id="241" count="1" />
+	</item>
+
+	<!--Легкий Лук-->
+	<item>
+		<ingredient id="57" count="1525700" />
+		<production id="280" count="1" />
+	</item>
+
+	<!--Усиленный Длинный Лук-->
+	<item>
+		<ingredient id="57" count="1181400" />
+		<production id="279" count="1" />
+	</item>
+
+	<!--Гастрафет-->
+	<item>
+		<ingredient id="57" count="817850" />
+		<production id="278" count="1" />
+	</item>
+
+	<!--Шипованный Джамадхар-->
+	<item>
+		<ingredient id="57" count="1525700" />
+		<production id="262" count="1" />
+	</item>
+
+	<!--Бичхва-->
+	<item>
+		<ingredient id="57" count="1181400" />
+		<production id="261" count="1" />
+	</item>
+
+	<!--Трехгранный Джамадхар-->
+	<item>
+		<ingredient id="57" count="817850" />
+		<production id="260" count="1" />
+	</item>
+
+	<!--Глефа-->
+	<item>
+		<ingredient id="57" count="1525700" />
+		<production id="297" count="1" />
+	</item>
+
+	<!--Молот Смерти-->
+	<item>
+		<ingredient id="57" count="1181400" />
+		<production id="294" count="1" />
+	</item>
+
+	<!--Молот Войны-->
+	<item>
+		<ingredient id="57" count="817850" />
+		<production id="293" count="1" />
+	</item>
+
+	<!--Костолом-->
+	<item>
+		<ingredient id="57" count="1525700" />
+		<production id="159" count="1" />
+	</item>
+
+	<!--Моргенштерн-->
+	<item>
+		<ingredient id="57" count="1181400" />
+		<production id="88" count="1" />
+	</item>
+
+	<!--Шипованная Дубина-->
+	<item>
+		<ingredient id="57" count="817850" />
+		<production id="157" count="1" />
+	</item>
+
+	<!--Посох Жизни-->
+	<item>
+		<ingredient id="57" count="1525700" />
+		<production id="189" count="1" />
+	</item>
+
+	<!--Булава Атубы-->
+	<item>
+		<ingredient id="57" count="1525700" />
+		<production id="190" count="1" />
+	</item>
+
+	<!--Рогатый Посох-->
+	<item>
+		<ingredient id="57" count="1181400" />
+		<production id="90" count="1" />
+	</item>
+</list>
+
+
+

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="67" />
+	<production id="13020" count="1" />
+</item>
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="67" />
+	<production id="13019" count="1" />
+</item>
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="67" />
+	<production id="13017" count="1" />
+</item>
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="67" />
+	<production id="13018" count="1" />
+</item>
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="67" />
+	<production id="14063" count="1" />
+</item>
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="67" />
+	<production id="14062" count="1" />
+</item>
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="67" />
+	<production id="14061" count="1" />
+</item>
+
+<!--A grade-->
+<item>
+	<ingredient id="30000" count="67" />
+	<production id="14064" count="1" />
+</item>
+
+
+</list>

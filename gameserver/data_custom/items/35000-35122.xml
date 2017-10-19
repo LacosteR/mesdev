@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<armor id="35000" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35001" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35002" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35003" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35004" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35005" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35006" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35007" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35008" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35009" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35010" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35011" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35012" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35013" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35014" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35015" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35016" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35017" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35018" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35019" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35020" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35021" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35022" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35023" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35024" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35025" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35026" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35027" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35028" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35029" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35030" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35031" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35032" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35033" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35034" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<set name="tradeable" value="false"/>
+		 <set name="sellable" value="false"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35035" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35036" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35037" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35038" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35039" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35040" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35041" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35042" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35043" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35044" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35045" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35046" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35047" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35048" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35049" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35050" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35051" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35052" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35053" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35054" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35055" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35056" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35057" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35058" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35059" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35060" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>	
+	
+	<armor id="35061" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35062" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35063" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35064" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35065" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35066" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35067" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	
+	<armor id="35068" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	
+	<armor id="35069" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	
+	<armor id="35070" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	
+	<armor id="35071" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	
+	<armor id="35072" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35073" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35074" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35075" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	
+	<armor id="35076" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35077" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35078" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35079" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35080" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35081" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35082" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35083" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35084" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35085" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35086" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35087" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35088" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35089" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35090" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35091" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35092" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35093" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35094" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35095" name="Santa Hat" add_name="1-day Limited Period">
+		<set name="freightable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="durability" value="1440"/>
+		<set name="icon" value="icon.accessory_santas_cap_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="temporal" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35096" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35097" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35098" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35099" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35100" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35101" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35102" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35103" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35104" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	
+	<armor id="35105" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	
+	<armor id="35106" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	
+	<armor id="35107" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35108" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35109" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35110" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35111" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35112" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35113" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35114" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35115" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35116" name="Hat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys2.icon.br_polar_bear_cap_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="FACE"/>
+		</equip>
+	</armor>
+	
+	<armor id="35117" name="Шапка Ушанка Бирюзовая">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="CustomAccessoryTex.Ushan_Hat_Blue_i"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35118" name="Шапка Ушанка Красная">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="CustomAccessoryTex.Ushan_Hat_Red_i"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35119" name="Шапка Ушанка Коричневая">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="CustomAccessoryTex.Ushan_Hat_Brown_i"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35120" name="Шапка с Помпоном Зелёная">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="CustomAccessoryTex.Pomp_Hat_Blue_i"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35121" name="Шапка с Помпоном Красная">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="CustomAccessoryTex.Pomp_Hat_Red_i"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+	
+	<armor id="35122" name="Шапка с Помпоном Белая">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="CustomAccessoryTex.Pomp_Hat_White_i"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR"/>
+		</equip>
+	</armor>
+</list>

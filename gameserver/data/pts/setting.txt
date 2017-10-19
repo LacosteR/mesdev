@@ -1,0 +1,89 @@
+initial_equipment_begin
+	human_fighter={{[squire's_sword];1;1};{[dagger];1;0};{[squire's_shirt];1;1};{[squire's_pants];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	human_magician={{[apprentice's_wand];1;1};{[apprentice's_tunic];1;1};{[apprentice's_hose];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	elf_fighter={{[squire's_sword];1;1};{[dagger];1;0};{[squire's_shirt];1;1};{[squire's_pants];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	elf_magician={{[apprentice's_wand];1;1};{[apprentice's_tunic];1;1};{[apprentice's_hose];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	darkelf_fighter={{[squire's_sword];1;1};{[dagger];1;0};{[squire's_shirt];1;1};{[squire's_pants];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	darkelf_magician={{[apprentice's_wand];1;1};{[apprentice's_tunic];1;1};{[apprentice's_hose];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	orc_fighter={{[squire's_sword];1;1};{[training_gloves];1;1};{[squire's_shirt];1;1};{[squire's_pants];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	orc_shaman={{[training_gloves];1;1};{[apprentice's_tunic];1;1};{[apprentice's_hose];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	dwarf_apprentice={{[union_member's_club];1;1};{[dagger];1;0};{[squire's_shirt];1;1};{[squire's_pants];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	kamael_m_soldier={{[squire's_sword];1;1};{[dagger];1};{[squire's_shirt];1;1};{[squire's_pants];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+	kamael_f_soldier={{[squire's_sword];1;1};{[dagger];1};{[squire's_shirt];1;1};{[squire's_pants];1;1};{[tutorial_guide];1};{[scroll_of_escape_newbie];5};{[scroll_of_move_to_kamael_cave];10};{[1835];200};{[3947];200}}
+initial_equipment_end
+
+initial_start_point_begin
+	point_begin
+		point={-71338;258271;-3104}
+		point={-71417;258270;-3104}
+		point={-71453;258305;-3104}
+		point={-71467;258378;-3104}
+		class={human_fighter}
+	point_end
+
+	point_begin
+		point={-90875;248162;-3570}
+		point={-90954;248118;-3570}
+		point={-90918;248070;-3570}
+		point={-90890;248027;-3570}
+		class={human_magician}
+	point_end
+
+	point_begin
+		point={46045;41251;-3440}
+		point={46117;41247;-3440}
+		point={46182;41198;-3440}
+		point={46115;41141;-3440}
+		point={46048;41141;-3440}
+		point={45978;41196;-3440}
+		class={elf_fighter; elf_magician}
+	point_end
+
+	point_begin
+		point={28295;11063;-4224}
+		point={28302;11008;-4224}
+		point={28377;10916;-4224}
+		point={28456;10997;-4224}
+		point={28461;11044;-4224}
+		point={28395;11127;-4224}
+		class={darkelf_fighter; darkelf_magician}
+	point_end
+
+	point_begin
+		point={108644;-173947;-400}
+		point={108678;-174002;-400}
+		point={108505;-173964;-400}
+		point={108512;-174026;-400}
+		point={108549;-174075;-400}
+		point={108576;-174122;-400}
+		class={dwarf_apprentice}
+	point_end
+
+	point_begin
+		point={-56733;-113459;-690}
+		point={-56686;-113470;-690}
+		point={-56728;-113610;-690}
+		point={-56693;-113610;-690}
+		point={-56743;-113757;-690}
+		point={-56682;-113730;-690}
+		class={orc_fighter; orc_shaman}
+	point_end
+
+	point_begin
+		point={-125607;38452;1152}
+		point={-125472;38450;1152}
+		point={-125615;37771;1152}
+		point={-125464;37776;1152}
+		point={-125517;38267;1155}
+		point={-125531;37944;1155}
+		class={kamael_m_soldier; kamael_f_soldier}
+	point_end
+
+initial_start_point_end
+
+/* {[item_name];min_lv_npc;max_lv_npc;count_min;count_max;chance} */
+additional_drop_begin
+	drop_monster={}
+	drop_raid_boss={}
+	drop_corpse={}
+additional_drop_end

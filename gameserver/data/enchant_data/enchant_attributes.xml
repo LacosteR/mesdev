@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Стандартные настройки для атрибутов -->
+	<config>
+		<weapon_enchant_first val="20" />
+		<armor_enchant_first val="6" />
+		<weapon_enchant_val_stone val="5" />
+		<armor_enchant_val_stone val="6" />
+		<weapon_enchant_val_crystal val="5" />
+		<armor_enchant_val_crystal val="6" />
+	</config>	
+	<stones>
+		<item attribute="Fire" id="9546" chance_armor="44" chance_weapon="56" />
+		<item attribute="Water" id="9547" chance_armor="44" chance_weapon="56" />
+		<item attribute="Earth" id="9548" chance_armor="44" chance_weapon="56" />
+		<item attribute="Wind" id="9549" chance_armor="44" chance_weapon="56" />
+		<item attribute="Unholy" id="9550" chance_armor="44" chance_weapon="56" />
+		<item attribute="Holy" id="9551" chance_armor="44" chance_weapon="56" />
+		<item attribute="Fire" id="10521" chance_armor="44" chance_weapon="56" />
+		<item attribute="Water" id="10522" chance_armor="44" chance_weapon="56" />
+		<item attribute="Earth" id="10523" chance_armor="44" chance_weapon="56" />
+		<item attribute="Wind" id="10524" chance_armor="44" chance_weapon="56" />
+		<item attribute="Unholy" id="10525" chance_armor="44" chance_weapon="56" />
+		<item attribute="Holy" id="10526" chance_armor="44" chance_weapon="56" />
+	</stones>
+	<crystals>
+		<item attribute="Fire" id="9552" chance_armor="33" chance_weapon="36" />
+		<item attribute="Water" id="9553" chance_armor="33" chance_weapon="36" />
+		<item attribute="Earth" id="9554" chance_armor="33" chance_weapon="36" />
+		<item attribute="Wind" id="9555" chance_armor="33" chance_weapon="36" />
+		<item attribute="Unholy" id="9556" chance_armor="33" chance_weapon="36" />
+		<item attribute="Holy" id="9557" chance_armor="33" chance_weapon="36" />
+	</crystals>
+</list>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<!-- Контрольная точка №1 (вход) -->
+	<zone name="as_cp_map1_one" type="event_zone" >
+		<polygon>
+			<coords loc="22552 157256 -2960 -2960"/>
+			<coords loc="22184 157304 -2960 -2960"/>
+			<coords loc="22200 156584 -2960 -2960"/>
+			<coords loc="22424 156552 -2960 -2960"/>
+		</polygon>
+	</zone>
+	<!-- Контрольная точка №2 (питание) -->
+	<zone name="as_cp_map1_two" type="event_zone" >
+		<polygon>
+			<coords loc="22184 158936 -2768 -2760"/>
+			<coords loc="21960 158936 -2768 -2760"/>
+			<coords loc="21960 158584 -2768 -2760"/>
+			<coords loc="22184 158584 -2768 -2760"/>
+		</polygon>
+	</zone>
+	<!-- Контрольная точка №3 (центральный узел) -->
+	<zone name="as_cp_map1_three" type="event_zone" >
+		<polygon>
+			<coords loc="21288 161128 -2544 -2544"/>
+			<coords loc="21288 161672 -2544 -2544"/>
+			<coords loc="22856 161672 -2544 -2544"/>
+			<coords loc="22856 161128 -2544 -2544"/>
+		</polygon>
+	</zone>
+	<!-- Респаун атакующих до вхождения -->
+	<zone name="as_rp_one_map1_attackers" type="event_zone" >
+		<polygon>
+			<coords loc="21496 153560 -2976 -2976"/>
+			<coords loc="21320 152984 -3008 -3008"/>
+			<coords loc="22376 152712 -3008 -3008"/>
+			<coords loc="22968 153272 -2976 -2976"/>
+		</polygon>
+	</zone>
+	<!-- Респаун атакующих после вхождения -->
+	<zone name="as_rp_two_map1_attackers" type="event_zone" >
+		<polygon>
+			<coords loc="22136 156888 -2960 -2960"/>
+			<coords loc="22136 157192 -2728 -2960"/>
+			<coords loc="22440 157224 -2960 -2960"/>
+			<coords loc="22440 156840 -2960 -2960"/>
+		</polygon>
+	</zone>
+	<!-- Респаун защитников до вхождения -->
+	<zone name="as_rp_one_map1_defenders" type="event_zone" >
+		<polygon>
+			<coords loc="22184 158936 -2768 -2760"/>
+			<coords loc="21960 158936 -2768 -2760"/>
+			<coords loc="21960 158584 -2768 -2760"/>
+			<coords loc="22184 158584 -2768 -2760"/>
+		</polygon>
+	</zone>
+	<!-- Респаун защитников после вхождения -->
+	<zone name="as_rp_two_map1_defenders" type="event_zone" >
+		<polygon>
+			<coords loc="22216 160392 -2688 -2688"/>
+			<coords loc="22216 160680 -2688 -2688"/>
+			<coords loc="21912 160696 -2688 -2688"/>
+			<coords loc="21928 160408 -2688 -2688"/>
+		</polygon>
+	</zone>
+</list>

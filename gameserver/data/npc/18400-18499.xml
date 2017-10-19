@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="18400" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18401" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18402" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18403" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18404" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18405" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18406" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18407" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18408" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18409" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18410" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18411" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18412" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18413" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18414" name="Warrior's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18415" name="Midway Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18416" name="Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18417" name="Bridge Keeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18418" name="Bridge Keeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18419" name="Bridge Keeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18420" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18427" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18428" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18429" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18430" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18431" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18432" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18433" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18434" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18435" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18436" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18437" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18438" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18441" name="Kamael Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18442" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18443" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18444" name="Garden Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18445" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18446" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18447" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18448" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18449" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18450" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18451" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18452" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18453" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18454" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18455" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18456" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18457" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18458" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18459" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18460" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18461" name="Tully's Gatekeeper" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WorkshopGatekeeper"/>
+	</npc>
+	<npc id="18463" name="Remnant Diabolist" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="HellboundRemnant"/>
+		<equip>
+			<rhand item_id="8527"/>
+			<!--For Monsters Only (Reinforced Bow)-->
+		</equip>
+	</npc>
+	<npc id="18464" name="Remnant Diviner" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="HellboundRemnant"/>
+		<equip>
+			<rhand item_id="8532"/>
+			<!--For Monsters Only (Spinebone Sword)-->
+		</equip>
+	</npc>
+	<npc id="18465" name="Derek" title="First Generation Seer">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="18466" name="Outpost Captain" title="">
+		<set name="ai_type" value="hellbound.OutpostCaptain"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8203"/>
+			<!--Monster Only (Venom Sword)-->
+			<lhand item_id="8203"/>
+			<!--Monster Only (Venom Sword)-->
+		</equip>
+	</npc>
+	<npc id="18467" name="Wounded Land Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18468" name="Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18469" name="Hall Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18470" name="Hall Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18471" name="Hall Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18472" name="Hall Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18473" name="Hall Captain" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18474" name="Alarm" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18475" name="Hall Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18476" name="Hall Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18477" name="Coral Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18478" name="Herb Jar" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18479" name="Inner Castle Sentry" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18480" name="Inner Castle Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18481" name="Inner Castle Seer" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18482" name="Fafurion Kindred" title="">
+		<set name="ai_type" value="isle_of_prayer.FafurionKindred"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="18483" name="Garden Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18484" name="Naia Failan" title="">
+		<set name="ai_type" value="hellbound.Pylon"/>
+		<set name="type" value="ImmuneMonster"/>
+	</npc>
+	<npc id="18485" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18486" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18487" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18488" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18489" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18490" name="Beleth's Slave" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18491" name="Lock" title="Tower of Naia">
+		<set name="ai_type" value="hellbound.NaiaLock"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18492" name="Controller" title="Tower of Naia">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="NaiaController"/>
+	</npc>
+	<npc id="18493" name="Ward" title="Tower of Naia">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18494" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18495" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18496" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18497" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18498" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+	<npc id="18499" name="Ingenious Contraption" title="">
+		<set name="ai_type" value="hellbound.NaiaRoomController"/>
+		<set name="type" value="NaiaRoomController"/>
+	</npc>
+</list>

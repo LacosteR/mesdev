@@ -1,0 +1,140 @@
+package quests.quests0040;
+
+import l2p.gameserver.model.instances.NpcInstance;
+import l2p.gameserver.model.quest.Quest;
+import l2p.gameserver.model.quest.QuestState;
+import l2p.gameserver.network.serverpackets.ExShowScreenMessage;
+import l2p.gameserver.network.serverpackets.ExShowScreenMessage.ScreenMessageAlign;
+import l2p.gameserver.scripts.ScriptFile;
+
+/**
+ * Рейты не учитываются, награда не стекуемая
+ */
+public class _005_MinersFavor extends Quest implements ScriptFile {
+    //NPC
+    public final int BOLTER = 30554;
+    public final int SHARI = 30517;
+    public final int GARITA = 30518;
+    public final int REED = 30520;
+    public final int BRUNON = 30526;
+    //QuestItem
+    public final int BOLTERS_LIST = 1547;
+    public final int MINING_BOOTS = 1548;
+    public final int MINERS_PICK = 1549;
+    public final int BOOMBOOM_POWDER = 1550;
+    public final int REDSTONE_BEER = 1551;
+    public final int BOLTERS_SMELLY_SOCKS = 1552;
+    //Item
+    public final int NECKLACE = 906;
+
+    @Override
+    public void onLoad() {
+    }
+
+    @Override
+    public void onReload() {
+    }
+
+    @Override
+    public void onShutdown() {
+    }
+
+    public _005_MinersFavor() {
+        super(false);
+        addStartNpc(BOLTER);
+        addTalkId(SHARI);
+        addTalkId(GARITA);
+        addTalkId(REED);
+        addTalkId(BRUNON);
+
+        addQuestItem(BOLTERS_LIST, BOLTERS_SMELLY_SOCKS, MINING_BOOTS, MINERS_PICK, BOOMBOOM_POWDER, REDSTONE_BEER);
+    }
+
+    @Override
+    public String onEvent(String event, QuestState st, NpcInstance npc) {
+        String htmltext = event;
+        if (event.equalsIgnoreCase("miner_bolter_q0005_03.htm")) {
+            st.setCond(1);
+            st.setState(STARTED);
+            st.playSound(SOUND_ACCEPT);
+            st.doGiveItems(BOLTERS_LIST, 1);
+            st.doGiveItems(BOLTERS_SMELLY_SOCKS, 1);
+        } else if (event.equalsIgnoreCase("blacksmith_bronp_q0005_02.htm")) {
+            st.doTakeItems(BOLTERS_SMELLY_SOCKS, -1);
+            st.doGiveItems(MINERS_PICK, 1);
+            if (st.getQuestItemsCount(BOLTERS_LIST) > 0 && st.getQuestItemsCount(MINING_BOOTS) + st.getQuestItemsCount(MINERS_PICK) + st.getQuestItemsCount(BOOMBOOM_POWDER) + st.getQuestItemsCount(REDSTONE_BEER) == 4) {
+                st.setCond(2);
+                st.playSound(SOUND_MIDDLE);
+            } else
+                st.playSound(SOUND_ITEMGET);
+
+        }
+        return htmltext;
+    }
+
+    @Override
+    public String onTalk(NpcInstance npc, QuestState st) {
+        int npcId = npc.getNpcId();
+        String htmltext = "noquest";
+        int cond = st.getCond();
+        if (npcId == BOLTER) {
+            if (cond == 0) {
+                if (st.getPlayer().getLevel() >= 2)
+                    htmltext = "miner_bolter_q0005_02.htm";
+                else {
+                    htmltext = "miner_bolter_q0005_01.htm";
+                    st.exitCurrentQuest(true);
+                }
+            } else if (cond == 1)
+                htmltext = "miner_bolter_q0005_04.htm";
+            else if (cond == 2 && st.getQuestItemsCount(MINING_BOOTS) + st.getQuestItemsCount(MINERS_PICK) + st.getQuestItemsCount(BOOMBOOM_POWDER) + st.getQuestItemsCount(REDSTONE_BEER) == 4) {
+                htmltext = "miner_bolter_q0005_06.htm";
+                st.doTakeItems(MINING_BOOTS, -1);
+                st.doTakeItems(MINERS_PICK, -1);
+                st.doTakeItems(BOOMBOOM_POWDER, -1);
+                st.doTakeItems(REDSTONE_BEER, -1);
+                st.doTakeItems(BOLTERS_LIST, -1);
+                st.doRewardItems(NECKLACE, 1);
+                st.getPlayer().addExpAndSp(RATE_QUESTS_REWARD * 5672, RATE_QUESTS_REWARD * 446);
+                if (st.getPlayer().getPcClass().getLevel() == 1 && !st.getPlayer().getVarB("ng1"))
+                    st.getPlayer().sendPacket(new ExShowScreenMessage("  Delivery duty complete.\nGo find the Newbie Guide.", 5000, ScreenMessageAlign.TOP_CENTER, true));
+                st.doRewardItems(ADENA_ID, 2466);
+                st.unset("cond");
+                st.playSound(SOUND_FINISH);
+                st.exitCurrentQuest(false);
+            }
+        } else if (cond == 1 && st.getQuestItemsCount(BOLTERS_LIST) > 0) {
+            if (npcId == SHARI) {
+                if (st.getQuestItemsCount(BOOMBOOM_POWDER) == 0) {
+                    htmltext = "trader_chali_q0005_01.htm";
+                    st.doGiveItems(BOOMBOOM_POWDER, 1);
+                    st.playSound(SOUND_ITEMGET);
+                } else
+                    htmltext = "trader_chali_q0005_02.htm";
+            } else if (npcId == GARITA) {
+                if (st.getQuestItemsCount(MINING_BOOTS) == 0) {
+                    htmltext = "trader_garita_q0005_01.htm";
+                    st.doGiveItems(MINING_BOOTS, 1);
+                    st.playSound(SOUND_ITEMGET);
+                } else
+                    htmltext = "trader_garita_q0005_02.htm";
+            } else if (npcId == REED) {
+                if (st.getQuestItemsCount(REDSTONE_BEER) == 0) {
+                    htmltext = "warehouse_chief_reed_q0005_01.htm";
+                    st.doGiveItems(REDSTONE_BEER, 1);
+                    st.playSound(SOUND_ITEMGET);
+                } else
+                    htmltext = "warehouse_chief_reed_q0005_02.htm";
+            } else if (npcId == BRUNON && st.getQuestItemsCount(BOLTERS_SMELLY_SOCKS) > 0)
+                if (st.getQuestItemsCount(MINERS_PICK) == 0)
+                    htmltext = "blacksmith_bronp_q0005_01.htm";
+                else
+                    htmltext = "blacksmith_bronp_q0005_03.htm";
+            if (st.getQuestItemsCount(BOLTERS_LIST) > 0 && st.getQuestItemsCount(MINING_BOOTS) + st.getQuestItemsCount(MINERS_PICK) + st.getQuestItemsCount(BOOMBOOM_POWDER) + st.getQuestItemsCount(REDSTONE_BEER) == 4) {
+                st.setCond(2);
+                st.playSound(SOUND_MIDDLE);
+            }
+        }
+        return htmltext;
+    }
+}

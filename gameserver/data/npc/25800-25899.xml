@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="25800" name="Mammon Collector Talos" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25801" count="1"/>
+			<!--Talos' Cohort-->
+		</minions>
+	</npc>
+	<npc id="25801" name="Talos' Cohort" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+</list>

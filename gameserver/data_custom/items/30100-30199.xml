@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<armor id="30100" name="Queen Ant's Ring" add_name="Event">
+    <set name="crystal_type" value="B" />
+    <set name="icon"
+    value="icon.accessory_ring_of_queen_ant_i00" />
+    <set name="price" value="0" />
+    <set name="type" value="NONE" />
+    <set name="weight" value="150" />
+    <set name="dropable" value="false" />
+    <set name="sellable" value="false" />
+    <set name="tradeable" value="false" />
+	<set name="augmentable" value="false"/>
+	<set name="freightable" value="false"/>
+    <equip>
+		<slot id="RIGHT_FINGER" />
+		<slot id="LEFT_FINGER" />
+    </equip>
+    <skills>
+		<skill id="3562" level="1" />
+    </skills>
+    <for>
+		<add stat="mDef" order="0x10" value="48" />
+		<add stat="maxMp" order="0x60" value="21" />
+		<enchant stat="mDef" order="0x0C" value="0" />
+    </for>
+    </armor>
+	<armor id="30101" name="Ring of Core" add_name="Event">
+		<set name="crystal_count" value="69" />
+		<set name="crystal_type" value="A" />
+		<set name="crystallizable" value="true" />
+		<set name="augmentable" value="false" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false"/>
+		<set name="icon" value="icon.accessory_ring_of_core_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="150" />
+		<equip>
+			<slot id="RIGHT_FINGER" />
+			<slot id="LEFT_FINGER" />
+		</equip>
+		<skills>
+			<skill id="3563" level="1" />
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="48" />
+			<add stat="maxMp" order="0x60" value="21" />
+			<enchant stat="mDef" order="0x0C" value="0" />
+		</for>
+	</armor>
+	<armor id="30102" name="Frintezza's Necklace" add_name="Event">
+		<set name="crystal_count" value="230"/>
+		<set name="crystal_type" value="A"/>
+		<set name="crystallizable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false"/>
+		<set name="icon" value="icon.accessory_necklace_of_frintessa_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<equip>
+			<slot id="NECKLACE"/>
+		</equip>
+		<skills>
+			<skill id="3604" level="1"/>
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="95"/>
+			<add stat="maxMp" order="0x60" value="42"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+	<armor id="30103" name="Earring of Orfen" add_name="Event">
+		<set name="crystal_count" value="104" />
+		<set name="crystal_type" value="A" />
+		<set name="crystallizable" value="true" />
+		<set name="augmentable" value="false" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false"/>
+		<set name="icon" value="icon.accessory_earring_of_orfen_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="150" />
+		<equip>
+			<slot id="RIGHT_EAR" />
+			<slot id="LEFT_EAR" />
+		</equip>
+		<skills>
+			<skill id="3560" level="1" />
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="71" />
+			<add stat="maxMp" order="0x60" value="31" />
+			<enchant stat="mDef" order="0x0C" value="0" />
+		</for>
+	</armor>
+	<armor id="30104" name="Earring of Zaken" add_name="Event">
+		<set name="crystal_type" value="S" />
+		<set name="icon" value="icon.accessory_earring_of_zaken_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="150" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="augmentable" value="false"/>
+		<set name="freightable" value="false"/>
+		<equip>
+			<slot id="RIGHT_EAR" />
+			<slot id="LEFT_EAR" />
+		</equip>
+		<skills>
+			<skill id="3559" level="1" />
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="71" />
+			<add stat="maxMp" order="0x60" value="31" />
+			<enchant stat="mDef" order="0x0C" value="0" />
+		</for>
+	</armor>
+	<armor id="30105" name="Blessed Earring of Zaken" add_name="Event">
+		<set name="crystal_type" value="S84" />
+		<set name="crystallizable" value="true" />
+		<set name="crystal_count" value="278" />
+		<set name="price" value="0" />
+		<set name="icon" value="icon.accessory_earring_of_zaken_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="150" />
+		<set name="augmentable" value="false" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false"/>
+		<equip>
+			<slot id="RIGHT_EAR" />
+			<slot id="LEFT_EAR" />
+		</equip>
+		<skills>
+			<skill id="3559" level="2" />
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="94" />
+			<add stat="maxMp" order="0x60" value="37" />
+			<enchant stat="mDef" order="0x0C" value="0" />
+		</for>
+	</armor>
+	<armor id="30106" name="Antharas's Earring" add_name="Event">
+		<set name="crystal_type" value="S" />
+		<set name="icon"
+		value="icon.accessory_earring_of_antaras_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="150" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="augmentable" value="false"/>
+		<set name="freightable" value="false"/>
+		<equip>
+			<slot id="RIGHT_EAR" />
+			<slot id="LEFT_EAR" />
+		</equip>
+		<skills>
+			<skill id="3558" level="1" />
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="94" />
+			<add stat="maxMp" order="0x60" value="37" />
+			<enchant stat="mDef" order="0x0C" value="0" />
+		</for>
+	</armor>
+	<armor id="30107" name="Valakas's Necklace" add_name="Event">
+		<set name="crystal_count" value="729"/>
+		<set name="crystal_type" value="S" />
+		<set name="crystallizable" value="true"/>
+		<set name="icon"
+		value="icon.accessory_necklace_of_valakas_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="150" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="augmentable" value="false"/>
+		<set name="freightable" value="false"/>
+		<equip>
+			<slot id="NECKLACE" />
+		</equip>
+		<skills>
+			<skill id="3557" level="1" />
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="125" />
+			<add stat="maxMp" order="0x60" value="50" />
+			<enchant stat="mDef" order="0x0C" value="0" />
+		</for>
+	</armor>
+	<armor id="30108" name="Beleth's Ring" add_name="Event">
+		<set name="crystal_count" value="152"/>
+		<set name="crystal_type" value="S"/>
+		<set name="crystallizable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false"/>
+		<set name="icon" value="icon.accessary_dynasty_ring_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<equip>
+			<slot id="RIGHT_FINGER"/>
+			<slot id="LEFT_FINGER"/>
+		</equip>
+		<skills>
+			<skill id="3649" level="1"/>
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="48"/>
+			<add stat="maxMp" order="0x60" value="21"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+	<armor id="30109" name="Baium's Ring" add_name="Event">
+		<set name="crystal_count" value="152"/>
+		<set name="crystal_type" value="S" />
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="icon.accessory_ring_of_baium_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="150" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="augmentable" value="false"/>
+		<set name="freightable" value="false"/>
+		<equip>
+			<slot id="RIGHT_FINGER" />
+			<slot id="LEFT_FINGER" />
+		</equip>
+		<skills>
+			<skill id="3561" level="1" />
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="48" />
+			<add stat="maxMp" order="0x60" value="21" />
+			<enchant stat="mDef" order="0x0C" value="0" />
+		</for>
+	</armor>
+	<armor id="30110" name="Freya Necklace" add_name="Event">
+		<set name="crystal_count" value="729"/>
+		<set name="crystal_type" value="S84"/>
+		<set name="crystallizable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false"/>
+		<set name="icon" value="icon.accessary_queen_of_ice_necklace_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<equip>
+			<slot id="NECKLACE"/>
+		</equip>
+		<skills>
+			<skill id="8459" level="1"/>
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="125"/>
+			<add stat="maxMp" order="0x60" value="50"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+	<armor id="30111" name="Blessed Freya Necklace" add_name="Event">
+		<set name="crystal_count" value="729"/>
+		<set name="crystal_type" value="S84"/>
+		<set name="crystallizable" value="true"/>
+		<set name="augmentable" value="false"/>
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false"/>
+		<set name="icon" value="icon.accessary_queen_of_ice_necklace_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="150"/>
+		<equip>
+			<slot id="NECKLACE"/>
+		</equip>
+		<skills>
+			<skill id="8460" level="1"/>
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="132"/>
+			<add stat="maxMp" order="0x60" value="50"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+</list>

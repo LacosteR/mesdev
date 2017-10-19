@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="20600" name="Karul Bugbear" title="">
+		<set name="ai_type" value="KarulBugbear"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+		</equip>
+	</npc>
+	<npc id="20601" name="Tamlin Orc" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="20602" name="Tamlin Orc Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="20603" name="Kronbe Spider" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20604" name="Lakin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="89"/>
+			<!--Big Hammer-->
+		</equip>
+	</npc>
+	<npc id="20605" name="Weird Drake" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20606" name="Kuran Kobold" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20607" name="Kuran Kobold Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20608" name="Patin Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="20609" name="Lakin Salamander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20610" name="Sentinel Of Water" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20611" name="Dre Vanul Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20612" name="Salamander Rowin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20613" name="Lafi Lizardman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+	</npc>
+	<npc id="20614" name="Lafi Lizardman Scout" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2507"/>
+			<!--Lizardspear-->
+		</equip>
+	</npc>
+	<npc id="20615" name="Ritmal Swordsman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="73"/>
+			<!--Shamshir-->
+		</equip>
+	</npc>
+	<npc id="20616" name="Lakin Undine" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20617" name="Sentinel Of Water" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20618" name="Kanil Succubus" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20619" name="Rowin Undine" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20620" name="Cave Beast" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20621" name="Death Wave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20622" name="Malruk Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+	</npc>
+	<npc id="20623" name="Plando" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2507"/>
+			<!--Lizardspear-->
+		</equip>
+	</npc>
+	<npc id="20624" name="Cave Howler" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20625" name="Malruk Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="20626" name="Malruk Berserker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="77"/>
+			<!--Tsurugi-->
+		</equip>
+	</npc>
+	<npc id="20627" name="Malruk Lord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20628" name="Limal Karinness" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20629" name="Karik" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20630" name="Taik Orc" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="20631" name="Taik Orc Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="20632" name="Taik Orc Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="20633" name="Taik Orc Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9"/>
+			<!--Cedar Staff-->
+		</equip>
+	</npc>
+	<npc id="20634" name="Taik Orc Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+			<lhand item_id="104"/>
+			<!--Shield of Victory-->
+		</equip>
+	</npc>
+	<npc id="20635" name="Carinkain" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20636" name="Forest of Mirrors Ghost" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20637" name="Forest of Mirrors Ghost" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20638" name="Forest of Mirrors Ghost" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20639" name="Mirror" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20640" name="Harit Lizardman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20641" name="Harit Lizardman Grunt" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="70"/>
+			<!--Claymore-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20642" name="Harit Lizardman Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20643" name="Harit Lizardman Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20644" name="Harit Lizardman Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9"/>
+			<!--Cedar Staff-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20645" name="Harit Lizardman Matriarch" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="4" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20646" name="Halingka" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="8" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20647" name="Yintzu" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="8" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20648" name="Paliote" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="8" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20649" name="Hamrut" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="8" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20650" name="Kranrot" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="8" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20651" name="Gamlin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20652" name="Leogul" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20653" name="Lesser Giant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3937"/>
+			<!--Giant Bar-->
+		</equip>
+	</npc>
+	<npc id="20654" name="Lesser Giant Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3937"/>
+			<!--Giant Bar-->
+		</equip>
+	</npc>
+	<npc id="20655" name="Lesser Giant Shooter" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="4028"/>
+			<!--Giant Cannon-->
+		</equip>
+	</npc>
+	<npc id="20656" name="Lesser Giant Scout" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="4028"/>
+			<!--Giant Cannon-->
+		</equip>
+	</npc>
+	<npc id="20657" name="Lesser Giant Mage" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3938"/>
+			<!--Giant Rod-->
+		</equip>
+	</npc>
+	<npc id="20658" name="Lesser Giant Elder" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3938"/>
+			<!--Giant Rod-->
+		</equip>
+	</npc>
+	<npc id="20659" name="Grave Wanderer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20660" name="Archer of Greed" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="20661" name="Hatar Ratman Thief" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="20662" name="Hatar Ratman Boss" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+	</npc>
+	<npc id="20663" name="Hatar Hanishee" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20664" name="Deprive" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20665" name="Taik Orc Supply" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+		</equip>
+	</npc>
+	<npc id="20666" name="Taik Orc Seeker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="72"/>
+			<!--Stormbringer-->
+		</equip>
+	</npc>
+	<npc id="20667" name="Farcran" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20668" name="Grave Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20669" name="Taik Orc Supply Leader" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+	<npc id="20670" name="Crimson Drake" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20671" name="Kadios" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20672" name="Trives" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="20673" name="Falibati" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="73"/>
+			<!--Shamshir-->
+		</equip>
+	</npc>
+	<npc id="20674" name="Doom Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="0" max_level="10" type="LAST_HIT" skill="true"/>
+		</absorblist>
+	</npc>
+	<npc id="20675" name="Tairim" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20676" name="Judge of Marsh" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20677" name="Tulben" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20678" name="Tortured Undead" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20679" name="Marsh Stalker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20680" name="Marsh Drake" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="20681" name="Vanor Silenos" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="88"/>
+			<!--Morning Star-->
+		</equip>
+	</npc>
+	<npc id="20682" name="Vanor Silenos Grunt" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="158"/>
+			<!--Tarbar-->
+			<lhand item_id="18"/>
+			<!--Leather Shield-->
+		</equip>
+	</npc>
+	<npc id="20683" name="Vanor Silenos Scout" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5"/>
+			<!--Mace-->
+		</equip>
+	</npc>
+	<npc id="20684" name="Vanor Silenos Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="160"/>
+			<!--Battle Axe-->
+		</equip>
+	</npc>
+	<npc id="20685" name="Vanor Silenos Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9"/>
+			<!--Cedar Staff-->
+		</equip>
+	</npc>
+	<npc id="20686" name="Vanor Silenos Chieftain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="75"/>
+			<!--Caliburs-->
+		</equip>
+	</npc>
+</list>

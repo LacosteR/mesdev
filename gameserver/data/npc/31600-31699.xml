@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="31600" name="Pamela Aprodia" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="151"/>
+			<!--Sword of Miracles-->
+		</equip>
+	</npc>
+	<npc id="31601" name="Pamela Aprodia" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="151"/>
+			<!--Sword of Miracles-->
+		</equip>
+	</npc>
+	<npc id="31602" name="Sharona Artemia" title="Bodyguard">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="232"/>
+			<!--Dark Elven Dagger-->
+		</equip>
+	</npc>
+	<npc id="31603" name="Black Cat" title="Hunter Guild Member">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="227"/>
+			<!--Stiletto-->
+		</equip>
+	</npc>
+	<npc id="31604" name="Grimst" title="Information Broker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31605" name="Kinsley" title="Head Summoner">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="212"/>
+			<!--Dasparion's Staff-->
+		</equip>
+	</npc>
+	<npc id="31606" name="Alice de Catrina" title="Kinsley's Servitor">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31607" name="Sake Dun Zu Hestui" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="298"/>
+			<!--Orcish Glaive-->
+		</equip>
+	</npc>
+	<npc id="31608" name="Belinda" title="Summoner">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31609" name="Aurora the Unicorn" title="Belinda Servitor">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31610" name="Shiken Gloomdrake" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="633"/>
+			<!--Zubei's Shield-->
+		</equip>
+	</npc>
+	<npc id="31611" name="Scryde Heartseeker" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="81"/>
+			<!--Dragon Slayer-->
+		</equip>
+	</npc>
+	<npc id="31612" name="Eternity Wanderer Staris" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+		</equip>
+	</npc>
+	<npc id="31613" name="Noctisse" title="Summoner">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="204"/>
+			<!--Deadman's Staff-->
+		</equip>
+	</npc>
+	<npc id="31614" name="Radyss" title="Head Summoner">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31615" name="Hermit" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31616" name="Hermit" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="8"/>
+			<!--Willow Staff-->
+		</equip>
+	</npc>
+	<npc id="31617" name="Aria Firstmatter" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="236"/>
+			<!--Soul Separator-->
+		</equip>
+	</npc>
+	<npc id="31618" name="Moon Voice Irene" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="130"/>
+			<!--Elven Sword-->
+			<lhand item_id="109"/>
+			<!--Shield of Solar Eclipse-->
+		</equip>
+	</npc>
+	<npc id="31619" name="Erica Ken Weber" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="236"/>
+			<!--Soul Separator-->
+		</equip>
+	</npc>
+	<npc id="31620" name="Verdure Elder Elikia" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="189"/>
+			<!--Staff of Life-->
+		</equip>
+	</npc>
+	<npc id="31621" name="Abyss Saint Elcardia" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="206"/>
+			<!--Demon's Staff-->
+		</equip>
+	</npc>
+	<npc id="31622" name="Keats" title="Cursed Summoner">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31623" name="Bavarin" title="Information Broker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31624" name="Donath" title="Master Chef">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31625" name="Yeti" title="Donath Kitchen Help">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="5129"/>
+			<!--Doll Knife-->
+		</equip>
+	</npc>
+	<npc id="31626" name="Duncan" title="Chef">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="5129"/>
+			<!--Doll Knife-->
+		</equip>
+	</npc>
+	<npc id="31627" name="Mist" title="Information Broker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31628" name="Lilly" title="Mist's Granddaughter">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31629" name="Kaleidos the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31630" name="Kaleidos the Unicorn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31631" name="Eric Ramsheart" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="31632" name="Mysterious Servitor" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31633" name="Winter Hunter Kadyth" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="285"/>
+			<!--Noble Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="31634" name="Winter Hunter Kadyth" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="285"/>
+			<!--Noble Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="31635" name="Winter Hunter Kadyth" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="285"/>
+			<!--Noble Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="31636" name="Flame Successor Akkan" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="305"/>
+			<!--Tallum Glaive-->
+		</equip>
+	</npc>
+	<npc id="31637" name="Khavatari Kashu" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="267"/>
+			<!--Arthro Nail-->
+		</equip>
+	</npc>
+	<npc id="31638" name="Starling Knight Kastien" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="31639" name="Kain Van Halter" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="2626"/>
+			<!--Samurai Long Sword*Samurai Long Sword-->
+		</equip>
+	</npc>
+	<npc id="31640" name="Pilgrim of Darkness" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="318"/>
+			<!--Crucifix of Blood-->
+		</equip>
+	</npc>
+	<npc id="31641" name="Pilgrim of Darkness" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="318"/>
+			<!--Crucifix of Blood-->
+		</equip>
+	</npc>
+	<npc id="31642" name="Tarkai Zu Duda-Mara" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="210"/>
+			<!--Staff of Evil Spirits-->
+		</equip>
+	</npc>
+	<npc id="31643" name="Silver Feyshar" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="31644" name="Dawn Witness Franz" title="Witness of Dawn">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="205"/>
+			<!--Ghoul's Staff-->
+		</equip>
+	</npc>
+	<npc id="31645" name="Hindemith Truevoice" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="195"/>
+			<!--Cursed Staff-->
+		</equip>
+	</npc>
+	<npc id="31646" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31647" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31648" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31649" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31650" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31651" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31652" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31653" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31654" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31655" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31656" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31657" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31658" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31659" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31660" name="Tablet of Vision" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31661" name="Forgotten Monument" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31662" name="Forgotten Monument" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31663" name="Forgotten Monument" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31664" name="Forgotten Monument" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31665" name="Corpse of Dwarf" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="31666" name="Lumen" title="Spellbook Seller">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31667" name="Raik" title="Amulet Seller ">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31668" name="Tangen" title="Blueprint Seller">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31669" name="Onyx" title="Mineral Trader">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31670" name="Burns" title="Spellbook Seller">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31671" name="Patrol" title="">
+		<set name="ai_type" value="Guard"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="275"/>
+			<!--Long Bow-->
+		</equip>
+	</npc>
+	<npc id="31672" name="Patrol" title="">
+		<set name="ai_type" value="Guard"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="31673" name="Patrol" title="">
+		<set name="ai_type" value="Guard"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="275"/>
+			<!--Long Bow-->
+		</equip>
+	</npc>
+	<npc id="31674" name="Patrol" title="">
+		<set name="ai_type" value="Guard"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="31675" name="Viktor Van Deik" title="Border Outpost Captain">
+		<set name="ai_type" value="Guard"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="128"/>
+			<!--Knight's Sword-->
+			<lhand item_id="632"/>
+			<!--Knight's Shield-->
+		</equip>
+	</npc>
+	<npc id="31676" name="Gregory Athebaldt" title="Border Outpost Captain">
+		<set name="ai_type" value="Guard"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="BorderOutpostDoorman"/>
+		<equip>
+			<rhand item_id="70"/>
+			<!--Claymore-->
+		</equip>
+	</npc>
+	<npc id="31677" name="Border Patrol" title="">
+		<set name="ai_type" value="Guard"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="31678" name="Border Patrol" title="">
+		<set name="ai_type" value="Guard"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="31679" name="Eustace Van Essen" title="Frontier Guard Captain">
+		<set name="ai_type" value="Guard"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="70"/>
+			<!--Claymore-->
+		</equip>
+	</npc>
+	<npc id="31680" name="Fleming Van Issen" title="Frontier Guard Captain">
+		<set name="ai_type" value="Guard"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="BorderOutpostDoorman"/>
+		<equip>
+			<rhand item_id="128"/>
+			<!--Knight's Sword-->
+			<lhand item_id="632"/>
+			<!--Knight's Shield-->
+		</equip>
+	</npc>
+	<npc id="31681" name="Frontier Guard" title="">
+		<set name="ai_type" value="Guard"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="31682" name="Frontier Guard" title="">
+		<set name="ai_type" value="Guard"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="31683" name="Eye of Argos" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31684" name="Eye of Udan Mardui" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31685" name="Asefa's Eye" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31686" name="Gatekeeper of Fire Dragon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="84"/>
+			<!--Homunkulus's Sword-->
+		</equip>
+	</npc>
+	<npc id="31687" name="Gatekeeper of Fire Dragon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="84"/>
+			<!--Homunkulus's Sword-->
+		</equip>
+	</npc>
+	<npc id="31688" name="Grand Olympiad Manager" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="OlympiadManager"/>
+		<equip>
+			<rhand item_id="70"/>
+			<!--Claymore-->
+		</equip>
+	</npc>
+	<npc id="31689" name="Olympiad Finisher" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="70"/>
+			<!--Claymore-->
+		</equip>
+	</npc>
+	<npc id="31690" name="Monument of Heroes " title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="OlympiadManager"/>
+	</npc>
+	<npc id="31691" name="Training Dummy" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31692" name="Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<lhand item_id="5802"/>
+			<!--For NPC (Dawn)-->
+		</equip>
+	</npc>
+	<npc id="31693" name="Priest of Dusk" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<rhand item_id="5801"/>
+			<!--For NPC (Dusk)-->
+		</equip>
+	</npc>
+	<npc id="31694" name="Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<lhand item_id="5802"/>
+			<!--For NPC (Dawn)-->
+		</equip>
+	</npc>
+	<npc id="31695" name="Priest of Dusk" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<rhand item_id="5801"/>
+			<!--For NPC (Dusk)-->
+		</equip>
+	</npc>
+	<npc id="31696" name="Platis" title="Fishing Guild Member">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="Fisherman"/>
+		<equip>
+			<rhand item_id="7560"/>
+			<!--Monster Only (Fishing Rod)-->
+		</equip>
+	</npc>
+	<npc id="31697" name="Eindarkner" title="Fishing Guild Member">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="Fisherman"/>
+		<equip>
+			<rhand item_id="7560"/>
+			<!--Monster Only (Fishing Rod)-->
+		</equip>
+	</npc>
+	<npc id="31698" name="Arisha" title="Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="Merchant"/>
+		<teleportlist>
+			<sublist id="1">
+				<target loc="38320 -48092 -1153" item_id="57" price="150" name="1010493"/>
+			</sublist>
+		</teleportlist>
+	</npc>
+	<npc id="31699" name="Stanislava" title="Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="Merchant"/>
+		<teleportlist>
+			<sublist id="1">
+				<target loc="38303 -48040 896" item_id="57" price="150" name="1010493"/>
+			</sublist>
+		</teleportlist>
+	</npc>
+</list>

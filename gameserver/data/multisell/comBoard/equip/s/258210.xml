@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Etc -->
+	<item>
+		<production id="9456" count="1"/>
+		<ingredient id="57" count="8000000"/>
+	</item>
+	<item>
+		<production id="9455" count="1"/>
+		<ingredient id="57" count="8000000"/>
+	</item>
+	<item>
+		<production id="9457" count="1"/>
+		<ingredient id="57" count="8000000"/>
+	</item>
+</list>

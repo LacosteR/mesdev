@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+	<!--Полный Латный Доспех-->
+	<item>
+		<ingredient id="57" count="1966800" />
+		<production id="356" count="1" />
+	</item>
+
+	<!--Полный Латный Шлем-->
+	<item>
+		<ingredient id="57" count="453860" />
+		<production id="2414" count="1" />
+	</item>
+
+	<!--Полные Латные Рукавицы-->
+	<item>
+		<ingredient id="57" count="302610" />
+		<production id="2462" count="1" />
+	</item>
+
+	<!--Полные Латные Сапоги-->
+	<item>
+		<ingredient id="57" count="302610" />
+		<production id="2438" count="1" />
+	</item>
+
+	<!--Полный Латный Щит-->
+	<item>
+		<ingredient id="57" count="317680" />
+		<production id="2497" count="1" />
+	</item>
+
+	<!--Композитный Доспех-->
+	<item>
+		<ingredient id="57" count="1349700" />
+		<production id="60" count="1" />
+	</item>
+
+	<!--Композитный Шлем-->
+	<item>
+		<ingredient id="57" count="311520" />
+		<production id="517" count="1" />
+	</item>
+
+	<!--Мифриловые Рукавицы-->
+	<item>
+		<ingredient id="57" count="207680" />
+		<production id="608" count="1" />
+	</item>
+
+	<!--Композитные Сапоги-->
+	<item>
+		<ingredient id="57" count="207680" />
+		<production id="64" count="1" />
+	</item>
+
+	<!--Композитный Щит-->
+	<item>
+		<ingredient id="57" count="218130" />
+		<production id="107" count="1" />
+	</item>
+
+	<!--Кожаный Доспех Дрейка-->
+	<item>
+		<ingredient id="57" count="1475100" />
+		<production id="401" count="1" />
+	</item>
+
+	<!--Кожаные Перчатки Дрейка-->
+	<item>
+		<ingredient id="57" count="302610" />
+		<production id="2461" count="1" />
+	</item>
+
+	<!--Кожаные Сапоги Дрейка-->
+	<item>
+		<ingredient id="57" count="302610" />
+		<production id="2437" count="1" />
+	</item>
+
+	<!--Кожаный Доспех Тека-->
+	<item>
+		<ingredient id="57" count="698500" />
+		<production id="400" count="1" />
+	</item>
+
+	<!--Кожаные Набедренники Тека-->
+	<item>
+		<ingredient id="57" count="436370" />
+		<production id="420" count="1" />
+	</item>
+
+	<!--Кожаные Перчатки Тека-->
+	<item>
+		<ingredient id="57" count="232760" />
+		<production id="2460" count="1" />
+	</item>
+
+	<!--Кожаные Сапоги Тека-->
+	<item>
+		<ingredient id="57" count="232760" />
+		<production id="2436" count="1" />
+	</item>
+
+	<!--Латный Кожаный Доспех-->
+	<item>
+		<ingredient id="57" count="377300" />
+		<production id="398" count="1" />
+	</item>
+
+	<!--Латные Кожаные Набедренники-->
+	<item>
+		<ingredient id="57" count="235950" />
+		<production id="418" count="1" />
+	</item>
+
+	<!--Латные Кожаные Перчатки-->
+	<item>
+		<ingredient id="57" count="125840" />
+		<production id="2455" count="1" />
+	</item>
+
+	<!--Латные Кожаные Сапоги-->
+	<item>
+		<ingredient id="57" count="106810" />
+		<production id="2431" count="1" />
+	</item>
+
+	<!--Туника Кармиана-->
+	<item>
+		<ingredient id="57" count="320100" />
+		<production id="439" count="1" />
+	</item>
+
+	<!--Штаны Кармиана-->
+	<item>
+		<ingredient id="57" count="200310" />
+		<production id="471" count="1" />
+	</item>
+
+	<!--Сапоги Кармиана-->
+	<item>
+		<ingredient id="57" count="106810" />
+		<production id="2430" count="1" />
+	</item>
+
+	<!--Перчатки Кармиана-->
+	<item>
+		<ingredient id="57" count="106810" />
+		<production id="2454" count="1" />
+	</item>
+
+	<!--Туника Божества-->
+	<item>
+		<ingredient id="57" count="907500" />
+		<production id="442" count="1" />
+	</item>
+
+	<!--Штаны Божества-->
+	<item>
+		<ingredient id="57" count="567380" />
+		<production id="473" count="1" />
+	</item>
+
+	<!--Перчатки Божества-->
+	<item>
+		<ingredient id="57" count="302610" />
+		<production id="2463" count="1" />
+	</item>
+
+	<!--Туника Демона-->
+	<item>
+		<ingredient id="57" count="622600" />
+		<production id="441" count="1" />
+	</item>
+
+	<!--Штаны Демона-->
+	<item>
+		<ingredient id="57" count="389400" />
+		<production id="472" count="1" />
+	</item>
+
+	<!--Сапоги Демона-->
+	<item>
+		<ingredient id="57" count="207680" />
+		<production id="2435" count="1" />
+	</item>
+
+	<!--Перчатки Демона-->
+	<item>
+		<ingredient id="57" count="207680" />
+		<production id="2459" count="1" />
+	</item>
+</list>

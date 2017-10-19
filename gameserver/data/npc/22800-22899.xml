@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="22800" name="Divinity Magus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22801" name="Cruel Pincer Golem" title="">
+		<set name="ai_type" value="groups.PavelRuins"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22802" name="Cruel Pincer Golem" title="">
+		<set name="ai_type" value="groups.PavelRuins"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22803" name="Cruel Pincer Golem" title="">
+		<set name="ai_type" value="groups.PavelRuins"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22804" name="Drill Golem of Terror" title="">
+		<set name="ai_type" value="groups.PavelRuins"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22805" name="Drill Golem of Terror" title="">
+		<set name="ai_type" value="groups.PavelRuins"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22806" name="Drill Golem of Terror" title="">
+		<set name="ai_type" value="groups.PavelRuins"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22807" name="Scout-type Golem No. 28" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22808" name="Scout-type Golem No. 2" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22809" name="Guard Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22810" name="Micro Scout Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22811" name="Great Chaos Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22812" name="Boom Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22813" name="Demon's Banquet" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22814" name="Demon's Banquet" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22815" name="Drakos" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13985"/>
+			<!--Exclusive to Monsters (Death Slayer_r)-->
+			<lhand item_id="13986"/>
+			<!--Exclusive to Monsters (Death Slayer_l)-->
+		</equip>
+	</npc>
+	<npc id="22816" name="Maluk Maiden of the Valley" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22817" name="Maluk Summoner of the Valley" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22818" name="Exploding Orc Ghost" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22819" name="Wrathful Orc Ghost" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22820" name="Mesmer Drake" title="Scout">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22821" name="Immortal Necromancer" title="Scout">
+		<set name="ai_type" value="dragonvalley.Necromancer"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22822" name="Drakos Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22823" name="Drakos Assassin" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13985"/>
+			<!--Exclusive to Monsters (Death Slayer_r)-->
+		</equip>
+	</npc>
+	<npc id="22824" name="Drakos Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13985"/>
+			<!--Exclusive to Monsters (Death Slayer_r)-->
+			<lhand item_id="13986"/>
+			<!--Exclusive to Monsters (Death Slayer_l)-->
+		</equip>
+	</npc>
+	<npc id="22825" name="Giant Scorpion Bones" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22826" name="Scorpion Bones" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22827" name="Batwing Drake" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22828" name="Parasitic Leech" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22829" name="Emerald Drake" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22830" name="Gem Dragon" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22831" name="Dragon Tracker of the Valley" title="Tracker">
+		<set name="ai_type" value="dragonvalley.DragonTracker"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22832" name="Dragon Scout of the Valley" title="Scout">
+		<set name="ai_type" value="dragonvalley.DragonScout"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22833" name="Sand Drake Tracker" title="Tracker">
+		<set name="ai_type" value="dragonvalley.SandTracker"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22834" name="Dust Dragon Tracker" title="Tracker">
+		<set name="ai_type" value="dragonvalley.DustTracker"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22835" name="Magma Drake Mother" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22836" name="Magma Drake Hatchling" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22837" name="Gem Dragon Hatchling" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22838" name="Maluk Leader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22839" name="Maluk Warlord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22840" name="Maluk Hunter" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22841" name="Maluk Princess" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22842" name="Maluk Banshee" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22843" name="Maluk Sniper " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22844" name="Dragon Knight" title="">
+		<set name="ai_type" value="dragonvalley.DragonKnight"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22845" name="Dragon Knight" title="">
+		<set name="ai_type" value="dragonvalley.DragonKnight"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22846" name="Elite Dragon Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22847" name="Dragon Knight Warrior " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="22848" name="Drake Leader" title="">
+		<set name="ai_type" value="dragonvalley.DrakeRunners"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22849" name="Drake Warrior" title="">
+		<set name="ai_type" value="dragonvalley.DrakeRunners"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="22850" name="Drake Scout" title="">
+		<set name="ai_type" value="dragonvalley.DrakeRunners"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22851" name="Drake Mage" title="">
+		<set name="ai_type" value="dragonvalley.DrakeRunners"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22852" name="Dragon Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22853" name="Dragon Mage" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13981"/>
+			<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+	</npc>
+	<npc id="22854" name="Bloody Karik" title="">
+		<set name="ai_type" value="dragonvalley.pts.BloodyKarik"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22855" name="Bloody Berserker" title="">
+		<set name="ai_type" value="dragonvalley.pts.BloodyBerserker"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22856" name="Bloody Karinness" title="">
+		<set name="ai_type" value="dragonvalley.pts.BloodyKarinness"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22857" name="Knoriks" title="Land Dragon's Patroller">
+		<set name="ai_type" value="dragonvalley.Knoriks"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22858" name="Necromancer of the Valley" title="">
+		<set name="ai_type" value="dragonvalley.Necromancer"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22859" name="Howl" title="Tracker">
+		<set name="ai_type" value="dragonvalley.Howl"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22860" name="Hungry Parasitic Leech" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22861" name="Hard Scorpion Bones" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22862" name="Drakos Hunter" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

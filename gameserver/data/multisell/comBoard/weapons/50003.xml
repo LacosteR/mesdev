@@ -1,0 +1,438 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="false" keepenchanted="false" />
+	<!--Дамаскус (Фокусировка)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4717" count="1" />
+	</item>
+
+	<!--Дамаскус (Крит. Урон)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4718" count="1" />
+	</item>
+
+	<!--Дамаскус (Ускорение)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4719" count="1" />
+	</item>
+
+	<!--Кешанберк (Наведение)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4714" count="1" />
+	</item>
+
+	<!--Кешанберк (Фокусировка)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4715" count="1" />
+	</item>
+
+	<!--Кешанберк (Удар в Спину)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4716" count="1" />
+	</item>
+
+	<!--Меч Вальхаллы (Проницательность)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="7722" count="1" />
+	</item>
+
+	<!--Меч Вальхаллы (Маг. Слабость)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="7723" count="1" />
+	</item>
+
+	<!--Меч Вальхаллы (Магическая Регенерация)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="7724" count="1" />
+	</item>
+
+	<!--Большой Меч (Здоровье)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4723" count="1" />
+	</item>
+
+	<!--Большой Меч (Крит. Урон)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4724" count="1" />
+	</item>
+
+	<!--Большой Меч (Фокусировка)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4725" count="1" />
+	</item>
+
+	<!--Длинный Меч Самурая*Длинный Меч Самурая ()-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="2626" count="1" />
+	</item>
+
+	<!--Цуруги*Длинный Меч Самурая ()-->
+	<item>
+		<ingredient id="57" count="8729600" />
+		<production id="2625" count="1" />
+	</item>
+
+	<!--Меч Кошмаров*Длинный Меч Самурая ()-->
+	<item>
+		<ingredient id="57" count="8729600" />
+		<production id="2623" count="1" />
+	</item>
+
+	<!--Крис (Уклонение)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4777" count="1" />
+	</item>
+
+	<!--Крис (Фокусировка)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4778" count="1" />
+	</item>
+
+	<!--Крис (Удар в Спину)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4779" count="1" />
+	</item>
+
+	<!--Кинжал Демона (Крит. Кровопускание)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4780" count="1" />
+	</item>
+
+	<!--Кинжал Демона (Крит. Отравление)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4781" count="1" />
+	</item>
+
+	<!--Кинжал Демона (Крит. Урон)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="6359" count="1" />
+	</item>
+
+	<!--Нож Ада (Магическая Регенерация)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="7813" count="1" />
+	</item>
+
+	<!--Нож Ада (Ментальный Щит)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="7814" count="1" />
+	</item>
+
+	<!--Нож Ада (Маг. Слабость)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="7815" count="1" />
+	</item>
+
+	<!--Лук Угрозы (Наведение)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4828" count="1" />
+	</item>
+
+	<!--Лук Угрозы (Быстрое Восстановление)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4829" count="1" />
+	</item>
+
+	<!--Лук Угрозы (Экономия)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4830" count="1" />
+	</item>
+
+	<!--Длинный Лук Темных Эльфов (Уклонение)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4825" count="1" />
+	</item>
+
+	<!--Длинный Лук Темных Эльфов (Крит. Кровопускание)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4826" count="1" />
+	</item>
+
+	<!--Длинный Лук Темных Эльфов (Скупость)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4827" count="1" />
+	</item>
+
+	<!--Коготь Артро (Крит. Отравление)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4801" count="1" />
+	</item>
+
+	<!--Коготь Артро (Риск. Уклонение)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4802" count="1" />
+	</item>
+
+	<!--Коготь Артро (Риск. Ускорение)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4803" count="1" />
+	</item>
+
+	<!--Цестус Беллиона (Крит. Поглощение HP)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4804" count="1" />
+	</item>
+
+	<!--Цестус Беллиона (Крит. Отравление)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4805" count="1" />
+	</item>
+
+	<!--Цестус Беллиона (Риск. Ускорение)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4806" count="1" />
+	</item>
+
+	<!--Двуручный Топор (Ярость)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4855" count="1" />
+	</item>
+
+	<!--Двуручный Топор (Крит. Оглушение)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4856" count="1" />
+	</item>
+
+	<!--Двуручный Топор (Легкость)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4857" count="1" />
+	</item>
+
+	<!--Пика (Ярость)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4858" count="1" />
+	</item>
+
+	<!--Пика (Крит. Оглушение)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4859" count="1" />
+	</item>
+
+	<!--Пика (Радиус Удара)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4860" count="1" />
+	</item>
+
+	<!--Тяжелый Топор Войны (Ярость)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4747" count="1" />
+	</item>
+
+	<!--Тяжелый Топор Войны (Здоровье)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4748" count="1" />
+	</item>
+
+	<!--Тяжелый Топор Войны (Риск. Фокусировка)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4749" count="1" />
+	</item>
+
+	<!--Топор Мертвеца (Ярость)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4750" count="1" />
+	</item>
+
+	<!--Топор Мертвеца (Здоровье)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4751" count="1" />
+	</item>
+
+	<!--Топор Мертвеца (Ускорение)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4752" count="1" />
+	</item>
+
+	<!--Топор Искусства Войны (Здоровье)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4753" count="1" />
+	</item>
+
+	<!--Топор Искусства Войны (Риск. Фокусировка)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4754" count="1" />
+	</item>
+
+	<!--Топор Искусства Войны (Ускорение)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4755" count="1" />
+	</item>
+
+	<!--Посох Духа (Магическая Регенерация)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4897" count="1" />
+	</item>
+
+	<!--Посох Духа (Ментальный Щит)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4898" count="1" />
+	</item>
+
+	<!--Посох Духа (Магические Оковы)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="4899" count="1" />
+	</item>
+
+	<!--Посох Злых Духов (Маг. Фокусировка)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4900" count="1" />
+	</item>
+
+	<!--Посох Злых Духов (Благословение Тела)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4901" count="1" />
+	</item>
+
+	<!--Посох Злых Духов (Отравление)-->
+	<item>
+		<ingredient id="57" count="10091400" />
+		<production id="4902" count="1" />
+	</item>
+
+	<!--Молот Ледяной Бури (Фокусировка)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="8129" count="1" />
+	</item>
+
+	<!--Молот Ледяной Бури (Ярость)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="8130" count="1" />
+	</item>
+
+	<!--Молот Ледяной Бури (Крит. Кровопускание)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="8131" count="1" />
+	</item>
+
+	<!--Рассеиватель Заклинаний (Магические Оковы)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="8143" count="1" />
+	</item>
+
+	<!--Рассеиватель Заклинаний (Ментальный Щит)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="8142" count="1" />
+	</item>
+
+	<!--Рассеиватель Заклинаний (Проницательность)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="8141" count="1" />
+	</item>
+
+	<!--Боевая Рапира (Наведение)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="9305" count="1" />
+	</item>
+
+	<!--Боевая Рапира (Фокусировка)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="9306" count="1" />
+	</item>
+
+	<!--Боевая Рапира (Удар в Спину)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="9307" count="1" />
+	</item>
+
+	<!--Безымянная Победа (Здоровье)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="9309" count="1" />
+	</item>
+
+	<!--Безымянная Победа (Крит. Урон)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="9310" count="1" />
+	</item>
+
+	<!--Безымянная Победа (Фокусировка)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="9311" count="1" />
+	</item>
+
+	<!--Миротворец (Уклонение)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="9313" count="1" />
+	</item>
+
+	<!--Миротворец (Крит. Кровопускание)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="9314" count="1" />
+	</item>
+
+	<!--Миротворец (Скупость)-->
+	<item>
+		<ingredient id="57" count="6680500" />
+		<production id="9315" count="1" />
+	</item>
+</list>
+
+
+

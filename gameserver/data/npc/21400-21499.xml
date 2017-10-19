@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="21400" name="Hexa Beetle" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21401" name="Hexa Beetle" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21402" name="Katraxis" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21403" name="Katraxis" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21404" name="Tera Beetle" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21405" name="Tera Beetle" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21406" name="Knight of Empire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="21407" name="Knight of Empire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="21408" name="Royal Guard of Empire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="304"/>
+			<!--Orcish Halberd-->
+		</equip>
+	</npc>
+	<npc id="21409" name="Royal Guard of Empire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="304"/>
+			<!--Orcish Halberd-->
+		</equip>
+	</npc>
+	<npc id="21410" name="Guardian Scarab" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21411" name="Guardian Scarab" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21412" name="Ustralith" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21413" name="Ustralith" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21414" name="Assassin of Empire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="21415" name="Assassin of Empire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="21416" name="Imperial Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="134"/>
+			<!--Sword of Nightmare-->
+			<lhand item_id="6721"/>
+			<!--Monster Only(Shield of Imperial Warlord Zombie)-->
+		</equip>
+	</npc>
+	<npc id="21417" name="Imperial Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="134"/>
+			<!--Sword of Nightmare-->
+			<lhand item_id="6721"/>
+			<!--Monster Only(Shield of Imperial Warlord Zombie)-->
+		</equip>
+	</npc>
+	<npc id="21418" name="Imperial Royal Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="21419" name="Imperial Royal Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="21420" name="Ashuras" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21421" name="Ashuras" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21422" name="Dancer of Empire" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21423" name="Dancer of Empire" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21424" name="Ashkenas" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21425" name="Ashkenas" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21426" name="Abraxion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21427" name="Abraxion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21428" name="Hasturan" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21429" name="Hasturan" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21430" name="Arimanes" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="21431" name="Arimanes" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="21432" name="Chakram Beetle" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21433" name="Jamadar Beetle" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21434" name="Seer of Blood " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21435" name="Guide of Offering" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="134"/>
+			<!--Sword of Nightmare-->
+			<lhand item_id="6721"/>
+			<!--Monster Only(Shield of Imperial Warlord Zombie)-->
+		</equip>
+	</npc>
+	<npc id="21436" name="Leader of Offering" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="134"/>
+			<!--Sword of Nightmare-->
+			<lhand item_id="6721"/>
+			<!--Monster Only(Shield of Imperial Warlord Zombie)-->
+		</equip>
+	</npc>
+	<npc id="21437" name="Offering Bug" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21438" name="Heathen Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="21439" name="Heathen Executed " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21440" name="Heathen Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="284"/>
+			<!--Dark Elven Long Bow-->
+		</equip>
+	</npc>
+	<npc id="21441" name="Heathen Grunt" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="96"/>
+			<!--Scythe-->
+		</equip>
+	</npc>
+	<npc id="21442" name="Heathen Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="21443" name="Raider of Pastureland" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="153"/>
+			<!--Sigil-->
+		</equip>
+	</npc>
+	<npc id="21444" name="Raider of Pastureland" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="153"/>
+			<!--Sigil-->
+		</equip>
+	</npc>
+	<npc id="21445" name="Alpen Bandersnatch" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21446" name="Raider of Pastureland" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="160"/>
+			<!--Battle Axe-->
+		</equip>
+	</npc>
+	<npc id="21447" name="Raider of Pastureland" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="229"/>
+			<!--Kris-->
+		</equip>
+	</npc>
+	<npc id="21448" name="Raider of Pastureland" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="229"/>
+			<!--Kris-->
+		</equip>
+	</npc>
+	<npc id="21449" name="Raider of Pastureland" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="21450" name="Alpen Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21451" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21452" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21453" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21454" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21455" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21456" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21457" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21458" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21459" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21460" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21461" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21462" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21463" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21464" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21465" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21466" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21467" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21468" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21469" name="Alpen Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21470" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21471" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21472" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21473" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21474" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21475" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21476" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21477" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21478" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21479" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21480" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21481" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21482" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21483" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21484" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21485" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21486" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21487" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21488" name="Alpen Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21489" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21490" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21491" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21492" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21493" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21494" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21495" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21496" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21497" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21498" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21499" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+</list>

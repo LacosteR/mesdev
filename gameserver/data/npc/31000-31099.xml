@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="31001" name="Claudia Athebaldt" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31002" name="Reorin" title="Maestro">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31003" name="Here I Come" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31004" name="Half Moon Love" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31005" name="Everlasting" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31006" name="Dark Side of the Moon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31007" name="Wind Rider" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31008" name="Shooting Star" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31009" name="Cyclone Thunder" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31010" name="Hungry Baby" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31011" name="Salty Dog" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31012" name="Raging Revolution" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31013" name="Valentine Blue" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31014" name="Light My Fire" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31015" name="Red Bullet" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31016" name="Shining Silver" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31017" name="Over the top" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31018" name="Royal Straight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31019" name="All Seven" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31020" name="Nasty Green" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31021" name="Shortcut" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31022" name="Typhoon Tiger" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31023" name="Red Hot" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31024" name="Galaxy Express" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31025" name="Best Condition" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31026" name="Albatross" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31027" name="Coffer of the Dead" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31028" name="Chest of Kernon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31029" name="Chest of Golkonda" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31030" name="Chest of Hallate" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31031" name="Broadcasting Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Observation"/>
+	</npc>
+	<npc id="31032" name="Guard" title="">
+		<set name="ai_type" value="GuardRndWalkAndAnim"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="275"/>
+			<!--Long Bow-->
+		</equip>
+	</npc>
+	<npc id="31033" name="Sentinel" title="">
+		<set name="ai_type" value="GuardRndWalkAndAnim"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="276"/>
+			<!--Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="31034" name="Sentry" title="">
+		<set name="ai_type" value="GuardRndWalkAndAnim"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="277"/>
+			<!--Dark Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="31035" name="Defender" title="">
+		<set name="ai_type" value="GuardRndWalkAndAnim"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="275"/>
+			<!--Long Bow-->
+		</equip>
+	</npc>
+	<npc id="31036" name="Centurion" title="">
+		<set name="ai_type" value="GuardRndWalkAndAnim"/>
+		<set name="type" value="Guard"/>
+		<equip>
+			<rhand item_id="273"/>
+			<!--Composite Bow-->
+		</equip>
+	</npc>
+	<npc id="31042" name="Kantabilon" title="Melody Maestro">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31043" name="Octavia" title="Melody Maestro">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31044" name="Galman" title="Valley Trader">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31045" name="Kitzka" title="Valley Trader">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31046" name="Marsden" title="Symbol Maker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="SymbolMaker"/>
+	</npc>
+	<npc id="31047" name="Kell" title="Symbol Maker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="SymbolMaker"/>
+	</npc>
+	<npc id="31048" name="McDermott" title="Symbol Maker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="SymbolMaker"/>
+	</npc>
+	<npc id="31049" name="Pepper" title="Symbol Maker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="SymbolMaker"/>
+	</npc>
+	<npc id="31050" name="Thora" title="Symbol Maker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="SymbolMaker"/>
+	</npc>
+	<npc id="31051" name="Keach" title="Symbol Maker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="SymbolMaker"/>
+	</npc>
+	<npc id="31052" name="Heid" title="Symbol Maker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="SymbolMaker"/>
+	</npc>
+	<npc id="31053" name="Kidder" title="Symbol Maker">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="SymbolMaker"/>
+	</npc>
+	<npc id="31067" name="Rood" title="Pet Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31074" name="Corpse of Hutaku" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="noRandomAnimation" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="31075" name="Sales Cat of Ivory Tower" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31076" name="Newbie Guide" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31077" name="Newbie Guide" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="31078" name="Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<lhand item_id="5802"/>
+			<!--For NPC (Dawn)-->
+		</equip>
+	</npc>
+	<npc id="31079" name="Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<lhand item_id="5802"/>
+			<!--For NPC (Dawn)-->
+		</equip>
+	</npc>
+	<npc id="31080" name="Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<lhand item_id="5802"/>
+			<!--For NPC (Dawn)-->
+		</equip>
+	</npc>
+	<npc id="31081" name="Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<lhand item_id="5802"/>
+			<!--For NPC (Dawn)-->
+		</equip>
+	</npc>
+	<npc id="31082" name="Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<lhand item_id="5802"/>
+			<!--For NPC (Dawn)-->
+		</equip>
+	</npc>
+	<npc id="31083" name="Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<lhand item_id="5802"/>
+			<!--For NPC (Dawn)-->
+		</equip>
+	</npc>
+	<npc id="31084" name="Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<lhand item_id="5802"/>
+			<!--For NPC (Dawn)-->
+		</equip>
+	</npc>
+	<npc id="31085" name="Dusk Priestess" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<rhand item_id="5801"/>
+			<!--For NPC (Dusk)-->
+		</equip>
+	</npc>
+	<npc id="31086" name="Dusk Priestess" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<rhand item_id="5801"/>
+			<!--For NPC (Dusk)-->
+		</equip>
+	</npc>
+	<npc id="31087" name="Dusk Priestess" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<rhand item_id="5801"/>
+			<!--For NPC (Dusk)-->
+		</equip>
+	</npc>
+	<npc id="31088" name="Dusk Priestess" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<rhand item_id="5801"/>
+			<!--For NPC (Dusk)-->
+		</equip>
+	</npc>
+	<npc id="31089" name="Dusk Priestess" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<rhand item_id="5801"/>
+			<!--For NPC (Dusk)-->
+		</equip>
+	</npc>
+	<npc id="31090" name="Dusk Priestess" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<rhand item_id="5801"/>
+			<!--For NPC (Dusk)-->
+		</equip>
+	</npc>
+	<npc id="31091" name="Dusk Priestess" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="SignsPriest"/>
+		<equip>
+			<rhand item_id="5801"/>
+			<!--For NPC (Dusk)-->
+		</equip>
+	</npc>
+	<npc id="31092" name="Black Marketeer of Mammon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="SignsPriest"/>
+	</npc>
+	<npc id="31093" name="Preacher of Doom" title="">
+		<set name="ai_type" value="CabaleBuffer"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31094" name="Orator of Revelations" title="">
+		<set name="ai_type" value="CabaleBuffer"/>
+		<set name="type" value="CabaleBuffer"/>
+	</npc>
+	<npc id="31095" name="Gatekeeper Ziggurat" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31096" name="Gatekeeper Ziggurat" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31097" name="Gatekeeper Ziggurat" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31098" name="Gatekeeper Ziggurat" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+	<npc id="31099" name="Gatekeeper Ziggurat" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+	</npc>
+</list>

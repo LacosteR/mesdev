@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="21500" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21501" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21502" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21503" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21504" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21505" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21506" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21507" name="Alpen Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="21508" name="Splinter Stakato" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="235"/>
+			<!--Bloody Orchid-->
+		</equip>
+	</npc>
+	<npc id="21509" name="Splinter Stakato Worker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21510" name="Splinter Stakato Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="21511" name="Splinter Stakato Drone" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="132"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="21512" name="Splinter Stakato Drone" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="132"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="21513" name="Needle Stakato" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="235"/>
+			<!--Bloody Orchid-->
+		</equip>
+	</npc>
+	<npc id="21514" name="Needle Stakato Worker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21515" name="Needle Stakato Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="21516" name="Needle Stakato Drone" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="132"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="21517" name="Needle Stakato Drone" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="132"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="21518" name="Frenzy Stakato Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="235"/>
+			<!--Bloody Orchid-->
+		</equip>
+	</npc>
+	<npc id="21519" name="Frenzy Stakato Drone" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="235"/>
+			<!--Bloody Orchid-->
+		</equip>
+	</npc>
+	<npc id="21520" name="Eye of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="326"/>
+			<!--Heathen's Book-->
+		</equip>
+	</npc>
+	<npc id="21521" name="Claws of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformOnUnderAttack" value="21522"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="326"/>
+			<!--Heathen's Book-->
+		</equip>
+	</npc>
+	<npc id="21522" name="Claws of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21523" name="Flash of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="326"/>
+			<!--Heathen's Book-->
+		</equip>
+	</npc>
+	<npc id="21524" name="Blade of Splendor" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformOnUnderAttack" value="21525"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="242"/>
+			<!--Soulfire Dirk-->
+		</equip>
+	</npc>
+	<npc id="21525" name="Blade of Splendor" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="242"/>
+			<!--Soulfire Dirk-->
+		</equip>
+	</npc>
+	<npc id="21526" name="Wisdom of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="21527" name="Anger of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformOnUnderAttack" value="21528"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="21528" name="Anger of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21529" name="Soul of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="21530" name="Victory of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="196"/>
+			<!--Stick of Eternity-->
+		</equip>
+	</npc>
+	<npc id="21531" name="Punishment of Splendor" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="242"/>
+			<!--Soulfire Dirk-->
+		</equip>
+	</npc>
+	<npc id="21532" name="Shout of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="196"/>
+			<!--Stick of Eternity-->
+		</equip>
+	</npc>
+	<npc id="21533" name="Alliance of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformOnUnderAttack" value="21534"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="196"/>
+			<!--Stick of Eternity-->
+		</equip>
+	</npc>
+	<npc id="21534" name="Alliance of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21535" name="Signet of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="189"/>
+			<!--Staff of Life-->
+		</equip>
+	</npc>
+	<npc id="21536" name="Crown of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="189"/>
+			<!--Staff of Life-->
+		</equip>
+	</npc>
+	<npc id="21537" name="Fang of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformOnUnderAttack" value="21538"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="189"/>
+			<!--Staff of Life-->
+		</equip>
+	</npc>
+	<npc id="21538" name="Fang of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21539" name="Wailing of Splendor" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformOnUnderAttack" value="21540"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="242"/>
+			<!--Soulfire Dirk-->
+		</equip>
+	</npc>
+	<npc id="21540" name="Wailing of Splendor" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="242"/>
+			<!--Soulfire Dirk-->
+		</equip>
+	</npc>
+	<npc id="21541" name="Pilgrim of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="315"/>
+			<!--Divine Tome-->
+		</equip>
+	</npc>
+	<npc id="21542" name="Disciple of Pilgrim" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="21543" name="Page of Pilgrim" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="326"/>
+			<!--Heathen's Book-->
+		</equip>
+	</npc>
+	<npc id="21544" name="Judge of Splendor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+		</equip>
+		<minions>
+			<minion npc_id="21545" count="1"/>
+			<!--Judge of Fire-->
+			<minion npc_id="21546" count="1"/>
+			<!--Judge of Light-->
+		</minions>
+	</npc>
+	<npc id="21545" name="Judge of Fire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="189"/>
+			<!--Staff of Life-->
+		</equip>
+	</npc>
+	<npc id="21546" name="Judge of Light" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="196"/>
+			<!--Stick of Eternity-->
+		</equip>
+	</npc>
+	<npc id="21547" name="Corrupted Knight" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="21548" name="Resurrected Knight" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="21549" name="Corrupted Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="21550" name="Corrupted Guard" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="21551" name="Resurrected Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+		</equip>
+	</npc>
+	<npc id="21552" name="Resurrected Guard" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="21553" name="Trampled Man" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21554" name="Trampled Man" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21555" name="Slaughter Executioner" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21556" name="Slaughter Executioner" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21557" name="Bone Snatcher" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21558" name="Bone Snatcher" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21559" name="Bone Maker" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21560" name="Bone Shaper" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21561" name="Sacrificed Man" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21562" name="Guillotine's Ghost" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21563" name="Bone Collector" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21564" name="Skull Collector" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21565" name="Bone Animator" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21566" name="Skull Animator" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21567" name="Bone Slayer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21568" name="Devil Bat" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21569" name="Devil Bat" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21570" name="Ghost of Betrayer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21571" name="Ghost of Rebellion Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="21572" name="Bone Sweeper" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21573" name="Atrox" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21574" name="Bone Grinder" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21575" name="Bone Grinder" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21576" name="Ghost of Guillotine " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21577" name="Ghost of Guillotine " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21578" name="Behemoth Zombie" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21579" name="Ghost of Rebellion Leader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="221"/>
+			<!--Assassin Knife-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="21580" name="Bone Caster" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21581" name="Bone Puppeteer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21582" name="Vampire Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="21583" name="Bone Scavenger" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21584" name="Bone Scavenger" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+	</npc>
+	<npc id="21585" name="Vampire Magician" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="21586" name="Vampire Adept" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="21587" name="Vampire Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="21588" name="Vampire Wizard" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="21589" name="Vampire Wizard" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="21590" name="Vampire Magister" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="21591" name="Vampire Magister" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="21592" name="Vampire Magister" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="21593" name="Vampire Warlord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6723"/>
+			<!--Monster Only(Vampire Warrior)-->
+		</equip>
+	</npc>
+	<npc id="21594" name="Vampire Warlord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6723"/>
+			<!--Monster Only(Vampire Warrior)-->
+		</equip>
+	</npc>
+	<npc id="21595" name="Vampire Warlord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6723"/>
+			<!--Monster Only(Vampire Warrior)-->
+		</equip>
+	</npc>
+	<npc id="21596" name="Requiem Lord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+		<minions>
+			<minion npc_id="21597" count="2"/>
+			<!--Requiem Behemoth-->
+		</minions>
+	</npc>
+	<npc id="21597" name="Requiem Behemoth" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="21598" name="Requiem Behemoth" title="">
+		<set name="ai_type" value="RndTeleportFighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="21599" name="Requiem Priest" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="178"/>
+			<!--Bone Staff-->
+		</equip>
+		<minions>
+			<minion npc_id="21600" count="2"/>
+			<!--Requiem Behemoth-->
+		</minions>
+	</npc>
+</list>

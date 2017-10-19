@@ -1,0 +1,69 @@
+<skill id="1263" level="13" name="Curse Gloom">
+		<set name="operate_type" val="A2"/>
+		<set name="magic_level" val="74"/>
+		
+		<self_effect>	
+		</self_effect>
+		
+		<effects>
+			<effect name="p_magical_defence">
+				<def power="-15"/>
+				<def type="per"/>
+			</effect>
+			<effect name="p_attribute_defence">
+				<def power="-25"/>
+				<def type="diff"/>
+			</effect>
+			<effect name="i_m_damage">
+				<def power="87"/>
+			</effect>
+		</effects>
+		
+		<pve_effects>
+		</pve_effects>
+		
+		<pvp_effects>
+		</pvp_effects>
+		
+		<end_effect>
+		</end_effect>
+		
+		<set name="is_magic" val="1"/>
+		
+		<set name="mp_consume1" val="55"/>
+		<set name="mp_consume2" val="14"/>
+		
+		<set name="cast_range" val="900" />
+		<set name="effective_range" val="1400" />
+		
+		<set name="skill_hit_time" val="1500"/>
+		<set name="skill_cool_time" val="0"/>
+		<set name="skill_hit_cancel_time" val="500"/>
+		
+		<set name="reuse_delay" val="5000"/>
+		<set name="activate_rate" val="80"/>
+		
+		<set name="level_bonus_rate" val="2"/>
+		<set name="basic_property" val="men"/>
+		<set name="abnormal_time" val="30" />
+		<set name="abnormal_level" val="3" />
+		<set name="abnormal_type" val="md_down" />
+		
+		TODO: abnormal_instant = 0	irreplaceable_buff = 0	buff_protect_level = 0  - WTF?
+
+		<set name="attribute" val="unholy;20"/>
+		<set name="trait" val="none"/>
+		
+		<set name="effect_point" val="328"/>
+		<set name="target_type" val="enemy_only"/>
+		
+		TODO : affect_scope = single	affect_limit = {0;0} - WTF
+		
+		<set name="next_action" val="none" />
+		<set name="debuff" val="1" />
+		
+		<set name="ride_state" val="ride_none;@ride_strider;@ride_wyvern;@ride_wolf" />
+		multi_class = 0  wtf
+		
+		<set name="olympiad_use" val="1" />
+	</skill>

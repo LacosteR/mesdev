@@ -1,0 +1,2700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+ 
+ <armor id="34000" name="Cloak of Feudal">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34001" name="Cloak of Archer">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34002" name="Cloak of Enchanter">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34003" name="Cloak of Healer">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34004" name="Cloak of Assassin">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34005" name="Cloak of Warrior">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34006" name="Cloak of Summoner">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34007" name="Cloak of Wizard">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34008" name="Cloak of Knight">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34009" name="Red Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34010" name="Blue Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34011" name="Green Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34012" name="Cloak of St.Valentine">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34013" name="Black Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34014" name="White Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34015" name="Cloak of Halloween">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34016" name="New Year Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys3.icon.g_christmas_cloak"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34017" name="Memorial Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34018" name="Secret Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34019" name="Poland Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+  <armor id="34020" name="Cloak of Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34021" name="Cloak of Dark Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34022" name="Cloak of Emerald Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34023" name="Cloak of Event Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34024" name="Golden Nooblesse Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34025" name="Cloak of Chosen">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34026" name="Cloak of High Duke">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34027" name="Cloak of Ancient Warrior">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34028" name="Draconic Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34029" name="Cloak of Vesper">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34030" name="Cloak of Vorpal">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34031" name="Cloak of Elegia">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34032" name="Cloak of Moirai">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34033" name="Backpack">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34034" name="Cloak of Valentines">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+   <armor id="34035" name="Cloak of Feudal">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+	<skills>
+		<skill id="25000" level="1"/>
+	</skills>
+	<attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34036" name="Cloak of Archer">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34037" name="Cloak of Enchanter">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34038" name="Cloak of Healer">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34039" name="Cloak of Assassin">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34040" name="Cloak of Warrior">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34041" name="Cloak of Summoner">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34042" name="Cloak of Wizard">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34043" name="Cloak of Knight">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34044" name="Red Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34045" name="Blue Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34046" name="Green Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34047" name="Cloak of St.Valentine">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34048" name="Black Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34049" name="White Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34050" name="Cloak of Halloween">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34051" name="New Year Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys3.icon.g_christmas_cloak"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34052" name="Memorial Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34053" name="Secret Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34054" name="Poland Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+  <armor id="34055" name="Cloak of Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34056" name="Cloak of Dark Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34057" name="Cloak of Emerald Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34058" name="Cloak of Event Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34059" name="Golden Nooblesse Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34060" name="Cloak of Chosen">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34061" name="Cloak of High Duke">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34062" name="Cloak of Ancient Warrior">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34063" name="Draconic Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34064" name="Cloak of Vesper">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34065" name="Cloak of Vorpal">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34066" name="Cloak of Elegia">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34067" name="Cloak of Moirai">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34068" name="Backpack">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34069" name="Cloak of Valentines">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25000" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34070" name="Cloak of Feudal">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+	<skills>
+		<skill id="25001" level="1"/>
+	</skills>
+	<attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34071" name="Cloak of Archer">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34072" name="Cloak of Enchanter">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34073" name="Cloak of Healer">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34074" name="Cloak of Assassin">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34075" name="Cloak of Warrior">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34076" name="Cloak of Summoner">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34077" name="Cloak of Wizard">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34078" name="Cloak of Knight">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34079" name="Red Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34080" name="Blue Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34081" name="Green Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34082" name="Cloak of St.Valentine">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34083" name="Black Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34084" name="White Royal Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34085" name="Cloak of Halloween">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34086" name="New Year Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys3.icon.g_christmas_cloak"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34087" name="Memorial Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34088" name="Secret Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34089" name="Poland Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+
+  <armor id="34090" name="Cloak of Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34091" name="Cloak of Dark Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34092" name="Cloak of Emerald Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34093" name="Cloak of Event Master">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34094" name="Golden Nooblesse Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34095" name="Cloak of Chosen">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34096" name="Cloak of High Duke">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34097" name="Cloak of Ancient Warrior">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34098" name="Draconic Cloak">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  
+  <armor id="34099" name="Cloak of Vesper">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="icon" value="BranchSys2.Icon.br_freya_cloak_i00"/>
+    <set name="price" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="220"/>
+    <equip>
+      <slot id="BACK"/>
+    </equip>
+    <skills>
+    	<skill id="25001" level="1"/>
+    </skills>
+    <attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="20"/>
+      <attribute element="wind" value="20"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="20"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="30"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+</list>

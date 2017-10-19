@@ -1,0 +1,2209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<armor id="36000" name="Tunic of Devotion" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.armor_t55_u_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="MAGIC"/>
+		<set name="weight" value="2090"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="30"/>
+			<add stat="maxMp" order="0x60" value="67"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36001" name="Stockings of Devotion" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.armor_t55_l_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="MAGIC"/>
+		<set name="weight" value="1040"/>
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="19"/>
+			<add stat="maxMp" order="0x60" value="42"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36002" name="Helmet of Devotion" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.armor_leather_helmet_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="650"/>
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="23"/>
+			<add stat="mDef" order="0x10" value="1"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36003" name="Wooden Breastplate" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.armor_t06_u_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="LIGHT"/>
+		<set name="weight" value="4820"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="47"/>
+			<add stat="mDef" order="0x10" value="1"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36004" name="Wooden Gaiters" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.armor_t06_l_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="LIGHT"/>
+		<set name="weight" value="1670"/>
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="29"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36005" name="Wooden Helmet" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.armor_leather_helmet_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="660"/>
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="19"/>
+			<add stat="mDef" order="0x10" value="1"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+			<enchant stat="mDef" order="0x0C" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36006" name="Ubiquitous Armor" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"></set>
+		<set name="icon" value="icon.armor_compound_scale_mail_i00">
+		</set>
+		<set name="price" value="0"></set>
+		<set name="type" value="HEAVY"></set>
+		<set name="weight" value="8920"></set>
+		<equip>
+		  <slot id="CHEST"></slot>
+		</equip>
+		<for>
+		  <add order="0x10" stat="pDef" value="68"></add>
+		  <enchant order="0x0C" stat="pDef" value="0"></enchant>
+		  <enchant order="0x80" stat="maxHp" value="0"></enchant>
+		</for>
+	</armor>
+  
+	<armor id="36007" name="Ubiquitous Stockings" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"></set>
+		<set name="icon" value="icon.armor_compound_scale_gaiters_i00">
+		</set>
+		<set name="price" value="0"></set>
+		<set name="type" value="HEAVY"></set>
+		<set name="weight" value="3960"></set>
+		<equip>
+		  <slot id="LEGS"></slot>
+		</equip>
+		<for>
+		  <add order="0x10" stat="pDef" value="43"></add>
+		  <enchant order="0x0C" stat="pDef" value="0"></enchant>
+		  <enchant order="0x80" stat="maxHp" value="0"></enchant>
+		</for>
+	</armor>
+  
+  <armor id="36008" name="Ubiquitous Gloves" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"></set>
+		<set name="icon" value="icon.armor_manticor_skin_gloves_i00">
+		</set>
+		<set name="price" value="0"></set>
+		<set name="type" value="NONE"></set>
+		<set name="weight" value="650"></set>
+		<equip>
+		  <slot id="GLOVES"></slot>
+		</equip>
+		<for>
+		  <add order="0x10" stat="pDef" value="17"></add>
+		  <enchant order="0x0C" stat="pDef" value="0"></enchant>
+		  <enchant order="0x80" stat="maxHp" value="0"></enchant>
+		</for>
+	</armor>
+  
+	<armor id="36009" name="Ubiquitous Boots" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"></set>
+		<set name="icon" value="icon.armor_iron_boots_i00"></set>
+		<set name="price" value="0"></set>
+		<set name="type" value="NONE"></set>
+		<set name="weight" value="1310"></set>
+		<equip>
+		  <slot id="FEET"></slot>
+		</equip>
+		<for>
+		  <add order="0x10" stat="pDef" value="17"></add>
+		  <enchant order="0x0C" stat="pDef" value="0"></enchant>
+		  <enchant order="0x80" stat="maxHp" value="0"></enchant>
+		</for>
+	</armor>
+  
+	<armor id="36010" name="Tunic of Forgotten Knowledge" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="318"/>
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.armor_elven_tunic_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="MAGIC"/>
+		<set name="weight" value="720"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="54"/>
+			<add stat="maxMp" order="0x60" value="169"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36011" name="Stockings of Forgotten Knowledge" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="199" />
+		<set name="crystal_type" value="D" />
+		<set name="icon" value="icon.armor_elven_hose_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="MAGIC" />
+		<set name="weight" value="2400" />
+		<equip>
+		  <slot id="LEGS" />
+		</equip>
+		<for>
+		  <add stat="pDef" order="0x10" value="34" />
+		  <add stat="maxMp" order="0x60" value="105" />
+		  <enchant stat="pDef" order="0x0C" value="0" />
+		  <enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	
+	<armor id="36012" name="Gloves of Forgotten Knowledge" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="620"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="29"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36013" name="Rider's Shirt" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="318"/>
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.armor_elven_tunic_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="LIGHT"/>
+		<set name="weight" value="4000"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="80"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36014" name="Rider's Gaiters" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="199" />
+		<set name="crystal_type" value="D" />
+		<set name="icon" value="icon.armor_elven_hose_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="LIGHT" />
+		<set name="weight" value="2100" />
+		<equip>
+		  <slot id="LEGS" />
+		</equip>
+		<for>
+		  <add stat="pDef" order="0x10" value="56" />
+		  <enchant stat="pDef" order="0x0C" value="0" />
+		  <enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	
+	<armor id="36015" name="Raider's Boots" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1240"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="29"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36016" name="Protector's Breastplate" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="318"/>
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.armor_elven_tunic_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="HEAVY"/>
+		<set name="weight" value="8220"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="111"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36017" name="Protector's Gaiters" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="199" />
+		<set name="crystal_type" value="D" />
+		<set name="icon" value="icon.armor_elven_hose_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="HEAVY" />
+		<set name="weight" value="3770" />
+		<equip>
+		  <slot id="LEGS" />
+		</equip>
+		<for>
+		  <add stat="pDef" order="0x10" value="70" />
+		  <enchant stat="pDef" order="0x0C" value="0" />
+		  <enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	
+	<armor id="36018" name="Protector's Helmet" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="630"/>
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="44"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36019" name="Tunic of Prophecy" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="318"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.armor_elven_tunic_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="MAGIC"/>
+		<set name="weight" value="1980"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="74"/>
+			<add stat="maxMp" order="0x60" value="314"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36020" name="Stockings of Prophecy" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="199" />
+		<set name="crystal_type" value="C" />
+		<set name="icon" value="icon.armor_elven_hose_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="MAGIC" />
+		<set name="weight" value="960" />
+		<equip>
+		  <slot id="LEGS" />
+		</equip>
+		<for>
+		  <add stat="pDef" order="0x10" value="46" />
+		  <add stat="maxMp" order="0x60" value="196" />
+		  <enchant stat="pDef" order="0x0C" value="0" />
+		  <enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	
+	<armor id="36021" name="Gloves of Prophecy" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="610"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="39"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36022" name="Boots of Prophecy" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1200"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="39"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36023" name="Leather Armor of Sentinel" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="318"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.armor_elven_tunic_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="LIGHT"/>
+		<set name="weight" value="3000"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="110"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36024" name="Leather Gaiter of Sentinel" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="199" />
+		<set name="crystal_type" value="C" />
+		<set name="icon" value="icon.armor_elven_hose_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="LIGHT" />
+		<set name="weight" value="1800" />
+		<equip>
+		  <slot id="LEGS" />
+		</equip>
+		<for>
+		  <add stat="pDef" order="0x10" value="69" />
+		  <enchant stat="pDef" order="0x0C" value="0" />
+		  <enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	
+	<armor id="36025" name="Leather Boots of Sentinel" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1210"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="39"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36026" name="Leather Gloves of Sentinel" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="600"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="39"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36027" name="Full Armor of King's Guard" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="199" />
+		<set name="crystal_type" value="C" />
+		<set name="icon" value="icon.armor_elven_hose_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="HEAVY" />
+		<set name="weight" value="10480" />
+		<equip>
+		  <slot id="FULL_ARMOR" />
+		</equip>
+		<for>
+		  <add stat="pDef" order="0x10" value="239" />
+		  <enchant stat="pDef" order="0x0C" value="0" />
+		  <enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	
+	<armor id="36028" name="Boots of King's Guard" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="1210"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="39"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36029" name="Gloves of King's Guard" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="600"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="39"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="36030" name="Helm of Resonance" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_count" value="139"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.armor_t45_g_i00"/>
+		<set name="price" value="0"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="610"/>
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<for>
+			<add stat="pDef" order="0x10" value="54"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<weapon id="36031" name="Sword of Trainee" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="2"/>
+		<set name="spiritshots" value="2"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1530"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="31"/>
+			<add stat="mAtk" order="0x10" value="21"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36032" name="Blunt of Trainee" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="20"/>
+		<set name="soulshots" value="2"/>
+		<set name="spiritshots" value="2"/>
+		<set name="type" value="BLUNT"/>
+		<set name="weight" value="1850"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="31"/>
+			<add stat="mAtk" order="0x10" value="21"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36033" name="Dagger of Trainee" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="2"/>
+		<set name="spiritshots" value="2"/>
+		<set name="type" value="DAGGER"/>
+		<set name="weight" value="1110"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="27"/>
+			<add stat="mAtk" order="0x10" value="21"/>
+			<set stat="baseCrit" order="0x08" value="120"/>
+			<set stat="atkBaseSpeed" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36034" name="Staff of Trainee" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="20"/>
+		<set name="soulshots" value="2"/>
+		<set name="spiritshots" value="2"/>
+		<set name="type" value="BIGBLUNT"/>
+		<set name="weight" value="1050"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="30"/>
+			<add stat="mAtk" order="0x10" value="31"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36035" name="Bow of Trainee" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="atk_reuse" value="1500"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.weapon_composition_bow_i00"/>
+		<set name="mp_consume" value="1"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="7"/>
+		<set name="spiritshots" value="2"/>
+		<set name="type" value="BOW"/>
+		<set name="weight" value="1880"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="64"/>
+			<add stat="mAtk" order="0x10" value="21"/>
+			<set stat="baseCrit" order="0x08" value="120"/>
+			<set stat="atkBaseSpeed" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36036" name="Spear of Trainee" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.weapon_long_spear_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="2"/>
+		<set name="spiritshots" value="2"/>
+		<set name="type" value="POLE"/>
+		<set name="weight" value="2120"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="3599" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="31"/>
+			<add stat="mAtk" order="0x10" value="21"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36037" name="Zweihander of Trainee" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.weapon_zweihander_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="2"/>
+		<set name="spiritshots" value="2"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="weight" value="1530"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="38"/>
+			<add stat="mAtk" order="0x10" value="21"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36038" name="Fists of Trainee" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.weapon_vipers_canine_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="2"/>
+		<set name="spiritshots" value="2"/>
+		<set name="type" value="DUALFIST"/>
+		<set name="weight" value="1560"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="38"/>
+			<add stat="mAtk" order="0x10" value="21"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36039" name="Sword of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1440"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="92"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36040" name="Bonebreaker of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="20"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BLUNT"/>
+		<set name="weight" value="1720"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="92"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36041" name="Staff of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="20"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BLUNT"/>
+		<set name="weight" value="1180"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="74"/>
+			<add stat="mAtk" order="0x10" value="72"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36042" name="Dagger of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="DAGGER"/>
+		<set name="weight" value="1060"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="80"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="120"/>
+			<set stat="atkBaseSpeed" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36043" name="Mace of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="20"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BIGBLUNT"/>
+		<set name="weight" value="1010"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="90"/>
+			<add stat="mAtk" order="0x10" value="79"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36044" name="Bow of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="atk_reuse" value="1500"/>
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_composition_bow_i00"/>
+		<set name="mp_consume" value="2"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="10"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BOW"/>
+		<set name="weight" value="1810"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="191"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="120"/>
+			<set stat="atkBaseSpeed" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36045" name="Spear of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_long_spear_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="POLE"/>
+		<set name="weight" value="2050"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="3599" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="92"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36046" name="Claymore of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_zweihander_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="weight" value="2090"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="112"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36047" name="Fists of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_vipers_canine_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="DUALFIST"/>
+		<set name="weight" value="1520"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="112"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36048" name="Dualsword of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="DUAL"/>
+		<set name="weight" value="2450"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="107"/>
+			<add stat="mAtk" order="0x10" value="51"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36049" name="Rapier of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_rapier_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="40"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="RAPIER"/>
+		<set name="weight" value="1440"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="83"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="100"/>
+			<set stat="atkBaseSpeed" order="0x08" value="406"/>
+			<add stat="accCombat" order="0x10" value="-2.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36050" name="Ancient Sword of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_tulwar_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="15"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="ANCIENTSWORD"/>
+		<set name="weight" value="2010"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="100"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="350"/>
+			<add stat="accCombat" order="0x10" value="2.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36051" name="Crossbow of Adventurer" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="atk_reuse" value="820"/>
+		<set name="crystal_type" value="D"/>
+		<set name="icon" value="icon.weapon_hunting_gun_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="6"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="CROSSBOW"/>
+		<set name="weight" value="1810"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="117"/>
+			<add stat="mAtk" order="0x10" value="54"/>
+			<set stat="baseCrit" order="0x08" value="100"/>
+			<set stat="atkBaseSpeed" order="0x08" value="303"/>
+			<add stat="accCombat" order="0x10" value="-2.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36052" name="Protector's Shield" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="D" />
+		<set name="icon" value="icon.shield_plate_shield_i00" />
+		<set name="price" value="0" />
+		<set name="rnd_dam" value="0" />
+		<set name="soulshots" value="0" />
+		<set name="spiritshots" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="1310" />
+		<equip>
+		  <slot id="LEFT_HAND" />
+		</equip>
+		<for>
+		  <add stat="sDef" order="0x10" value="154" />
+		  <add stat="rShld" order="0x10" value="20" />
+		  <add stat="rEvas" order="0x10" value="-8.0000" />
+		  <enchant stat="sDef" order="0x0C" value="0" />
+		  <enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</weapon>
+	
+	<weapon id="36053" name="King's Guard Shield" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C" />
+		<set name="icon" value="icon.shield_full_plate_shield_i00" />
+		<set name="price" value="0" />
+		<set name="rnd_dam" value="0" />
+		<set name="soulshots" value="0" />
+		<set name="spiritshots" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="1220" />
+		<equip>
+		  <slot id="LEFT_HAND" />
+		</equip>
+		<for>
+		  <add stat="sDef" order="0x10" value="203" />
+		  <add stat="rShld" order="0x10" value="20" />
+		  <add stat="rEvas" order="0x10" value="-8.0000" />
+		  <enchant stat="sDef" order="0x0C" value="0" />
+		  <enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</weapon>
+	
+	<weapon id="36054" name="Royal Troops's Sword" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1380"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30000" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="156"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36055" name="Royal Troops's Blunt" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="20"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BLUNT"/>
+		<set name="weight" value="1640"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30004" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="156"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36056" name="Royal Mage's Sword" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="SWORD"/>
+		<set name="weight" value="1380"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30001" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="125"/>
+			<add stat="mAtk" order="0x10" value="111"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="379"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36057" name="Royal Mage's Axe" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="20"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BLUNT"/>
+		<set name="weight" value="1640"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30001" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="125"/>
+			<add stat="mAtk" order="0x10" value="111"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="379"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36058" name="Royal Troop's Dagger" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_falchion_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="DAGGER"/>
+		<set name="weight" value="1000"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30000" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="136"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="120"/>
+			<set stat="atkBaseSpeed" order="0x08" value="433"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36059" name="Royal Troop's Bow" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="atk_reuse" value="1500"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_composition_bow_i00"/>
+		<set name="mp_consume" value="3"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="10"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BOW"/>
+		<set name="weight" value="1720"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30003" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="323"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="120"/>
+			<set stat="atkBaseSpeed" order="0x08" value="293"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36060" name="Royal Troop's Claymore" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_zweihander_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="weight" value="1380"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30000" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="190"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36061" name="Royal Troop's Fists" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_vipers_canine_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="5"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="DUALFIST"/>
+		<set name="weight" value="1460"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30000" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="190"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="5.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36062" name="Royal Troop's Spear" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_long_spear_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="POLE"/>
+		<set name="weight" value="1950"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="3599" level="1"/>
+			<skill id="30002" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="156"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<add stat="accCombat" order="0x10" value="-4.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+			<add stat="poleAngle" order="0x40" value="30"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36063" name="Royal Troop's Dualswords" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_dual_sword_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="DUAL"/>
+		<set name="weight" value="2270"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30004" level="2"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="190"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36064" name="Royal Troop's Rapier" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_rapier_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="40"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="RAPIER"/>
+		<set name="weight" value="1380"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30000" level="2"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="141"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="100"/>
+			<set stat="atkBaseSpeed" order="0x08" value="406"/>
+			<add stat="accCombat" order="0x10" value="-2.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36065" name="Royal Troop's Ancient Sword" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_tulwar_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="15"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="ANCIENTSWORD"/>
+		<set name="weight" value="1950"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30000" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="169"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="350"/>
+			<add stat="accCombat" order="0x10" value="2.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="36066" name="Royal Troop's Crossbow" add_name="Novice">
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="enchantable" value="false" />
+		<set name="crystallizable" value="false" />
+		<set name="augmentable" value="false" />
+		<set name="atk_reuse" value="820"/>
+		<set name="crystal_type" value="C"/>
+		<set name="icon" value="icon.weapon_hunting_gun_i00"/>
+		<set name="price" value="0"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="soulshots" value="6"/>
+		<set name="spiritshots" value="3"/>
+		<set name="type" value="CROSSBOW"/>
+		<set name="weight" value="1740"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<skills>
+			<skill id="30003" level="1"/>
+		</skills>
+		<for>
+			<add stat="pAtk" order="0x10" value="198"/>
+			<add stat="mAtk" order="0x10" value="83"/>
+			<set stat="baseCrit" order="0x08" value="100"/>
+			<set stat="atkBaseSpeed" order="0x08" value="303"/>
+			<add stat="accCombat" order="0x10" value="-2.0000"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<etcitem id="36067" name="Armor Box">	<!-- Mage D -->
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.event_six_party_box_i00"/>
+		<set name="stackable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<capsuled_items>
+			<capsuled_item id="36010" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36011" min_count="1" max_count="1" chance="100.0"/> 
+			<capsuled_item id="36012" min_count="1" max_count="1" chance="100.0"/> 
+		</capsuled_items>
+	</etcitem>
+	
+	<etcitem id="36068" name="Armor Box">	<!-- Light D -->
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.event_six_party_box_i00"/>
+		<set name="stackable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<capsuled_items>
+			<capsuled_item id="36013" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36014" min_count="1" max_count="1" chance="100.0"/> 
+			<capsuled_item id="36015" min_count="1" max_count="1" chance="100.0"/> 
+		</capsuled_items>
+	</etcitem>
+	
+	<etcitem id="36069" name="Armor Box">	<!-- Heavy D -->
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.event_six_party_box_i00"/>
+		<set name="stackable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<capsuled_items>
+			<capsuled_item id="36016" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36017" min_count="1" max_count="1" chance="100.0"/> 
+			<capsuled_item id="36018" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36052" min_count="1" max_count="1" chance="100.0"/> 
+		</capsuled_items>
+	</etcitem>
+	
+	<etcitem id="36070" name="Armor Box">	<!-- Mage C -->
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.event_six_party_box_i00"/>
+		<set name="stackable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<capsuled_items>
+			<capsuled_item id="36019" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36020" min_count="1" max_count="1" chance="100.0"/> 
+			<capsuled_item id="36021" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36022" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36030" min_count="1" max_count="1" chance="100.0"/> 
+		</capsuled_items>
+	</etcitem>
+	
+	<etcitem id="36071" name="Armor Box">	<!-- Light C -->
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.event_six_party_box_i00"/>
+		<set name="stackable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<capsuled_items>
+			<capsuled_item id="36023" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36024" min_count="1" max_count="1" chance="100.0"/> 
+			<capsuled_item id="36025" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36026" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36030" min_count="1" max_count="1" chance="100.0"/> 
+		</capsuled_items>
+	</etcitem>
+	
+	<etcitem id="36072" name="Armor Box">	<!-- Heavy C -->
+		<set name="temporal" value="true"/>
+		<set name="durability" value="10080"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="storeable" value="true" />
+		<set name="class" value="EXTRACTABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.event_six_party_box_i00"/>
+		<set name="stackable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="0"/>
+		<capsuled_items>
+			<capsuled_item id="36027" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36028" min_count="1" max_count="1" chance="100.0"/> 
+			<capsuled_item id="36029" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36053" min_count="1" max_count="1" chance="100.0"/>
+			<capsuled_item id="36030" min_count="1" max_count="1" chance="100.0"/> 
+		</capsuled_items>
+	</etcitem>
+</list>

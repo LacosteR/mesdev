@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="21300" name="Eye of Guide" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21301" name="Gaze of Nightmare" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21302" name="Eye of Watchman" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21303" name="Homunculus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21304" name="Grendel Slave" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21305" name="Eye of Pilgrim" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21306" name="Disciples of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6717"/>
+			<!--Monster Only(Einhasad Warrior)-->
+		</equip>
+	</npc>
+	<npc id="21307" name="Elder Homunculus" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21308" name="Disciples of Punishment" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6717"/>
+			<!--Monster Only(Einhasad Warrior)-->
+		</equip>
+	</npc>
+	<npc id="21309" name="Disciples of Punishment" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6717"/>
+			<!--Monster Only(Einhasad Warrior)-->
+		</equip>
+	</npc>
+	<npc id="21310" name="Disciples of Authority" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6718"/>
+			<!--Monster Only(Einhasad Shaman)-->
+		</equip>
+	</npc>
+	<npc id="21311" name="Disciples of Authority" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6718"/>
+			<!--Monster Only(Einhasad Shaman)-->
+		</equip>
+	</npc>
+	<npc id="21312" name="Eye of Ruler" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="21313" count="2"/>
+			<!--Sly Hound Dog-->
+		</minions>
+	</npc>
+	<npc id="21313" name="Sly Hound Dog" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="21314" name="Hot Springs Bandersnatchling" title="">
+		<set name="ai_type" value="HotSpringsMob"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21315" name="Hot Springs Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21316" name="Hot Springs Flava" title="">
+		<set name="ai_type" value="HotSpringsMob"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21317" name="Hot Springs Atroxspawn" title="">
+		<set name="ai_type" value="HotSpringsMob"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21318" name="Hot Springs Antelope" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21319" name="Hot Springs Nepenthes" title="">
+		<set name="ai_type" value="HotSpringsMob"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21320" name="Hot Springs Yeti" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21321" name="Hot Springs Atrox" title="">
+		<set name="ai_type" value="HotSpringsMob"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21322" name="Hot Springs Bandersnatch" title="">
+		<set name="ai_type" value="HotSpringsMob"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21323" name="Hot Springs Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21324" name="Ketra Orc Footman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="21325" name="Ketra's War Hound" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21326" name="Grazing Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21327" name="Ketra Orc Raider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+			<lhand item_id="6919"/>
+			<!--Monster Only (Shield of Ketra Orc)-->
+		</equip>
+	</npc>
+	<npc id="21328" name="Ketra Orc Scout" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="288"/>
+			<!--Carnage Bow-->
+		</equip>
+	</npc>
+	<npc id="21329" name="Ketra Orc Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="92"/>
+			<!--Sprite's Staff-->
+		</equip>
+	</npc>
+	<npc id="21330" name="Grazing Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21331" name="Ketra Orc Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+			<lhand item_id="6919"/>
+			<!--Monster Only (Shield of Ketra Orc)-->
+		</equip>
+	</npc>
+	<npc id="21332" name="Ketra Orc Lieutenant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+	</npc>
+	<npc id="21333" name="Grazing Windsus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21334" name="Ketra Orc Medium" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="92"/>
+			<!--Sprite's Staff-->
+		</equip>
+	</npc>
+	<npc id="21335" name="Ketra Orc Elite Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="21336" name="Ketra Orc White Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="21337" name="Grazing Elder Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21338" name="Ketra Orc Seer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="213"/>
+			<!--Branch of the Mother Tree-->
+		</equip>
+	</npc>
+	<npc id="21339" name="Ketra Orc General" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+	</npc>
+	<npc id="21340" name="Ketra Orc Battalion Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="6919"/>
+			<!--Monster Only (Shield of Ketra Orc)-->
+		</equip>
+	</npc>
+	<npc id="21341" name="Grazing Elder Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21342" name="Ketra Orc Grand Seer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="213"/>
+			<!--Branch of the Mother Tree-->
+		</equip>
+	</npc>
+	<npc id="21343" name="Ketra Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="6919"/>
+			<!--Monster Only (Shield of Ketra Orc)-->
+		</equip>
+	</npc>
+	<npc id="21344" name="Ketra Elite Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="21345" name="Ketra's Head Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="210"/>
+			<!--Staff of Evil Spirits-->
+		</equip>
+		<minions>
+			<minion npc_id="21346" count="2"/>
+			<!--Ketra's Head Guard-->
+		</minions>
+	</npc>
+	<npc id="21346" name="Ketra's Head Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+	</npc>
+	<npc id="21347" name="Ketra Prophet" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="213"/>
+			<!--Branch of the Mother Tree-->
+		</equip>
+		<minions>
+			<minion npc_id="21348" count="1"/>
+			<!--Prophet's Guard-->
+			<minion npc_id="21349" count="1"/>
+			<!--Prophet's Aide-->
+		</minions>
+	</npc>
+	<npc id="21348" name="Prophet's Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+	</npc>
+	<npc id="21349" name="Prophet's Aide" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="210"/>
+			<!--Staff of Evil Spirits-->
+		</equip>
+	</npc>
+	<npc id="21350" name="Varka Silenos Recruit" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="21351" name="Varka Silenos Footman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="21352" name="Grazing Antelope" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21353" name="Varka Silenos Scout" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="21354" name="Varka Silenos Hunter" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6917"/>
+			<!--Monster Only (Poison Sting)-->
+		</equip>
+	</npc>
+	<npc id="21355" name="Varka Silenos Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="21356" name="Grazing Nepenthes" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21357" name="Varka Silenos Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="21358" name="Varka Silenos Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="21359" name="Grazing Bandersnatch" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21360" name="Varka Silenos Medium" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="21361" name="Varka Silenos Magus" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="21362" name="Varka Silenos Officer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+		</equip>
+	</npc>
+	<npc id="21363" name="Grazing Flava" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21364" name="Varka Silenos Seer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="21365" name="Varka Silenos Great Magus" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="21366" name="Varka Silenos General" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="21367" name="Grazing Elder Antelope" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21368" name="Varka Silenos Great Seer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="21369" name="Varka's Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+		<minions>
+			<minion npc_id="21370" count="2"/>
+			<!--Varka's Elite Guard-->
+		</minions>
+	</npc>
+	<npc id="21370" name="Varka's Elite Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="21371" name="Varka's Head Magus" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+		<minions>
+			<minion npc_id="21372" count="2"/>
+			<!--Varka's Head Guard-->
+		</minions>
+	</npc>
+	<npc id="21372" name="Varka's Head Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="21373" name="Varka's Prophet" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+		<minions>
+			<minion npc_id="21374" count="1"/>
+			<!--Prophet's Guard-->
+			<minion npc_id="21375" count="1"/>
+			<!--Disciple of Prophet-->
+		</minions>
+	</npc>
+	<npc id="21374" name="Prophet Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="21375" name="Disciple of Prophet" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="21376" name="Scarlet Stakato Worker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="235"/>
+			<!--Bloody Orchid-->
+		</equip>
+	</npc>
+	<npc id="21377" name="Scarlet Stakato Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="21378" name="Scarlet Stakato Noble" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="235"/>
+			<!--Bloody Orchid-->
+		</equip>
+	</npc>
+	<npc id="21379" name="Tepra Scorpion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21380" name="Tepra Scarab" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21381" name="Assassin Beetle" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21382" name="Mercenary of Destruction" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="21383" name="Knight of Destruction" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="21384" name="Necromancer of Destruction" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21385" name="Lavastone Golem" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21386" name="Magma Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21387" name="Arimanes of Destruction" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="21388" name="Iblis of Destruction" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21389" name="Balrog of Destruction" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21390" name="Ashuras of Destruction" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21391" name="Lavasillisk" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21392" name="Blazing Ifrit" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21393" name="Magma Drake" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21394" name="Lavasaurus" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="21395" name="Elder Lavasaurus" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="21396" name="Carrion Scarab" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21397" name="Carrion Scarab" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21398" name="Soldier Scarab" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21399" name="Soldier Scarab" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

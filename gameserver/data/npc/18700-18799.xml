@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="18700" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18701" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18702" name="Dimension Moving Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18703" name="Defeated Troops Controller" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18704" name="Tumor of Death" title="">
+		<set name="ai_type" value="seedofinfinity.AliveTumor"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18705" name="Destroyed Tumor" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18706" name="Soul Coffin" title="">
+		<set name="ai_type" value="seedofinfinity.SoulCoffin"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18707" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18708" name="Tumor of Death" title="">
+		<set name="ai_type" value="seedofinfinity.AliveTumor"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18709" name="Soul Coffin" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18710" name="Soul Coffin" title="">
+		<set name="ai_type" value="seedofinfinity.SoulCoffin"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18711" name="Soul Coffin" title="">
+		<set name="ai_type" value="seedofinfinity.SoulCoffin"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18712" name="Soul Coffin" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18713" name="Soul Coffin" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18714" name="Soul Coffin" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18715" name="Conquered Soul" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13983"/>
+			<!--Exclusive to Monsters (Death Knight_2hs)-->
+		</equip>
+	</npc>
+	<npc id="18716" name="Conquered Soul" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13985"/>
+			<!--Exclusive to Monsters (Death Slayer_r)-->
+		</equip>
+	</npc>
+	<npc id="18717" name="Conquered Soul" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18718" name="Sacrificed Fanatic" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="13987"/>
+			<!--Exclusive to Monsters (Savage Warrior)-->
+		</equip>
+	</npc>
+	<npc id="18719" name="Sacrificed Fanatic" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18720" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18721" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18722" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18723" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18724" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18725" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18726" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18727" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18728" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18729" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18730" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18731" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18732" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18733" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18734" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18735" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18736" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18737" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18738" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18739" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18740" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18741" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18742" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18743" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18744" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18745" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18746" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18747" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18748" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18749" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18750" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18751" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18752" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18753" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18754" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18755" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18756" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18757" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18758" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18759" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18760" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18761" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18762" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18763" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18764" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18765" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18766" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18767" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18768" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18769" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18770" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18771" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18772" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18773" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18774" name="Trap" title="">
+		<set name="ai_type" value="seedofdestruction.TiatsTrap"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18775" name="Seed of Destruction Control Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18776" name="Obelisk" title="">
+		<set name="ai_type" value="seedofdestruction.Obelisk"/>
+		<set name="type" value="ImmuneMonster"/>
+	</npc>
+	<npc id="18777" name="Great Powerful Device" title="">
+		<set name="ai_type" value="seedofdestruction.GreatPowerfulDevice"/>
+		<set name="type" value="ImmuneMonster"/>
+	</npc>
+	<npc id="18778" name="Throne of Destruction Powerful Device" title="">
+		<set name="ai_type" value="seedofdestruction.ThroneofDestruction"/>
+		<set name="type" value="ImmuneMonster"/>
+	</npc>
+	<npc id="18779" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18780" name="Symbol of Cohemenes" title="">
+		<set name="ai_type" value="seedofinfinity.SymbolofCohemenes"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18781" name="Young Drake Wing" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18782" name="Zealot of Shilen" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18783" name="Defeated Troops Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="18784" name="Defeated Troops No 1 Battalion Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13978"/>
+			<!--Exclusive to Monsters (Mounted Troops High Level Leader)-->
+		</equip>
+	</npc>
+	<npc id="18785" name="Defeated Troops White Dragon Leader" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="18786" name="Defeated Troops Infantry" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13979"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Sword)-->
+			<lhand item_id="13980"/>
+			<!--Exclusive to Monsters (Dragon Steed Troop Battle Infantry Shield)-->
+		</equip>
+	</npc>
+	<npc id="18787" name="Defeated Troops Magic Leader" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18788" name="Defeated Troops Magician" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18789" name="Defeated Troops Magic Soldier" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13981"/>
+			<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+	</npc>
+	<npc id="18790" name="Defeated Troops Healer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13981"/>
+			<!--Exclusive to Monsters (Mounted Troops Tactics)-->
+		</equip>
+	</npc>
+	<npc id="18791" name="Defeated Troops Javelin Thrower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13843"/>
+			<!--Draconic Peltast Weapon-->
+		</equip>
+	</npc>
+	<npc id="18792" name="Defeated Troops Javelin Thrower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="13843"/>
+			<!--Draconic Peltast Weapon-->
+		</equip>
+	</npc>
+	<npc id="18793" name="Bizarre Cocoon" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18794" name="Bizarre Cocoon" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18795" name="Bizarre Cocoon" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18796" name="Bizarre Cocoon" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18797" name="Bizarre Cocoon" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18798" name="Bizarre Cocoon" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18799" name="Newborn Lavasaurus" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

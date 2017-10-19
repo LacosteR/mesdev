@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!--
+	category = Best 		2
+	category = Event		1
+	category = Enchant		1
+	category = Supplies		2
+	category = Decorating	3
+	category = Package		4
+	category = Others		5
+	payment_item_id = -1 - Account points (ruofflike)
+	payment_item_id > 0 - Ingame items (Adena, coints, etc)
+	Base Parameters: <product id="0" name="" category="5" price="0" is_event="false" is_best="false" is_new="false" on_sale="false" sale_start_date="1980/01/01 08:00" sale_end_date="2037/06/01 08:00">
+	-->
+	<config payment_item_id="4356" recent_list_size="5"/>
+	
+	<product id="1080001" name="Title color Change" category="5" price="99" is_best="true" on_sale="true">
+		<component item_id="13021" count="1"/>
+	</product>
+	<product id="1080002" name="Mount 1" category="5" price="15" is_best="true" on_sale="true">
+		<component item_id="14231" count="1"/>
+	</product>
+	<product id="1080003" name="Mount 2" category="5" price="15" is_best="true" on_sale="true">
+		<component item_id="14232" count="1"/>
+	</product>
+	
+	<product id="1080004" name="Black Cloak" category="3" price="99" is_best="true" on_sale="true">
+		<component item_id="21583" count="1"/>
+	</product>
+	<product id="1080005" name="Red Cloak" category="3" price="99" is_best="true" on_sale="true">
+		<component item_id="21587" count="1"/>
+	</product>
+	<product id="1080006" name="White Cloak" category="3" price="99" is_best="true" on_sale="true">
+		<component item_id="21588" count="1"/>
+	</product>
+	
+	<product id="1080007" name="Shirt HP" category="5" price="99" is_best="true" on_sale="true">
+		<component item_id="10512" count="1"/>
+	</product>
+	<product id="1080008" name="Shirt MP" category="5" price="99" is_best="true" on_sale="true">
+		<component item_id="10513" count="1"/>
+	</product>
+	<product id="1080009" name="Shirt CP" category="5" price="99" is_best="true" on_sale="true">
+		<component item_id="10514" count="1"/>
+	</product>
+
+	<!-- RB Jewels -->
+	<product id="1080010" name="small" category="2" price="8" is_best="true" on_sale="true">
+		<component item_id="22000" count="1"/>
+	</product>
+	<product id="1080011" name="mid" category="2" price="16" is_best="true" on_sale="true">
+		<component item_id="22001" count="1"/>
+	</product>
+	<product id="1080012" name="big" category="2" price="24" is_best="true" on_sale="true">
+		<component item_id="22002" count="1"/>
+	</product>
+	<product id="1080013" name="small" category="2" price="11" is_best="true" on_sale="true">
+		<component item_id="22003" count="1"/>
+	</product>
+	<product id="1080014" name="mid" category="2" price="19" is_best="true" on_sale="true">
+		<component item_id="22004" count="1"/>
+	</product>
+	<product id="1080015" name="big" category="2" price="27" is_best="true" on_sale="true">
+		<component item_id="22005" count="1"/>
+	</product>
+	<!-- Belts -->
+	<product id="1080021" name="belt 1" category="5" price="136" is_best="true" on_sale="true">
+		<component item_id="14961" count="1"/>
+	</product>
+	<product id="1080022" name="belt 2" category="5" price="136" is_best="true" on_sale="true">
+		<component item_id="14957" count="1"/>
+	</product>
+	<product id="1080023" name="belt 3" category="5" price="136" is_best="true" on_sale="true">
+		<component item_id="14953" count="1"/>
+	</product>
+	<!-- Accessories -->
+	<product id="1080024" name="Accessory" category="3" price="14" is_best="false" on_sale="true">
+		<component item_id="21012" count="1"/>
+	</product>
+	<product id="1080025" name="Accessory" category="3" price="14" is_best="false" on_sale="true">
+		<component item_id="21013" count="1"/>
+	</product>
+	<product id="1080026" name="Accessory" category="3" price="14" is_best="false" on_sale="true">
+		<component item_id="21014" count="1"/>
+	</product>
+	
+	<product id="1080027" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="21043" count="1"/>
+	</product>
+	<product id="1080028" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="21044" count="1"/>
+	</product>
+	<product id="1080029" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="21090" count="1"/>
+	</product>
+	
+	<!-- Package accsessoryes -->
+	
+	<product id="1080030" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="20981" count="1"/>
+	</product>
+	
+	
+	<product id="1080034" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="20931" count="1"/>
+	</product>
+	<product id="1080035" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="20930" count="1"/>
+	</product>
+	<product id="1080036" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="20929" count="1"/>
+	</product>
+	
+	<product id="1080037" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="20944" count="1"/>
+	</product>
+	<product id="1080038" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="20942" count="1"/>
+	</product>
+	
+	<product id="1080039" name="Accessory" category="3" price="144" is_best="false" on_sale="true">
+		<component item_id="20789" count="1"/>
+	</product>
+	
+	<product id="1080040" name="Quick Healing Potion" category="2" price="1" is_best="true" on_sale="true">
+		<component item_id="1540" count="1"/>
+	</product>
+
+	<product id="1080235" name="Quick Healing Potion" category="2" price="2" is_event="true" is_best="true" is_new="true" on_sale="true">
+		<component item_id="21040" count="1"/>
+	</product>
+</list>

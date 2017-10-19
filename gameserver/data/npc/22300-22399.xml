@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="22300" name="Dolph's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22301" name="Terod" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22302" name="Darnel's Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22303" name="Guardian of the Square" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22304" name="Guardian of the Emerald" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22305" name="Kechi's Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22306" name="Kechi's Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22307" name="Kechi's Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22308" name="Kechi's Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22309" name="Kechi's Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="148"/>
+			<!--Sword of Valhalla-->
+		</equip>
+	</npc>
+	<npc id="22310" name="Kechi's Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22311" name="Parme's Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22312" name="Fafurion's Henchman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22313" name="Garden Stakato" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="134"/>
+			<!--Sword of Nightmare-->
+		</equip>
+	</npc>
+	<npc id="22314" name="Garden Poison Moth" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22315" name="Garden Guard " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5132"/>
+			<!--Giant Trident-->
+		</equip>
+	</npc>
+	<npc id="22316" name="Garden Guardian Tree" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22317" name="Garden Castalia" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9639"/>
+			<!--Tears r2-->
+			<lhand item_id="9639"/>
+			<!--Tears r2-->
+		</equip>
+	</npc>
+	<npc id="22320" name="Junior Watchman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="22321" name="Junior Summoner" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="22322" name="Subjugated Native" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8219"/>
+			<!--Monster Only (Zombie Laborer Sword)-->
+		</equip>
+	</npc>
+	<npc id="22323" name="Charmed Native" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8528"/>
+			<!--For Monsters Only (Doom Hammer)-->
+		</equip>
+	</npc>
+	<npc id="22324" name="Blind Huntsman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="22325" name="Blind Watchman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="22326" name="Hellinark" title="Naia's Guardian">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="22327" name="Arcane Scout" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="22328" name="Arcane Guardian" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="22329" name="Arcane Watchman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22330" name="Remnant Wraith" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+		</equip>
+	</npc>
+	<npc id="22334" name="Sand Scorpion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22335" name="Desert Scorpion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22336" name="Sand Devil" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22337" name="Desiccator" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22339" name="Wandering Caravan" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="22340" name="Sandstorm" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22341" name="Keltas" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="8686"/>
+			<!--Themis' Tongue-->
+		</equip>
+	</npc>
+	<npc id="22342" name="Darion's Enforcer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22343" name="Darion's Executioner" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22344" name="Quarry Supervisor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="6723"/>
+			<!--Monster Only(Vampire Warrior)-->
+		</equip>
+	</npc>
+	<npc id="22345" name="Quarry Bowman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="22346" name="Quarry Foreman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="8686"/>
+			<!--Themis' Tongue-->
+		</equip>
+	</npc>
+	<npc id="22347" name="Quarry Patrolman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22349" name="Chimera of Earth" title="">
+		<set name="ai_type" value="hellbound.Chimera"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22350" name="Chimera of Darkness" title="">
+		<set name="ai_type" value="hellbound.Chimera"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22351" name="Chimera of Wind" title="">
+		<set name="ai_type" value="hellbound.Chimera"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22352" name="Chimera of Fire" title="">
+		<set name="ai_type" value="hellbound.Chimera"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22353" name="Celtus" title="Chimera">
+		<set name="ai_type" value="hellbound.Chimera"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22355" name="Enceinte Defender" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="22356" name="Enceinte Defender" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="22357" name="Enceinte Defender" title="">
+		<set name="ai_type" value="hellbound.OutpostGuards"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="22358" name="Enceinte Defender" title="">
+		<set name="ai_type" value="hellbound.OutpostGuards"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="globalAggro" value="0"/>
+		</ai_params>
+	</npc>
+	<npc id="22359" name="Town Guard" title="">
+		<set name="ai_type" value="hellbound.TownGuard"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22360" name="Town Patrolman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<ai_params>
+			<set name="canSeeInSilentMove" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="7887"/>
+			<!--Mysterious Sword-->
+		</equip>
+	</npc>
+	<npc id="22361" name="Steel Citadel Keymaster" title="">
+		<set name="ai_type" value="hellbound.SteelCitadelKeymaster"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22362" name="Guzen" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22363" name="Body Destroyer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<minions>
+			<minion npc_id="22364" count="4"/>
+			<!--Soul Dominator-->
+		</minions>
+	</npc>
+	<npc id="22364" name="Soul Dominator" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="22365" name="Labyrinth Watchman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22366" name="Labyrinth Watchman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22367" name="Labyrinth Mystic" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="210"/>
+			<!--Staff of Evil Spirits-->
+		</equip>
+	</npc>
+	<npc id="22368" name="Labyrinth Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="22369" name="Labyrinth Seer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="22370" name="Passageway Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="PassagewayMobWithHerb"/>
+		<minions>
+			<minion npc_id="22371" count="4"/>
+			<!--Passageway Guards-->
+		</minions>
+	</npc>
+	<npc id="22371" name="Passageway Guards" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="234"/>
+			<!--Demon's Dagger-->
+		</equip>
+	</npc>
+	<npc id="22372" name="Passageway Mystic" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="PassagewayMobWithHerb"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="22373" name="Cosmic Scout" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22374" name="Cosmic Watcher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22375" name="Cosmic Priest" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="22376" name="Cosmic Lord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22377" name="Master Zelos" title="">
+		<set name="ai_type" value="hellbound.MasterZelos"/>
+		<set name="type" value="SpecialMonster"/>
+		<minions>
+			<minion npc_id="22378" count="2"/>
+			<!--Master's Minion-->
+			<minion npc_id="22379" count="2"/>
+			<!--Master's Minion-->
+		</minions>
+	</npc>
+	<npc id="22378" name="Master's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22379" name="Master's Minion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="22380" name="Master Festina" title="">
+		<set name="ai_type" value="hellbound.MasterFestina"/>
+		<set name="type" value="SpecialMonster"/>
+		<minions>
+			<minion npc_id="22381" count="2"/>
+			<!--Master's Guard-->
+			<minion npc_id="22382" count="2"/>
+			<!--Master's Guard-->
+		</minions>
+	</npc>
+	<npc id="22381" name="Master's Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22382" name="Master's Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22383" name="Tully's Toy" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22384" name="Mystic's Toy" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22385" name="Tully's Golem Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22386" name="Foundry Mystic" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22387" name="Foundry Mystic" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22388" name="Foundry Spirit Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22389" name="Foundry Spirit Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="22390" name="Foundry Foreman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+		<equip>
+			<rhand item_id="8217"/>
+			<!--Monster Only (Zombie Gateguard Spear)-->
+		</equip>
+		<minions>
+			<minion npc_id="22391" count="2"/>
+			<!--Foundry Assistant Overseer-->
+		</minions>
+	</npc>
+	<npc id="22391" name="Foundry Assistant Overseer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22392" name="Failed Experimental Timetwister Golem" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22393" name="Beleth's Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8217"/>
+			<!--Monster Only (Zombie Gateguard Spear)-->
+		</equip>
+	</npc>
+	<npc id="22394" name="Beleth's Devotee" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22395" name="Beleth's Projection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+			<lhand item_id="10278"/>
+			<!--Monster Only (Behamah Dual)-->
+		</equip>
+	</npc>
+	<npc id="22396" name="Foundry Laborer" title="">
+		<set name="ai_type" value="hellbound.FoundryWorker"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22397" name="Foundry Foreman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22398" name="Lesser Evil" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8217"/>
+			<!--Monster Only (Zombie Gateguard Spear)-->
+		</equip>
+	</npc>
+	<npc id="22399" name="Greater Evil" title="">
+		<set name="ai_type" value="hellbound.GreaterEvil"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8217"/>
+			<!--Monster Only (Zombie Gateguard Spear)-->
+		</equip>
+	</npc>
+</list>

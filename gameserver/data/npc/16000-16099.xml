@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="16013" name="Trained Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="16014" name="Trained Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="16015" name="Trained Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="16016" name="Trained Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="16017" name="Trained Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="16018" name="Trained Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="16019" name="Tiny Baby Buffalo" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="16020" name="Tame Tiny Baby Buffalo" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16021" name="Tiny Baby Cougar" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="16022" name="Tame Tiny Baby Cougar" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16023" name="Tiny Baby Kookaburra" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="16024" name="Tame Tiny Baby Kookaburra" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16025" name="Great Wolf" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+		<equip>
+			<rhand item_id="9661"/>
+			<!--Enchanted Fenrir Fang-->
+		</equip>
+	</npc>
+	<npc id="16026" name="Beastly Agathion" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16027" name="Rainbow Agathion" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16028" name="Lord Agathion" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16029" name="Fortress Agasion" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16030" name="Great Wolf" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16031" name="Little Angel Agathion" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16032" name="Little Devil Agathion" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16033" name="Rudolph Agathion" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16034" name="Improved Baby Buffalo" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16035" name="Improved Baby Kookaburra" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16036" name="Improved Baby Cougar" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16037" name="Great Snow Wolf" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16038" name="Red Wind Strider" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16039" name="Red Star Strider" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16040" name="Red Twilight Strider" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16041" name="Fenrir" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16042" name="Snow Fenrir" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16043" name="Fox Shaman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16044" name="Wild Beast Fighter" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16045" name="White Weasel" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16046" name="Fairy Princess" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16049" name="Love Agathion" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16050" name="Owl Monk" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16051" name="Spirit Shaman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16052" name="Toy Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16053" name="Turtle Ascetic" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16054" name="Monkey" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16055" name="Griffon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16056" name="Joy" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16057" name="Sorrow" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16058" name="Anger" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16059" name="Boy Bear" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16060" name="Girl Bear" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16061" name="Collection Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16062" name="Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16063" name="Saerom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16064" name="Juju" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16065" name="Oink Oink" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16066" name="Light of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16067" name="Deinonychus" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16068" name="Guardian's Strider" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Pet"/>
+	</npc>
+	<npc id="16069" name="Pona" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16070" name="Towbat" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16071" name="Maguen" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16072" name="Elite Maguen" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16073" name="Rudolph Agathion" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16074" name="Ball Trapping Gnosian" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16075" name="Ball Trapping Orodriel" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16076" name="Penalty Kick" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16077" name="Antharas" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16078" name="Nevit's Messenger Kanna" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="16079" name="Guardian of Dawn Kallesin" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+</list>

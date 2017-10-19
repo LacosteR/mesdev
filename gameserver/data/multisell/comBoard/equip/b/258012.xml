@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- jewels -->
+	<item>
+		<production id="926" count="1"/>
+		<ingredient id="57" count="948000"/>
+	</item>
+	<item>
+		<production id="864" count="1"/>
+		<ingredient id="57" count="711000"/>
+	</item>
+	<item>
+		<production id="895" count="1"/>
+		<ingredient id="57" count="474000"/>
+	</item>
+</list>

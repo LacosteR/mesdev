@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="35400" name="Horner" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="17220013;17220014"/>
+		</ai_params>
+	</npc>
+	<npc id="35401" name="Amiel" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="17220013;17220014"/>
+		</ai_params>
+	</npc>
+	<npc id="35402" name="Borna" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="20220013;20220014"/>
+		</ai_params>
+	</npc>
+	<npc id="35403" name="Ron" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="20220013;20220014"/>
+		</ai_params>
+	</npc>
+	<npc id="35404" name="Jamal" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="20220011;20220012"/>
+		</ai_params>
+	</npc>
+	<npc id="35405" name="Flynn" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="20220011;20220012"/>
+		</ai_params>
+	</npc>
+	<npc id="35406" name="Jabilo" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="20220015;20220016"/>
+		</ai_params>
+	</npc>
+	<npc id="35407" name="Seth" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="20220015;20220016"/>
+		</ai_params>
+	</npc>
+	<npc id="35408" name="Dietrich" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.clanhall.Dietrich"/>
+	</npc>
+	<npc id="35409" name="Mikhail" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.clanhall.Mikhail"/>
+	</npc>
+	<npc id="35410" name="Gustav" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.clanhall.Gustav"/>
+	</npc>
+	<npc id="35411" name="Doom Servant" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+	</npc>
+	<npc id="35412" name="Doom Guard" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+	</npc>
+	<npc id="35413" name="Doom Archer" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="286"/>
+			<!--Eminence Bow-->
+		</equip>
+	</npc>
+	<npc id="35414" name="Doom Trooper " title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="301"/>
+			<!--Scorpion-->
+		</equip>
+	</npc>
+	<npc id="35415" name="Doom Warrior" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="71"/>
+			<!--Flamberge-->
+		</equip>
+	</npc>
+	<npc id="35416" name="Doom Knight" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="35417" name="Doorman of Hell" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/clanhall/doorman_of_hell1001.htm"/>
+			<set name="fail_dialog" value="residence2/clanhall/doorman_of_hell1002.htm"/>
+			<set name="siege_dialog" value="npcdefault.htm"/>
+			<set name="doors" value="25170001;25170002"/>
+		</ai_params>
+	</npc>
+	<npc id="35418" name="Doorman of Hell" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/clanhall/doorman_of_hell2001.htm"/>
+			<set name="fail_dialog" value="residence2/clanhall/doorman_of_hell2002.htm"/>
+			<set name="siege_dialog" value="npcdefault.htm"/>
+			<set name="doors" value="25170005;25170006"/>
+		</ai_params>
+	</npc>
+	<npc id="35419" name="Hephaeston" title="Wyvern Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="WyvernManager"/>
+	</npc>
+	<npc id="35420" name="Loken" title="Messenger">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.Messenger"/>
+		<ai_params>
+			<set name="siege_dialog" value="residence2/clanhall/messenger_loken022.htm"/>
+			<set name="owner_dialog" value="residence2/clanhall/messenger_loken007.htm"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="35421" name="Biggerstaff" title="Steward">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.Manager"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/clanhall/steward_biggerstaff001.htm"/>
+			<set name="fail_dialog" value="residence2/clanhall/steward_biggerstaff002.htm"/>
+			<set name="siege_dialog" value="residence2/clanhall/steward_biggerstaff018.htm"/>
+			<set name="doors" value="25170005;25170006"/>
+		</ai_params>
+	</npc>
+	<npc id="35422" name="Flag of Winner" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="35423" name="Red Flag" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="35424" name="Yellow Flag" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="35425" name="Green Flag" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="35426" name="Blue Flag" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="35427" name="Purple Flag" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="35428" name="Oel Mahum Berserker" title="">
+		<set name="ai_type" value="residences.clanhall.MatchBerserker"/>
+		<set name="type" value="residences.clanhall.MatchBerserker"/>
+	</npc>
+	<npc id="35429" name="Oel Mahum Scout" title="">
+		<set name="ai_type" value="residences.clanhall.MatchScout"/>
+		<set name="type" value="residences.clanhall.MatchScout"/>
+	</npc>
+	<npc id="35430" name="Oel Mahum Leader" title="">
+		<set name="ai_type" value="residences.clanhall.MatchLeader"/>
+		<set name="type" value="residences.clanhall.MatchLeader"/>
+	</npc>
+	<npc id="35431" name="Oel Mahum Cleric" title="">
+		<set name="ai_type" value="residences.clanhall.MatchCleric"/>
+		<set name="type" value="residences.clanhall.MatchCleric"/>
+	</npc>
+	<npc id="35432" name="Oel Mahum Thief" title="">
+		<set name="ai_type" value="residences.clanhall.MatchTrief"/>
+		<set name="type" value="residences.clanhall.MatchTrief"/>
+	</npc>
+	<npc id="35433" name="Inner Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/clanhall/bandit_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/clanhall/bandit_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/clanhall/bandit_doorman003.htm"/>
+			<set name="doors" value="22170003;22170004"/>
+		</ai_params>
+	</npc>
+	<npc id="35434" name="Inner Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/clanhall/bandit_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/clanhall/bandit_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/clanhall/bandit_doorman003.htm"/>
+			<set name="doors" value="22170003;22170004"/>
+		</ai_params>
+	</npc>
+	<npc id="35435" name="Outer Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/clanhall/bandit_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/clanhall/bandit_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/clanhall/bandit_doorman003.htm"/>
+			<set name="doors" value="22170001;22170002"/>
+		</ai_params>
+	</npc>
+	<npc id="35436" name="Outer Doorman" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/clanhall/bandit_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/clanhall/bandit_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/clanhall/bandit_doorman003.htm"/>
+			<set name="doors" value="22170001;22170002"/>
+		</ai_params>
+	</npc>
+	<npc id="35437" name="Messenger" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.BanditMessager"/>
+	</npc>
+	<npc id="35438" name="Chamberlain" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.Manager"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/clanhall/azit_chamberlain001.htm"/>
+			<set name="fail_dialog" value="residence2/clanhall/azit_chamberlain002.htm"/>
+			<set name="siege_dialog" value="residence2/clanhall/azit_chamberlain018.htm"/>
+			<set name="doors" value="22170003;22170004"/>
+		</ai_params>
+	</npc>
+	<npc id="35439" name="Carey" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24180024;24180025"/>
+		</ai_params>
+	</npc>
+	<npc id="35440" name="Daniel" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24180024;24180025"/>
+		</ai_params>
+	</npc>
+	<npc id="35441" name="Dianne" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24180026;24180027"/>
+		</ai_params>
+	</npc>
+	<npc id="35442" name="Jacques" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24180026;24180027"/>
+		</ai_params>
+	</npc>
+	<npc id="35443" name="Crissy" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24180022;24180023"/>
+		</ai_params>
+	</npc>
+	<npc id="35444" name="Joff" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24180022;24180023"/>
+		</ai_params>
+	</npc>
+	<npc id="35445" name="Albert" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24180028;24180029"/>
+		</ai_params>
+	</npc>
+	<npc id="35446" name="Niels" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24180028;24180029"/>
+		</ai_params>
+	</npc>
+	<npc id="35447" name="Korgen" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24180032;24180033"/>
+		</ai_params>
+	</npc>
+	<npc id="35448" name="Rudy" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24180032;24180033"/>
+		</ai_params>
+	</npc>
+	<npc id="35449" name="DiMaggio" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24180030;24180031"/>
+		</ai_params>
+	</npc>
+	<npc id="35450" name="Gellar" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24180030;24180031"/>
+		</ai_params>
+	</npc>
+	<npc id="35451" name="Emma" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="22220007;22220008"/>
+		</ai_params>
+	</npc>
+	<npc id="35452" name="Theobolt" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="22220007;22220008"/>
+		</ai_params>
+	</npc>
+	<npc id="35453" name="Adrienne" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="22220009;22220010"/>
+		</ai_params>
+	</npc>
+	<npc id="35454" name="Rosconne" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="22220009;22220010"/>
+		</ai_params>
+	</npc>
+	<npc id="35455" name="Bianca" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="22220011;22220012"/>
+		</ai_params>
+	</npc>
+	<npc id="35456" name="Stewart" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="22220011;22220012"/>
+		</ai_params>
+	</npc>
+	<npc id="35457" name="Gladys" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="22220005;22220006"/>
+		</ai_params>
+	</npc>
+	<npc id="35458" name="Theron" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="22220005;22220006"/>
+		</ai_params>
+	</npc>
+	<npc id="35459" name="Regina" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="22220003;22220004"/>
+		</ai_params>
+	</npc>
+	<npc id="35460" name="Trey" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="22220003;22220004"/>
+		</ai_params>
+	</npc>
+	<npc id="35461" name="Aida" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24160001;24160001"/>
+		</ai_params>
+	</npc>
+	<npc id="35462" name="Kalmer" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24160001;24160001"/>
+		</ai_params>
+	</npc>
+	<npc id="35463" name="Helga" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24160003;24160004"/>
+		</ai_params>
+	</npc>
+	<npc id="35464" name="Volfrem" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24160003;24160004"/>
+		</ai_params>
+	</npc>
+	<npc id="35465" name="Millicent" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24160005;24160006"/>
+		</ai_params>
+	</npc>
+	<npc id="35466" name="Gerard" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24160005;24160006"/>
+		</ai_params>
+	</npc>
+	<npc id="35467" name="Branhillde" title="Clan Hall Manager">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedManager"/>
+		<ai_params>
+			<set name="doors" value="24160007;24160008"/>
+		</ai_params>
+	</npc>
+	<npc id="35468" name="Lambert" title="Clan Hall Gatekeeper">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.clanhall.AuctionedDoorman"/>
+		<ai_params>
+			<set name="doors" value="24160007;24160008"/>
+		</ai_params>
+	</npc>
+	<npc id="35469" name="Gods' Altar" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Artefact"/>
+	</npc>
+	<npc id="35470" name="Astair van Halter" title="King">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+		</equip>
+	</npc>
+	<npc id="35471" name="Royal Knight" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="35472" name="Court Sorcerer" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="35473" name="Court Sorcerer" title="Rune">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="92"/>
+			<!--Sprite's Staff-->
+		</equip>
+	</npc>
+	<npc id="35474" name="Court Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="1376"/>
+			<!--Guard Spear-->
+		</equip>
+	</npc>
+	<npc id="35475" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="300"/>
+			<!--Great Axe-->
+		</equip>
+	</npc>
+	<npc id="35476" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="132"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="35477" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35478" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35479" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35480" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35481" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35482" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35483" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35484" name="Royal Knight" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+			<lhand item_id="633"/>
+			<!--Zubei's Shield-->
+		</equip>
+	</npc>
+	<npc id="35485" name="Court Sorcerer" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="326"/>
+			<!--Heathen's Book-->
+		</equip>
+	</npc>
+	<npc id="35486" name="Court Sorcerer" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35487" name="Court Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="300"/>
+			<!--Great Axe-->
+		</equip>
+	</npc>
+	<npc id="35488" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35489" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35490" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="285"/>
+			<!--Noble Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="35491" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35492" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35493" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35494" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35495" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35496" name="Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35497" name="Gatekeeper" title="Rune">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35498" name="Gatekeeper" title="Rune">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35499" name="Gatekeeper" title="Rune">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+</list>

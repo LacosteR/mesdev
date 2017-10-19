@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="36500" name="Territory Catapult" title="Dion">
+		<set name="ai_type" value="residences.dominion.Catapult"/>
+		<set name="type" value="residences.dominion.Catapult"/>
+	</npc>
+	<npc id="36501" name="Territory Catapult" title="Giran">
+		<set name="ai_type" value="residences.dominion.Catapult"/>
+		<set name="type" value="residences.dominion.Catapult"/>
+	</npc>
+	<npc id="36502" name="Territory Catapult" title="Oren">
+		<set name="ai_type" value="residences.dominion.Catapult"/>
+		<set name="type" value="residences.dominion.Catapult"/>
+	</npc>
+	<npc id="36503" name="Territory Catapult" title="Aden">
+		<set name="ai_type" value="residences.dominion.Catapult"/>
+		<set name="type" value="residences.dominion.Catapult"/>
+	</npc>
+	<npc id="36504" name="Territory Catapult" title="Innadril">
+		<set name="ai_type" value="residences.dominion.Catapult"/>
+		<set name="type" value="residences.dominion.Catapult"/>
+	</npc>
+	<npc id="36505" name="Territory Catapult" title="Goddard">
+		<set name="ai_type" value="residences.dominion.Catapult"/>
+		<set name="type" value="residences.dominion.Catapult"/>
+	</npc>
+	<npc id="36506" name="Territory Catapult" title="Rune">
+		<set name="ai_type" value="residences.dominion.Catapult"/>
+		<set name="type" value="residences.dominion.Catapult"/>
+	</npc>
+	<npc id="36507" name="Territory Catapult" title="Schuttgart">
+		<set name="ai_type" value="residences.dominion.Catapult"/>
+		<set name="type" value="residences.dominion.Catapult"/>
+	</npc>
+	<npc id="36508" name="Military Association Leader" title="Gludio">
+		<set name="ai_type" value="residences.dominion.MilitaryAssociationLeader"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="36509" name="Territory Border Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="36510" name="Religious Association Leader" title="Gludio">
+		<set name="ai_type" value="residences.dominion.ReligiousAssociationLeader"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="36511" name="Territory Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="36512" name="Territory Border Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="36513" name="Economic Association Leader" title="Gludio">
+		<set name="ai_type" value="residences.dominion.EconomicAssociationLeader"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="36514" name="Military Association Leader" title="Dion">
+		<set name="ai_type" value="residences.dominion.MilitaryAssociationLeader"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="36515" name="Territory Border Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="36516" name="Religious Association Leader" title="Dion">
+		<set name="ai_type" value="residences.dominion.ReligiousAssociationLeader"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="36517" name="Territory Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="36518" name="Territory Border Guard" title="Dion">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="36519" name="Economic Association Leader" title="Dion">
+		<set name="ai_type" value="residences.dominion.EconomicAssociationLeader"/>
+		<set name="castle_id" value="2"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="36520" name="Military Association Leader" title="Giran">
+		<set name="ai_type" value="residences.dominion.MilitaryAssociationLeader"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="36521" name="Territory Border Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="36522" name="Religious Association Leader" title="Giran">
+		<set name="ai_type" value="residences.dominion.ReligiousAssociationLeader"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="36523" name="Territory Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="36524" name="Territory Border Guard" title="Giran">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="36525" name="Economic Association Leader" title="Giran">
+		<set name="ai_type" value="residences.dominion.EconomicAssociationLeader"/>
+		<set name="castle_id" value="3"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="36526" name="Military Association Leader" title="Oren">
+		<set name="ai_type" value="residences.dominion.MilitaryAssociationLeader"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="36527" name="Territory Border Guard" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="36528" name="Religious Association Leader" title="Oren">
+		<set name="ai_type" value="residences.dominion.ReligiousAssociationLeader"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="36529" name="Territory Guard" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="36530" name="Territory Border Guard" title="Oren">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="36531" name="Economic Association Leader" title="Oren">
+		<set name="ai_type" value="residences.dominion.EconomicAssociationLeader"/>
+		<set name="castle_id" value="4"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="36532" name="Military Association Leader" title="Aden">
+		<set name="ai_type" value="residences.dominion.MilitaryAssociationLeader"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="36533" name="Territory Border Guard" title="Aden">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="36534" name="Religious Association Leader" title="Aden">
+		<set name="ai_type" value="residences.dominion.ReligiousAssociationLeader"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="36535" name="Territory Guard" title="Aden">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="36536" name="Territory Border Guard" title="Aden">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="36537" name="Economic Association Leader" title="Aden">
+		<set name="ai_type" value="residences.dominion.EconomicAssociationLeader"/>
+		<set name="castle_id" value="5"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="36538" name="Military Association Leader" title="Innadril">
+		<set name="ai_type" value="residences.dominion.MilitaryAssociationLeader"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="36539" name="Territory Border Guard" title="Innadril">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="36540" name="Religious Association Leader" title="Innadril">
+		<set name="ai_type" value="residences.dominion.ReligiousAssociationLeader"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="36541" name="Territory Guard" title="Innadril">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="36542" name="Territory Border Guard" title="Innadril">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="36543" name="Economic Association Leader" title="Innadril">
+		<set name="ai_type" value="residences.dominion.EconomicAssociationLeader"/>
+		<set name="castle_id" value="6"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="36544" name="Military Association Leader" title="Goddard">
+		<set name="ai_type" value="residences.dominion.MilitaryAssociationLeader"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="36545" name="Territory Border Guard" title="Goddard">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="36546" name="Religious Association Leader" title="Goddard">
+		<set name="ai_type" value="residences.dominion.ReligiousAssociationLeader"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="36547" name="Territory Guard" title="Goddard">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="36548" name="Territory Border Guard" title="Goddard">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="36549" name="Economic Association Leader" title="Goddard">
+		<set name="ai_type" value="residences.dominion.EconomicAssociationLeader"/>
+		<set name="castle_id" value="7"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="36550" name="Military Association Leader" title="Rune">
+		<set name="ai_type" value="residences.dominion.MilitaryAssociationLeader"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="36551" name="Territory Border Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="36552" name="Religious Association Leader" title="Rune">
+		<set name="ai_type" value="residences.dominion.ReligiousAssociationLeader"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="36553" name="Territory Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="36554" name="Territory Border Guard" title="Rune">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="36555" name="Economic Association Leader" title="Rune">
+		<set name="ai_type" value="residences.dominion.EconomicAssociationLeader"/>
+		<set name="castle_id" value="8"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="36556" name="Military Association Leader" title="Schuttgart">
+		<set name="ai_type" value="residences.dominion.MilitaryAssociationLeader"/>
+		<set name="castle_id" value="9"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="36557" name="Territory Border Guard" title="Schuttgart">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="9"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8678"/>
+			<!--Sirra's Blade-->
+		</equip>
+	</npc>
+	<npc id="36558" name="Religious Association Leader" title="Schuttgart">
+		<set name="ai_type" value="residences.dominion.ReligiousAssociationLeader"/>
+		<set name="castle_id" value="9"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="36559" name="Territory Guard" title="Schuttgart">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="castle_id" value="9"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9442"/>
+			<!--Dynasty Sword-->
+		</equip>
+	</npc>
+	<npc id="36560" name="Territory Border Guard" title="Schuttgart">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="9"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="36561" name="Economic Association Leader" title="Schuttgart">
+		<set name="ai_type" value="residences.dominion.EconomicAssociationLeader"/>
+		<set name="castle_id" value="9"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="36562" name="Seduced Knight" title="Investigator">
+		<set name="ai_type" value="SeducedInvestigator"/>
+		<set name="type" value="SeducedInvestigator"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="641"/>
+			<!--Dark Crystal Shield-->
+		</equip>
+	</npc>
+	<npc id="36563" name="Seduced Ranger" title="Investigator">
+		<set name="ai_type" value="SeducedInvestigator"/>
+		<set name="type" value="SeducedInvestigator"/>
+		<equip>
+			<rhand item_id="10212"/>
+			<!--For NPC (Bow)-->
+		</equip>
+	</npc>
+	<npc id="36564" name="Seduced Mage" title="Investigator">
+		<set name="ai_type" value="SeducedInvestigator"/>
+		<set name="type" value="SeducedInvestigator"/>
+	</npc>
+	<npc id="36565" name="Seduced Warrior" title="Investigator">
+		<set name="ai_type" value="SeducedInvestigator"/>
+		<set name="type" value="SeducedInvestigator"/>
+		<equip>
+			<rhand item_id="9813"/>
+			<!--Orc Officer-->
+			<lhand item_id="9813"/>
+			<!--Orc Officer-->
+		</equip>
+	</npc>
+	<npc id="36566" name="Seduced Knight" title="Investigator">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="641"/>
+			<!--Dark Crystal Shield-->
+		</equip>
+	</npc>
+	<npc id="36567" name="Seduced Ranger" title="Investigator">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="10212"/>
+			<!--For NPC (Bow)-->
+		</equip>
+	</npc>
+	<npc id="36568" name="Seduced Mage" title="Investigator">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36569" name="Seduced Warrior" title="Investigator">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="9813"/>
+			<!--Orc Officer-->
+			<lhand item_id="9813"/>
+			<!--Orc Officer-->
+		</equip>
+	</npc>
+	<npc id="36570" name="Emery Compressor" title="Aerial Cleft">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36571" name="Vortex" title="Aerial Cleft">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36572" name="Gludio Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36573" name="Dion Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36574" name="Giran Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36575" name="Oren Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36576" name="Aden Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36577" name="Innadril Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36578" name="Goddard Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36579" name="Rune Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36580" name="Schuttgart Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36581" name="Territory Catapult" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36582" name="Territory Catapult" title="Dion">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36583" name="Territory Catapult" title="Giran">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36584" name="Territory Catapult" title="Oren">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36585" name="Territory Catapult" title="Aden">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36586" name="Territory Catapult" title="Innadril">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36587" name="Territory Catapult" title="Goddard">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36588" name="Territory Catapult" title="Rune">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36589" name="Territory Catapult" title="Schuttgart">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="36590" name="Outpost" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.dominion.Outpost"/>
+	</npc>
+	<npc id="36591" name="Supplies Safe" title="">
+		<set name="ai_type" value="residences.dominion.SuppliesSafe"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+	</npc>
+	<npc id="36592" name="Supplies Safe" title="">
+		<set name="ai_type" value="residences.dominion.SuppliesSafe"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+	</npc>
+	<npc id="36593" name="Supplies Safe" title="">
+		<set name="ai_type" value="residences.dominion.SuppliesSafe"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+	</npc>
+	<npc id="36594" name="Supplies Safe" title="">
+		<set name="ai_type" value="residences.dominion.SuppliesSafe"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+	</npc>
+	<npc id="36595" name="Supplies Safe" title="">
+		<set name="ai_type" value="residences.dominion.SuppliesSafe"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+	</npc>
+	<npc id="36596" name="Supplies Safe" title="">
+		<set name="ai_type" value="residences.dominion.SuppliesSafe"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+	</npc>
+	<npc id="36597" name="Supplies Safe" title="">
+		<set name="ai_type" value="residences.dominion.SuppliesSafe"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+	</npc>
+	<npc id="36598" name="Supplies Safe" title="">
+		<set name="ai_type" value="residences.dominion.SuppliesSafe"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+	</npc>
+	<npc id="36599" name="Supplies Safe" title="">
+		<set name="ai_type" value="residences.dominion.SuppliesSafe"/>
+		<set name="type" value="residences.QuestSiegeGuard"/>
+	</npc>
+</list>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<!--
+		Skin Change система
+		skinItemId - ID вещи, которую используем для смены скина брони
+		skinLifeTime - время в минутах, которое будет действовать скин; -1 для бесконечности
+		skin_primary_id - id самого скина. Должен совпадать с ID основного предмета (пока что только CHEST)
+		slot_1 - шлем
+		slot_2 - тело
+		slot_3 - поножи
+		slot_4 - перчатки
+		slot_5 - ботинки
+	-->
+	
+	<!--
+		Skin Change система наборов оружий
+		skinItemId - ID вещи, которую используем для смены скина оружия
+		skinLifeTime - время в минутах, которое будет действовать скин; -1 для бесконечности
+		skin_id - id самого скина. Не должен совпадать с ID основного предмета
+		
+		sword
+        dagger
+        blunt
+        bigblunt
+        bigsword
+        fists
+        spear
+        magblunt
+        magbigblunt
+        magsword
+        bow
+        rapier
+        ancientsword
+        crossbow
+        dualdagger
+        dualsword
+	-->
+		
+
+ </list>

@@ -1,0 +1,152 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Используется для настройки EVERYBODY_HAS_ADMIN_RIGHTS -->
+	<char>
+		<PlayerID set="268480741"/>
+		
+		<!-- Маркер на то, что персонаж является ГМским (убраны некоторые проверки на персонажа и т.д.) -->
+		<IsGM set="true"/>
+		
+		<!-- Без этих прав невозможно использовать вообще никакие админ команды -->
+		<CanUseGMCommand set="true"/>
+		<!--
+			1 - Moderator
+            2 - Sheriff
+            3 - Support
+            4 - Event Game Master
+            5 - Head Game Master
+            6 - Administrator
+		-->
+		<AccessType set="6"/>
+
+		<!-- Права на использование команд, связанных с геодатой и объектами -->
+		<CanUseGeoCommands set="true"/>
+		<!-- Права на воскрешение таргета -->
+		<CanResurrect set="true"/>
+		<!-- Права на перезагрузку скриптов -->
+		<CanReloadScripts set="true"/>
+		<!-- Права на включение, отключение, перезагрузку авто ивентов -->
+		<CanOperateAutoEvents set="true"/>
+		<!-- Права на анонсы -->
+		<CanAnnounce set="true"/>
+		<!-- Права на канцел эффектов по таргету, по области -->
+		<CanCancelEffects set="true"/>
+		<!-- Права на канцел эффектов по ID -->
+		<CanCancelEffectsID set="true"/>
+		<!-- Права на кик с игры -->
+		<CanKick set="true"/>
+		<!-- Права на создание итемов -->
+		<CanItemCreate set="true"/>
+		<!-- Права на раздачу итемов всем онлайн -->
+		<CanItemGlobal set="true"/>
+		
+		<!-- Права на очистку базы -->
+		<CanCleanDB set="true"/>
+		<!-- Права на открытие/закрытие дверей -->
+		<CanOpenDoor set="true"/>
+		<!-- Права на смену титула и имени -->
+		<CanRename set="true"/>
+		<!-- Права на инвул, гм спид, инвиз -->
+		<GodMode set="true"/>
+		<!-- Права на паралич, камень, соц действия -->
+		<CanParalyze set="true"/>
+		<!-- Права на вставку ЛСов -->
+		<CanLs set="true"/>
+		<!-- Права на заточку -->
+		<CanEnchant set="true"/>
+		<!-- Права на глобальные ивенты (елки, медали и т.д.) -->
+		<CanOperateGlobalEvents set="true"/>
+		<!-- Права на использование ГМ чата (общение между ГМами) -->
+		<CanUseGMChat set="true"/>
+		<!-- Права на прослушку -->
+		<CanUseSnoop set="true"/>
+		<!-- Права на редактирование уровня/экспы -->
+		<CanEditLevel set="true"/>
+		<!-- Права на хил командой -->
+		<CanHeal set="true"/>
+		<!-- Права на просмотр и откат инстов -->
+		<CanInstance set="true"/>
+		<!-- Права на убийство -->
+		<CanKill set="true"/>
+		<!-- Права на запуск/остановку олимпиады, на выдачу очков -->
+		<CanOlympiad set="true"/>
+		<!-- Права на петиции -->
+		<CanPetition set="true"/>
+		<!-- Права на полиморф -->
+		<CanPolymorph set="true"/>
+		<!-- Права на клан -->
+		<CanEditPledge set="true"/>
+		<!-- Права на квесты -->
+		<CanQuest set="true"/>
+		<!-- Права на релоад конфигов -->
+		<CanReload set="true"/>
+		<!-- Права на рестарт -->
+		<CanRestart set="true"/>
+		<!-- Права на откат скиллов -->
+		<CanRefreshCooldown set="true"/>
+		<!-- Права на добавление, удаление скиллов -->
+		<CanSkills set="true"/>
+		<!-- Права на Самон к себе -->
+		<CanRecall set="true"/>
+		<!-- Права на использование меню -->
+		<Menu set="true"/>
+		<!-- Права на телепорт -->
+		<CanTeleport set="true"/>
+		<!-- Права на КХ -->
+		<CanClanHall set="true"/>
+		<!-- Права на использование ГМ шопа -->
+		<UseGMShop set="true"/>
+
+		<!-- Права на бан Трейда -->
+		<CanTradeBanUnban set="true"/>
+		<!-- Права на бан -->
+		<CanBan set="true"/>
+		<!-- Права на разбан -->
+		<CanUnBan set="true"/>
+		<!-- Право банить чат -->
+		<CanBanChat set="true"/>
+		<!-- Максимально разрешенный срок (в минутах), -1 отключено -->
+		<BanChatMaxValue set="-1"/>
+		<!-- Право снимать бан чата -->
+		<CanUnBanChat set="true"/>
+		<!-- Право на Джеил -->
+		<CanJail set="true"/>
+		<!-- Право на освобождение из Джеила -->
+		<CanUnJail set="true"/>
+
+		<!-- Права на спаун, удаление НПЦ -->
+		<CanEditNPC set="true"/>
+		<!-- Права на просмотр персонажей -->
+		<CanViewChar set="true"/>
+		<!-- Права на инвулы, карму, смену класса и т.д. -->
+		<CanEditChar set="true"/>
+		<!-- Права на бсое -->
+		<FastUnstuck set="true"/>
+		<!-- Права на автовоскрешение -->
+		<ResurectFixed set="true"/>
+		<!-- Права на атаку в мирной зоне -->
+		<PeaceAttack set="true"/>
+		<!-- Права на смену класса не по предыдущей профе(себе) -->
+		<CanChangeClass set="true"/>
+
+		<!-- По умолчанию TRUE для всех игроков -->
+		<!-- Права на использование трейда/почты -->
+		<UseTrade set="true"/>
+		<!-- Права на использование автоатаки -->
+		<CanAttack set="true"/>
+		<!-- Права на использование инвентаря (открыть/закрыть) -->
+		<UseInventory set="true"/>
+		<!-- Права на рекомендации -->
+		<CanEvaluate set="true"/>
+		<!-- Права на присоединение к пати -->
+		<CanJoinParty set="true"/>
+		<!-- Права на вступление в клан -->
+		<CanJoinClan set="true"/>
+		<!-- Права на использование ВХ -->
+		<UseWarehouse set="true"/>
+		<!-- Права на использование НПЦ магазинов -->
+		<UseShop set="true"/>
+		<!-- Права на телепортация (не рекол!) -->
+		<UseTeleport set="true"/>
+	</char>
+</list>

@@ -1,0 +1,24 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<!-- Assault -->
+	<instance id="601" name="Assault Instance" maxChannels="40" collapseIfEmpty="1" timelimit="10" dispelBuffs="false">
+		<level min="1" max="85"/>
+		<geodata map="20_22"/>
+		<teleport loc="22072, 159144, -2704"/>
+		<doors>
+			<door id="20220001" opened="true"/>
+			<door id="20220002" opened="true"/>
+			<door id="20220005" opened="false"/>
+			<door id="20220006" opened="false"/>
+		</doors>
+		<zones>
+			<zone name="as_cp_map1_one" active="true" />
+			<zone name="as_cp_map1_two" active="true" />
+			<zone name="as_cp_map1_three" active="true" />
+			<zone name="as_rp_one_map1_attackers" active="true" />
+			<zone name="as_rp_two_map1_attackers" active="true" />
+			<zone name="as_rp_one_map1_defenders" active="true" />
+			<zone name="as_rp_two_map1_defenders" active="true" />
+		</zones>
+	</instance>
+</list>

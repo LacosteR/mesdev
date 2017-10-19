@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+	<!--Полулаты-->
+	<item>
+		<ingredient id="57" count="330880" />
+		<production id="353" count="1" />
+	</item>
+
+	<!--Латные Набедренники-->
+	<item>
+		<ingredient id="57" count="206800" />
+		<production id="380" count="1" />
+	</item>
+
+	<!--Мифриловые Перчатки-->
+	<item>
+		<ingredient id="57" count="82720" />
+		<production id="61" count="1" />
+	</item>
+
+	<!--Латные Сапоги-->
+	<item>
+		<ingredient id="57" count="82720" />
+		<production id="2428" count="1" />
+	</item>
+
+	<!--Латный Шлем-->
+	<item>
+		<ingredient id="57" count="124080" />
+		<production id="2412" count="1" />
+	</item>
+
+	<!--Панцирная Туника-->
+	<item>
+		<ingredient id="57" count="252670" />
+		<production id="352" count="1" />
+	</item>
+
+	<!--Панцирные Набедренники-->
+	<item>
+		<ingredient id="57" count="157960" />
+		<production id="2378" count="1" />
+	</item>
+
+	<!--Панцирные Рукавицы-->
+	<item>
+		<ingredient id="57" count="63140" />
+		<production id="2449" count="1" />
+	</item>
+
+	<!--Панцирные Сапоги-->
+	<item>
+		<ingredient id="57" count="63140" />
+		<production id="2425" count="1" />
+	</item>
+
+	<!--Панцирный Шлем-->
+	<item>
+		<ingredient id="57" count="94710" />
+		<production id="2411" count="1" />
+	</item>
+
+	<!--Латный Щит-->
+	<item>
+		<ingredient id="57" count="86900" />
+		<production id="2494" count="1" />
+	</item>
+
+	<!--Панцирный Щит-->
+	<item>
+		<ingredient id="57" count="66330" />
+		<production id="2493" count="1" />
+	</item>
+
+	<!--Рубаха из Кожи Саламандры-->
+	<item>
+		<ingredient id="57" count="403260" />
+		<production id="396" count="1" />
+	</item>
+
+	<!--Рукавицы Огра-->
+	<item>
+		<ingredient id="57" count="82720" />
+		<production id="607" count="1" />
+	</item>
+
+	<!--Сапоги из Кожи Саламандры-->
+	<item>
+		<ingredient id="57" count="82720" />
+		<production id="2427" count="1" />
+	</item>
+
+	<!--Рубаха из Шкуры Мантикоры-->
+	<item>
+		<ingredient id="57" count="189200" />
+		<production id="395" count="1" />
+	</item>
+
+	<!--Набедренники из Шкуры Мантикоры-->
+	<item>
+		<ingredient id="57" count="118470" />
+		<production id="417" count="1" />
+	</item>
+
+	<!--Перчатки из Шкуры Мантикоры-->
+	<item>
+		<ingredient id="57" count="63140" />
+		<production id="2448" count="1" />
+	</item>
+
+	<!--Сапоги из Шкуры Мантикоры-->
+	<item>
+		<ingredient id="57" count="63140" />
+		<production id="2424" count="1" />
+	</item>
+
+	<!--Мифриловая Туника-->
+	<item>
+		<ingredient id="57" count="189200" />
+		<production id="437" count="1" />
+	</item>
+
+	<!--Мифриловые Штаны-->
+	<item>
+		<ingredient id="57" count="118470" />
+		<production id="470" count="1" />
+	</item>
+
+	<!--Мифриловые Перчатки Эльфов-->
+	<item>
+		<ingredient id="57" count="63140" />
+		<production id="2450" count="1" />
+	</item>
+
+	<!--Мифриловые Сапоги Эльфов-->
+	<item>
+		<ingredient id="57" count="63140" />
+		<production id="2426" count="1" />
+	</item>
+
+	<!--Туника Знаний-->
+	<item>
+		<ingredient id="57" count="128700" />
+		<production id="436" count="1" />
+	</item>
+
+	<!--Штаны Знаний-->
+	<item>
+		<ingredient id="57" count="80520" />
+		<production id="469" count="1" />
+	</item>
+
+	<!--Перчатки Знания-->
+	<item>
+		<ingredient id="57" count="43010" />
+		<production id="2447" count="1" />
+	</item>
+
+	<!--Сапоги Знания-->
+	<item>
+		<ingredient id="57" count="43010" />
+		<production id="2423" count="1" />
+	</item>
+
+</list>

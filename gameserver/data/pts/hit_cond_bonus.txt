@@ -1,0 +1,9 @@
+hit_cond_bonus_begin
+	ahead = 0
+	side = 5
+	back = 10
+	high = 3
+	low = -3
+	dark = -10
+	rain = -3
+hit_cond_bonus_end

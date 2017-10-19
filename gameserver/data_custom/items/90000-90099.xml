@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+   <armor id="90000" name="Agathion - Valakas">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="BranchSys.icon.br_bracelet_aga_pitak_i00"/>
+    <set name="sellable" value="True"/>
+    <set name="tradeable" value="True"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="3267" level="1"/>
+      <skill id="99000" level="1"/>
+    </skills>
+  </armor>
+  
+  <armor id="90001" name="Agathion - Antharas">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="BranchSys.icon.br_bracelet_aga_pitak_i00"/>
+    <set name="sellable" value="True"/>
+    <set name="tradeable" value="True"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="3267" level="1"/>
+      <skill id="99001" level="1"/>
+    </skills>
+  </armor>
+  
+  <armor id="90002" name="Agathion - Lindvior">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="BranchSys.icon.br_bracelet_aga_pitak_i00"/>
+    <set name="sellable" value="True"/>
+    <set name="tradeable" value="True"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="3267" level="1"/>
+      <skill id="99002" level="1"/>
+    </skills>
+  </armor>
+  
+  <armor id="90003" name="Agathion - Egg Valakas">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="BranchSys.icon.br_bracelet_aga_pitak_i00"/>
+    <set name="sellable" value="True"/>
+    <set name="tradeable" value="True"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="3267" level="1"/>
+      <skill id="99003" level="1"/>
+    </skills>
+  </armor>
+  
+  <armor id="90004" name="Agathion - Egg Antharas">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="BranchSys.icon.br_bracelet_aga_pitak_i00"/>
+    <set name="sellable" value="True"/>
+    <set name="tradeable" value="True"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="3267" level="1"/>
+      <skill id="99004" level="1"/>
+    </skills>
+  </armor>
+  
+  <armor id="90005" name="Agathion - Egg Lindvior">
+    <set name="freightable" value="true"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="BranchSys.icon.br_bracelet_aga_pitak_i00"/>
+    <set name="sellable" value="True"/>
+    <set name="tradeable" value="True"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <equip>
+      <slot id="LEFT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="3267" level="1"/>
+      <skill id="99005" level="1"/>
+    </skills>
+  </armor>
+  
+</list>

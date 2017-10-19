@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="25700" name="Glakias" title="Archery Knight Captain">
+		<set name="ai_type" value="freya.IceCaptainKnight"/>
+		<set name="type" value="RaidBoss"/>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="15" type="PARTY_RANDOM"/>
+		</absorblist>
+	</npc>
+	<npc id="25701" name="Anais" title="Master of Splendor">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="8214"/>
+			<!--Monster Only (Solina Priest Pole)-->
+		</equip>
+		<absorblist>
+			<absorb chance="5" min_level="13" max_level="15" type="PARTY_ONE"/>
+		</absorblist>
+	</npc>
+	<npc id="25702" name="Guard of the Grail" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25703" name="Gigantic Golem" title="Chaos">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25704" name="Gigantic Golem Subordinate" title="Chaos">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25705" name="Gigantic Boom Golem" title="Chaos">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25706" name="Lost Watcher" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWatcher"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="25707" name="Lost Watcher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="25708" name="Lost Beholder" title="">
+		<set name="ai_type" value="custom.LabyrinthLostBeholder"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="25709" name="Lost Warden" title="">
+		<set name="ai_type" value="custom.LabyrinthLostWarden"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="25710" name="Lost Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="LostCaptain"/>
+		<minions>
+			<minion npc_id="25711" count="2"/>
+			<!--Lost Guard-->
+			<minion npc_id="25712" count="2"/>
+			<!--Lost Assistant Guard-->
+		</minions>
+	</npc>
+	<npc id="25711" name="Lost Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="25712" name="Lost Assistant Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SpecialMonster"/>
+	</npc>
+	<npc id="25713" name="Darnels" title="Square">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25714" name="Kietch" title="Flames">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25715" name="Kietch's Subordinate" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25716" name="Tears" title="Ice">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25717" name="Tears" title="Ice">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25718" name="Emerald Horn" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DragonRaid"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25719" name="Dust Rider" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DragonRaid"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25720" name="Bleeding Fly" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DragonRaid"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25721" name="Blackdagger Wing" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DragonRaid"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25722" name="Shadow Summoner" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DragonRaid"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25723" name="Spike Slasher" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DragonRaid"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25724" name="Muscle Bomber" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DragonRaid"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25725" name="Drake Lord" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DrakeBosses"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25726" name="Behemoth Leader" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DrakeBosses"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25727" name="Dragon Beast" title="Raid Boss">
+		<set name="ai_type" value="dragonvalley.DrakeBosses"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25728" name="Death Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25729" name="Death Knight" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25730" name="Demon's Banquet" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25731" name="Demon's Banquet" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25732" name="Dragon Beast" title="Raid Boss">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25733" name="Gem Dragon" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25734" name="Parasitic Leech" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="25735" name="Greyclaw Kutus" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="67"/>
+			<!--Orcish Sword-->
+			<lhand item_id="633"/>
+			<!--Zubei's Shield-->
+		</equip>
+		<minions>
+			<minion npc_id="25736" count="3"/>
+			<!--Guard of Kutus-->
+			<minion npc_id="25737" count="1"/>
+			<!--Pawn of Kutus-->
+		</minions>
+	</npc>
+	<npc id="25736" name="Kutus' Guard" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="25737" name="Kutus' Pawn" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+		</equip>
+	</npc>
+	<npc id="25738" name="Lead Tracker Sharuk" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="291"/>
+			<!--Trident-->
+		</equip>
+		<minions>
+			<minion npc_id="25739" count="1"/>
+			<!--Sharuk's Tracker-->
+			<minion npc_id="25740" count="1"/>
+			<!--Sharuk's Marksman-->
+		</minions>
+	</npc>
+	<npc id="25739" name="Sharuk's Minion" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="25740" name="Sharuk's Marksman" title="Follower of Destruction">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2507"/>
+			<!--Lizardspear-->
+		</equip>
+	</npc>
+	<npc id="25741" name="Sukar Wererat Chief" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="216"/>
+			<!--Dirk-->
+		</equip>
+		<minions>
+			<minion npc_id="25742" count="1"/>
+			<!--Sukar Wererat Guard-->
+			<minion npc_id="25743" count="1"/>
+			<!--Sukar Wererat Priest-->
+		</minions>
+	</npc>
+	<npc id="25742" name="Sukar Wererat Guard" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="216"/>
+			<!--Dirk-->
+		</equip>
+	</npc>
+	<npc id="25743" name="Sukar Wererat Priest" title="Follower of Destruction">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="179"/>
+			<!--Mace of Prayer-->
+		</equip>
+	</npc>
+	<npc id="25744" name="Ikuntai" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+		</equip>
+		<minions>
+			<minion npc_id="25745" count="2"/>
+			<!--Ikuntai's Servitor-->
+			<minion npc_id="25746" count="2"/>
+			<!--Pawn of Ikuntai-->
+		</minions>
+	</npc>
+	<npc id="25745" name="Ikuntai's Servitor" title="Follower of Destruction">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25746" name="Ikuntai's Pawn" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="299"/>
+			<!--Orcish Poleaxe-->
+		</equip>
+	</npc>
+	<npc id="25747" name="Zombie Lord Crowl" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25748" count="3"/>
+			<!--Evil Spirit Archer-->
+			<minion npc_id="25749" count="2"/>
+			<!--Evil Spirit Warrior-->
+		</minions>
+	</npc>
+	<npc id="25748" name="Evil Spirit Archer" title="Follower of Destruction">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="25749" name="Evil Spirit Warrior" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+		</equip>
+	</npc>
+	<npc id="25750" name="Zombie Lord Ferkel" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25751" count="1"/>
+			<!--Ferkel's Warrior-->
+			<minion npc_id="25752" count="1"/>
+			<!--Ferkel's Priest-->
+		</minions>
+	</npc>
+	<npc id="25751" name="Ferkel's Warrior" title="Follower of Destruction">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25752" name="Ferkel's Priest" title="Follower of Destruction">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25753" name="Guillotine Warden" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="96"/>
+			<!--Scythe-->
+		</equip>
+	</npc>
+	<npc id="25754" name="Fire Lord Shadar" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25755" count="1"/>
+			<!--Claws of Shadar-->
+			<minion npc_id="25756" count="3"/>
+			<!--Whip of Shadar-->
+		</minions>
+	</npc>
+	<npc id="25755" name="Sword of Shadar" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25756" name="Whip of Shadar" title="Follower of Destruction">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25757" name="Soul Collector Acheron" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="192"/>
+			<!--Crystal Staff-->
+		</equip>
+		<minions>
+			<minion npc_id="25758" count="3"/>
+			<!--Soul Slasher-->
+			<minion npc_id="25759" count="1"/>
+			<!--Soul Strainer-->
+		</minions>
+	</npc>
+	<npc id="25758" name="Soul Slasher" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25759" name="Soul Strainer" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25760" name="Lord Ishka" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+		<minions>
+			<minion npc_id="25761" count="1"/>
+			<!--Ishka's Elite Officer-->
+			<minion npc_id="25762" count="1"/>
+			<!--Ishka's Elite Soldier-->
+		</minions>
+	</npc>
+	<npc id="25761" name="Ishka's Elite Officer" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="946"/>
+			<!--Skeleton Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="25762" name="Ishka's Elite Soldier" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="25763" name="Demon Kuri" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25764" count="1"/>
+			<!--Kuri's Wife-->
+			<minion npc_id="25765" count="1"/>
+			<!--Devil Blader of Chaos-->
+		</minions>
+	</npc>
+	<npc id="25764" name="Kuri's Wife" title="Follower of Destruction">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25765" name="Devil Blader of Chaos" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="25766" name="Ancient Drake" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25767" name="Carnage Lord Gato" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="71"/>
+			<!--Flamberge-->
+		</equip>
+		<minions>
+			<minion npc_id="25768" count="3"/>
+			<!--Gato's Marksman-->
+			<minion npc_id="25769" count="2"/>
+			<!--Gato's Troop Leader-->
+		</minions>
+	</npc>
+	<npc id="25768" name="Gato's Marksman" title="Follower of Destruction">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="273"/>
+			<!--Composite Bow-->
+		</equip>
+	</npc>
+	<npc id="25769" name="Gato's Champion" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+		</equip>
+	</npc>
+	<npc id="25770" name="Ketra Commander Atis" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="84"/>
+			<!--Homunkulus's Sword-->
+		</equip>
+		<minions>
+			<minion npc_id="25771" count="3"/>
+			<!--Katu Van Marksman-->
+			<minion npc_id="25772" count="2"/>
+			<!--Katu Van Raider-->
+		</minions>
+	</npc>
+	<npc id="25771" name="Ketra Marksman" title="Follower of Destruction">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="279"/>
+			<!--Reinforced Long Bow-->
+		</equip>
+	</npc>
+	<npc id="25772" name="Ketra Raider" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="128"/>
+			<!--Knight's Sword-->
+		</equip>
+	</npc>
+	<npc id="25773" name="Beacon of Blue Sky" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25774" count="2"/>
+			<!--Beacon's Shooter-->
+			<minion npc_id="25775" count="2"/>
+			<!--Beacon's Warrior-->
+		</minions>
+	</npc>
+	<npc id="25774" name="Beacon's Shooter" title="Follower of Destruction">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="279"/>
+			<!--Reinforced Long Bow-->
+		</equip>
+	</npc>
+	<npc id="25775" name="Beacon's Warrior" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+		</equip>
+	</npc>
+	<npc id="25776" name="Earth Protector Panathen" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="183"/>
+			<!--Mystic Staff-->
+		</equip>
+		<minions>
+			<minion npc_id="25777" count="1"/>
+			<!--Panathen's Knight-->
+			<minion npc_id="25778" count="3"/>
+			<!--Panathen's Protectors-->
+		</minions>
+	</npc>
+	<npc id="25777" name="Panathen's Knight" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="5130"/>
+			<!--Nos Sword-->
+		</equip>
+	</npc>
+	<npc id="25778" name="Panathen's Protectors" title="Follower of Destruction">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="5127"/>
+			<!--Dailaon Knife-->
+		</equip>
+	</npc>
+	<npc id="25779" name="Betrayer of Urutu Freki" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25780" count="1"/>
+			<!--Freki's Vampire Bat-->
+			<minion npc_id="25781" count="1"/>
+			<!--Freki's Wild Bear-->
+		</minions>
+	</npc>
+	<npc id="25780" name="Freki's Vampire Bat" title="Follower of Destruction">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25781" name="Freki's Wild Bear" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25782" name="Nellis' Vengeful Spirit" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="8532"/>
+			<!--For Monsters Only (Spinebone Sword)-->
+		</equip>
+		<minions>
+			<minion npc_id="25783" count="3"/>
+			<!--Nellis' Follower-->
+		</minions>
+	</npc>
+	<npc id="25783" name="Nellis' Follower" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25784" name="Rayito the Looter" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="67"/>
+			<!--Orcish Sword-->
+			<lhand item_id="633"/>
+			<!--Zubei's Shield-->
+		</equip>
+		<minions>
+			<minion npc_id="25785" count="1"/>
+			<!--Rayito's Henchman-->
+			<minion npc_id="25786" count="3"/>
+			<!--Rayito's Henchman-->
+		</minions>
+	</npc>
+	<npc id="25785" name="Rayito's Henchman" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="123"/>
+			<!--Saber-->
+			<lhand item_id="19"/>
+			<!--Small Shield-->
+		</equip>
+	</npc>
+	<npc id="25786" name="Rayito's Henchman" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+			<lhand item_id="102"/>
+			<!--Round Shield-->
+		</equip>
+	</npc>
+	<npc id="25787" name="Ketra's Hero Hekaton" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+		<minions>
+			<minion npc_id="25788" count="1"/>
+			<!--Scout of Hekaton-->
+			<minion npc_id="25789" count="1"/>
+			<!--Servant of Hekaton-->
+		</minions>
+	</npc>
+	<npc id="25788" name="Scout of Hekaton" title="Follower of Destruction">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="288"/>
+			<!--Carnage Bow-->
+		</equip>
+	</npc>
+	<npc id="25789" name="Servant of Hekaton" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="25790" name="Varka's Hero Shadith" title="Lord of Destruction">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+		<minions>
+			<minion npc_id="25791" count="1"/>
+			<!--Shadith's Royal Guard Captain-->
+			<minion npc_id="25792" count="1"/>
+			<!--Shadith's Sentinel-->
+		</minions>
+	</npc>
+	<npc id="25791" name="Shadith's Royal Guard Captain" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="25792" name="Shadith's Sentinel" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+		</equip>
+	</npc>
+	<npc id="25793" name="Doom Blade Tanatos" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+	</npc>
+	<npc id="25794" name="Kernon" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25795" count="1"/>
+			<!--Taliadon-->
+			<minion npc_id="25796" count="4"/>
+			<!--Vemsk-->
+		</minions>
+	</npc>
+	<npc id="25795" name="Taliadon" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="1472"/>
+			<!--Dreadbane-->
+		</equip>
+	</npc>
+	<npc id="25796" name="Vemsk" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="25797" name="Meanas Anor" title="Lord of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<minions>
+			<minion npc_id="25798" count="1"/>
+			<!--Wyvern of Marsh-->
+			<minion npc_id="25799" count="1"/>
+			<!--Succubus of Marsh-->
+		</minions>
+	</npc>
+	<npc id="25798" name="Wyvern of Marsh" title="Follower of Destruction">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="25799" name="Succubus of Marsh" title="Follower of Destruction">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Minion"/>
+	</npc>
+</list>

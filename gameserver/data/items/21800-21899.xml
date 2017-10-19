@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+  <armor add_name="90 day limited period" id="21800" name="Dynasty Leather Armor of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_t92_u_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="LIGHT"></set>
+    <set name="weight" value="4180"></set>
+    <equip>
+      <slot id="CHEST"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="170"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21801" name="Dynasty Leather Leggings of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_t92_l_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="LIGHT"></set>
+    <set name="weight" value="1370"></set>
+    <equip>
+      <slot id="LEGS"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="106"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21802" name="Dynasty Leather Helmet of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_leather_helmet_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="530"></set>
+    <equip>
+      <slot id="HEAD"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="92"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21803" name="Dynasty Leather Gloves of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_t92_g_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="520"></set>
+    <equip>
+      <slot id="GLOVES"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="61"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21804" name="Dynasty Leather Boots of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_t92_b_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="1090"></set>
+    <equip>
+      <slot id="FEET"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="61"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <etcitem add_name="90 day limited period" id="21805" name="Dynasty Leather Mail of Friendship Set Pack (S-Grade)">
+	<set name="freightable" value="true"></set>
+    <set name="class" value="EXTRACTABLE"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="dropable" value="false"></set>
+    <set name="icon" value="icon.etc_equip_item_box_i02" />
+    <set name="stackable" value="true"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="type" value="OTHER"></set>
+    <set name="weight" value="100"></set>
+	<capsuled_items>
+	  <capsuled_item chance="100.0" id="21804" max_count="1" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21803" max_count="1" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21802" max_count="1" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21801" max_count="1" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21800" max_count="1" min_count="1"></capsuled_item>
+    </capsuled_items>
+  </etcitem>
+  <armor add_name="90 day limited period" id="21806" name="Dynasty Tunic of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_t93_u_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="MAGIC"></set>
+    <set name="weight" value="1780"></set>
+    <equip>
+      <slot id="CHEST"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="113"></add>
+      <add order="0x60" stat="maxMp" value="592"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21807" name="Dynasty Stockings of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_t93_l_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="MAGIC"></set>
+    <set name="weight" value="860"></set>
+    <equip>
+      <slot id="LEGS"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="71"></add>
+      <add order="0x60" stat="maxMp" value="370"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21808" name="Dynasty Circlet of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_circlet_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="530"></set>
+    <equip>
+      <slot id="HEAD"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="92"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21809" name="Dynasty Gloves of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_t93_g_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="520"></set>
+    <equip>
+      <slot id="GLOVES"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="61"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21810" name="Dynasty Shoes of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.armor_t93_b_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="1090"></set>
+    <equip>
+      <slot id="FEET"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="61"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21811" name="Dynasty Sickle of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.dynasty_sigil_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="930"></set>
+    <equip>
+      <slot id="NONE"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pDef" value="15"></add>
+      <add order="0x10" stat="rEvas" value="-8"></add>
+      <enchant order="0x0C" stat="pDef" value="0"></enchant>
+      <enchant order="0x80" stat="maxHp" value="0"></enchant>
+    </for>
+  </armor>
+  <etcitem add_name="90 day limited period" id="21812" name="Dynasty Tunic of Friendship Set Pack (S-Grade)">
+    <set name="freightable" value="true"></set>
+    <set name="class" value="EXTRACTABLE"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="dropable" value="false"></set>
+    <set name="icon" value="icon.etc_equip_item_box_i02" />
+    <set name="stackable" value="true"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="type" value="OTHER"></set>
+    <set name="weight" value="100"></set>
+	<capsuled_items>
+	  <capsuled_item chance="100.0" id="21806" max_count="1" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21807" max_count="1" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21808" max_count="1" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21809" max_count="1" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21810" max_count="1" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21811" max_count="1" min_count="1"></capsuled_item>
+    </capsuled_items>
+  </etcitem>
+  <armor add_name="90 day limited period" id="21813" name="Tateossian Earring of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.accessory_tateossian_earring_i00">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="150"></set>
+    <equip>
+      <slot id="RIGHT_EAR"></slot>
+      <slot id="LEFT_EAR"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="mDef" value="71"></add>
+      <add order="0x60" stat="maxMp" value="31"></add>
+      <enchant order="0x0C" stat="mDef" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21814" name="Tateossian Ring of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.accessory_tateossian_ring_i00">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="150"></set>
+    <equip>
+      <slot id="RIGHT_FINGER"></slot>
+      <slot id="LEFT_FINGER"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="mDef" value="48"></add>
+      <add order="0x60" stat="maxMp" value="21"></add>
+      <enchant order="0x0C" stat="mDef" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21815" name="Tateossian Necklace of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.accessory_tateossian_necklace_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="150"></set>
+    <equip>
+      <slot id="NECKLACE"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="mDef" value="95"></add>
+      <add order="0x60" stat="maxMp" value="42"></add>
+      <enchant order="0x0C" stat="mDef" value="0"></enchant>
+    </for>
+  </armor>
+  <etcitem add_name="90 day limited period" id="21816" name="Tateossian Accessory of Friendship Pack (S-Grade)">
+    <set name="freightable" value="true"></set>
+    <set name="class" value="EXTRACTABLE"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="dropable" value="false"></set>
+    <set name="icon" value="icon.etc_jewel_box_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="type" value="OTHER"></set>
+    <set name="weight" value="100"></set>
+	<capsuled_items>
+	  <capsuled_item chance="100.0" id="21813" max_count="2" min_count="2"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21814" max_count="2" min_count="2"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21815" max_count="1" min_count="1"></capsuled_item>
+    </capsuled_items>
+  </etcitem>
+  <armor add_name="90 day limited period" id="21817" name="Dynasty Earrings of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.accessary_dynasty_earing_i00">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="150"></set>
+    <equip>
+      <slot id="RIGHT_EAR"></slot>
+      <slot id="LEFT_EAR"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="mDef" value="79"></add>
+      <add order="0x60" stat="maxMp" value="35"></add>
+      <enchant order="0x0C" stat="mDef" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21818" name="Dynasty Necklace of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.accessary_dynasty_necklace_i00">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="150"></set>
+    <equip>
+      <slot id="NECKLACE"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="mDef" value="106"></add>
+      <add order="0x60" stat="maxMp" value="46"></add>
+      <enchant order="0x0C" stat="mDef" value="0"></enchant>
+    </for>
+  </armor>
+  <armor add_name="90 day limited period" id="21819" name="Dynasty Ring of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.accessary_dynasty_ring_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="150"></set>
+    <equip>
+      <slot id="RIGHT_FINGER"></slot>
+      <slot id="LEFT_FINGER"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="mDef" value="60"></add>
+      <add order="0x60" stat="maxMp" value="23"></add>
+      <enchant order="0x0C" stat="mDef" value="0"></enchant>
+    </for>
+  </armor>
+  <etcitem add_name="90 day limited period" id="21820" name="Dynasty Accessory of Friendship Pack (S-Grade)">
+    <set name="freightable" value="true"></set>
+    <set name="class" value="EXTRACTABLE"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="dropable" value="false"></set>
+    <set name="icon" value="icon.etc_jewel_box_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="type" value="OTHER"></set>
+    <set name="weight" value="100"></set>
+	<capsuled_items>
+	  <capsuled_item chance="100.0" id="21817" max_count="2" min_count="2"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21818" max_count="2" min_count="1"></capsuled_item>
+	  <capsuled_item chance="100.0" id="21819" max_count="1" min_count="2"></capsuled_item>
+    </capsuled_items>
+  </etcitem>
+  <weapon add_name="90-day limited period" id="21821" name="Arcana Mace of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_arcana_mace_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="BLUNT"></set>
+    <set name="weight" value="1300"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="20"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="225"></add>
+      <add order="0x10" stat="mAtk" value="175"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="379"></set>
+      <set order="0x08" stat="baseCrit" value="4.0"></set>
+      <add order="0x10" stat="accCombat" value="4.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21822" name="Angel Slayer of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_angel_slayer_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="DAGGER"></set>
+    <set name="weight" value="950"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="5"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="246"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="433"></set>
+      <set order="0x08" stat="baseCrit" value="12.0"></set>
+      <add order="0x10" stat="accCombat" value="-3.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21823" name="Draconic Bow of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_draconic_bow_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="BOW"></set>
+    <set name="weight" value="1650"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="5"></set>
+    <set name="mp_consume" value="2"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="581"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="293"></set>
+      <set order="0x08" stat="baseCrit" value="12.0"></set>
+      <add order="0x10" stat="accCombat" value="-3.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21824" name="Basalt Battlehammer of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_basalt_battlehammer_i01">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="BLUNT"></set>
+    <set name="weight" value="1570"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="20"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="281"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="379"></set>
+      <set order="0x08" stat="baseCrit" value="4.0"></set>
+      <add order="0x10" stat="accCombat" value="4.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21825" name="Forgotten Blade of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_forgotten_blade_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="SWORD"></set>
+    <set name="weight" value="1300"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="281"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="379"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21826" name="Heaven's Divider of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_heavens_divider_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="BIGSWORD"></set>
+    <set name="weight" value="1380"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="342"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="325"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21827" name="Demon Splinter of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_demon_splinter_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="DUALFIST"></set>
+    <set name="weight" value="1350"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="5"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="342"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="325"></set>
+      <set order="0x08" stat="baseCrit" value="4.0"></set>
+      <add order="0x10" stat="accCombat" value="4.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21828" name="Tallum Blade*Dark Legion's Edge of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dual_sword_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="DUAL"></set>
+    <set name="weight" value="2080"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="342"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="325"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21829" name="Saint Spear of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_saint_spear_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="POLE"></set>
+    <set name="weight" value="1800"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="281"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="325"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <add order="0x10" stat="accCombat" value="-3.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21830" name="Gram of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_gram_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="BIGSWORD"></set>
+    <set name="weight" value="1800"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="15"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="304"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="350"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <add order="0x10" stat="accCombat" value="2.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21831" name="Laevateinn of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_leavatein_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="RAPIER"></set>
+    <set name="weight" value="1300"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="40"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="255"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="406"></set>
+      <set order="0x08" stat="baseCrit" value="10.0"></set>
+      <add order="0x10" stat="accCombat" value="-1.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21832" name="Sarunga of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_sarnga_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="CROSSBOW"></set>
+    <set name="weight" value="1600"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="356"></add>
+      <add order="0x10" stat="mAtk" value="132"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="303"></set>
+      <set order="0x08" stat="baseCrit" value="10.0"></set>
+      <add order="0x10" stat="accCombat" value="-1.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21833" name="Dynasty Phantom of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_magic_sword_i01">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="SWORD"></set>
+    <set name="weight" value="1520"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="267"></add>
+      <add order="0x10" stat="mAtk" value="202"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="379"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21834" name="Dynasty Knife of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_dagger_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="DAGGER"></set>
+    <set name="weight" value="1520"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="5"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="291"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="433"></set>
+      <set order="0x08" stat="baseCrit" value="12.0"></set>
+      <add order="0x10" stat="accCombat" value="-3.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21835" name="Dynasty Bow of Friendship">
+    <set name="atk_reuse" value="820"></set>
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_bow_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="BOW"></set>
+    <set name="weight" value="1520"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="5"></set>
+    <set name="mp_consume" value="2"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="654"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="293"></set>
+      <set order="0x08" stat="baseCrit" value="12.0"></set>
+      <add order="0x10" stat="accCombat" value="-3.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21836" name="Dynasty Cudgel of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_hammer_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="BLUNT"></set>
+    <set name="weight" value="1740"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="20"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="333"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="379"></set>
+      <set order="0x08" stat="baseCrit" value="4.0"></set>
+      <add order="0x10" stat="accCombat" value="4.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21837" name="Dynasty Sword of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_blade_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="SWORD"></set>
+    <set name="weight" value="1520"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="333"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="379"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21838" name="Dynasty Blade of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_twohand_sword_i01">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="BIGSWORD"></set>
+    <set name="weight" value="1740"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="405"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="325"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21839" name="Dynasty Bagh-Nakh of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_jamadhr_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="DUALFIST"></set>
+    <set name="weight" value="1550"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="5"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="405"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="325"></set>
+      <set order="0x08" stat="baseCrit" value="4.0"></set>
+      <add order="0x10" stat="accCombat" value="4.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21840" name="Dynasty Dualsword of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dual_sword_i00"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="DUAL"></set>
+    <set name="weight" value="1520"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="405"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="325"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21841" name="Dynasty Halberd of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_spear_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="POLE"></set>
+    <set name="weight" value="2010"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="333"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="325"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <add order="0x10" stat="accCombat" value="-3.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21842" name="Dynasty Ancient Sword of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_ancient_sword_i01">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="BIGSWORD"></set>
+    <set name="weight" value="1800"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="15"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="361"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="350"></set>
+      <set order="0x08" stat="baseCrit" value="8.0"></set>
+      <add order="0x10" stat="accCombat" value="2.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21843" name="Dynasty Rapier of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_rapier_i01"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="RAPIER"></set>
+    <set name="weight" value="1280"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="40"></set>
+    <equip>
+      <slot id="LEFT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="302"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="406"></set>
+      <set order="0x08" stat="baseCrit" value="10.0"></set>
+      <add order="0x10" stat="accCombat" value="-1.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <weapon add_name="90-day limited period" id="21844" name="Dynasty Crossbow of Friendship">
+    <set name="crystal_type" value="S"></set>
+    <set name="icon" value="icon.weapon_dynasty_crossbow_i01">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="CROSSBOW"></set>
+    <set name="weight" value="1580"></set>
+    <set name="soulshots" value="1"></set>
+    <set name="spiritshots" value="1"></set>
+    <set name="rnd_dam" value="10"></set>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"></slot>
+    </equip>
+    <for>
+      <add order="0x10" stat="pAtk" value="401"></add>
+      <add order="0x10" stat="mAtk" value="151"></add>
+      <set order="0x08" stat="atkBaseSpeed" value="303"></set>
+      <set order="0x08" stat="baseCrit" value="10.0"></set>
+      <add order="0x10" stat="accCombat" value="-1.0"></add>
+      <enchant order="0x0C" stat="pAtk" value="0"></enchant>
+      <enchant order="0x0C" stat="mAtk" value="0"></enchant>
+    </for>
+  </weapon>
+  <etcitem id="21845" name="Mysterious No Grade Soulshot">
+    <set name="icon" value="icon.etc_spirit_bullet_white_i00">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21846" name="Mysterious Soulshot (D-Grade)">
+    <set name="icon" value="icon.etc_spirit_bullet_blue_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="D"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21847" name="Mysterious Soulshot (C-Grade)">
+    <set name="icon" value="icon.etc_spirit_bullet_green_i00">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="C"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21848" name="Mysterious Soulshot (B-Grade)">
+    <set name="icon" value="icon.etc_spirit_bullet_red_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="B"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21849" name="Mysterious Soulshot (A-Grade)">
+    <set name="icon" value="icon.etc_spirit_bullet_silver_i00">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="A"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21850" name="Mysterious Soulshot (S-Grade)">
+    <set name="icon" value="icon.etc_spirit_bullet_gold_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="S"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21851" name="Mysterious No Grade Spiritshot">
+    <set name="icon" value="icon.etc_spell_shot_white_i01"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21852" name="Mysterious Spiritshot (D-Grade)">
+    <set name="icon" value="icon.etc_spell_shot_blue_i01"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="D"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21853" name="Mysterious Spiritshot (C-Grade)">
+    <set name="icon" value="icon.etc_spell_shot_green_i01"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="C"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21854" name="Mysterious Spiritshot (B-Grade)">
+    <set name="icon" value="icon.etc_spell_shot_red_i01"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="B"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21855" name="Mysterious Spiritshot (A-Grade)">
+    <set name="icon" value="icon.etc_spell_shot_silver_i01"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="A"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21856" name="Mysterious Spiritshot (S-Grade)">
+    <set name="icon" value="icon.etc_spell_shot_gold_i01"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="S"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem add_name="90 day limited period" id="21857" name="Hero's Gold Chest">
+    <set name="icon" value="icon.etc_treasure_box_i08"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem add_name="90 day limited period" id="21858" name="Vitamin Support Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem add_name="90 day limited period" id="21859" name="Potion Support Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem add_name="90 day limited period" id="21860" name="Supplies Support Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21861" name="PC Cafe Energy - 1 hour">
+    <set name="icon" value="icon.etc_pccafe_point_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21862" name="PC Cafe Energy Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21863" name="PC Cafe Blessing">
+    <set name="icon" value="BranchSys.icon.br_flag_of_bookmark_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21864" name="PC Cafe Blessing Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21865" name="PC Cafe Energy - 2 hour">
+    <set name="icon" value="icon.etc_pccafe_point_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21866" name="PC Cafe Energy - 3 hour">
+    <set name="icon" value="icon.etc_pccafe_point_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21867" name="PC Cafe Energy - 4 hour">
+    <set name="icon" value="icon.etc_pccafe_point_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21868" name="Joy of Halloween">
+    <set name="icon" value="icon.etc_pi_gift_box_i01"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21869" name="Hero's Gold Chest Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <armor add_name="14-day limited period" id="21870" name="Agathion Seal Bracelet - Neolithica">
+    <set name="dropable" value="false"></set>
+    <set name="sellable" value="false"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="destroyable" value="false"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="icon" value="icon.pi_high_agathion_bracelet_i00">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="150"></set>
+    <set name="temporal" value="true"></set>
+    <set name="durability" value="20160"></set>
+    <equip>
+      <slot id="LEFT_BRACELET"></slot>
+    </equip>
+    <skills>
+      <skill id="3267" level="1"></skill>
+      <skill id="8314" level="1"></skill>
+      <skill id="6124" level="1"></skill>
+    </skills>
+    <cond msgId="1507">
+      <not>
+        <player olympiad="true"></player>
+      </not>
+    </cond>
+  </armor>
+  <etcitem id="21871" name="Hero Assistance Package">
+    <set name="icon" value="icon.etc_pi_gift_box_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21872" name="Fresh Herb">
+    <set name="icon" value="icon.etc_herb_green_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem add_name="Event" id="21873" name="Santa Claus's Treasure Box">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="weight" value="100"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21874" name="Medal of Glory">
+    <set name="icon" value="icon.etc_badge_gold_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="QUEST"></set>
+  </etcitem>
+  <etcitem id="21875" name="Campfire Flint">
+    <set name="icon" value="BranchSys2.icon.g_campfire_flint">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21876" name="Pa'agrio's Christmas Package">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem add_name="Event" id="21877" name="Pa'agrio's Christmas Package">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21878" name="Pa'agrio's Warm Breeze - 4 hour pack">
+    <set name="icon" value="BranchSys.icon.br_lucky_bag_box_i00">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21879" name="Nevit's Hourglass - 4 hour pack">
+    <set name="icon" value="BranchSys.icon.br_four_leaf_clover_box_i00"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21880" name="Pa'agrio's Warm Breeze - 4 hour">
+    <set name="icon" value="BranchSys2.Icon.pi_wind_of_paagrio">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21881" name="Party Cake">
+    <set name="icon" value="BranchSys.icon.br_birthday_cake_i00">
+    </set>
+    <set name="weight" value="10"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <armor add_name="Blessed Body - 90 day limited period" id="21882" name="Shiny Party Hat">
+    <set name="crystal_type" value="NONE"></set>
+    <set name="icon" value="BranchSys.icon.br_party_hat_gold_i00">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="10"></set>
+    <equip>
+      <slot id="HAIR_ALL"></slot>
+    </equip>
+  </armor>
+  <etcitem id="21883" name="(Not In Use)">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21884" name="(Not In Use)">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21885" name="Valentine's Day Rose Spirit Exchange Coupon Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21886" name="Valentine's Day Rose Spirit Set Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21887" name="Valentine's Day Rose Spirit Exchange Ticket">
+    <set name="icon" value="icon.etc_ticket_red_i00"></set>
+    <set name="weight" value="100"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem id="21888" name="Sweet Chocolate Box">
+    <set name="icon" value="BranchSys.icon.br_lucky_bag_box_i00">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="EXTRACTABLE"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+    <capsuled_items>
+      <capsuled_item chance="100.0" id="22235" max_count="3"
+      min_count="3"></capsuled_item>
+      <capsuled_item chance="100.0" id="20904" max_count="50"
+      min_count="50"></capsuled_item>
+    </capsuled_items>
+  </etcitem>
+  <etcitem id="21889" name="Sweet Chocolate - 4 hour">
+    <set name="icon" value="BranchSys.icon.br_valentine_darkchoco_i00"></set>
+    <set name="weight" value="1"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem add_name="Event" id="21890" name="Valentine's Day Rose Spirit Exchange Coupon Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <etcitem add_name="Event" id="21891" name="Valentine's Day Rose Spirit Set Pack">
+    <set name="icon" value="icon.etc_pi_gift_box_i04"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+  </etcitem>
+  <armor id="21892" name="Pirate King Hat">
+    <set name="crystal_type" value="NONE"></set>
+    <set name="icon" value="BranchSys2.icon.zaken_hair_accessary">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="10"></set>
+    <equip>
+      <slot id="HAIR_ALL"></slot>
+    </equip>
+  </armor>
+  <armor id="21893" name="Halisha's Helmet">
+    <set name="crystal_type" value="NONE"></set>
+    <set name="icon" value="BranchSys2.icon.frintessa_hair_accessary"></set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="10"></set>
+    <equip>
+      <slot id="HAIR_ALL"></slot>
+    </equip>
+  </armor>
+  <armor id="21894" name="Ice Queen's Tiara">
+    <set name="crystal_type" value="NONE"></set>
+    <set name="icon" value="BranchSys2.icon.freya_hair_accessary">
+    </set>
+    <set name="price" value="0"></set>
+    <set name="type" value="NONE"></set>
+    <set name="weight" value="10"></set>
+    <equip>
+      <slot id="HAIR_ALL"></slot>
+    </equip>
+  </armor>
+  <etcitem id="21895" name="Scroll: Valakas Call">
+    <set name="class" value="CONSUMABLE"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="dropable" value="false"></set>
+    <set name="icon" value="BranchSys2.icon.call_of_earth_dragon">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="sellable" value="false"></set>
+    <set name="type" value="SCROLL"></set>
+    <set name="weight" value="30"></set>
+    <skills>
+      <skill id="22290" level="1"></skill>
+    </skills>
+  </etcitem>
+  <etcitem id="21896" name="Jewel of Valakas">
+    <set name="class" value="CONSUMABLE"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="dropable" value="false"></set>
+    <set name="reuse_delay" value="3600000"></set>
+    <set name="icon" value="BranchSys2.icon.call_of_earth_dragon">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="sellable" value="false"></set>
+    <set name="type" value="SCROLL"></set>
+    <set name="weight" value="30"></set>
+    <skills>
+      <skill id="22291" level="1"></skill>
+    </skills>
+  </etcitem>
+  <etcitem id="21897" name="Scroll: Antharas Call">
+    <set name="class" value="CONSUMABLE"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="dropable" value="false"></set>
+    <set name="icon" value="BranchSys2.icon.call_of_earth_dragon">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="sellable" value="false"></set>
+    <set name="type" value="SCROLL"></set>
+    <set name="weight" value="30"></set>
+    <skills>
+      <skill id="22292" level="1"></skill>
+    </skills>
+  </etcitem>
+  <etcitem id="21898" name="Jewel of Antharas">
+    <set name="class" value="CONSUMABLE"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="dropable" value="false"></set>
+    <set name="reuse_delay" value="3600000"></set>
+    <set name="icon" value="BranchSys2.icon.call_of_earth_dragon">
+    </set>
+    <set name="stackable" value="true"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="sellable" value="false"></set>
+    <set name="type" value="SCROLL"></set>
+    <set name="weight" value="30"></set>
+    <skills>
+      <skill id="22293" level="1"></skill>
+    </skills>
+  </etcitem>
+  <etcitem id="21899" name="Totem of Body">
+    <set name="icon" value="BranchSys2.icon.totem_of_body"></set>
+    <set name="weight" value="10"></set>
+    <set name="stackable" value="true"></set>
+    <set name="class" value="OTHER"></set>
+    <set name="crystal_type" value="NONE"></set>
+    <set name="type" value="OTHER"></set>
+    <set name="sellable" value="false"></set>
+    <set name="tradeable" value="false"></set>
+    <set name="dropable" value="false"></set>
+    <set name="reuse_delay" value="600000"></set>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"></player>
+      </not>
+    </cond>
+  </etcitem>
+</list>

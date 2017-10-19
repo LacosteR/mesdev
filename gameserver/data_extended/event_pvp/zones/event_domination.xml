@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<zone name="dom_cp_map1_one" type="event_zone" >
+		<polygon>
+			<coords loc="180632 -79576 -2728 -2728"/>
+			<coords loc="180552 -79496 -2728 -2728"/>
+			<coords loc="180488 -79576 -2728 -2728"/>
+			<coords loc="180568 -79640 -2728 -2728"/>
+		</polygon>
+	</zone>
+	<zone name="dom_cp_map1_two" type="event_zone" >
+		<polygon>
+			<coords loc="180632 -77864 -2728 -2728"/>
+			<coords loc="180552 -77944 -2728 -2728"/>
+			<coords loc="180488 -77864 -2728 -2728"/>
+			<coords loc="180568 -77800 -2728 -2728"/>
+		</polygon>
+	</zone>
+	<zone name="dom_cp_map1_three" type="event_zone" >
+		<polygon>
+			<coords loc="181336 -78744 -2728 -2728"/>
+			<coords loc="181336 -78632 -2728 -2728"/>
+			<coords loc="181432 -78632 -2728 -2728"/>
+			<coords loc="181432 -78728 -2728 -2728"/>
+		</polygon>
+	</zone>
+</list>

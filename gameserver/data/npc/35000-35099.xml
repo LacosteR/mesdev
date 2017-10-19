@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="35010" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="128"/>
+			<!--Knight's Sword-->
+			<lhand item_id="628"/>
+			<!--Hoplon-->
+		</equip>
+	</npc>
+	<npc id="35011" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="93"/>
+			<!--Winged Spear-->
+		</equip>
+	</npc>
+	<npc id="35012" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="280"/>
+			<!--Light Crossbow-->
+		</equip>
+	</npc>
+	<npc id="35013" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="35014" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="179"/>
+			<!--Mace of Prayer-->
+		</equip>
+	</npc>
+	<npc id="35015" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="128"/>
+			<!--Knight's Sword-->
+			<lhand item_id="628"/>
+			<!--Hoplon-->
+		</equip>
+	</npc>
+	<npc id="35016" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="93"/>
+			<!--Winged Spear-->
+		</equip>
+	</npc>
+	<npc id="35017" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="280"/>
+			<!--Light Crossbow-->
+		</equip>
+	</npc>
+	<npc id="35018" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="35019" name="Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="179"/>
+			<!--Mace of Prayer-->
+		</equip>
+	</npc>
+	<npc id="35020" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+		</equip>
+	</npc>
+	<npc id="35021" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="35022" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="288"/>
+			<!--Carnage Bow-->
+		</equip>
+	</npc>
+	<npc id="35023" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35024" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="196"/>
+			<!--Stick of Eternity-->
+		</equip>
+	</npc>
+	<npc id="35025" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+		</equip>
+	</npc>
+	<npc id="35026" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="97"/>
+			<!--Lance-->
+		</equip>
+	</npc>
+	<npc id="35027" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="288"/>
+			<!--Carnage Bow-->
+		</equip>
+	</npc>
+	<npc id="35028" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35029" name="Mercenary of Dawn" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="196"/>
+			<!--Stick of Eternity-->
+		</equip>
+	</npc>
+	<npc id="35030" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="132"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="35031" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="301"/>
+			<!--Scorpion-->
+		</equip>
+	</npc>
+	<npc id="35032" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="280"/>
+			<!--Light Crossbow-->
+		</equip>
+	</npc>
+	<npc id="35033" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="35034" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35035" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="132"/>
+			<!--Sword of Limit-->
+		</equip>
+	</npc>
+	<npc id="35036" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="301"/>
+			<!--Scorpion-->
+		</equip>
+	</npc>
+	<npc id="35037" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="280"/>
+			<!--Light Crossbow-->
+		</equip>
+	</npc>
+	<npc id="35038" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="316"/>
+			<!--Sage's Blood-->
+		</equip>
+	</npc>
+	<npc id="35039" name="Elite Mercenary Guild Member" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35040" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="35041" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35042" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="274"/>
+			<!--Reinforced Bow-->
+		</equip>
+	</npc>
+	<npc id="35043" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="35044" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="154"/>
+			<!--Dwarven Mace-->
+		</equip>
+	</npc>
+	<npc id="35045" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+			<lhand item_id="20"/>
+			<!--Buckler-->
+		</equip>
+	</npc>
+	<npc id="35046" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35047" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="274"/>
+			<!--Reinforced Bow-->
+		</equip>
+	</npc>
+	<npc id="35048" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="7"/>
+			<!--Apprentice's Rod-->
+		</equip>
+	</npc>
+	<npc id="35049" name="Greater Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="154"/>
+			<!--Dwarven Mace-->
+		</equip>
+	</npc>
+	<npc id="35050" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+		</equip>
+	</npc>
+	<npc id="35051" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35052" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35053" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6"/>
+			<!--Apprentice's Wand-->
+		</equip>
+	</npc>
+	<npc id="35054" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="35055" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="66"/>
+			<!--Gladius-->
+		</equip>
+	</npc>
+	<npc id="35056" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35057" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35058" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="6"/>
+			<!--Apprentice's Wand-->
+		</equip>
+	</npc>
+	<npc id="35059" name="Recruit" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="99"/>
+			<!--Apprentice's Spellbook-->
+		</equip>
+	</npc>
+	<npc id="35060" name="Nephilim Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6377"/>
+			<!--Imperial Crusader Shield-->
+		</equip>
+	</npc>
+	<npc id="35061" name="Nephilim Mercenary" title="">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="35062" name="Headquarters" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="residences.SiegeFlag"/>
+	</npc>
+	<npc id="35063" name="Gludio Holy Artifact" title="">
+		<set name="ai_type" value="residences.castle.ArtefactAI"/>
+		<set name="type" value="Artefact"/>
+	</npc>
+	<npc id="35064" name="Baron Lewin Waldner" title="">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="79"/>
+			<!--Sword of Damascus-->
+		</equip>
+	</npc>
+	<npc id="35065" name="Cronenberg" title="Sir">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+		</equip>
+	</npc>
+	<npc id="35066" name="Royal Knight" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="35067" name="Court Sorcerer" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35068" name="Court Sorcerer" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="35069" name="Court Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="35070" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35071" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2499"/>
+			<!--Elven Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35072" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="276"/>
+			<!--Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="35073" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35074" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35075" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35076" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35077" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35078" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35079" name="Royal Knight" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="76"/>
+			<!--Sword of Delusion-->
+			<lhand item_id="2497"/>
+			<!--Full Plate Shield-->
+		</equip>
+	</npc>
+	<npc id="35080" name="Court Sorcerer" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardMystic"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="325"/>
+			<!--Horn of Glory-->
+		</equip>
+	</npc>
+	<npc id="35081" name="Court Sorcerer" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardPriest"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="193"/>
+			<!--Stick of Faith-->
+		</equip>
+	</npc>
+	<npc id="35082" name="Court Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="94"/>
+			<!--Bec de Corbin-->
+		</equip>
+	</npc>
+	<npc id="35083" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="93"/>
+			<!--Winged Spear-->
+		</equip>
+	</npc>
+	<npc id="35084" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2499"/>
+			<!--Elven Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35085" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="276"/>
+			<!--Elven Bow-->
+		</equip>
+	</npc>
+	<npc id="35086" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35087" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35088" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35089" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="16"/>
+			<!--Great Spear-->
+		</equip>
+	</npc>
+	<npc id="35090" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardFighter"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="35091" name="Guard" title="Gludio">
+		<set name="ai_type" value="residences.SiegeGuardRanger"/>
+		<set name="type" value="residences.SiegeGuard"/>
+		<equip>
+			<rhand item_id="14"/>
+			<!--Bow-->
+		</equip>
+	</npc>
+	<npc id="35092" name="Gatekeeper" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35093" name="Gatekeeper" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35094" name="Gatekeeper" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.TeleportSiegeGuard"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="35095" name="Mass Gatekeeper" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.castle.CastleMassTeleporter"/>
+		<ai_params>
+			<set name="teleport_loc" value="-18099 109297 -2475"/>
+		</ai_params>
+	</npc>
+	<npc id="35096" name="Outer Doorman" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.castle.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/castle/gludio_outter_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/castle/gludio_outter_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/castle/gludio_outter_doorman003.htm"/>
+			<set name="territory_id" value="81"/>
+			<set name="tele_loc0" value="-18372 113315 -2760"/>
+			<set name="tele_loc1" value="-18395 112831 -2768"/>
+			<set name="doors" value="19210001;19210002"/>
+		</ai_params>
+	</npc>
+	<npc id="35097" name="Inner Doorman" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.castle.Doorman"/>
+		<ai_params>
+			<set name="main_dialog" value="residence2/castle/gludio_inner_doorman001.htm"/>
+			<set name="fail_dialog" value="residence2/castle/gludio_inner_doorman002.htm"/>
+			<set name="siege_dialog" value="residence2/castle/gludio_inner_doorman003.htm"/>
+			<set name="territory_id" value="81"/>
+			<set name="tele_loc0" value="-18115 110679 -2528"/>
+			<set name="tele_loc1" value="-18123 110210 -2512"/>
+			<set name="doors" value="19210005;19210006"/>
+		</ai_params>
+	</npc>
+	<npc id="35098" name="Blacksmith" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.castle.Blacksmith"/>
+		<equip>
+			<rhand item_id="89"/>
+			<!--Big Hammer-->
+		</equip>
+	</npc>
+	<npc id="35099" name="Warehouse Keeper" title="Gludio">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="castle_id" value="1"/>
+		<set name="type" value="residences.castle.Warehouse"/>
+	</npc>
+</list>

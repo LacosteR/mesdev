@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list maintainEnchantment="true">
+
+	<!-- soulshots -->
+	<!-- B -->
+	<item>
+		<ingredient id="57" count="50"/>
+		<production id="1465" count="1"/>
+	</item>
+	<!-- A -->
+	<item>
+		<ingredient id="57" count="100"/>
+		<production id="1466" count="1"/>
+	</item>
+	<!-- S  -->
+	<item>
+		<ingredient id="57" count="200"/>
+		<production id="1467" count="1"/>
+	</item>
+	  
+	<!-- B -->
+	<item>
+		<ingredient id="57" count="285"/>
+		<production id="3950" count="1"/>
+	</item>
+	<!-- A -->
+	<item>
+		<ingredient id="57" count="395"/>
+		<production id="3951" count="1"/>
+	</item>
+	<!-- S  -->
+	<item>
+		<ingredient id="57" count="400"/>
+		<production id="3952" count="1"/>
+	</item>
+	
+	<!-- Beast Soulshot -->
+	<item id="24">
+		<ingredient id="57" count="24"/>
+		<production id="6645" count="1"/>
+	</item>
+	  
+	<!-- Blessed Beast Spiritshot -->
+	<item id="30">
+		<ingredient id="57" count="120"/>
+		<production id="6647" count="1"/>
+	</item>
+</list>

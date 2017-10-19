@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="18800" name="Fledgling Lavasaurus" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18801" name="Adult Lavasaurus" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18802" name="Elderly Lavasaurus" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18803" name="Ancient Lavasaurus" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18804" name="Tar Beetle" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18805" name="Waste Landfill Machine" title="">
+		<set name="ai_type" value="FieldMachine"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18806" name="Brazier of Purity" title="">
+		<set name="ai_type" value="FieldMachine"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18807" name="Frightened Ragna Orc" title="">
+		<set name="ai_type" value="FrightenedOrc"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="18808" name="Dark Shaman Varangka" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="RaidBoss"/>
+		<equip>
+			<rhand item_id="6719"/>
+			<!--Monster Only(Ketra Orc Chieftain)-->
+		</equip>
+		<minions>
+			<minion npc_id="18809" count="1"/>
+			<!--Varangka's Retainer-->
+			<minion npc_id="18810" count="1"/>
+			<!--Varangka's Page-->
+		</minions>
+	</npc>
+	<npc id="18809" name="Varangka's Retainer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="18810" name="Varangka's Page" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="18811" name="Guardian of the Altar" title="">
+		<set name="ai_type" value="GuardianAltar"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18812" name="Kasha's Eye" title="">
+		<set name="ai_type" value="KashasEye"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18813" name="Kasha's Eye" title="">
+		<set name="ai_type" value="KashasEye"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18814" name="Kasha's Eye" title="">
+		<set name="ai_type" value="KashasEye"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18815" name="Guard of the Grave" title="Death-calling">
+		<set name="ai_type" value="GuardoftheGrave"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18816" name="Chieftain's Treasure Chest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18817" name="Invader Martyr of Nightmare" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18818" name="Nihil Invader Martyr" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18819" name="Nihil Invader Treasure Chest" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18820" name="Nihil Invader Treasure Chest" title="">
+		<set name="ai_type" value="NihilInvaderChest"/>
+		<set name="type" value="NihilInvaderChest"/>
+	</npc>
+	<npc id="18821" name="Mutant Martyr" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18822" name="Mutant Treasure Chest" title="">
+		<set name="ai_type" value="custom.MutantChest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18823" name="Mutant Treasure Chest" title="">
+		<set name="ai_type" value="NihilInvaderChest"/>
+		<set name="type" value="NihilInvaderChest"/>
+	</npc>
+	<npc id="18824" name="Merchant of Mammon A" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18825" name="Merchant of Mammon B" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18826" name="Shilen's Evil Thoughts For Presentation" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18827" name="Priest Cain for Presentation" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18828" name="High Priest of Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18829" name="Shilen's Evil Thoughts Leader For Presentation" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18830" name="ssq For Presentation Camera Dummy 1" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18831" name="ssq For Presentation Camera Dummy 2" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18832" name="ssq For Presentation Camera Dummy 3" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18833" name="Emperor's Seal Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18834" name="Guards of the Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="GuradsOfDawn"/>
+		<equip>
+			<rhand item_id="1376"/>
+			<!--Guard Spear-->
+		</equip>
+	</npc>
+	<npc id="18835" name="Guards of the Dawn" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="GuradsOfDawn"/>
+	</npc>
+	<npc id="18836" name="Varangka's Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="18837" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18838" name="Treasure Chest of Invader Soldier of Nightmare" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18839" name="Wild Maguen" title="">
+		<set name="ai_type" value="freya.Maguen"/>
+		<set name="type" value="Maguen"/>
+	</npc>
+	<npc id="18840" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18841" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18842" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18843" name="Cokrakon's Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18844" name="Reptilikon's Ward" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="18845" name="Torumba's Telegraph" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18846" name="Kegor" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18847" name="Freya" title="Ice Queen">
+		<set name="ai_type" value="freya.FreyaQuest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18848" name="Battalion Leader" title="Jinia Guild">
+		<set name="ai_type" value="freya.JiniaKnight"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="80"/>
+			<!--Tallum Blade-->
+			<lhand item_id="641"/>
+			<!--Dark Crystal Shield-->
+		</equip>
+	</npc>
+	<npc id="18849" name="Legionnaire" title="Jinia Guild">
+		<set name="ai_type" value="freya.JiniaKnight"/>
+		<set name="type" value="Npc"/>
+		<equip>
+			<rhand item_id="9813"/>
+			<!--Orc Officer-->
+			<lhand item_id="9813"/>
+			<!--Orc Officer-->
+		</equip>
+	</npc>
+	<npc id="18850" name="Jinia" title="">
+		<set name="ai_type" value="freya.JiniaGuild"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18851" name="Kegor" title="">
+		<set name="ai_type" value="freya.JiniaGuild"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18852" name="Sirra" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18853" name="Glacier" title="">
+		<set name="ai_type" value="freya.Glacier"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18854" name="Archer's Breath" title="">
+		<set name="ai_type" value="freya.IceCastleBreath"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18855" name="Archery Knight" title="">
+		<set name="ai_type" value="freya.IceKnightNormal"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18856" name="Archery Knight" title="">
+		<set name="ai_type" value="freya.IceKnightNormal"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18857" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18858" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18859" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18860" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18861" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18862" name="Tanta Lizardman Guard" title="Escort of Ugoros">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="98"/>
+			<!--Halberd-->
+		</equip>
+	</npc>
+	<npc id="18863" name="Seer Ugoros" title="Tanta Lizardmen ">
+		<set name="ai_type" value="freya.SeerUgoros"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18864" name="Fantasy Mushroom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Mushroom"/>
+	</npc>
+	<npc id="18865" name="Sticky Mushroom" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Mushroom"/>
+	</npc>
+	<npc id="18866" name="Rainbow Frog" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Mushroom"/>
+	</npc>
+	<npc id="18867" name="Abyss Weed" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Mushroom"/>
+	</npc>
+	<npc id="18868" name="Energy Plant" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Mushroom"/>
+	</npc>
+	<npc id="18869" name="Kookaburra" title="Tame">
+		<set name="ai_type" value="FollowNpc"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="18870" name="Cougar" title="Tame">
+		<set name="ai_type" value="FollowNpc"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="18871" name="Buffalo" title="Tame">
+		<set name="ai_type" value="FollowNpc"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="18872" name="Grendel" title="Tame">
+		<set name="ai_type" value="FollowNpc"/>
+		<set name="type" value="TamedBeast"/>
+	</npc>
+	<npc id="18873" name="Baby Alpine Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18874" name="Young Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18875" name="Young Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18876" name="Adult Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18877" name="Adult Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18878" name="Full Grown Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18879" name="Full Grown Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18880" name="Baby Alpine Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18881" name="Young Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18882" name="Young Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18883" name="Adult Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18884" name="Adult Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18885" name="Full Grown Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18886" name="Full Grown Cougar" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18887" name="Baby Alpine Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18888" name="Young Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18889" name="Young Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18890" name="Adult Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18891" name="Adult Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18892" name="Full Grown Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18893" name="Full Grown Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18894" name="Baby Alpine Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18895" name="Young Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18896" name="Young Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18897" name="Adult Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18898" name="Adult Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+	<npc id="18899" name="Full Grown Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="FeedableBeast"/>
+	</npc>
+</list>

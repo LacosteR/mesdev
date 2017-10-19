@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<list>
+  <config showall="true" notax="false" keepenchanted="false" />
+
+<!--Soul Shots-->
+	<!--No Grade-->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="1835" count="1000"/>
+	</item>
+	
+	<!--D Grade-->
+	<item>
+		<ingredient id="57" count="2000"/>
+		<production id="1463" count="1000"/>
+	</item>
+
+	<!--C Grade-->
+	<item>
+		<ingredient id="57" count="4000"/>
+		<production id="1464" count="1000"/>
+	</item>
+	
+	<!--B Grade-->
+	<item>
+		<ingredient id="57" count="8000"/>
+		<production id="1465" count="1000"/>
+	</item>
+
+	<!--A Grade-->
+	<item>
+		<ingredient id="57" count="16000"/>
+		<production id="1466" count="1000"/>
+	</item>
+
+	<!--S Grade-->
+	<item>
+		<ingredient id="57" count="32000"/>
+		<production id="1467" count="1000"/>
+	</item>
+
+<!--Blessed SpiritShots-->
+	<!--No Grade-->
+	<item>
+		<ingredient id="57" count="4000"/>
+		<production id="3947" count="1000"/>
+	</item>
+	
+	<!--D Grade-->
+	<item>
+		<ingredient id="57" count="8000"/>
+		<production id="3948" count="1000"/>
+	</item>
+
+	<!--C Grade-->
+	<item>
+		<ingredient id="57" count="16000"/>
+		<production id="3949" count="1000"/>
+	</item>
+	
+	<!--B Grade-->
+	<item>
+		<ingredient id="57" count="32000"/>
+		<production id="3950" count="1000"/>
+	</item>
+
+	<!--A Grade-->
+	<item>
+		<ingredient id="57" count="64000"/>
+		<production id="3951" count="1000"/>
+	</item>
+
+	<!--S Grade-->
+	<item>
+		<ingredient id="57" count="128000"/>
+		<production id="3952" count="1000"/>
+	</item>
+
+<!--Fishing Shots-->
+	
+	<!--C Grade-->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="6537" count="1000"/>
+	</item>
+	
+	<!--B Grade-->
+	<item>
+		<ingredient id="57" count="250000"/>
+		<production id="6538" count="1000"/>
+	</item>
+
+	<!--A Grade-->
+	<item>
+		<ingredient id="57" count="500000"/>
+		<production id="6539" count="1000"/>
+	</item>
+
+	<!--S Grade-->
+	<item>
+		<ingredient id="57" count="1000000"/>
+		<production id="6540" count="1000"/>
+	</item>
+
+<!--Pet and servitor shots-->
+	<!--Beast SS-->
+	<item>
+		<ingredient id="57" count="10000"/>
+		<production id="6645" count="1000"/>
+	</item>
+
+	<!--Beast Bsps-->
+	<item>
+		<ingredient id="57" count="50000"/>
+		<production id="6647" count="1000"/>
+	</item>
+
+<!--Wooden Arrow-->
+<item>
+	<ingredient id="57" count="2000" />
+	<production id="17" count="1000" />
+</item>
+
+<!--Bone Arrow-->
+<item>
+	<ingredient id="57" count="4000" />
+	<production id="1341" count="1000" />
+</item>
+
+<!--Steel Arrow-->
+<item>
+	<ingredient id="57" count="8000" />
+	<production id="1342" count="1000" />
+</item>
+
+<!--Silver Arrow-->
+<item>
+	<ingredient id="57" count="16000" />
+	<production id="1343" count="1000" />
+</item>
+
+<!--Mithril Arrow-->
+<item>
+	<ingredient id="57" count="32000" />
+	<production id="1344" count="1000" />
+</item>
+
+<!--Shining Arrow-->
+<item>
+	<ingredient id="57" count="64000" />
+	<production id="1345" count="1000" />
+</item>
+
+<!--Bone Bolt-->
+<item>
+	<ingredient id="57" count="4000" />
+	<production id="9633" count="1000" />
+</item>
+
+<!--Steel Bolt-->
+<item>
+	<ingredient id="57" count="8000" />
+	<production id="9634" count="1000" />
+</item>
+
+<!--Silver Bolt-->
+<item>
+	<ingredient id="57" count="16000" />
+	<production id="9635" count="1000" />
+</item>
+
+<!--Mithril Bolt-->
+<item>
+	<ingredient id="57" count="32000" />
+	<production id="9636" count="1000" />
+</item>
+
+<!--Shining Bolt-->
+<item>
+	<ingredient id="57" count="64000" />
+	<production id="9637" count="1000" />
+</item>
+
+<!--Scroll of Resurrection-->
+<item>
+	<ingredient id="57" count="5000" />
+	<production id="737" count="1" />
+</item>
+
+<!--Scroll of Escape-->
+<item>
+	<ingredient id="57" count="5000" />
+	<production id="736" count="1" />
+</item>
+
+<!--Blessed Scroll of Resurrection for Pets-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="6387" count="1" />
+</item>
+
+<!--Charm of Courage (S-Grade)-->
+<item>
+	<ingredient id="57" count="50000000" />
+	<production id="8520" count="1" />
+</item>
+
+<!--Scroll: Recovery (Grade B)-->
+<item>
+	<ingredient id="57" count="50000" />
+	<production id="8597" count="1" />
+</item>
+
+<!--Scroll: Recovery (Grade A)-->
+<item>
+	<ingredient id="57" count="100000" />
+	<production id="8598" count="1" />
+</item>
+
+<!--Scroll: Recovery (Grade S)-->
+<item>
+	<ingredient id="57" count="250000" />
+	<production id="8599" count="1" />
+</item>
+
+<!--Spirit Ore-->
+<item>
+	<ingredient id="57" count="100000" />
+	<production id="3031" count="100" />
+</item>
+
+<!--Energy Stone-->
+<item>
+	<ingredient id="57" count="100000" />
+	<production id="5589" count="100" />
+</item>
+
+<!--Soul Ore-->
+<item>
+	<ingredient id="57" count="100000" />
+	<production id="1785" count="100" />
+</item>
+
+<!--Einhasad's Holy Water-->
+<item>
+	<ingredient id="57" count="50000" />
+	<production id="8874" count="1" />
+</item>
+
+<!--Magic Symbol-->
+<item>
+	<ingredient id="57" count="50000" />
+	<production id="8876" count="1" />
+</item>
+
+<!--Battle Symbol-->
+<item>
+	<ingredient id="57" count="50000" />
+	<production id="8875" count="1" />
+</item>
+
+<!--Phoenix Blood-->
+<item>
+	<ingredient id="57" count="50000" />
+	<production id="8873" count="1" />
+</item>
+
+<!--Summoning Crystal-->
+<item>
+	<ingredient id="57" count="50000" />
+	<production id="8615" count="1" />
+</item>
+
+<!--Crystal (D-Grade)-->
+<item>
+	<ingredient id="57" count="2000" />
+	<production id="1458" count="1" />
+</item>
+
+<!--Crystal (C-Grade)-->
+<item>
+	<ingredient id="57" count="5000" />
+	<production id="1459" count="1" />
+</item>
+
+<!--Crystal (B-Grade)-->
+<item>
+	<ingredient id="57" count="11000" />
+	<production id="1460" count="1" />
+</item>
+
+<!--Crystal (A-Grade)-->
+<item>
+	<ingredient id="57" count="18000" />
+	<production id="1461" count="1" />
+</item>
+
+<!--Crystal (S-Grade)-->
+<item>
+	<ingredient id="57" count="25000" />
+	<production id="1462" count="1" />
+</item>
+
+<!--Gemstone D-->
+<item>
+	<ingredient id="57" count="1200" />
+	<production id="2130" count="1" />
+</item>
+
+<!--Gemstone C-->
+<item>
+	<ingredient id="57" count="3600" />
+	<production id="2131" count="1" />
+</item>
+
+<!--Gemstone B-->
+<item>
+	<ingredient id="57" count="12000" />
+	<production id="2132" count="1" />
+</item>
+
+<!--Gemstone A-->
+<item>
+	<ingredient id="57" count="144000" />
+	<production id="2133" count="1" />
+</item>
+
+<!--Gemstone S-->
+<item>
+	<ingredient id="57" count="522000" />
+	<production id="2134" count="1" />
+</item>
+
+
+</list>

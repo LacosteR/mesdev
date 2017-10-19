@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="90001" levels="1" name="Mana potion">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="power" val="1200" />
+		<set name="reuseDelay" val="9000" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="726" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="MANAHEAL" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="altUse" val="true" />
+	</skill>
+	<skill id="90002" levels="1" name="Donate Rune" >
+		<!--
+		      Description: "With the power of Eva, increases max HP by 10%, and decreases skill reuse time by 20%. Reflects partial damage received back to the emeny. 
+			  Excludes damage caused by skills and long-range attack."
+		-->
+		<set name="icon" val="BranchSys.icon.br_rune_of_eva_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="maxHp" val="1.1" />
+			<mul order="0x30" stat="mReuse" val="0.8" />
+			<mul order="0x30" stat="pReuse" val="0.8" />
+			<mul order="0x30" stat="musicReuse" val="0.8" />
+			<mul order="0x30" stat="pDef" val="1.2" />
+			<mul order="0x30" stat="mDef" val="1.2" />
+		</for>
+	</skill>
+</list>

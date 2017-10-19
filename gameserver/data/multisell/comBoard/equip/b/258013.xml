@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Mid B Weapon -->
+	<!-- Sword -->
+	<item>
+		<production id="142" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4714" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4715" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4716" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Mag Sword -->
+	<item>
+		<production id="148" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="7722" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="7723" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="7724" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Big Sword -->
+	<item>
+		<production id="78" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4723" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4724" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4725" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Blunt -->
+	<item>
+		<production id="91" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4747" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4748" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4749" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	
+	<!-- Mag Blunt -->
+	<item>
+		<production id="7892" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="8141" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="8142" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="8143" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Double Blunt -->
+	<item>
+		<production id="7900" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="8129" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="8130" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="8131" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Mage Staff -->
+	<item>
+		<production id="92" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4897" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4898" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4899" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Dagger -->
+	<item>
+		<production id="243" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4786" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4787" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4788" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="7814" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="7813" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="7815" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="229" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4777" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4778" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4779" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Polearm -->
+	<item>
+		<production id="300" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4855" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4856" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4857" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+
+	<!-- Fist -->
+	<item>
+		<production id="267" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4801" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4802" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4803" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+
+	<!-- Bow -->
+	<item>
+		<production id="284" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4825" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4826" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="4827" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+
+	<!-- Dual Sword -->
+	<item>
+		<production id="2625" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Rapier -->
+	<item>
+		<production id="9304" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="9305" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="9306" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="9307" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Crossbow -->
+	<item>
+		<production id="9312" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="9313" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="9314" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="9315" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	
+	<!-- Antient Sword -->
+	<item>
+		<production id="9308" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="9309" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="9310" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item>
+		<production id="9311" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+</list>

@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="18600" name="Kratei's Steward" title="">
+		<set name="ai_type" value="KrateisFighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18601" name="Kratei's Watcher" title="">
+		<set name="ai_type" value="KrateisCubeWatcherRed"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18602" name="Kratei's Watcher" title="">
+		<set name="ai_type" value="KrateisCubeWatcherBlue"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18603" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18604" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18605" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18606" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18607" name="Gargos" title="Spirit of Fire">
+		<set name="ai_type" value="Gargos"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18608" name="Kinsus" title="Spirit of Fire">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18609" name="Papion" title="Spirit of Water">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18610" name="Hillas" title="Spirit of Water">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18611" name="Spirit of Water" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18612" name="Spirit of Water" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18613" name="Spirit of Water" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18614" name="Spirit of Fire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="18615" name="Spirit of Fire" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18616" name="Bloom" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18617" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18618" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18619" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18620" name="Adiantum" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18621" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18622" name="Powder Keg" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18623" name="Begrudged Archer" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="279"/>
+			<!--Reinforced Long Bow-->
+		</equip>
+	</npc>
+	<npc id="18624" name="Deadman's Grudge" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18625" name="Deadman's Grudge" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="18626" name="Deadman's Grudge" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="225"/>
+			<!--Mithril Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="18627" name="Deadman's Grudge" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="225"/>
+			<!--Mithril Dagger-->
+			<lhand item_id="945"/>
+			<!--Skeleton Buckler-->
+		</equip>
+	</npc>
+	<npc id="18628" name="Atan" title="Lookout">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="232"/>
+			<!--Dark Elven Dagger-->
+		</equip>
+	</npc>
+	<npc id="18629" name="Kams" title="Panuka">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="150"/>
+			<!--Elemental Sword-->
+			<lhand item_id="103"/>
+			<!--Tower Shield-->
+		</equip>
+	</npc>
+	<npc id="18630" name="Hikoro" title="Panuka">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3"/>
+			<!--Broadsword-->
+		</equip>
+	</npc>
+	<npc id="18631" name="Alkaso" title="Panuka">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="232"/>
+			<!--Dark Elven Dagger-->
+		</equip>
+	</npc>
+	<npc id="18632" name="Gerbera" title="Panuka">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="134"/>
+			<!--Sword of Nightmare-->
+			<lhand item_id="6721"/>
+			<!--Monster Only(Shield of Imperial Warlord Zombie)-->
+		</equip>
+	</npc>
+	<npc id="18633" name="Lematan" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18634" name="Lematan's Follower" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="232"/>
+			<!--Dark Elven Dagger-->
+		</equip>
+	</npc>
+	<npc id="18635" name="Varka Silenos Recruit" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18636" name="Varka Silenos Footman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18637" name="Grazing Antelope" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18638" name="Varka Silenos Scout" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18639" name="Varka Silenos Hunter" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6917"/>
+			<!--Monster Only (Poison Sting)-->
+		</equip>
+	</npc>
+	<npc id="18640" name="Varka Silenos Shaman" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="18641" name="Varka Silenos Priest" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="18642" name="Varka Silenos Warrior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18643" name="Grazing Antelope" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18644" name="Varka Silenos Medium" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="18645" name="Varka Silenos Magus" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18646" name="Varka Silenos Officer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18647" name="Grazing Flava" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18648" name="Varka Silenos Seer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="18649" name="Varka Silenos Great Magus" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18650" name="Varka Silenos General" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18651" name="Grazing Elder Antelope" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18652" name="Varka Silenos Great Seer" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="18653" name="Varka's Elite Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18654" name="Varka's Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2500"/>
+			<!--Dark Legion's Edge-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18655" name="Varka's Head Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="142"/>
+			<!--Keshanberk-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18656" name="Varka's Head Magus" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isImmobilized" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="18657" name="Prophet Guard" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="2504"/>
+			<!--Meteor Shower-->
+			<lhand item_id="6918"/>
+			<!--Monster Only (Shield of Silenos)-->
+		</equip>
+	</npc>
+	<npc id="18658" name="Disciple of Prophet" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="18659" name="Varka's Prophet" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="6716"/>
+			<!--Monster Only(Silenos Shaman)-->
+		</equip>
+	</npc>
+	<npc id="18660" name="Latana" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18661" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18662" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18663" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18664" name="Lucky Pig" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18665" name="Lucky Pig" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18666" name="Lucky Pig" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18667" name="Ward of Death" title="">
+		<set name="ai_type" value="seedofinfinity.WardofDeath"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18668" name="Ward of Death" title="">
+		<set name="ai_type" value="seedofinfinity.WardofDeath"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="18669" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18670" name="" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18671" name="Block" title="">
+		<set name="ai_type" value="HandysBlock"/>
+		<set name="type" value="Block"/>
+	</npc>
+	<npc id="18672" name="Block" title="">
+		<set name="ai_type" value="HandysBlock"/>
+		<set name="type" value="Block"/>
+	</npc>
+	<npc id="18673" name="Block" title="">
+		<set name="ai_type" value="HandysBlock"/>
+		<set name="type" value="Block"/>
+	</npc>
+	<npc id="18674" name="Block" title="">
+		<set name="ai_type" value="HandysBlock"/>
+		<set name="type" value="Block"/>
+	</npc>
+	<npc id="18675" name="Block" title="">
+		<set name="ai_type" value="HandysBlock"/>
+		<set name="type" value="Block"/>
+	</npc>
+	<npc id="18676" name="Block-Carrying GIrl" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="MobInvul"/>
+	</npc>
+	<npc id="18677" name="Dragon Steed Troop Messenger" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18678" name="Energy Seed - Water" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="EnergySeed"/>
+	</npc>
+	<npc id="18679" name="Energy Seed - Fire" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="EnergySeed"/>
+	</npc>
+	<npc id="18680" name="Energy Seed - Wind" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="EnergySeed"/>
+	</npc>
+	<npc id="18681" name="Energy Seed - Earth" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="EnergySeed"/>
+	</npc>
+	<npc id="18682" name="Energy Seed - Divinity" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="EnergySeed"/>
+	</npc>
+	<npc id="18683" name="Energy Seed - Darkness" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="EnergySeed"/>
+	</npc>
+	<npc id="18684" name="Red Star Stone" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="StarStone"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18685" name="Red Star Stone" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="StarStone"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18686" name="Red Star Stone" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="StarStone"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18687" name="Blue Star Stone" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="StarStone"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18688" name="Blue Star Stone" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="StarStone"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18689" name="Blue Star Stone" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="StarStone"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18690" name="Green Star Stone" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="StarStone"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18691" name="Green Star Stone" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="StarStone"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18692" name="Green Star Stone" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="StarStone"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18693" name="Treasure Box of the Ancient Giants" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18694" name="Treasure Box Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18695" name="Treasure Box Guard" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18696" name="Dimension Moving Device" title="">
+		<set name="ai_type" value="seedofdestruction.DimensionMovingDevice"/>
+		<set name="type" value="ImmuneMonster"/>
+	</npc>
+	<npc id="18697" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18698" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="18699" name="Trap" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+</list>

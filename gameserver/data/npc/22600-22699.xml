@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="22600" name="Throne of Destruction Powerful Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22601" name="Heart Protection Device" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="22602" name="Mutant - Bird" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22603" name="Mutant - Bird" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22604" name="Dra Hawk" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22605" name="Dra Hawk" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22606" name="Floating Skull" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22607" name="Floating Skull" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22608" name="Floating Zombie" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22609" name="Floating Zombie" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22610" name="Mutated Drake Wing" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22611" name="Mutated Drake Wing" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22612" name="Drak" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22613" name="Drak" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22614" name="Vulture Rider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22615" name="Vulture Rider" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22616" name="Seed of Pain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="isFlying" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="22617" name="Spiked Stakato" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="22618" name="Spiked Stakato Worker" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="22619" name="Spiked Stakato Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="22620" name="Female Spiked Stakato" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Minion"/>
+		<equip>
+			<rhand item_id="133"/>
+			<!--Raid Sword-->
+		</equip>
+	</npc>
+	<npc id="22621" name="Male Spiked Stakato" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+		<minions>
+			<minion npc_id="22620" count="1"/>
+			<!--Female Spiked Stakato-->
+		</minions>
+	</npc>
+	<npc id="22622" name="Male Spiked Stakato" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="135"/>
+			<!--Samurai Longsword-->
+		</equip>
+	</npc>
+	<npc id="22623" name="Spiked Stakato Sorcerer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6608"/>
+			<!--Arcana Mace-->
+		</equip>
+	</npc>
+	<npc id="22624" name="Cannibalistic Stakato Follower" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Minion"/>
+	</npc>
+	<npc id="22625" name="Cannibalistic Stakato Leader" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="22624" count="3"/>
+			<!--Cannibalistic Stakato Follower-->
+		</minions>
+	</npc>
+	<npc id="22626" name="Cannibalistic Stakato Leader" title="">
+		<set name="ai_type" value="groups.StakatoNest"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="22624" count="3"/>
+			<!--Cannibalistic Stakato Follower-->
+		</minions>
+	</npc>
+	<npc id="22627" name="Spiked Stakato Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5647"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="22628" name="Spiked Stakato Drone" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5647"/>
+			<!--Dark Legion's Edge-->
+		</equip>
+	</npc>
+	<npc id="22629" name="Spiked Stakato Captain" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6590"/>
+			<!--Angel Slayer-->
+		</equip>
+	</npc>
+	<npc id="22630" name="Spike Stakato Nurse" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6590"/>
+			<!--Angel Slayer-->
+		</equip>
+		<minions>
+			<minion npc_id="22632" count="1"/>
+			<!--Spiked Stakato Baby-->
+		</minions>
+	</npc>
+	<npc id="22631" name="Spike Stakato Nurse" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6590"/>
+			<!--Angel Slayer-->
+		</equip>
+	</npc>
+	<npc id="22632" name="Spiked Stakato Baby" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5599"/>
+			<!--Meteor Shower-->
+		</equip>
+	</npc>
+	<npc id="22633" name="Spiked Stakato Shaman" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5599"/>
+			<!--Meteor Shower-->
+		</equip>
+	</npc>
+	<npc id="22634" name="Scarlet Stakato Worker" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22635" name="Scarlet Stakato Soldier" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22636" name="Scarlet Stakato Noble" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22637" name="Tepra Scorpion" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22638" name="Tepra Scarab" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22639" name="Assassin Beetle" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22640" name="Mercenary of Destruction" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22641" name="Knight of Destruction" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22642" name="Lavastone Golem" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22643" name="Magma Golem" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22644" name="Arimanes of Destruction" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22645" name="Balrog of Destruction" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22646" name="Ashuras of Destruction" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22647" name="Lavasillisk" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22648" name="Blazing Ifrit" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22649" name="Magma Drake" title="">
+		<set name="ai_type" value="groups.ForgeoftheGods"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="MaxPursueRange" value="8000"/>
+		</ai_params>
+	</npc>
+	<npc id="22650" name="Mucrokian Fanatic" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22651" name="Mucrokian Ascetic" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22652" name="Mucrokian Savior" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22653" name="Mucrokian Preacher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22654" name="Contaminated Mucrokian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="5128"/>
+			<!--Crokian Blade-->
+		</equip>
+	</npc>
+	<npc id="22655" name="Awakened Mucrokian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22656" name="Suppressor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22657" name="Exterminator" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22658" name="Evil Spirits in Magic Force" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22659" name="Guardian Waterspirit" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="9638"/>
+			<!--Tears r1-->
+			<lhand item_id="9638"/>
+			<!--Tears r1-->
+		</equip>
+	</npc>
+	<npc id="22660" name="Lesser Giant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3937"/>
+			<!--Giant Bar-->
+		</equip>
+	</npc>
+	<npc id="22661" name="Lesser Giant Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3937"/>
+			<!--Giant Bar-->
+		</equip>
+	</npc>
+	<npc id="22662" name="Lesser Giant Shooter" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="4028"/>
+			<!--Giant Cannon-->
+		</equip>
+	</npc>
+	<npc id="22663" name="Lesser Giant Scout" title="">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="4028"/>
+			<!--Giant Cannon-->
+		</equip>
+	</npc>
+	<npc id="22664" name="Lesser Giant Mage" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3938"/>
+			<!--Giant Rod-->
+		</equip>
+	</npc>
+	<npc id="22665" name="Lesser Giant Elder" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3938"/>
+			<!--Giant Rod-->
+		</equip>
+	</npc>
+	<npc id="22666" name="Barif" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="3938"/>
+			<!--Giant Rod-->
+		</equip>
+		<minions>
+			<minion npc_id="22667" count="3"/>
+			<!--Barif's Pet-->
+		</minions>
+	</npc>
+	<npc id="22667" name="Barif's Pet" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22668" name="Gamlin" title="Scout">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22669" name="Leogul" title="Scout">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22670" name="Cursed Lord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<minions>
+			<minion npc_id="22671" count="2"/>
+			<!--Cursed Guardian!-->
+			<minion npc_id="22672" count="2"/>
+			<!--Cursed Seer-->
+		</minions>
+	</npc>
+	<npc id="22671" name="Cursed Guardian!" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22672" name="Cursed Seer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22673" name="Hirokai" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22674" name="Imagro" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22675" name="Palit" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22676" name="Hamlet" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22677" name="Klennot" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="194"/>
+			<!--Heavy Doom Axe-->
+		</equip>
+	</npc>
+	<npc id="22678" name="Grave Robber Summoner" title="Lunatic">
+		<set name="ai_type" value="GraveRobberSummoner"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22679" name="Grave Robber Magician" title="Lunatic">
+		<set name="ai_type" value="GraveRobberSummoner"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22680" name="Grave Robber Worker" title="Lunatic">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22681" name="Grave Robber Warrior" title="Lunatic">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22682" name="Grave Robber Warrior of Light" title="Lunatic">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22683" name="Servitor of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22684" name="Servitor of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22685" name="Servitor of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22686" name="Servitor of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22687" name="Phantoms of the Mine" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22688" name="Evil Spirits of the Mine" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22689" name="Mine Bug" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22690" name="Earthworm's Descendant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="22691" name="Ragna Orc" title="Spirit Infested">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="2"/>
+			<!--Long Sword-->
+		</equip>
+	</npc>
+	<npc id="22692" name="Ragna Orc Warrior" title="Spirit Infested">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="22693" name="Ragna Orc Hero" title="Spirit Infested">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="6365"/>
+			<!--Basalt Battlehammer-->
+		</equip>
+	</npc>
+	<npc id="22694" name="Ragna Orc Commander" title="Spirit Infested">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="7892"/>
+			<!--Spell Breaker-->
+		</equip>
+	</npc>
+	<npc id="22695" name="Ragna Orc Healer" title="Spirit Infested">
+		<set name="ai_type" value="RagnaHealer"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8680"/>
+			<!--Barakiel's Axe-->
+		</equip>
+	</npc>
+	<npc id="22696" name="Ragna Orc Shaman" title="Spirit Infested">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8680"/>
+			<!--Barakiel's Axe-->
+		</equip>
+	</npc>
+	<npc id="22697" name="Ragna Orc Seer" title="Spirit Infested">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8687"/>
+			<!--Cabrio's Hand-->
+		</equip>
+	</npc>
+	<npc id="22698" name="Ragna Orc Archer" title="Spirit Infested">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+	<npc id="22699" name="Ragna Orc Sniper" title="Spirit Infested">
+		<set name="ai_type" value="Ranger"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8684"/>
+			<!--Shyeed's Bow-->
+		</equip>
+	</npc>
+</list>

@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="18200" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18201" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18202" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18203" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18204" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18205" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18206" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18207" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18208" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18209" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18210" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18211" name="Charm of Corner" title="">
+		<set name="ai_type" value="PaganGuard"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18212" name="Archon of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="18213" name="Archon of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="18214" name="Archon of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="18215" name="Archon of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="18216" name="Archon of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="18217" name="Archon of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="18218" name="Archon of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="18219" name="Archon of Halisha" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="6722"/>
+			<!--Monster Only(Ahrimanes)-->
+		</equip>
+	</npc>
+	<npc id="18220" name="Shaman of Darkness" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="3939"/>
+			<!--Lady's Fan-->
+		</equip>
+	</npc>
+	<npc id="18221" name="Shaman of Darkness" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="3939"/>
+			<!--Lady's Fan-->
+		</equip>
+	</npc>
+	<npc id="18222" name="Assassin of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18223" name="Assassin of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18224" name="Assassin of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18225" name="Assassin of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18226" name="Caster of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18227" name="Caster of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18228" name="Caster of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18229" name="Caster of Darkness" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18230" name="Signet of Emperor" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18231" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18232" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18233" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18234" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18235" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18236" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18237" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18238" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18239" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18240" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18241" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18242" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18243" name="Statue of Protection" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="SepulcherMonster"/>
+		<equip>
+			<rhand item_id="5795"/>
+			<!--Tomb Guard A-->
+		</equip>
+	</npc>
+	<npc id="18244" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18245" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18246" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18247" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18248" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18249" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18250" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18251" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18252" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18253" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18254" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18255" name="Watchman of Grave" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18256" name="Halisha's Treasure Box" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="SepulcherMonster"/>
+	</npc>
+	<npc id="18257" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18258" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18259" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18260" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18261" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18262" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18263" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18264" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18265" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18266" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18267" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18268" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18269" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18270" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18271" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18272" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18273" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18274" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18275" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18276" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18277" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18278" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18279" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18280" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18281" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18282" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18283" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18284" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18285" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18286" name="Treasure Chest" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18287" name="Otherworldly Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18288" name="Otherworldly Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18289" name="Dimension Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18290" name="Dimension Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18291" name="Purgatory Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18292" name="Purgatory Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18293" name="Forbidden Path Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18294" name="Forbidden Path Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18295" name="Dark Omen Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18296" name="Dark Omen Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18297" name="Messenger Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18298" name="Messenger Invader Food" title="">
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="TreasureChest"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+	</npc>
+	<npc id="18299" name="Flame of the Branded" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

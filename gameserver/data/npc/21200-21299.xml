@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="21200" name="Nephilim Bishop" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21201" name="Nephilim Centurion" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21202" name="Nephilim Scout" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21203" name="Nephilim Archbishop" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21204" name="Nephilim Praetorian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21205" name="Nephilim Royal Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21206" name="Nephilim Cardinal" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21207" name="Nephilim Commander" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21208" name="Hallowed Watchman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="216"/>
+			<!--Dirk-->
+			<lhand item_id="111"/>
+			<!--Shield of Pledge-->
+		</equip>
+	</npc>
+	<npc id="21209" name="Hallowed Seer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21210" name="Vault Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21211" name="Vault Seer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21212" name="Hallowed Sentinel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+			<lhand item_id="646"/>
+			<!--Shield of Silence-->
+		</equip>
+	</npc>
+	<npc id="21213" name="Hallowed Monk" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21214" name="Vault Sentinel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21215" name="Vault Monk" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21216" name="Overlord of the Holy Lands" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+			<lhand item_id="646"/>
+			<!--Shield of Silence-->
+		</equip>
+	</npc>
+	<npc id="21217" name="Hallowed Priest" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21218" name="Vault Overlord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="297"/>
+			<!--Glaive-->
+		</equip>
+	</npc>
+	<npc id="21219" name="Vault Priest" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21220" name="Sepulcher Archon" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="131"/>
+			<!--Spirit Sword-->
+			<lhand item_id="107"/>
+			<!--Composite Shield-->
+		</equip>
+	</npc>
+	<npc id="21221" name="Sepulcher Inquisitor" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21222" name="Sepulcher Archon" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="298"/>
+			<!--Orcish Glaive-->
+		</equip>
+	</npc>
+	<npc id="21223" name="Sepulcher Inquisitor" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21224" name="Sepulcher Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="233"/>
+			<!--Dark Screamer-->
+		</equip>
+	</npc>
+	<npc id="21225" name="Sepulcher Sage" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="311"/>
+			<!--Crucifix of Blessing-->
+		</equip>
+	</npc>
+	<npc id="21226" name="Sepulcher Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="8680"/>
+			<!--Barakiel's Axe-->
+		</equip>
+	</npc>
+	<npc id="21227" name="Sepulcher Sage" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21228" name="Sepulcher Guard " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="236"/>
+			<!--Soul Separator-->
+		</equip>
+	</npc>
+	<npc id="21229" name="Sepulcher Preacher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="326"/>
+			<!--Heathen's Book-->
+		</equip>
+	</npc>
+	<npc id="21230" name="Sepulcher Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="10220"/>
+			<!--Icarus Hammer-->
+		</equip>
+	</npc>
+	<npc id="21231" name="Sepulcher Preacher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21232" name="Barrow Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="216"/>
+			<!--Dirk-->
+		</equip>
+	</npc>
+	<npc id="21233" name="Barrow Seer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21234" name="Grave Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21235" name="Grave Seer" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21236" name="Barrow Sentinel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="69"/>
+			<!--Bastard Sword-->
+		</equip>
+	</npc>
+	<npc id="21237" name="Barrow Monk" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21238" name="Grave Sentinel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21239" name="Grave Monk" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21240" name="Barrow Overlord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="129"/>
+			<!--Sword of Revolution-->
+		</equip>
+	</npc>
+	<npc id="21241" name="Barrow Priest" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21242" name="Grave Overlord" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="297"/>
+			<!--Glaive-->
+		</equip>
+	</npc>
+	<npc id="21243" name="Grave Priest" title="">
+		<set name="ai_type" value="Priest"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21244" name="Crypt Archon" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="131"/>
+			<!--Spirit Sword-->
+		</equip>
+	</npc>
+	<npc id="21245" name="Crypt Inquisitor" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21246" name="Tomb Archon" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="298"/>
+			<!--Orcish Glaive-->
+		</equip>
+	</npc>
+	<npc id="21247" name="Tomb Inquisitor" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21248" name="Crypt Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="233"/>
+			<!--Dark Screamer-->
+		</equip>
+	</npc>
+	<npc id="21249" name="Crypt Sage" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="311"/>
+			<!--Crucifix of Blessing-->
+		</equip>
+	</npc>
+	<npc id="21250" name="Tomb Guardian" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="171"/>
+			<!--Deadman's Glory-->
+		</equip>
+	</npc>
+	<npc id="21251" name="Tomb Sage" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21252" name="Crypt Guard " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="236"/>
+			<!--Soul Separator-->
+		</equip>
+	</npc>
+	<npc id="21253" name="Crypt Preacher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="326"/>
+			<!--Heathen's Book-->
+		</equip>
+	</npc>
+	<npc id="21254" name="Tomb Guard" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="78"/>
+			<!--Great Sword-->
+		</equip>
+	</npc>
+	<npc id="21255" name="Tomb Preacher" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21256" name="Underground Werewolf" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21257" name="Evil Eye Seer" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21258" name="Fallen Orc Shaman" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="transformChance" value="100"/>
+			<set name="transformOnUnderAttack" value="21259"/>
+		</ai_params>
+		<equip>
+			<rhand item_id="9"/>
+			<!--Cedar Staff-->
+		</equip>
+	</npc>
+	<npc id="21259" name="Fallen Orc Shaman" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21260" name="Betrayer Orc Hero" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="74"/>
+			<!--Katana-->
+		</equip>
+	</npc>
+	<npc id="21261" name="Ol Mahum Transcender" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="21262" name="Ol Mahum Transcender" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+			<lhand item_id="102"/>
+			<!--Round Shield-->
+		</equip>
+	</npc>
+	<npc id="21263" name="Ol Mahum Transcender" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="21264" name="Ol Mahum Transcender" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+		<equip>
+			<rhand item_id="127"/>
+			<!--Crimson Sword-->
+		</equip>
+	</npc>
+	<npc id="21265" name="Cave Ant Larva" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21266" name="Cave Ant Larva" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21267" name="Cave Ant Larva" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21268" name="Cave Ant Larva" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21269" name="Cave Ant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21270" name="Cave Ant Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21271" name="Cave Ant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21272" name="Cave Ant Soldier" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21273" name="Cave Noble Ant" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21274" name="Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21275" name="Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21276" name="Kookaburra" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21278" name="Antelope" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21279" name="Antelope" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21280" name="Antelope" title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21282" name="Bandersnatch" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21283" name="Bandersnatch" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21284" name="Bandersnatch" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21286" name="Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21287" name="Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21288" name="Buffalo" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21290" name="Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21291" name="Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21292" name="Grendel" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21294" name="Canyon Antelope" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21295" name="Canyon Antelope Slave" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21296" name="Canyon Bandersnatch " title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21297" name="Canyon Bandersnatch Slave" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21298" name="Eye of Restrainer " title="">
+		<set name="ai_type" value="Mystic"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="21299" name="Buffalo Slave" title="">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

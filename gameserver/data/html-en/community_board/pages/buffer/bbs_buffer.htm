@@ -1,0 +1,64 @@
+<br><br>
+<table border=0 cellpadding=0 width=560>
+	<tr>  
+		<td height=440>
+			<center>
+				<table>
+					<tr>
+						<td> <img src=L2UI_PAUN.HtmlWnd_ClassMArk_180 width=256 height=256> </td>
+					</tr>	
+				</table>
+				<table>
+					<tr>
+						<td>
+							<button value="Список баффов" action="bypass _bbspage:buffer/bbs_buffpage1" width=200 height=31 back="L2UI_ct1.OlympiadWnd_DF_HeroConfirm_Down" fore="L2UI_ct1.OlympiadWnd_DF_HeroConfirm">
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<button value="Ввостановление" action="bypass _bbsbuffer;heal" width=200 height=31 back="L2UI_ct1.OlympiadWnd_DF_HeroConfirm_Down" fore="L2UI_ct1.OlympiadWnd_DF_HeroConfirm">
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<button value="Набор Воина" action="bypass _bbsbuffer;buff_list;100" width=200 height=31 back="L2UI_ct1.OlympiadWnd_DF_HeroConfirm_Down" fore="L2UI_ct1.OlympiadWnd_DF_HeroConfirm">
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<button value="Набор Мага" action="bypass _bbsbuffer;buff_list;200" width=200 height=31 back="L2UI_ct1.OlympiadWnd_DF_HeroConfirm_Down" fore="L2UI_ct1.OlympiadWnd_DF_HeroConfirm">
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<button value="Снять все баффы" action="bypass _bbsbuffer;cancel" width=200 height=31 back="L2UI_ct1.OlympiadWnd_DF_HeroConfirm_Down" fore="L2UI_ct1.OlympiadWnd_DF_HeroConfirm">
+						</td>
+					</tr>
+				</table>
+			</center>
+		</td>
+		<td height=440> 
+			<br><br>
+			%set_aim%
+			<br>
+			<font color=3293F3>Введите название схемы:</font><br>
+			<center>
+			<table border=0>
+				<tr>
+					<td>
+						<edit var="name" width=240 length=10>
+					</td>
+					<td>
+						<button value="" action="bypass _bbsbuffer;save_scheme;TEST" width=15 height=15 back="L2UI_CT1.Button_DF_Input_Down" fore="L2UI_CT1.Button_DF_Input">
+					</td>
+					<td>
+						<button value="" action="bypass _bbsbuff;show" width=15 height=15 back="L2UI_CT1.button_df_delete_down" fore="L2UI_ct1.button_df_delete">
+					</td>
+				</tr>
+			</table>
+			</center>
+			<br><br>
+			%sh%
+		</td>
+	</tr>
+</table>		

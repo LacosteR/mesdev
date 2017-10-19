@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+	<skill id="30000" levels="1" name="Special Ability: Haste and Focus">
+		<set name="icon" val="icon.skill1086" />
+		<set name="magicLevel" val="40" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.07" />
+			<add order="0x40" stat="baseCrit" val="65.5" />
+		</for>
+	</skill>
+	
+	<skill id="30001" levels="1" name="Special Ability: Acumen and Empower">
+		<set name="icon" val="icon.skill1086" />
+		<set name="magicLevel" val="40" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.15"/>
+			<mul order="0x30" stat="mAtk" val="1.1"/>
+		</for>
+	</skill>
+	
+	<skill id="30002" levels="1" name="Special Ability: Wideblow and Haste">
+		<set name="icon" val="icon.skill1086" />
+		<set name="magicLevel" val="40" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.07" />
+		</for>
+	</skill>
+	
+	<skill id="30003" levels="1" name="Special Ability: Haste and Guidance">
+		<set name="icon" val="icon.skill1086" />
+		<set name="magicLevel" val="40" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.1" />
+			<add order="0x40" stat="accCombat" val="5"/>
+		</for>
+	</skill>
+	
+	<skill id="30004" levels="2" name="Special Ability: Health and Focus">
+		<table name="#Tab-maxHp">1.25 1.1</table>
+		<table name="#Tab-baseCrit">59.5 73.3</table>
+		<set name="icon" val="icon.skill1086" />
+		<set name="magicLevel" val="40" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="maxHp" val="#Tab-maxHp"/>
+			<add order="0x40" stat="baseCrit" val="#Tab-baseCrit" />
+		</for>
+	</skill>
+	
+	<skill id="30005" levels="3" name="Newbie Robe Set">
+		<table name="#Tab-pDef">1.0 1.027 1.0526</table>
+		<table name="#Tab-maxMp">0 0 156</table>
+		<set name="icon" val="icon.armor_t59_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pDef" val="#Tab-pDef" />
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			<add order="0x80" stat="maxMp" val="#Tab-maxMp"/>
+		</for>
+	</skill>
+	
+	<skill id="30006" levels="3" name="Newbie Light Set">
+		<table name="#Tab-pDef">1.02 1.0326 1.0526</table>
+		<table name="#Tab-maxHp">41 61 81</table>
+		<table name="#Tab-pAtkSpd">1.0 1.03 1.05</table>
+		<table name="#Tab-baseCrit">0 0 35.0</table>
+		<table name="#Tab-cAtk">1.0 1.02 1.0</table>
+		<set name="icon" val="icon.armor_t59_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pDef" val="#Tab-pDef" />
+			<mul order="0x30" stat="pAtkSpd" val="#Tab-pAtkSpd" />
+			<add order="0x80" stat="maxHp" val="#Tab-maxHp"/>
+			<add order="0x40" stat="baseCrit" val="#Tab-baseCrit" />
+			<mul order="0x30" stat="cAtk" val="#Tab-cAtk" />
+		</for>
+	</skill>
+	
+	<skill id="30007" levels="3" name="Newbie Heavy Set">
+		<table name="#Tab-pDef">1.03 1.05 1.06</table>
+		<table name="#Tab-maxHp">103 153 270</table>
+		<set name="icon" val="icon.armor_t59_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pDef" val="#Tab-pDef" />
+			<add order="0x80" stat="maxHp" val="#Tab-maxHp"/>
+		</for>
+	</skill>
+	
+	<skill id="30008" levels="1" name="Shield Defence Bonus">
+		<set name="icon" val="icon.armor_t59_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="sDef" val="1.08"/>
+		</for>
+	</skill>
+	
+	<skill id="30009" levels="1" name="Peacemaker">
+		<set name="icon" val="icon.armor_t59_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" val="0.33" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" val="0.5" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" val="0.5" />
+			<mul order="0x30" stat="pveDmgBonus" val="1.25" />
+			<mul order="0x30" stat="pveDefenceBonus" val="1.2" />
+		</for>
+	</skill>
+	
+</list>

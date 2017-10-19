@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Используется для настройки EVERYBODY_HAS_ADMIN_RIGHTS -->
+	<char>
+		<PlayerID set="-1"/>
+		
+		<!-- Маркер на то, что персонаж является ГМским (убраны некоторые проверки на персонажа и т.д.) -->
+		<IsGM set="false"/>
+		
+		<!-- Без этих прав невозможно использовать вообще никакие админ команды -->
+		<CanUseGMCommand set="true"/>
+		<!--
+			1 - Moderator
+            2 - Sheriff
+            3 - Support
+            4 - Event Game Master
+            5 - Head Game Master
+            6 - Administrator
+		-->
+		<AccessType set="2"/>
+
+		<!-- Права на кик с игры -->
+		<CanKick set="true"/>
+		
+		<!-- Права на использование ГМ чата (общение между ГМами) -->
+		<CanUseGMChat set="true"/>
+		
+		<!-- Права на петиции -->
+		<CanPetition set="true"/>
+		
+		<!-- Права на телепорт -->
+		<CanTeleport set="true"/>
+
+		<!-- Права на бан Трейда -->
+		<CanTradeBanUnban set="true"/>
+		<!-- Права на бан -->
+		<CanBan set="true"/>
+		<!-- Права на разбан -->
+		<CanUnBan set="true"/>
+		<!-- Право банить чат -->
+		<CanBanChat set="true"/>
+		<!-- Максимально разрешенный срок (в минутах), -1 отключено -->
+		<BanChatMaxValue set="1800"/>
+		<!-- Право снимать бан чата -->
+		<CanUnBanChat set="true"/>
+		<!-- Право на Джеил -->
+		<CanJail set="true"/>
+		<!-- Право на освобождение из Джеила -->
+		<CanUnJail set="true"/>
+
+		<!-- Права на просмотр персонажей -->
+		<CanViewChar set="true"/>
+		<!-- Права на бсое -->
+		<FastUnstuck set="true"/>
+		<!-- Права на автовоскрешение -->
+		<ResurectFixed set="true"/>
+
+		<!-- По умолчанию TRUE для всех игроков -->
+		<!-- Права на использование трейда/почты -->
+		<UseTrade set="true"/>
+		<!-- Права на использование автоатаки -->
+		<CanAttack set="true"/>
+		<!-- Права на использование инвентаря (открыть/закрыть) -->
+		<UseInventory set="true"/>
+		<!-- Права на рекомендации -->
+		<CanEvaluate set="true"/>
+		<!-- Права на присоединение к пати -->
+		<CanJoinParty set="true"/>
+		<!-- Права на вступление в клан -->
+		<CanJoinClan set="false"/>
+		<!-- Права на использование ВХ -->
+		<UseWarehouse set="true"/>
+		<!-- Права на использование НПЦ магазинов -->
+		<UseShop set="true"/>
+		<!-- Права на телепортация (не рекол!) -->
+		<UseTeleport set="true"/>
+	</char>
+</list>

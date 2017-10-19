@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+
+<list>
+	<npc id="2501" name="Wingless Luckpy Luckpy" title="The Spirit of Pigs">
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="2502" name="Wingless Luckpy Luckpy" title="The Spirit of Pigs">
+		<!-- normal -->
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+	<npc id="2503" name="Wingless Luckpy Luckpy" title="The Spirit of Pigs">
+		<!-- gold -->
+		<set name="ai_type" value="Fighter"/>
+		<set name="type" value="Monster"/>
+	</npc>
+</list>

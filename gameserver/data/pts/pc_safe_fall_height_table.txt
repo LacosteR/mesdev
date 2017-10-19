@@ -1,0 +1,22 @@
+pc_safe_fall_height_table_begin
+	FFighter=270
+	MFighter=250
+	FMagic=220
+	MMagic=200
+	FElfFighter=380
+	MElfFighter=350
+	FElfMagic=330
+	MElfMagic=300
+	FDarkelfFighter=380
+	MDarkelfFighter=350
+	FDarkelfMagic=330
+	MDarkelfMagic=300
+	FOrcFighter=220
+	MOrcFighter=200
+	FShaman=280
+	MShaman=250
+	FDwarfFighter=200
+	MDwarfFighter=180
+	FKamaelSoldier=500
+	MKamaelSoldier=500
+pc_safe_fall_height_table_end

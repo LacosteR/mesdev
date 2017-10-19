@@ -1,0 +1,313 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="false" keepenchanted="false" />
+	<!--Длинный Меч Самурая-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4710" count="1" />
+	</item>
+
+	<!--Длинный Меч Самурая-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4708" count="1" />
+	</item>
+
+	<!--Длинный Меч Самурая-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4709" count="1" />
+	</item>
+
+	<!--Меч Рубежа-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="6307" count="1" />
+	</item>
+
+	<!--Меч Рубежа-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="6308" count="1" />
+	</item>
+
+	<!--Меч Рубежа-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="6309" count="1" />
+	</item>
+
+	<!--Меч Гомункула-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="6313" count="1" />
+	</item>
+
+	<!--Меч Гомункула-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="6314" count="1" />
+	</item>
+
+	<!--Меч Гомункула-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="6315" count="1" />
+	</item>
+
+	<!--Клинок Берсерка-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="6349" count="1" />
+	</item>
+
+	<!--Клинок Берсерка-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="6348" count="1" />
+	</item>
+
+	<!--Клинок Берсерка-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="6347" count="1" />
+	</item>
+
+	<!--Посох Инферно-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="7716" count="1" />
+	</item>
+
+	<!--Посох Инферно-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="7717" count="1" />
+	</item>
+
+	<!--Посох Инферно-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="7718" count="1" />
+	</item>
+
+	<!--Булава Якса-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4744" count="1" />
+	</item>
+
+	<!--Булава Якса-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4745" count="1" />
+	</item>
+
+	<!--Булава Якса-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4746" count="1" />
+	</item>
+
+	<!--Топор Войны-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="4741" count="1" />
+	</item>
+
+	<!--Топор Войны-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="4742" count="1" />
+	</item>
+
+	<!--Топор Войны-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="4743" count="1" />
+	</item>
+
+	<!--Булава Преисподней-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="7713" count="1" />
+	</item>
+
+	<!--Булава Преисподней-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="7714" count="1" />
+	</item>
+
+	<!--Булава Преисподней-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="7715" count="1" />
+	</item>
+
+	<!--Проклятый Кинжал-->
+	<item>
+		<ingredient id="57" count="1939190" />
+		<production id="4759" count="1" />
+	</item>
+
+	<!--Проклятый Кинжал-->
+	<item>
+		<ingredient id="57" count="1939190" />
+		<production id="4760" count="1" />
+	</item>
+
+	<!--Проклятый Кинжал-->
+	<item>
+		<ingredient id="57" count="1939190" />
+		<production id="4761" count="1" />
+	</item>
+
+	<!--Кинжал Тьмы-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="4771" count="1" />
+	</item>
+
+	<!--Кинжал Тьмы-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="4772" count="1" />
+	</item>
+
+	<!--Кинжал Тьмы-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="4773" count="1" />
+	</item>
+
+	<!--Кристальный Кинжал-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4774" count="1" />
+	</item>
+
+	<!--Кристальный Кинжал-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4775" count="1" />
+	</item>
+
+	<!--Кристальный Кинжал-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="6358" count="1" />
+	</item>
+
+	<!--Лук Превосходства-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4822" count="1" />
+	</item>
+
+	<!--Лук Превосходства-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4823" count="1" />
+	</item>
+
+	<!--Лук Превосходства-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4824" count="1" />
+	</item>
+
+	<!--Лук Стихии-->
+	<item>
+		<ingredient id="57" count="2430670" />
+		<production id="4813" count="1" />
+	</item>
+
+	<!--Лук Стихии-->
+	<item>
+		<ingredient id="57" count="2430670" />
+		<production id="4814" count="1" />
+	</item>
+
+	<!--Лук Стихии-->
+	<item>
+		<ingredient id="57" count="2430670" />
+		<production id="4815" count="1" />
+	</item>
+
+	<!--Большая Пата-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4795" count="1" />
+	</item>
+
+	<!--Большая Пата-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4796" count="1" />
+	</item>
+
+	<!--Большая Пата-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4797" count="1" />
+	</item>
+
+	<!--Кастетные Клинки-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="4792" count="1" />
+	</item>
+
+	<!--Кастетные Клинки-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="4793" count="1" />
+	</item>
+
+	<!--Кастетные Клинки-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="4794" count="1" />
+	</item>
+
+	<!--Секира Орков-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4852" count="1" />
+	</item>
+
+	<!--Секира Орков-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4853" count="1" />
+	</item>
+
+	<!--Секира Орков-->
+	<item>
+		<ingredient id="57" count="5184850" />
+		<production id="4854" count="1" />
+	</item>
+
+	<!--Секира-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="7719" count="1" />
+	</item>
+
+	<!--Секира-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="7720" count="1" />
+	</item>
+
+	<!--Секира-->
+	<item>
+		<ingredient id="57" count="3634730" />
+		<production id="7721" count="1" />
+	</item>
+
+</list>
+
+
+

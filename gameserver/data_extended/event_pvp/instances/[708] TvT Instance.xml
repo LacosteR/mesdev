@@ -1,0 +1,13 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<!-- TvT -->
+	<instance id="708" name="TvT Instance" maxChannels="40" collapseIfEmpty="1" timelimit="10" dispelBuffs="false">
+		<level min="1" max="85"/>
+		<geodata map="20_22"/>
+		<teleport loc="22072, 159144, -2704"/>
+		<zones>
+			<zone name="tvt_respawn_map8_t1" active="true" />
+			<zone name="tvt_respawn_map8_t2" active="true" />
+		</zones>
+	</instance>
+</list>
