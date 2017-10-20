@@ -1,0 +1,140 @@
+[20.10.17 00:06:28] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:06:29] SUCCESS Testa[268480771] -> 18342 Gremlin admin_itemcreate
+[20.10.17 00:06:31] SUCCESS Testa[268480771] -> 18342 Gremlin admin_create_item 15577
+[20.10.17 00:07:03] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:07:04] SUCCESS Testa[268480771] -> 18342 Gremlin admin_itemcreate
+[20.10.17 00:07:06] SUCCESS Testa[268480771] -> 18342 Gremlin admin_create_item 9456
+[20.10.17 00:08:34] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:08:36] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_moves
+[20.10.17 00:08:41] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:08:42] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:08:43] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:08:44] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:09:53] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:09:54] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:09:55] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:09:56] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:11:11] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:11:12] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:11:13] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:11:14] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:11:54] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:11:56] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:11:57] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:11:58] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:13:02] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:13:03] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:13:03] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:13:05] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:13:57] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:13:58] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:13:59] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:14:00] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:14:41] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:14:42] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:14:43] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:14:45] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:15:42] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:15:43] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:15:43] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:15:44] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:16:13] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:16:14] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:16:15] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:16:17] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:16:40] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:16:41] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:16:43] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:16:45] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:23:36] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:23:37] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:23:38] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:23:39] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:23:40] SUCCESS Testa[268480771] -> 18342 Gremlin admin_char_manage
+[20.10.17 00:23:41] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_characters 0
+[20.10.17 00:25:19] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:25:21] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:25:21] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:25:25] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:26:26] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:26:27] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:26:28] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:26:30] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:27:22] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:34:57] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:34:58] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:34:59] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:35:01] SUCCESS Testa[268480771] -> 18342 Gremlin admin_reload_multisell
+[20.10.17 00:38:43] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[20.10.17 00:38:44] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:38:46] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_html reload.htm
+[20.10.17 00:38:47] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:38:48] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server admserver.htm
+[20.10.17 00:38:49] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server_shutdown
+[20.10.17 00:38:53] SUCCESS Testa[268480771] -> 18342 Gremlin admin_server_restart 15
+[20.10.17 00:59:13] SUCCESS Testa[268480771] admin_admin
+[20.10.17 00:59:14] SUCCESS Testa[268480771] admin_server admserver.htm
+[20.10.17 00:59:15] SUCCESS Testa[268480771] admin_server_shutdown
+[20.10.17 00:59:18] SUCCESS Testa[268480771] admin_server_restart 15
+[20.10.17 01:08:50] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:08:51] SUCCESS Testa[268480771] admin_server admserver.htm
+[20.10.17 01:08:53] SUCCESS Testa[268480771] admin_server_shutdown
+[20.10.17 01:08:55] SUCCESS Testa[268480771] admin_server_restart 15
+[20.10.17 01:14:15] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:14:16] SUCCESS Testa[268480771] admin_server admserver.htm
+[20.10.17 01:14:16] SUCCESS Testa[268480771] admin_show_html reload.htm
+[20.10.17 01:14:18] SUCCESS Testa[268480771] admin_reload_multisell
+[20.10.17 01:22:26] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:22:27] SUCCESS Testa[268480771] admin_char_manage
+[20.10.17 01:22:28] SUCCESS Testa[268480771] admin_show_characters 0
+[20.10.17 01:25:50] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:25:54] SUCCESS Testa[268480771] admin_gmshop
+[20.10.17 01:25:56] SUCCESS Testa[268480771] admin_show_html gmstore/books.htm
+[20.10.17 01:26:00] SUCCESS Testa[268480771] admin_buy 9901
+[20.10.17 01:27:53] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:27:54] SUCCESS Testa[268480771] admin_itemcreate
+[20.10.17 01:27:56] SUCCESS Testa[268480771] admin_create_item 8185
+[20.10.17 01:34:11] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:34:13] SUCCESS Testa[268480771] admin_server admserver.htm
+[20.10.17 01:34:14] SUCCESS Testa[268480771] admin_show_html reload.htm
+[20.10.17 01:34:15] SUCCESS Testa[268480771] admin_reload_multisell
+[20.10.17 01:35:18] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:35:19] SUCCESS Testa[268480771] admin_itemcreate
+[20.10.17 01:35:21] SUCCESS Testa[268480771] admin_create_item 10512
+[20.10.17 01:37:11] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:37:12] SUCCESS Testa[268480771] admin_server admserver.htm
+[20.10.17 01:37:13] SUCCESS Testa[268480771] admin_show_html reload.htm
+[20.10.17 01:37:15] SUCCESS Testa[268480771] admin_reload_multisell
+[20.10.17 01:39:23] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:39:24] SUCCESS Testa[268480771] admin_server admserver.htm
+[20.10.17 01:39:25] SUCCESS Testa[268480771] admin_show_html reload.htm
+[20.10.17 01:39:26] SUCCESS Testa[268480771] admin_reload_multisell
+[20.10.17 01:40:47] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:40:48] SUCCESS Testa[268480771] admin_itemcreate
+[20.10.17 01:40:50] SUCCESS Testa[268480771] admin_create_item 20335
+[20.10.17 01:41:59] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:42:00] SUCCESS Testa[268480771] admin_server admserver.htm
+[20.10.17 01:42:01] SUCCESS Testa[268480771] admin_show_html reload.htm
+[20.10.17 01:42:02] SUCCESS Testa[268480771] admin_reload_multisell
+[20.10.17 01:43:04] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:43:05] SUCCESS Testa[268480771] admin_itemcreate
+[20.10.17 01:43:08] SUCCESS Testa[268480771] admin_create_item 10659
+[20.10.17 01:44:08] SUCCESS Testa[268480771] admin_create_item 13020
+[20.10.17 01:44:26] SUCCESS Testa[268480771] ->  admin_admin
+[20.10.17 01:44:27] SUCCESS Testa[268480771] ->  admin_invis
+[20.10.17 01:44:47] SUCCESS Testa[268480771] ->  admin_admin
+[20.10.17 01:44:49] SUCCESS Testa[268480771] ->  admin_itemcreate
+[20.10.17 01:44:51] SUCCESS Testa[268480771] ->  admin_create_item 14064
+[20.10.17 01:45:24] SUCCESS Testa[268480771] admin_create_item 90000
+[20.10.17 01:45:28] SUCCESS Testa[268480771] admin_create_item 90001
+[20.10.17 01:49:42] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:49:43] SUCCESS Testa[268480771] admin_server admserver.htm
+[20.10.17 01:49:44] SUCCESS Testa[268480771] admin_show_html reload.htm
+[20.10.17 01:49:45] SUCCESS Testa[268480771] admin_reload_multisell
+[20.10.17 01:49:56] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:49:57] SUCCESS Testa[268480771] admin_server admserver.htm
+[20.10.17 01:49:58] SUCCESS Testa[268480771] admin_server_shutdown
+[20.10.17 01:50:01] SUCCESS Testa[268480771] admin_admin
+[20.10.17 01:50:02] SUCCESS Testa[268480771] admin_char_manage
+[20.10.17 01:50:03] SUCCESS Testa[268480771] admin_show_characters 0
+[20.10.17 01:50:04] SUCCESS Testa[268480771] -> LacosteR[268495178] admin_character_list LacosteR

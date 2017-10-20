@@ -1,948 +1,971 @@
-Oct 19, 2017 8:36:38 AM ru.akumu.smartguard.core.log.GuardLog log
+Oct 20, 2017 1:09:40 AM ru.akumu.smartguard.core.log.GuardLog log
 INFO: --- SmartGuard Protection ---
-Oct 19, 2017 8:36:38 AM ru.akumu.smartguard.core.log.GuardLog log
+Oct 20, 2017 1:09:40 AM ru.akumu.smartguard.core.log.GuardLog log
 INFO: License ID[469] TOKEN[F8D7AD67358214ED41D64A045C2CC5E3]
-[08:36:38]  INFO ===================================-[ Boot Manager ]
-[08:36:38]  INFO BootManager: Initializing Configs.
-[08:36:38]  INFO Abuse: Loaded 18 abuse words.
-[08:36:38]  INFO ===================================-[ Boot Manager ]
-[08:36:38]  INFO BootManager: Config Sucessffully Loaded.
-[08:36:38]  INFO BootManager: Preparations Done. Staring GameServer!
-[08:36:38]  INFO ====================================================
-[08:36:38]  INFO Development Company:....................... UBR Soft
-[08:36:38]  INFO Build date: ............................. 15.09.2017
-[08:36:38]  INFO Chronicle version: ................. High Five - Pt5
-[08:36:38]  INFO ====================================================
-[08:36:39]  INFO armor_enchant_bonus_data: Loaded bonuses for 6 grades.
-[08:36:39]  INFO ======================================-[ Configure ]
-[08:36:39]  WARN Failed create new instance from 'l2p.gameserver.taskmanager.ItemsAutoDestroy' class. Default constructor not found.
-[08:36:39]  INFO Level loaded in [0.0] secs
-[08:36:39]  INFO =======================================-[ Database ]
-[08:36:39]  INFO Hikari pool HikariPool-0 is starting.
-[08:36:39]  INFO DatabaseFactory: Connected to database server
-[08:36:39]  INFO Level loaded in [0.0] secs
-[08:36:39]  INFO ==========================================-[ Cache ]
-[08:36:40]  INFO CrestCache: Loaded 0 crests
-[08:36:40]  INFO Loaded 314 EffectOption annotation classes in 10 milliseconds
-[08:36:40]  INFO Loaded 73 OperateCondOption annotation classes in 5 milliseconds
-[08:36:40]  INFO Loaded 9 TargetOperateCondOption annotation classes in 4 milliseconds
-[08:36:40]  INFO Level loaded in [0.0] secs
-[08:36:40]  INFO =====================================-[ SystemInfo ]
-[08:36:40]  INFO Level loaded in [0.0] secs
-[08:36:40]  INFO ======================================-[ Scripting ]
-[08:36:40]  INFO Scripts: Loading...
-[08:36:42]  INFO Scripts: Loaded 1288 classes.
-[08:36:42]  INFO Level loaded in [2.0] secs
-[08:36:42]  INFO ========================================-[ Holders ]
-[08:36:42]  WARN Failed create new instance from 'l2p.gameserver.data.StringHolder' class. Default constructor not found.
-[08:36:42]  INFO Initializing CoupleManager
-[08:36:42]  INFO Loaded: 0 couples(s)
-[08:36:42]  INFO CoupleManager initialized
-[08:36:42]  INFO CommunityTeleportHolder: Loaded 2 elements (in 0.011 sec)
-[08:36:42]  INFO DonateBonusHolder: Loaded 5 elements (in 0.014 sec)
-[08:36:42]  INFO KillingSpreeHolder: Loaded 20 elements (in 0.021 sec)
-[08:36:42]  INFO CommunityShopHolder: Loaded 27 elements (in 0.024 sec)
-[08:36:42]  INFO ChatControlHolder: Loaded 10 elements (in 0.082 sec)
-[08:36:42]  INFO Loaded: 4 Community Effect Lists
-[08:36:42]  INFO certification_data: Loaded 74 certifications.
-[08:36:42]  INFO Loaded 0 SkinChangeItem classes.
-[08:36:42]  INFO AirshipDockHolder: loaded 4 airship dock(s) count.
-[08:36:42]  INFO Loaded 2 forges.
-[08:36:42]  INFO UserBasicActionHolder: Loaded 189 elements (in 0.063 sec)
-[08:36:42]  INFO Loaded 66 enchant scrolls.
-[08:36:43]  INFO Loaded 5 enchant catalysts.
-[08:36:42]  INFO Loaded 18 attribute stones.
-[08:36:42]  INFO Loaded 7 Four Sepulcher Spawns Types.
-[08:36:42]  INFO Loaded: 0 couples(s)
-[08:36:42]  INFO MutatorHolder: Loaded 1 elements (in 0.000 sec)
-[08:36:42]  INFO CategoryDataHolder: Loaded 124 elements (in 0.097 sec)
-[08:36:42]  INFO EventMapHolder: Loaded 10 elements (in 0.010 sec)
-[08:36:42]  INFO AbnormalSetHolder: Loaded 7 elements (in 0.001 sec)
-[08:36:42]  INFO VoiceBuffHolder: Loaded 7 elements (in 0.088 sec)
-[08:36:42]  INFO BalancerHolder: Loaded 1 elements (in 0.089 sec)
-[08:36:43]  INFO PetitionGroupHolder: loaded 1 petition group(s) count.
-[08:36:42]  INFO StaticObjectHolder: loaded 50 static object(s) count.
-[08:36:42]  INFO CommunityEffectListHolder: Loaded 4 elements (in 0.077 sec)
-[08:36:43]  INFO Loaded auto-pvp event "TvT" with id: 1
-[08:36:43]  INFO Loaded auto-pvp event "TDM" with id: 2
-[08:36:43]  INFO Loaded auto-pvp event "CTF" with id: 3
-[08:36:43]  INFO Loaded auto-pvp event "Resistance" with id: 4
-[08:36:43]  INFO Loaded auto-pvp event "Mob" with id: 5
-[08:36:43]  INFO Loaded auto-pvp event "Domination" with id: 6
-[08:36:43]  INFO Loaded auto-pvp event "Last" with id: 7
-[08:36:43]  INFO Loaded auto-pvp event "Last" with id: 8
-[08:36:43]  INFO Loaded auto-pvp event "Death" with id: 9
-[08:36:43]  INFO Loaded auto-pvp event "Assault" with id: 10
-[08:36:43]  INFO EventSettingHolder: Loaded 10 elements (in 0.276 sec)
-[08:36:43]  INFO RecipeHolder: Loaded 998 elements (in 0.343 sec)
-[08:36:43]  INFO InstantZoneDataHolder: Loaded 169 elements (in 0.471 sec)
-[08:36:43]  INFO FishingDataHolder: Loaded 369 elements (in 0.514 sec)
-[08:36:43]  INFO HennaHolder: loaded 180 henna(s) count.
-[08:36:43]  INFO CastleDataHolder: Loaded 180 elements (in 0.777 sec)
-[08:36:43]  INFO DoorHolder: loaded 1155 door(s) count.
-[08:36:43]  INFO SkillAcquireHolder: load 56631 normal learns for 103 classes.
-[08:36:43]  INFO SkillAcquireHolder: load 79 transfer learns for 3 classes.
-[08:36:43]  INFO SkillAcquireHolder: load 120 transformation learns for 6 races.
-[08:36:43]  INFO SkillAcquireHolder: load 662 fishing learns for 6 races.
-[08:36:43]  INFO SkillAcquireHolder: load 72 certification learns.
-[08:36:43]  INFO SkillAcquireHolder: load 3 collection learns.
-[08:36:43]  INFO SkillAcquireHolder: load 44 pledge learns.
-[08:36:43]  INFO SkillAcquireHolder: load 18 sub unit learns.
-[08:36:43]  INFO DoorDataHolder: Loaded 1459 elements (in 0.891 sec)
-[08:36:43]  INFO VariationDataHolder: loaded 31 variation data(s) count.
-[08:36:43]  INFO AreaDataHolder: Loaded 2504 elements (in 0.990 sec)
-[08:36:45]  INFO SkillsEngine: Loaded 66013 skills templates from XML files. Max id: 26073, max level: 259
-[08:36:45]  INFO SkillsEngine: Loaded 25 custom skills templates from XML files.
-[08:36:47]  INFO NpcPosHolder: Loaded 30748 elements (in 4.685 sec)
-[08:36:48]  INFO NpcDataHolder: Loaded 10461 elements (in 5.488 sec)
-[08:36:48]  INFO ItemDataHolder: Loaded 19416 elements (in 5.982 sec)
-[08:36:52]  INFO SkillDataHolder: Loaded 65885 elements (in 9.677 sec)
-[08:36:52]  INFO Level loaded in [9.0] secs
-[08:36:52]  INFO =====================================-[ RetailData ]
-[08:36:52]  INFO PetDataHolder: Loaded 52 elements (in 0.287 sec)
-[08:36:52]  INFO hp_mp_cp_data: Loaded 103 hp, 103 mp, 103 cp.
-[08:36:52]  INFO pc_breath_bonus_table: Loaded 20 templates.
-[08:36:52]  INFO pc_parameters: Loaded.
-[08:36:52]  INFO pc_ext_parameters: Loaded.
-[08:36:52]  INFO pc_safe_fall_height_table: Loaded 20 templates.
-[08:36:52]  INFO RegenBonusData: Loaded 4 hp bonuses.
-[08:36:52]  INFO RegenBonusData: Loaded 4 mp bonuses.
-[08:36:52]  INFO RegenBonusData: Loaded 4 cp bonuses.
-[08:36:52]  INFO setting: Loaded human_fighter equipment.
-[08:36:52]  INFO setting: Loaded human_magician equipment.
-[08:36:52]  INFO setting: Loaded elf_fighter equipment.
-[08:36:52]  INFO setting: Loaded elf_magician equipment.
-[08:36:52]  INFO setting: Loaded darkelf_fighter equipment.
-[08:36:52]  INFO setting: Loaded darkelf_magician equipment.
-[08:36:52]  INFO setting: Loaded orc_fighter equipment.
-[08:36:52]  INFO setting: Loaded orc_shaman equipment.
-[08:36:52]  INFO setting: Loaded dwarf_apprentice equipment.
-[08:36:52]  INFO setting: Loaded kamael_m_soldier equipment.
-[08:36:52]  INFO setting: Loaded kamael_f_soldier equipment.
-[08:36:52]  INFO setting: Loaded human_fighter start points.
-[08:36:52]  INFO setting: Loaded human_magician start points.
-[08:36:52]  INFO setting: Loaded elf_fighter start points.
-[08:36:52]  INFO setting: Loaded elf_magician start points.
-[08:36:52]  INFO setting: Loaded darkelf_fighter start points.
-[08:36:52]  INFO setting: Loaded darkelf_magician start points.
-[08:36:52]  INFO setting: Loaded dwarf_apprentice start points.
-[08:36:52]  INFO setting: Loaded orc_fighter start points.
-[08:36:52]  INFO setting: Loaded orc_shaman start points.
-[08:36:52]  INFO setting: Loaded kamael_m_soldier start points.
-[08:36:52]  INFO setting: Loaded kamael_f_soldier start points.
-[08:36:52]  INFO Level loaded in [0.0] secs
-[08:36:52]  INFO ======================================-[ Threading ]
-[08:36:52]  INFO General threads: ..... 30.
-[08:36:52]  INFO Effect threads: ...... 15.
-[08:36:52]  INFO AI threads: .......... 30.
-[08:36:52]  INFO Packet threads: ...... 15.
-[08:36:52]  INFO Move threads: ....... 30.
-[08:36:52]  INFO DeadlockDetector: Initializing
-[08:36:52]  INFO Level loaded in [0.0] secs
-[08:36:52]  INFO ======================================-[ IdFactory ]
-[08:36:52]  INFO IdFactory: Clear characters online status.
-[08:36:52]  INFO IdFactory: Extracted 13 used id's from characters
-[08:36:52]  INFO IdFactory: Extracted 490 used id's from items
-[08:36:52]  INFO IdFactory: Extracted 1 used id's from pets
-[08:36:52]  INFO IdFactory: Extracted total 504 used id's.
-[08:36:52]  INFO IdFactory: 205824 id's available.
-[08:36:52]  INFO IdFactory: Free ObjectID's remaining: 1879047687
-[08:36:52]  INFO Level loaded in [0.0] secs
-[08:36:52]  INFO ==========================================-[ World ]
-[08:36:52]  INFO L2World: Creating regions: [256][272][32].
-[08:36:52]  INFO GameTimeController: initialized. Current time is 9:41 in the day.
-[08:36:52]  INFO MapRegionManager: loaded 272 map region manager(s) count.
-[08:36:52]  INFO MapRegionManager: loaded 272 map region manager(s) count.
-[08:36:52]  INFO Level loaded in [0.0] secs
-[08:36:52]  INFO ========================================-[ Geodata ]
-[08:36:52]  INFO GeoEngine: Loading Geodata...
-[08:36:53]  INFO GeoEngine: Loaded 203 map(s), max layers: 21
-[08:36:53]  INFO Level loaded in [0.0] secs
-[08:36:53]  INFO =========================================-[ Skills ]
-[08:36:53]  INFO SkillTreeTable: Loaded 526 enchanted skills.
-[08:36:53]  INFO ArmorSetsHolder: loaded 198 armor sets(s) count.
-[08:36:53]  INFO CubicsEngine: Loaded 14 cubics templates from XML files.
-[08:36:53]  INFO Level loaded in [0.0] secs
-[08:36:53]  INFO ==========================================-[ Items ]
-[08:36:54]  INFO OptionDataHolder: loaded 24975 option data(s) count.
-[08:36:54]  INFO ItemParser: Skill not found(23341,1) for item:22394; file:22300-22399.xml
-[08:36:54]  INFO ItemParser: Skill not found(23341,2) for item:22395; file:22300-22399.xml
-[08:36:54]  INFO ItemParser: Skill not found(23341,3) for item:22396; file:22300-22399.xml
-[08:36:54]  INFO ItemParser: Skill not found(23341,4) for item:22397; file:22300-22399.xml
-[08:36:54]  INFO ItemParser: Skill not found(23341,5) for item:22398; file:22300-22399.xml
-[08:36:54]  INFO ItemParser: Skill not found(23341,6) for item:22399; file:22300-22399.xml
-[08:36:54]  INFO ItemParser: Skill not found(21272,1) for item:22383; file:22300-22399.xml
-[08:36:54]  INFO ItemParser: Skill not found(21273,1) for item:22384; file:22300-22399.xml
-[08:36:54]  INFO ItemParser: Skill not found(30000,2) for item:36064; file:36000-36099.xml
-[08:36:54]  INFO ItemHolder: loaded 19534 item(s) count.
-[08:36:54]  INFO TradeController: Loaded 4 file(s).
-[08:36:54]  INFO TradeController: Loaded 25190 Items.
-[08:36:54]  INFO TradeController: Loaded 728 Buylists.
-[08:36:54]  INFO ProductItemTable: Loaded 33 product item on sale.
-[08:36:54]  INFO SoulCrystalHolder: loaded 54 soul crystal(s) count.
-[08:36:54]  INFO Level loaded in [0.0] secs
-[08:36:54]  INFO ======================================-[ Character ]
-[08:36:54]  INFO Level loaded in [0.0] secs
-[08:36:54]  INFO ============================================-[ NPC ]
-[08:36:56]  INFO NpcHolder: loaded 10476 npc(s) count.
-[08:36:56]  INFO Level loaded in [1.0] secs
-[08:36:56]  INFO ===========================================-[ Zone ]
-[08:36:56]  INFO ZoneHolder: loaded 1129 zone(s) count.
-[08:36:56]  INFO Level loaded in [0.0] secs
-[08:36:56]  INFO ======================================-[ Instances ]
-[08:36:56] ERROR InstantZoneParser: Zone: tvt_respawn_map10_t1 not found; file: [710] TvT Instance.xml
-[08:36:56] ERROR InstantZoneParser: Zone: tvt_respawn_map10_t2 not found; file: [710] TvT Instance.xml
-[08:36:56]  INFO InstantZoneHolder: loaded 93 instant zone(s) count.
-[08:37:13]  INFO SevenSigns: Currently in the Seal Validation period!
-[08:37:13]  INFO SevenSigns: The Lords of Dawn have won the Seal of Avarice.
-[08:37:13]  INFO SevenSigns: The Lords of Dawn have won the Seal of Gnosis.
-[08:37:13]  INFO SevenSigns: The Lords of Dawn have won the Seal of Strife.
-[08:37:13]  INFO SevenSigns: The Competition last week ended with a tie.
-[08:37:13]  INFO SevenSigns: Next period begins in 4 days, 9 hours and 22 mins.
-[08:37:13]  INFO Level loaded in [17.0] secs
-[08:37:13]  INFO ======================================-[ NaiaTower ]
-[08:37:13]  INFO Naia Tower Manager: Loaded 12 rooms
-[08:37:13]  INFO Naia Core Manager: Loaded
-[08:37:13]  INFO Level loaded in [0.0] secs
-[08:37:13]  INFO ==========================================-[ Spawn ]
-[08:37:13]  INFO BoatHolder: loaded 0 boat(s) count.
-[08:37:13]  INFO SpawnParser: DTD file: spawn.dtd not exists.
-[08:37:13]  INFO SpawnHolder: loaded 0 spawn(s) count.
-[08:37:13]  INFO RaidBossSpawnManager: Loaded 131 Statuses
-[08:37:13]  INFO Loaded [50] Auto Spawns with [115] locations
-[08:37:13]  INFO BoatHolder: loaded 0 boat(s) count.
-[08:37:13]  INFO StaticObjectHolder: spawned: 50 static object(s).
-[08:37:13]  INFO Level loaded in [0.0] secs
-[08:37:13]  INFO =======================================-[ Managers ]
-[08:37:13]  INFO Blood Altar Manager: Initializing...
-[08:37:13]  INFO HellboundManager: Loaded 335 spawn entries.
-[08:37:13]  INFO HellboundManager: Spawned 623 mobs and NPCs according to the current Hellbound stage
-[08:37:13]  INFO Hellbound Manager: Loaded
-[08:37:13]  INFO Seed of Destruction Manager: Loaded
-[08:37:13]  INFO Seed of Infinity Manager: Loaded. Current stage is: 1
-[08:37:13]  INFO Category Manager: loading data...
-[08:37:13]  INFO Category Manager: loaded 124 categories.
-[08:37:13]  INFO Level loaded in [0.0] secs
-[08:37:13]  INFO =========================================-[ Events ]
-[08:37:13]  INFO SpawnExObject: not found spawn group: territory_manager_3
-[08:37:13]  INFO SpawnExObject: not found spawn group: giran_dominion_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: aden_castle_siege_artefact
-[08:37:13]  INFO SpawnExObject: not found spawn group: aden_castle_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: aden_castle_mass_gatekeeper
-[08:37:13]  INFO SpawnExObject: not found spawn group: oren_castle_siege_artefact
-[08:37:13]  INFO SpawnExObject: not found spawn group: oren_castle_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: oren_castle_mass_gatekeeper
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: bayou_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: territory_manager_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: gludio_dominion_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: gludio_castle_siege_artefact
-[08:37:13]  INFO SpawnExObject: not found spawn group: gludio_castle_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: gludio_castle_mass_gatekeeper
-[08:37:13]  INFO SpawnExObject: not found spawn group: dion_castle_siege_artefact
-[08:37:13]  INFO SpawnExObject: not found spawn group: dion_castle_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: dion_castle_mass_gatekeeper
-[08:37:13]  INFO SpawnExObject: not found spawn group: rune_castle_siege_artefact
-[08:37:13]  INFO SpawnExObject: not found spawn group: rune_castle_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: rune_castle_mass_gatekeeper
-[08:37:13]  INFO SpawnExObject: not found spawn group: rune_castle_benom
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: goddard_castle_siege_artefact
-[08:37:13]  INFO SpawnExObject: not found spawn group: goddard_castle_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: goddard_castle_mass_gatekeeper
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: borderland_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: valley_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: fortress_of_dead_owner
-[08:37:13]  INFO SpawnExObject: not found spawn group: fortress_of_dead_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: fortress_of_dead_boss
-[08:37:13]  INFO SpawnExObject: not found spawn group: bandits_stronghold_mass_teleporters
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: ivory_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: territory_manager_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: dion_dominion_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_no_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_siege_guards_no_owner
-[08:37:13]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_siege_nurka_no_owner
-[08:37:13]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_siege_guards_owner
-[08:37:13]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_siege_nurka_owner
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: floran_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: narsell_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: western_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: white_sands_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: territory_manager_6
-[08:37:13]  INFO SpawnExObject: not found spawn group: innadrille_dominion_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: hunters_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: rainbow_springs_coordinator
-[08:37:13]  INFO SpawnExObject: not found spawn group: rainbow_springs_arena_0
-[08:37:13]  INFO SpawnExObject: not found spawn group: rainbow_springs_arena_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: rainbow_springs_arena_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: rainbow_springs_arena_3
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: southern_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: territory_manager_8
-[08:37:13]  INFO SpawnExObject: not found spawn group: rune_dominion_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: archaic_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: giran_castle_siege_artefact
-[08:37:13]  INFO SpawnExObject: not found spawn group: giran_castle_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: giran_castle_mass_gatekeeper
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: shanty_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: tanor_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: hive_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: aaru_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: schuttgart_castle_siege_artefact
-[08:37:13]  INFO SpawnExObject: not found spawn group: schuttgart_castle_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: schuttgart_castle_mass_gatekeeper
-[08:37:13]  INFO SpawnExObject: not found spawn group: innadril_castle_siege_artefact
-[08:37:13]  INFO SpawnExObject: not found spawn group: innadril_castle_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: innadril_castle_mass_gatekeeper
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: monastic_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: swamp_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_out_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: antharas_fortress_in_power_units
-[08:37:13]  INFO SpawnExObject: not found spawn group: devastated_castle_owner
-[08:37:13]  INFO SpawnExObject: not found spawn group: devastated_castle_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: devastated_castle_boss
-[08:37:13]  INFO SpawnExObject: not found spawn group: territory_manager_9
-[08:37:13]  INFO SpawnExObject: not found spawn group: schuttgart_dominion_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: territory_manager_4
-[08:37:13]  INFO SpawnExObject: not found spawn group: oren_dominion_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: wild_beast_reserve_mass_teleporters
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_peace_merchant
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_peace_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_siege_commanders
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_envoy
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_default_guards
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_live_with_c_center
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_noowner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_owner_flagdef
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_gunner
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_reinforce_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_reinforce_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: demon_fortress_mercenary
-[08:37:13]  INFO SpawnExObject: not found spawn group: territory_manager_7
-[08:37:13]  INFO SpawnExObject: not found spawn group: godard_dominion_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: territory_manager_5
-[08:37:13]  INFO SpawnExObject: not found spawn group: aden_dominion_siege
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_0
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_3
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_4
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_5
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_6
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_7
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_8
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_9
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_10
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_11
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_12
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_13
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_14
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_15
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_16
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_17
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_18
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_19
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_20
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_21
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_22
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_23
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_24
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_0
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_3
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_4
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_5
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_6
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_7
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_8
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_9
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_10
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_11
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_12
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_13
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_14
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_15
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_16
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_17
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_18
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_19
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_20
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_21
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_22
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_23
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_24
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_0
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_1
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_2
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_3
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_4
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_5
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_6
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_7
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_8
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_9
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_10
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_11
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_12
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_13
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_14
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_15
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_16
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_17
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_18
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_19
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_20
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_21
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_22
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_23
-[08:37:13]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_24
-[08:37:13]  INFO SpawnExObject: not found spawn group: kratei_cube_manager
-[08:37:13]  INFO EventHolder: loaded 95 event(s) count.
-[08:37:13]  INFO ZoneHolder: loaded 1129 zone(s) count.
-[08:37:13]  INFO Level loaded in [0.0] secs
-[08:37:13]  INFO ==========================================-[ Siege ]
-[08:37:13]  INFO ResidenceHolder: total size: 83
-[08:37:13]  INFO ResidenceHolder:  - load 9 castle(s).
-[08:37:13]  INFO ResidenceHolder:  - load 21 fortress(s).
-[08:37:13]  INFO ResidenceHolder:  - load 44 clanhall(s).
-[08:37:13]  INFO ResidenceHolder:  - load 9 dominion(s).
-[08:37:14]  INFO Inited Event: 1
-[08:37:14]  INFO Inited Event: 2
-[08:37:14]  INFO Inited Event: 1
-[08:37:14]  INFO CastleSiegeEvent: Gludio Castle time - 20:00 22.10.2017
-[08:37:14]  INFO Inited Event: 2
-[08:37:14]  INFO CastleSiegeEvent: Dion Castle time - 19:00 29.10.2017
-[08:37:14]  INFO Inited Event: 3
-[08:37:14]  INFO CastleSiegeEvent: Giran Castle time - 19:00 29.10.2017
-[08:37:14]  INFO Inited Event: 4
-[08:37:14]  INFO CastleSiegeEvent: Oren Castle time - 19:00 29.10.2017
-[08:37:14]  INFO Inited Event: 5
-[08:37:14]  INFO CastleSiegeEvent: Aden Castle time - 19:00 29.10.2017
-[08:37:14]  INFO Inited Event: 6
-[08:37:14]  INFO CastleSiegeEvent: Innadril Castle time - 19:00 29.10.2017
-[08:37:14]  INFO Inited Event: 7
-[08:37:14]  INFO CastleSiegeEvent: Goddard Castle time - 19:00 29.10.2017
-[08:37:14]  INFO Inited Event: 8
-[08:37:14]  INFO CastleSiegeEvent: Rune Castle time - 19:00 29.10.2017
-[08:37:14]  INFO Inited Event: 9
-[08:37:14]  INFO CastleSiegeEvent: Schuttgart Castle time - 19:00 29.10.2017
-[08:37:14]  INFO Inited Event: 21
-[08:37:14]  INFO ClanHallNpcSiegeEvent: Fortress Of Resistance time - 17:00 23.10.2017
-[08:37:14]  INFO Inited Event: 22
-[08:37:14]  INFO ClanHallAuctionEvent: Moonstone Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 23
-[08:37:14]  INFO ClanHallAuctionEvent: Onyx Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 24
-[08:37:14]  INFO ClanHallAuctionEvent: Topaz Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 25
-[08:37:14]  INFO ClanHallAuctionEvent: Ruby Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 26
-[08:37:14]  INFO ClanHallAuctionEvent: Crystal Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 27
-[08:37:14]  INFO ClanHallAuctionEvent: Onyx Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 28
-[08:37:14]  INFO ClanHallAuctionEvent: Sapphire Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 29
-[08:37:14]  INFO ClanHallAuctionEvent: Moonstone Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 30
-[08:37:14]  INFO ClanHallAuctionEvent: Emerald Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 31
-[08:37:14]  INFO ClanHallAuctionEvent: The Atramental Barracks time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 32
-[08:37:14]  INFO ClanHallAuctionEvent: The Scarlet Barracks time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 33
-[08:37:14]  INFO ClanHallAuctionEvent: The Viridian Barracks time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 34
-[08:37:14]  INFO ClanHallSiegeEvent: Devastated Castle time - 18:00 28.10.2017
-[08:37:14]  INFO Inited Event: 35
-[08:37:14]  INFO ClanHallTeamBattleEvent: Bandit Stronghold time - 14:00 28.10.2017
-[08:37:14]  INFO Inited Event: 36
-[08:37:14]  INFO ClanHallAuctionEvent: The Golden Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 37
-[08:37:14]  INFO ClanHallAuctionEvent: The Silver Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 38
-[08:37:14]  INFO ClanHallAuctionEvent: The Mithril Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 39
-[08:37:14]  INFO ClanHallAuctionEvent: Silver Manor time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 40
-[08:37:14]  INFO ClanHallAuctionEvent: Gold Manor time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 41
-[08:37:14]  INFO ClanHallAuctionEvent: The Bronze Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 42
-[08:37:14]  INFO ClanHallAuctionEvent: The Golden Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 43
-[08:37:14]  INFO ClanHallAuctionEvent: The Silver Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 44
-[08:37:14]  INFO ClanHallAuctionEvent: The Mithril Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 45
-[08:37:14]  INFO ClanHallAuctionEvent: The Bronze Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 46
-[08:37:14]  INFO ClanHallAuctionEvent: Silver Manor time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 47
-[08:37:14]  INFO ClanHallAuctionEvent: Moonstone Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 48
-[08:37:14]  INFO ClanHallAuctionEvent: Onyx Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 49
-[08:37:14]  INFO ClanHallAuctionEvent: Emerald Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 50
-[08:37:14]  INFO ClanHallAuctionEvent: Sapphire Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 51
-[08:37:14]  INFO ClanHallAuctionEvent: Mont Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 52
-[08:37:14]  INFO ClanHallAuctionEvent: Astaire Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 53
-[08:37:14]  INFO ClanHallAuctionEvent: Aria Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 54
-[08:37:14]  INFO ClanHallAuctionEvent: Yiana Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 55
-[08:37:14]  INFO ClanHallAuctionEvent: Roien Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 56
-[08:37:14]  INFO ClanHallAuctionEvent: Luna Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 57
-[08:37:14]  INFO ClanHallAuctionEvent: Traban Chamber time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 58
-[08:37:14]  INFO ClanHallAuctionEvent: Eisen Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 59
-[08:37:14]  INFO ClanHallAuctionEvent: Heavy Metal Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 60
-[08:37:14]  INFO ClanHallAuctionEvent: Molten Ore Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 61
-[08:37:14]  INFO ClanHallAuctionEvent: Titan Hall time - 08:37 19.10.2017
-[08:37:14]  INFO Inited Event: 62
-[08:37:14]  INFO ClanHallMiniGameEvent: Rainbow Springs time - 21:00 28.10.2017
-[08:37:14]  INFO Inited Event: 63
-[08:37:14]  INFO ClanHallTeamBattleEvent: Wild Beast Reserve time - 20:00 28.10.2017
-[08:37:14]  INFO Inited Event: 64
-[08:37:14]  INFO ClanHallSiegeEvent: Fortress of Dead time - 17:00 28.10.2017
-[08:37:14]  INFO Inited Event: 81
-[08:37:14]  INFO DominionSiegeEvent: Gludio Dominion time - undefined
-[08:37:14]  INFO Inited Event: 82
-[08:37:14]  INFO DominionSiegeEvent: Dion Dominion time - undefined
-[08:37:14]  INFO Inited Event: 83
-[08:37:14]  INFO DominionSiegeEvent: Giran Dominion time - undefined
-[08:37:14]  INFO Inited Event: 84
-[08:37:14]  INFO DominionSiegeEvent: Oren Dominion time - undefined
-[08:37:14]  INFO Inited Event: 85
-[08:37:14]  INFO DominionSiegeEvent: Aden Dominion time - undefined
-[08:37:14]  INFO Inited Event: 86
-[08:37:14]  INFO DominionSiegeEvent: Innadril Dominion time - undefined
-[08:37:14]  INFO Inited Event: 87
-[08:37:14]  INFO DominionSiegeEvent: Goddard Dominion time - undefined
-[08:37:14]  INFO Inited Event: 88
-[08:37:14]  INFO DominionSiegeEvent: Rune Dominion time - undefined
-[08:37:14]  INFO Inited Event: 89
-[08:37:14]  INFO DominionSiegeEvent: Schuttgart Dominion time - undefined
-[08:37:14]  INFO Inited Event: 101
-[08:37:14]  INFO FortressSiegeEvent: Shanty Fortress time - undefined
-[08:37:14]  INFO Inited Event: 102
-[08:37:14]  INFO FortressSiegeEvent: Southern Fortress time - undefined
-[08:37:14]  INFO Inited Event: 103
-[08:37:14]  INFO FortressSiegeEvent: Hive Fortress time - undefined
-[08:37:14]  INFO Inited Event: 104
-[08:37:14]  INFO FortressSiegeEvent: Valley Fortress time - undefined
-[08:37:14]  INFO Inited Event: 105
-[08:37:14]  INFO FortressSiegeEvent: Ivory Fortress time - undefined
-[08:37:14]  INFO Inited Event: 106
-[08:37:14]  INFO FortressSiegeEvent: Narsell Fortress time - undefined
-[08:37:14]  INFO Inited Event: 107
-[08:37:14]  INFO FortressSiegeEvent: Bayou Fortress time - undefined
-[08:37:14]  INFO Inited Event: 108
-[08:37:14]  INFO FortressSiegeEvent: White Sands Fortress time - undefined
-[08:37:14]  INFO Inited Event: 109
-[08:37:14]  INFO FortressSiegeEvent: Borderland Fortress time - undefined
-[08:37:14]  INFO Inited Event: 110
-[08:37:14]  INFO FortressSiegeEvent: Swamp Fortress time - undefined
-[08:37:14]  INFO Inited Event: 111
-[08:37:14]  INFO FortressSiegeEvent: Archaic Fortress time - undefined
-[08:37:14]  INFO Inited Event: 112
-[08:37:14]  INFO FortressSiegeEvent: Floran Fortress time - undefined
-[08:37:14]  INFO Inited Event: 113
-[08:37:14]  INFO FortressSiegeEvent: Cloud Mountain Fortress time - undefined
-[08:37:14]  INFO Inited Event: 114
-[08:37:14]  INFO FortressSiegeEvent: Tanor Fortress time - undefined
-[08:37:14]  INFO Inited Event: 115
-[08:37:14]  INFO FortressSiegeEvent: Dragonspine Fortress time - undefined
-[08:37:14]  INFO Inited Event: 116
-[08:37:14]  INFO FortressSiegeEvent: Antharas Fortress time - undefined
-[08:37:14]  INFO Inited Event: 117
-[08:37:14]  INFO FortressSiegeEvent: Western Fortress time - undefined
-[08:37:14]  INFO Inited Event: 118
-[08:37:14]  INFO FortressSiegeEvent: Hunter's Fortress time - undefined
-[08:37:14]  INFO Inited Event: 119
-[08:37:14]  INFO FortressSiegeEvent: Aaru Fortress time - undefined
-[08:37:14]  INFO Inited Event: 120
-[08:37:14]  INFO FortressSiegeEvent: Demon Fortress time - undefined
-[08:37:14]  INFO Inited Event: 121
-[08:37:14]  INFO FortressSiegeEvent: Monastic Fortress time - undefined
-[08:37:14]  INFO Inited Event: 2
-[08:37:14]  INFO KrateisCubeEvent: Krateis Cube 70-75 Level time - 09:00 19.10.2017
-[08:37:14]  INFO Inited Event: 3
-[08:37:14]  INFO KrateisCubeEvent: Krateis Cube 76-79 Level time - 09:00 19.10.2017
-[08:37:14]  INFO Inited Event: 4
-[08:37:14]  INFO KrateisCubeEvent: Krateis Cube 80-85 Level time - 09:00 19.10.2017
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO ========================================-[ Economy ]
-[08:37:14]  INFO Manor System: Initializing...
-[08:37:14]  INFO CursedWeaponsManager: Loaded 2 cursed weapon(s).
-[08:37:14]  INFO Initializing ItemAuctionManager
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO ======================================-[ BigEvents ]
-[08:37:14]  INFO AutoSpawnHandler: Loaded 50 handlers in total.
-[08:37:14]  INFO DimensionalRiftManager: Loaded 13 room types with 112 rooms.
-[08:37:14]  INFO DimensionalRiftManager: Loaded 300 dimensional rift spawns, 0 errors.
-[08:37:14]  INFO Hero System: Loaded 0 Heroes.
-[08:37:14]  INFO Hero System: Loaded 0 all time Heroes.
-[08:37:14]  INFO Olympiad System: Loading Olympiad System....
-[08:37:14]  INFO Olympiad System: Currently in Olympiad Period
-[08:37:14]  INFO Olympiad System: Period Ends....
-[08:37:14]  INFO Olympiad System: In 12 days, 16 hours and 23 mins.
-[08:37:14]  INFO Olympiad System: Next Weekly Change is in....
-[08:37:14]  INFO Olympiad System: In 4 days, 3 hours and 22 mins.
-[08:37:14]  INFO Olympiad System: Loaded 1 Noblesses
-[08:37:14]  INFO Olympiad System: Competition Period Starts in 0 days, 11 hours and 23 mins.
-[08:37:14]  INFO Olympiad System: Event starts/started: Thu Oct 19 20:00:14 CEST 2017
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO =========================================-[ Bosses ]
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO =======================================-[ Handlers ]
-[08:37:14]  INFO TargetTypeManager registered 17 handlers
-[08:37:14]  INFO OperateCondManager registered 1 handlers
-[08:37:14]  INFO TargetOperateCondManager registered 1 handlers
-[08:37:14]  INFO AffectScopeManager registered 1 handlers
-[08:37:14]  INFO AffectObjectManager registered 1 handlers
-[08:37:14]  INFO ActionManager registered 20 handlers
-[08:37:14]  INFO UserCommandManager registered 17 handlers
-[08:37:14]  INFO Loaded Event: Bounty Hunters Guild
-[08:37:14]  INFO VoiceCommandManager registered 38 handlers
-[08:37:14]  INFO AntharasManager: State of Antharas is NOTSPAWN.
-[08:37:14]  INFO AntharasManager: Next spawn date of Antharas is 01:00 01.01.1970.
-[08:37:14]  INFO BaiumManager: State of Baium is NOTSPAWN.
-[08:37:14]  INFO BaiumManager: Next spawn date: 01:00 01.01.1970
-[08:37:14]  INFO Beleth Manager: Loaded successfuly
-[08:37:14]  INFO FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
-[08:37:14]  INFO FourSepulchersManager: loaded 30588 physical monsters spawns.
-[08:37:14]  INFO FourSepulchersManager: loaded 30588 magical monsters spawns.
-[08:37:14]  INFO FourSepulchersManager: loaded 2116 Church of duke monsters spawns.
-[08:37:14]  INFO FourSepulchersManager: loaded 1156 Emperor's grave NPC spawns.
-[08:37:14]  INFO FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
-[08:37:14]  INFO FourSepulchersManager: Spawned Emperors' Sepulcher Manager
-[08:37:14]  INFO FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
-[08:37:14]  INFO FourSepulchersManager: Spawned Judges' Sepulcher Manager
-[08:37:14]  INFO FourSepulchersManager: Beginning in Attack time
-[08:37:14]  INFO SailrenManager: State of Sailren is NOTSPAWN.
-[08:37:14]  INFO SailrenManager: Next spawn date of Sailren is 01:00 01.01.1970.
-[08:37:14]  INFO Thu Oct 19 08:37:14 CEST 2017 Atk announce scheduled to 40.0 minute of this hour.
-[08:37:14]  INFO ValakasManager: State of Valakas is NOTSPAWN.
-[08:37:14]  INFO ValakasManager: Next spawn date of Valakas is 01:00 01.01.1970.
-[08:37:14]  INFO Loaded Event: Apil Fool's Day [state: deactivated]
-[08:37:14]  INFO Loaded Event: Christmas [state: deactivated]
-[08:37:14]  INFO Loaded Event: Coffer of Shadows [state: deactivated]
-[08:37:14]  INFO Loaded Event: Freya Celebration [state: deactivated]
-[08:37:14]  INFO Loaded Event: Gift Of Vitality [state: deactivated]
-[08:37:14]  INFO Loaded Event: March 8 [state: deactivated]
-[08:37:14]  INFO Loaded Event: Master of Enchanting [state: deactivated]
-[08:37:14]  INFO Loaded Event: PcCafePointsExchange [state: deactivated]
-[08:37:14]  INFO Loaded Event: Santa Christmas [state: deactivated]
-[08:37:14]  INFO Loaded Event: SavingSnowman [state: deactivated]
-[08:37:14]  INFO Loaded Event: Summer Meleons [state: deactivated]
-[08:37:14]  INFO Loaded Event: The Fall Harvest [state: deactivated]
-[08:37:14]  INFO Loaded Event: The Flow Of The Horror [state: deactivated]
-[08:37:14]  INFO Loaded Event: Trick of Trnasmutation [state: deactivated]
-[08:37:14]  INFO Loaded Event: TvT Arena 1 [state: deactivated]
-[08:37:14]  INFO Loaded Event: TvT Arena 2 [state: deactivated]
-[08:37:14]  INFO Loaded Event: TvT Arena 3 [state: deactivated]
-[08:37:14]  INFO Loaded Event: L2 Medal Collection Event [state: deactivated]
-[08:37:14]  INFO Loaded Event: Change of Heart[state: deactivated]
-[08:37:14]  INFO Loaded Event: l2day [state: deactivated]
-[08:37:14]  INFO ManorManager: Loaded 270 seeds
+[01:09:40]  INFO ===================================-[ Boot Manager ]
+[01:09:40]  INFO BootManager: Initializing Configs.
+[01:09:40]  INFO Abuse: Loaded 18 abuse words.
+[01:09:40]  INFO ===================================-[ Boot Manager ]
+[01:09:40]  INFO BootManager: Config Sucessffully Loaded.
+[01:09:40]  INFO BootManager: Preparations Done. Staring GameServer!
+[01:09:40]  INFO ====================================================
+[01:09:40]  INFO Development Company:....................... UBR Soft
+[01:09:40]  INFO Build date: ............................. 15.09.2017
+[01:09:40]  INFO Chronicle version: ................. High Five - Pt5
+[01:09:40]  INFO ====================================================
+[01:09:42]  INFO armor_enchant_bonus_data: Loaded bonuses for 6 grades.
+[01:09:42]  INFO ======================================-[ Configure ]
+[01:09:42]  WARN Failed create new instance from 'l2p.gameserver.taskmanager.ItemsAutoDestroy' class. Default constructor not found.
+[01:09:42]  INFO Level loaded in [0.0] secs
+[01:09:42]  INFO =======================================-[ Database ]
+[01:09:42]  INFO Hikari pool HikariPool-0 is starting.
+[01:09:42]  INFO DatabaseFactory: Connected to database server
+[01:09:42]  INFO Level loaded in [0.0] secs
+[01:09:42]  INFO ==========================================-[ Cache ]
+[01:09:42]  INFO CrestCache: Loaded 0 crests
+[01:09:42]  INFO Loaded 314 EffectOption annotation classes in 6 milliseconds
+[01:09:42]  INFO Loaded 73 OperateCondOption annotation classes in 4 milliseconds
+[01:09:42]  INFO Loaded 9 TargetOperateCondOption annotation classes in 4 milliseconds
+[01:09:42]  INFO Level loaded in [0.0] secs
+[01:09:42]  INFO =====================================-[ SystemInfo ]
+[01:09:42]  INFO Level loaded in [0.0] secs
+[01:09:42]  INFO ======================================-[ Scripting ]
+[01:09:42]  INFO Scripts: Loading...
+[01:09:45]  INFO Scripts: Loaded 1288 classes.
+[01:09:45]  INFO Level loaded in [2.0] secs
+[01:09:45]  INFO ========================================-[ Holders ]
+[01:09:45]  WARN Failed create new instance from 'l2p.gameserver.data.StringHolder' class. Default constructor not found.
+[01:09:45]  INFO Initializing CoupleManager
+[01:09:45]  INFO Loaded: 0 couples(s)
+[01:09:45]  INFO CoupleManager initialized
+[01:09:45]  INFO KillingSpreeHolder: Loaded 20 elements (in 0.009 sec)
+[01:09:45]  INFO Loaded: 4 Community Effect Lists
+[01:09:45]  INFO CommunityEffectListHolder: Loaded 4 elements (in 0.028 sec)
+[01:09:45]  INFO ChatControlHolder: Loaded 10 elements (in 0.021 sec)
+[01:09:45]  INFO UserBasicActionHolder: Loaded 189 elements (in 0.007 sec)
+[01:09:45]  INFO DonateBonusHolder: Loaded 5 elements (in 0.040 sec)
+[01:09:45]  INFO CommunityTeleportHolder: Loaded 177 elements (in 0.046 sec)
+[01:09:45]  INFO certification_data: Loaded 74 certifications.
+[01:09:45]  INFO Loaded 0 SkinChangeItem classes.
+[01:09:45]  INFO AirshipDockHolder: loaded 4 airship dock(s) count.
+[01:09:45]  INFO Loaded: 0 couples(s)
+[01:09:45]  INFO AbnormalSetHolder: Loaded 7 elements (in 0.034 sec)
+[01:09:45]  INFO Loaded 2 forges.
+[01:09:45]  INFO Loaded 18 attribute stones.
+[01:09:45]  INFO Loaded 66 enchant scrolls.
+[01:09:45]  INFO Loaded 5 enchant catalysts.
+[01:09:45]  INFO VoiceBuffHolder: Loaded 7 elements (in 0.119 sec)
+[01:09:45]  INFO BalancerHolder: Loaded 1 elements (in 0.116 sec)
+[01:09:45]  INFO MutatorHolder: Loaded 1 elements (in 0.001 sec)
+[01:09:45]  INFO Loaded 7 Four Sepulcher Spawns Types.
+[01:09:45]  INFO CommunityShopHolder: Loaded 35 elements (in 0.079 sec)
+[01:09:45]  INFO RecipeHolder: Loaded 998 elements (in 0.226 sec)
+[01:09:45]  INFO CategoryDataHolder: Loaded 124 elements (in 0.199 sec)
+[01:09:45]  INFO StaticObjectHolder: loaded 50 static object(s) count.
+[01:09:45]  INFO PetitionGroupHolder: loaded 1 petition group(s) count.
+[01:09:45]  INFO EventMapHolder: Loaded 10 elements (in 0.198 sec)
+[01:09:45]  INFO InstantZoneDataHolder: Loaded 169 elements (in 0.280 sec)
+[01:09:45]  INFO Loaded auto-pvp event "TvT" with id: 1
+[01:09:45]  INFO Loaded auto-pvp event "TDM" with id: 2
+[01:09:45]  INFO Loaded auto-pvp event "CTF" with id: 3
+[01:09:45]  INFO Loaded auto-pvp event "Resistance" with id: 4
+[01:09:45]  INFO Loaded auto-pvp event "Mob" with id: 5
+[01:09:45]  INFO Loaded auto-pvp event "Domination" with id: 6
+[01:09:45]  INFO Loaded auto-pvp event "Last" with id: 7
+[01:09:45]  INFO Loaded auto-pvp event "Last" with id: 8
+[01:09:45]  INFO Loaded auto-pvp event "Death" with id: 9
+[01:09:45]  INFO Loaded auto-pvp event "Assault" with id: 10
+[01:09:45]  INFO EventSettingHolder: Loaded 10 elements (in 0.215 sec)
+[01:09:45]  INFO FishingDataHolder: Loaded 369 elements (in 0.509 sec)
+[01:09:45]  INFO HennaHolder: loaded 180 henna(s) count.
+[01:09:45]  INFO CastleDataHolder: Loaded 180 elements (in 0.723 sec)
+[01:09:45]  INFO DoorHolder: loaded 1155 door(s) count.
+[01:09:46]  INFO SkillAcquireHolder: load 56631 normal learns for 103 classes.
+[01:09:46]  INFO SkillAcquireHolder: load 79 transfer learns for 3 classes.
+[01:09:46]  INFO SkillAcquireHolder: load 120 transformation learns for 6 races.
+[01:09:46]  INFO SkillAcquireHolder: load 662 fishing learns for 6 races.
+[01:09:46]  INFO SkillAcquireHolder: load 72 certification learns.
+[01:09:46]  INFO SkillAcquireHolder: load 3 collection learns.
+[01:09:46]  INFO SkillAcquireHolder: load 44 pledge learns.
+[01:09:46]  INFO SkillAcquireHolder: load 18 sub unit learns.
+[01:09:46]  INFO VariationDataHolder: loaded 31 variation data(s) count.
+[01:09:46]  INFO AreaDataHolder: Loaded 2504 elements (in 1.106 sec)
+[01:09:46]  INFO DoorDataHolder: Loaded 1459 elements (in 1.106 sec)
+[01:09:48]  INFO SkillsEngine: Loaded 66013 skills templates from XML files. Max id: 26073, max level: 259
+[01:09:48]  INFO SkillsEngine: Loaded 25 custom skills templates from XML files.
+[01:09:50]  INFO NpcPosHolder: Loaded 30748 elements (in 5.428 sec)
+[01:09:51]  INFO NpcDataHolder: Loaded 10461 elements (in 6.002 sec)
+[01:09:51]  INFO ItemDataHolder: Loaded 19416 elements (in 6.630 sec)
+[01:09:55]  INFO SkillDataHolder: Loaded 65885 elements (in 10.204 sec)
+[01:09:55]  INFO Level loaded in [10.0] secs
+[01:09:55]  INFO =====================================-[ RetailData ]
+[01:09:55]  INFO PetDataHolder: Loaded 52 elements (in 0.317 sec)
+[01:09:55]  INFO hp_mp_cp_data: Loaded 103 hp, 103 mp, 103 cp.
+[01:09:55]  INFO pc_breath_bonus_table: Loaded 20 templates.
+[01:09:55]  INFO pc_parameters: Loaded.
+[01:09:55]  INFO pc_ext_parameters: Loaded.
+[01:09:55]  INFO pc_safe_fall_height_table: Loaded 20 templates.
+[01:09:55]  INFO RegenBonusData: Loaded 4 hp bonuses.
+[01:09:55]  INFO RegenBonusData: Loaded 4 mp bonuses.
+[01:09:55]  INFO RegenBonusData: Loaded 4 cp bonuses.
+[01:09:55]  INFO setting: Loaded human_fighter equipment.
+[01:09:55]  INFO setting: Loaded human_magician equipment.
+[01:09:55]  INFO setting: Loaded elf_fighter equipment.
+[01:09:55]  INFO setting: Loaded elf_magician equipment.
+[01:09:55]  INFO setting: Loaded darkelf_fighter equipment.
+[01:09:55]  INFO setting: Loaded darkelf_magician equipment.
+[01:09:55]  INFO setting: Loaded orc_fighter equipment.
+[01:09:55]  INFO setting: Loaded orc_shaman equipment.
+[01:09:55]  INFO setting: Loaded dwarf_apprentice equipment.
+[01:09:55]  INFO setting: Loaded kamael_m_soldier equipment.
+[01:09:55]  INFO setting: Loaded kamael_f_soldier equipment.
+[01:09:55]  INFO setting: Loaded human_fighter start points.
+[01:09:55]  INFO setting: Loaded human_magician start points.
+[01:09:55]  INFO setting: Loaded elf_fighter start points.
+[01:09:55]  INFO setting: Loaded elf_magician start points.
+[01:09:55]  INFO setting: Loaded darkelf_fighter start points.
+[01:09:55]  INFO setting: Loaded darkelf_magician start points.
+[01:09:55]  INFO setting: Loaded dwarf_apprentice start points.
+[01:09:55]  INFO setting: Loaded orc_fighter start points.
+[01:09:55]  INFO setting: Loaded orc_shaman start points.
+[01:09:55]  INFO setting: Loaded kamael_m_soldier start points.
+[01:09:55]  INFO setting: Loaded kamael_f_soldier start points.
+[01:09:55]  INFO Level loaded in [0.0] secs
+[01:09:55]  INFO ======================================-[ Threading ]
+[01:09:55]  INFO General threads: ..... 30.
+[01:09:55]  INFO Effect threads: ...... 15.
+[01:09:55]  INFO AI threads: .......... 30.
+[01:09:55]  INFO Packet threads: ...... 15.
+[01:09:55]  INFO Move threads: ....... 30.
+[01:09:55]  INFO DeadlockDetector: Initializing
+[01:09:55]  INFO Level loaded in [0.0] secs
+[01:09:55]  INFO ======================================-[ IdFactory ]
+[01:09:55]  INFO IdFactory: Clear characters online status.
+[01:09:55]  INFO IdFactory: Extracted 13 used id's from characters
+[01:09:55]  INFO IdFactory: Extracted 570 used id's from items
+[01:09:55]  INFO IdFactory: Extracted 1 used id's from pets
+[01:09:55]  INFO IdFactory: Extracted total 584 used id's.
+[01:09:55]  INFO IdFactory: 205824 id's available.
+[01:09:55]  INFO IdFactory: Free ObjectID's remaining: 1879047607
+[01:09:55]  INFO Level loaded in [0.0] secs
+[01:09:55]  INFO ==========================================-[ World ]
+[01:09:55]  INFO L2World: Creating regions: [256][272][32].
+[01:09:55]  INFO GameTimeController: initialized. Current time is 12:59 in the day.
+[01:09:55]  INFO MapRegionManager: loaded 272 map region manager(s) count.
+[01:09:55]  INFO MapRegionManager: loaded 272 map region manager(s) count.
+[01:09:55]  INFO Level loaded in [0.0] secs
+[01:09:55]  INFO ========================================-[ Geodata ]
+[01:09:55]  INFO GeoEngine: Loading Geodata...
+[01:09:56]  INFO GeoEngine: Loaded 203 map(s), max layers: 21
+[01:09:56]  INFO Level loaded in [0.0] secs
+[01:09:56]  INFO =========================================-[ Skills ]
+[01:09:56]  INFO SkillTreeTable: Loaded 526 enchanted skills.
+[01:09:56]  INFO ArmorSetsHolder: loaded 198 armor sets(s) count.
+[01:09:56]  INFO CubicsEngine: Loaded 14 cubics templates from XML files.
+[01:09:56]  INFO Level loaded in [0.0] secs
+[01:09:56]  INFO ==========================================-[ Items ]
+[01:09:56]  INFO OptionDataHolder: loaded 24975 option data(s) count.
+[01:09:56]  INFO ItemParser: Skill not found(23341,1) for item:22394; file:22300-22399.xml
+[01:09:56]  INFO ItemParser: Skill not found(23341,2) for item:22395; file:22300-22399.xml
+[01:09:56]  INFO ItemParser: Skill not found(23341,3) for item:22396; file:22300-22399.xml
+[01:09:56]  INFO ItemParser: Skill not found(23341,4) for item:22397; file:22300-22399.xml
+[01:09:56]  INFO ItemParser: Skill not found(23341,5) for item:22398; file:22300-22399.xml
+[01:09:56]  INFO ItemParser: Skill not found(23341,6) for item:22399; file:22300-22399.xml
+[01:09:56]  INFO ItemParser: Skill not found(21272,1) for item:22383; file:22300-22399.xml
+[01:09:56]  INFO ItemParser: Skill not found(21273,1) for item:22384; file:22300-22399.xml
+[01:09:56]  INFO ItemParser: Skill not found(30000,2) for item:36064; file:36000-36099.xml
+[01:09:56]  INFO ItemHolder: loaded 19534 item(s) count.
+[01:09:57]  INFO TradeController: Loaded 4 file(s).
+[01:09:57]  INFO TradeController: Loaded 25190 Items.
+[01:09:57]  INFO TradeController: Loaded 728 Buylists.
+[Fatal Error] 50213.xml:16:32: Element type "production" must be followed by either attribute specifications, ">" or "/>".
+[01:09:57] ERROR Error loading file /home/dev/gameserver/data/multisell/comBoard/etc/50213.xml
+org.xml.sax.SAXParseException; systemId: file:/home/dev/gameserver/data/multisell/comBoard/etc/50213.xml; lineNumber: 16; columnNumber: 32; Element type "production" must be followed by either attribute specifications, ">" or "/>".
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:257)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+	at l2p.gameserver.data.xml.holder.MultiSellHolder.parseFile(MultiSellHolder.java:166)
+	at l2p.gameserver.data.xml.holder.MultiSellHolder.parse(MultiSellHolder.java:182)
+	at l2p.gameserver.data.xml.holder.MultiSellHolder.parseData(MultiSellHolder.java:55)
+	at l2p.gameserver.data.xml.holder.MultiSellHolder.<init>(MultiSellHolder.java:46)
+	at l2p.gameserver.data.xml.holder.MultiSellHolder.getInstance(MultiSellHolder.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at l2p.gameserver.extensions.startup.startup.StartupInstance.runLevel(StartupInstance.java:125)
+	at l2p.gameserver.BootManager.<init>(BootManager.java:76)
+	at l2p.gameserver.BootManager.main(BootManager.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at ru.akumu.smartguard.SmartGuard.main(Unknown Source)
+[01:09:57]  INFO ProductItemTable: Loaded 33 product item on sale.
+[01:09:57]  INFO SoulCrystalHolder: loaded 54 soul crystal(s) count.
+[01:09:57]  INFO Level loaded in [0.0] secs
+[01:09:57]  INFO ======================================-[ Character ]
+[01:09:57]  INFO Level loaded in [0.0] secs
+[01:09:57]  INFO ============================================-[ NPC ]
+[01:09:58]  INFO NpcHolder: loaded 10476 npc(s) count.
+[01:09:58]  INFO Level loaded in [1.0] secs
+[01:09:58]  INFO ===========================================-[ Zone ]
+[01:09:58]  INFO ZoneHolder: loaded 1129 zone(s) count.
+[01:09:58]  INFO Level loaded in [0.0] secs
+[01:09:58]  INFO ======================================-[ Instances ]
+[01:09:58] ERROR InstantZoneParser: Zone: tvt_respawn_map10_t1 not found; file: [710] TvT Instance.xml
+[01:09:58] ERROR InstantZoneParser: Zone: tvt_respawn_map10_t2 not found; file: [710] TvT Instance.xml
+[01:09:58]  INFO InstantZoneHolder: loaded 93 instant zone(s) count.
+[01:10:16]  INFO SevenSigns: Currently in the Seal Validation period!
+[01:10:16]  INFO SevenSigns: The Lords of Dawn have won the Seal of Avarice.
+[01:10:16]  INFO SevenSigns: The Lords of Dawn have won the Seal of Gnosis.
+[01:10:16]  INFO SevenSigns: The Lords of Dawn have won the Seal of Strife.
+[01:10:16]  INFO SevenSigns: The Competition last week ended with a tie.
+[01:10:16]  INFO SevenSigns: Next period begins in 3 days, 16 hours and 49 mins.
+[01:10:16]  INFO Level loaded in [17.0] secs
+[01:10:16]  INFO ======================================-[ NaiaTower ]
+[01:10:16]  INFO Naia Tower Manager: Loaded 12 rooms
+[01:10:16]  INFO Naia Core Manager: Loaded
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO ==========================================-[ Spawn ]
+[01:10:16]  INFO BoatHolder: loaded 0 boat(s) count.
+[01:10:16]  INFO SpawnParser: DTD file: spawn.dtd not exists.
+[01:10:16]  INFO SpawnHolder: loaded 0 spawn(s) count.
+[01:10:16]  INFO RaidBossSpawnManager: Loaded 131 Statuses
+[01:10:16]  INFO Loaded [50] Auto Spawns with [115] locations
+[01:10:16]  INFO BoatHolder: loaded 0 boat(s) count.
+[01:10:16]  INFO StaticObjectHolder: spawned: 50 static object(s).
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO =======================================-[ Managers ]
+[01:10:16]  INFO Blood Altar Manager: Initializing...
+[01:10:16]  INFO HellboundManager: Loaded 335 spawn entries.
+[01:10:16]  INFO HellboundManager: Spawned 623 mobs and NPCs according to the current Hellbound stage
+[01:10:16]  INFO Hellbound Manager: Loaded
+[01:10:16]  INFO Seed of Destruction Manager: Loaded
+[01:10:16]  INFO Seed of Infinity Manager: Loaded. Current stage is: 1
+[01:10:16]  INFO Category Manager: loading data...
+[01:10:16]  INFO Category Manager: loaded 124 categories.
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO =========================================-[ Events ]
+[01:10:16]  INFO SpawnExObject: not found spawn group: territory_manager_3
+[01:10:16]  INFO SpawnExObject: not found spawn group: giran_dominion_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: cloud_mountain_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: aden_castle_siege_artefact
+[01:10:16]  INFO SpawnExObject: not found spawn group: aden_castle_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: aden_castle_mass_gatekeeper
+[01:10:16]  INFO SpawnExObject: not found spawn group: oren_castle_siege_artefact
+[01:10:16]  INFO SpawnExObject: not found spawn group: oren_castle_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: oren_castle_mass_gatekeeper
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: bayou_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: territory_manager_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: gludio_dominion_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: gludio_castle_siege_artefact
+[01:10:16]  INFO SpawnExObject: not found spawn group: gludio_castle_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: gludio_castle_mass_gatekeeper
+[01:10:16]  INFO SpawnExObject: not found spawn group: dion_castle_siege_artefact
+[01:10:16]  INFO SpawnExObject: not found spawn group: dion_castle_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: dion_castle_mass_gatekeeper
+[01:10:16]  INFO SpawnExObject: not found spawn group: rune_castle_siege_artefact
+[01:10:16]  INFO SpawnExObject: not found spawn group: rune_castle_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: rune_castle_mass_gatekeeper
+[01:10:16]  INFO SpawnExObject: not found spawn group: rune_castle_benom
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: dragonspine_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: goddard_castle_siege_artefact
+[01:10:16]  INFO SpawnExObject: not found spawn group: goddard_castle_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: goddard_castle_mass_gatekeeper
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: borderland_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: valley_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: fortress_of_dead_owner
+[01:10:16]  INFO SpawnExObject: not found spawn group: fortress_of_dead_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: fortress_of_dead_boss
+[01:10:16]  INFO SpawnExObject: not found spawn group: bandits_stronghold_mass_teleporters
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: ivory_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: territory_manager_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: dion_dominion_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_no_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_siege_guards_no_owner
+[01:10:16]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_siege_nurka_no_owner
+[01:10:16]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_siege_guards_owner
+[01:10:16]  INFO SpawnExObject: not found spawn group: fortress_of_resistance_siege_nurka_owner
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: floran_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: narsell_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: western_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: white_sands_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: territory_manager_6
+[01:10:16]  INFO SpawnExObject: not found spawn group: innadrille_dominion_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: hunters_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: rainbow_springs_coordinator
+[01:10:16]  INFO SpawnExObject: not found spawn group: rainbow_springs_arena_0
+[01:10:16]  INFO SpawnExObject: not found spawn group: rainbow_springs_arena_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: rainbow_springs_arena_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: rainbow_springs_arena_3
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: southern_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: territory_manager_8
+[01:10:16]  INFO SpawnExObject: not found spawn group: rune_dominion_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: archaic_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: giran_castle_siege_artefact
+[01:10:16]  INFO SpawnExObject: not found spawn group: giran_castle_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: giran_castle_mass_gatekeeper
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: shanty_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: tanor_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: hive_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: aaru_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: schuttgart_castle_siege_artefact
+[01:10:16]  INFO SpawnExObject: not found spawn group: schuttgart_castle_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: schuttgart_castle_mass_gatekeeper
+[01:10:16]  INFO SpawnExObject: not found spawn group: innadril_castle_siege_artefact
+[01:10:16]  INFO SpawnExObject: not found spawn group: innadril_castle_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: innadril_castle_mass_gatekeeper
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: monastic_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: swamp_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_out_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: antharas_fortress_in_power_units
+[01:10:16]  INFO SpawnExObject: not found spawn group: devastated_castle_owner
+[01:10:16]  INFO SpawnExObject: not found spawn group: devastated_castle_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: devastated_castle_boss
+[01:10:16]  INFO SpawnExObject: not found spawn group: territory_manager_9
+[01:10:16]  INFO SpawnExObject: not found spawn group: schuttgart_dominion_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: territory_manager_4
+[01:10:16]  INFO SpawnExObject: not found spawn group: oren_dominion_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: wild_beast_reserve_mass_teleporters
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_peace_merchant
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_peace_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_siege_commanders
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_envoy
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_default_guards
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_live_with_c_center
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_noowner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_owner_flagdef
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_gunner
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_reinforce_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_reinforce_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: demon_fortress_mercenary
+[01:10:16]  INFO SpawnExObject: not found spawn group: territory_manager_7
+[01:10:16]  INFO SpawnExObject: not found spawn group: godard_dominion_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: territory_manager_5
+[01:10:16]  INFO SpawnExObject: not found spawn group: aden_dominion_siege
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_0
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_3
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_4
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_5
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_6
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_7
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_8
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_9
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_10
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_11
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_12
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_13
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_14
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_15
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_16
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_17
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_18
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_19
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_20
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_21
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_22
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_23
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_70_75_room_24
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_0
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_3
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_4
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_5
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_6
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_7
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_8
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_9
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_10
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_11
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_12
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_13
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_14
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_15
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_16
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_17
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_18
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_19
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_20
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_21
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_22
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_23
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_80_85_room_24
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_0
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_1
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_2
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_3
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_4
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_5
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_6
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_7
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_8
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_9
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_10
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_11
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_12
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_13
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_14
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_15
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_16
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_17
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_18
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_19
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_20
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_21
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_22
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_23
+[01:10:16]  INFO SpawnExObject: not found spawn group: krateis_cube_76_79_room_24
+[01:10:16]  INFO SpawnExObject: not found spawn group: kratei_cube_manager
+[01:10:16]  INFO EventHolder: loaded 95 event(s) count.
+[01:10:16]  INFO ZoneHolder: loaded 1129 zone(s) count.
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO ==========================================-[ Siege ]
+[01:10:16]  INFO ResidenceHolder: total size: 83
+[01:10:16]  INFO ResidenceHolder:  - load 9 castle(s).
+[01:10:16]  INFO ResidenceHolder:  - load 44 clanhall(s).
+[01:10:16]  INFO ResidenceHolder:  - load 9 dominion(s).
+[01:10:16]  INFO ResidenceHolder:  - load 21 fortress(s).
+[01:10:16]  INFO Inited Event: 1
+[01:10:16]  INFO Inited Event: 2
+[01:10:16]  INFO Inited Event: 1
+[01:10:16]  INFO CastleSiegeEvent: Gludio Castle time - 20:00 22.10.2017
+[01:10:16]  INFO Inited Event: 2
+[01:10:16]  INFO CastleSiegeEvent: Dion Castle time - 19:00 29.10.2017
+[01:10:16]  INFO Inited Event: 3
+[01:10:16]  INFO CastleSiegeEvent: Giran Castle time - 19:00 29.10.2017
+[01:10:16]  INFO Inited Event: 4
+[01:10:16]  INFO CastleSiegeEvent: Oren Castle time - 19:00 29.10.2017
+[01:10:16]  INFO Inited Event: 5
+[01:10:16]  INFO CastleSiegeEvent: Aden Castle time - 19:00 29.10.2017
+[01:10:16]  INFO Inited Event: 6
+[01:10:16]  INFO CastleSiegeEvent: Innadril Castle time - 19:00 29.10.2017
+[01:10:16]  INFO Inited Event: 7
+[01:10:16]  INFO CastleSiegeEvent: Goddard Castle time - 19:00 29.10.2017
+[01:10:16]  INFO Inited Event: 8
+[01:10:16]  INFO CastleSiegeEvent: Rune Castle time - 19:00 29.10.2017
+[01:10:16]  INFO Inited Event: 9
+[01:10:16]  INFO CastleSiegeEvent: Schuttgart Castle time - 19:00 29.10.2017
+[01:10:16]  INFO Inited Event: 21
+[01:10:16]  INFO ClanHallNpcSiegeEvent: Fortress Of Resistance time - 17:00 23.10.2017
+[01:10:16]  INFO Inited Event: 22
+[01:10:16]  INFO ClanHallAuctionEvent: Moonstone Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 23
+[01:10:16]  INFO ClanHallAuctionEvent: Onyx Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 24
+[01:10:16]  INFO ClanHallAuctionEvent: Topaz Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 25
+[01:10:16]  INFO ClanHallAuctionEvent: Ruby Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 26
+[01:10:16]  INFO ClanHallAuctionEvent: Crystal Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 27
+[01:10:16]  INFO ClanHallAuctionEvent: Onyx Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 28
+[01:10:16]  INFO ClanHallAuctionEvent: Sapphire Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 29
+[01:10:16]  INFO ClanHallAuctionEvent: Moonstone Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 30
+[01:10:16]  INFO ClanHallAuctionEvent: Emerald Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 31
+[01:10:16]  INFO ClanHallAuctionEvent: The Atramental Barracks time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 32
+[01:10:16]  INFO ClanHallAuctionEvent: The Scarlet Barracks time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 33
+[01:10:16]  INFO ClanHallAuctionEvent: The Viridian Barracks time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 34
+[01:10:16]  INFO ClanHallSiegeEvent: Devastated Castle time - 18:00 28.10.2017
+[01:10:16]  INFO Inited Event: 35
+[01:10:16]  INFO ClanHallTeamBattleEvent: Bandit Stronghold time - 14:00 28.10.2017
+[01:10:16]  INFO Inited Event: 36
+[01:10:16]  INFO ClanHallAuctionEvent: The Golden Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 37
+[01:10:16]  INFO ClanHallAuctionEvent: The Silver Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 38
+[01:10:16]  INFO ClanHallAuctionEvent: The Mithril Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 39
+[01:10:16]  INFO ClanHallAuctionEvent: Silver Manor time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 40
+[01:10:16]  INFO ClanHallAuctionEvent: Gold Manor time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 41
+[01:10:16]  INFO ClanHallAuctionEvent: The Bronze Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 42
+[01:10:16]  INFO ClanHallAuctionEvent: The Golden Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 43
+[01:10:16]  INFO ClanHallAuctionEvent: The Silver Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 44
+[01:10:16]  INFO ClanHallAuctionEvent: The Mithril Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 45
+[01:10:16]  INFO ClanHallAuctionEvent: The Bronze Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 46
+[01:10:16]  INFO ClanHallAuctionEvent: Silver Manor time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 47
+[01:10:16]  INFO ClanHallAuctionEvent: Moonstone Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 48
+[01:10:16]  INFO ClanHallAuctionEvent: Onyx Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 49
+[01:10:16]  INFO ClanHallAuctionEvent: Emerald Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 50
+[01:10:16]  INFO ClanHallAuctionEvent: Sapphire Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 51
+[01:10:16]  INFO ClanHallAuctionEvent: Mont Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 52
+[01:10:16]  INFO ClanHallAuctionEvent: Astaire Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 53
+[01:10:16]  INFO ClanHallAuctionEvent: Aria Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 54
+[01:10:16]  INFO ClanHallAuctionEvent: Yiana Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 55
+[01:10:16]  INFO ClanHallAuctionEvent: Roien Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 56
+[01:10:16]  INFO ClanHallAuctionEvent: Luna Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 57
+[01:10:16]  INFO ClanHallAuctionEvent: Traban Chamber time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 58
+[01:10:16]  INFO ClanHallAuctionEvent: Eisen Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 59
+[01:10:16]  INFO ClanHallAuctionEvent: Heavy Metal Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 60
+[01:10:16]  INFO ClanHallAuctionEvent: Molten Ore Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 61
+[01:10:16]  INFO ClanHallAuctionEvent: Titan Hall time - 01:10 20.10.2017
+[01:10:16]  INFO Inited Event: 62
+[01:10:16]  INFO ClanHallMiniGameEvent: Rainbow Springs time - 21:00 28.10.2017
+[01:10:16]  INFO Inited Event: 63
+[01:10:16]  INFO ClanHallTeamBattleEvent: Wild Beast Reserve time - 20:00 28.10.2017
+[01:10:16]  INFO Inited Event: 64
+[01:10:16]  INFO ClanHallSiegeEvent: Fortress of Dead time - 17:00 28.10.2017
+[01:10:16]  INFO Inited Event: 81
+[01:10:16]  INFO DominionSiegeEvent: Gludio Dominion time - undefined
+[01:10:16]  INFO Inited Event: 82
+[01:10:16]  INFO DominionSiegeEvent: Dion Dominion time - undefined
+[01:10:16]  INFO Inited Event: 83
+[01:10:16]  INFO DominionSiegeEvent: Giran Dominion time - undefined
+[01:10:16]  INFO Inited Event: 84
+[01:10:16]  INFO DominionSiegeEvent: Oren Dominion time - undefined
+[01:10:16]  INFO Inited Event: 85
+[01:10:16]  INFO DominionSiegeEvent: Aden Dominion time - undefined
+[01:10:16]  INFO Inited Event: 86
+[01:10:16]  INFO DominionSiegeEvent: Innadril Dominion time - undefined
+[01:10:16]  INFO Inited Event: 87
+[01:10:16]  INFO DominionSiegeEvent: Goddard Dominion time - undefined
+[01:10:16]  INFO Inited Event: 88
+[01:10:16]  INFO DominionSiegeEvent: Rune Dominion time - undefined
+[01:10:16]  INFO Inited Event: 89
+[01:10:16]  INFO DominionSiegeEvent: Schuttgart Dominion time - undefined
+[01:10:16]  INFO Inited Event: 101
+[01:10:16]  INFO FortressSiegeEvent: Shanty Fortress time - undefined
+[01:10:16]  INFO Inited Event: 102
+[01:10:16]  INFO FortressSiegeEvent: Southern Fortress time - undefined
+[01:10:16]  INFO Inited Event: 103
+[01:10:16]  INFO FortressSiegeEvent: Hive Fortress time - undefined
+[01:10:16]  INFO Inited Event: 104
+[01:10:16]  INFO FortressSiegeEvent: Valley Fortress time - undefined
+[01:10:16]  INFO Inited Event: 105
+[01:10:16]  INFO FortressSiegeEvent: Ivory Fortress time - undefined
+[01:10:16]  INFO Inited Event: 106
+[01:10:16]  INFO FortressSiegeEvent: Narsell Fortress time - undefined
+[01:10:16]  INFO Inited Event: 107
+[01:10:16]  INFO FortressSiegeEvent: Bayou Fortress time - undefined
+[01:10:16]  INFO Inited Event: 108
+[01:10:16]  INFO FortressSiegeEvent: White Sands Fortress time - undefined
+[01:10:16]  INFO Inited Event: 109
+[01:10:16]  INFO FortressSiegeEvent: Borderland Fortress time - undefined
+[01:10:16]  INFO Inited Event: 110
+[01:10:16]  INFO FortressSiegeEvent: Swamp Fortress time - undefined
+[01:10:16]  INFO Inited Event: 111
+[01:10:16]  INFO FortressSiegeEvent: Archaic Fortress time - undefined
+[01:10:16]  INFO Inited Event: 112
+[01:10:16]  INFO FortressSiegeEvent: Floran Fortress time - undefined
+[01:10:16]  INFO Inited Event: 113
+[01:10:16]  INFO FortressSiegeEvent: Cloud Mountain Fortress time - undefined
+[01:10:16]  INFO Inited Event: 114
+[01:10:16]  INFO FortressSiegeEvent: Tanor Fortress time - undefined
+[01:10:16]  INFO Inited Event: 115
+[01:10:16]  INFO FortressSiegeEvent: Dragonspine Fortress time - undefined
+[01:10:16]  INFO Inited Event: 116
+[01:10:16]  INFO FortressSiegeEvent: Antharas Fortress time - undefined
+[01:10:16]  INFO Inited Event: 117
+[01:10:16]  INFO FortressSiegeEvent: Western Fortress time - undefined
+[01:10:16]  INFO Inited Event: 118
+[01:10:16]  INFO FortressSiegeEvent: Hunter's Fortress time - undefined
+[01:10:16]  INFO Inited Event: 119
+[01:10:16]  INFO FortressSiegeEvent: Aaru Fortress time - undefined
+[01:10:16]  INFO Inited Event: 120
+[01:10:16]  INFO FortressSiegeEvent: Demon Fortress time - undefined
+[01:10:16]  INFO Inited Event: 121
+[01:10:16]  INFO FortressSiegeEvent: Monastic Fortress time - undefined
+[01:10:16]  INFO Inited Event: 2
+[01:10:16]  INFO KrateisCubeEvent: Krateis Cube 70-75 Level time - 01:30 20.10.2017
+[01:10:16]  INFO Inited Event: 3
+[01:10:16]  INFO KrateisCubeEvent: Krateis Cube 76-79 Level time - 01:30 20.10.2017
+[01:10:16]  INFO Inited Event: 4
+[01:10:16]  INFO KrateisCubeEvent: Krateis Cube 80-85 Level time - 01:30 20.10.2017
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO ========================================-[ Economy ]
+[01:10:16]  INFO Manor System: Initializing...
+[01:10:16]  INFO CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[01:10:16]  INFO Initializing ItemAuctionManager
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO ======================================-[ BigEvents ]
+[01:10:16]  INFO AutoSpawnHandler: Loaded 50 handlers in total.
+[01:10:16]  INFO DimensionalRiftManager: Loaded 13 room types with 112 rooms.
+[01:10:16]  INFO DimensionalRiftManager: Loaded 300 dimensional rift spawns, 0 errors.
+[01:10:16]  INFO Hero System: Loaded 0 Heroes.
+[01:10:16]  INFO Hero System: Loaded 0 all time Heroes.
+[01:10:16]  INFO Olympiad System: Loading Olympiad System....
+[01:10:16]  INFO Olympiad System: Currently in Olympiad Period
+[01:10:16]  INFO Olympiad System: Period Ends....
+[01:10:16]  INFO Olympiad System: In 11 days, 23 hours and 50 mins.
+[01:10:16]  INFO Olympiad System: Next Weekly Change is in....
+[01:10:16]  INFO Olympiad System: In 3 days, 10 hours and 49 mins.
+[01:10:16]  INFO Olympiad System: Loaded 1 Noblesses
+[01:10:16]  INFO Olympiad System: Competition Period Starts in 0 days, 18 hours and 50 mins.
+[01:10:16]  INFO Olympiad System: Event starts/started: Fri Oct 20 20:00:16 CEST 2017
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO =========================================-[ Bosses ]
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO =======================================-[ Handlers ]
+[01:10:16]  INFO TargetTypeManager registered 17 handlers
+[01:10:16]  INFO OperateCondManager registered 1 handlers
+[01:10:16]  INFO TargetOperateCondManager registered 1 handlers
+[01:10:16]  INFO AffectScopeManager registered 1 handlers
+[01:10:16]  INFO AffectObjectManager registered 1 handlers
+[01:10:16]  INFO ActionManager registered 20 handlers
+[01:10:16]  INFO UserCommandManager registered 17 handlers
+[01:10:16]  INFO Loaded Event: Bounty Hunters Guild
+[01:10:16]  INFO VoiceCommandManager registered 38 handlers
+[01:10:16]  INFO AntharasManager: State of Antharas is NOTSPAWN.
+[01:10:16]  INFO AntharasManager: Next spawn date of Antharas is 01:00 01.01.1970.
+[01:10:16]  INFO BaiumManager: State of Baium is NOTSPAWN.
+[01:10:16]  INFO BaiumManager: Next spawn date: 01:00 01.01.1970
+[01:10:16]  INFO Beleth Manager: Loaded successfuly
+[01:10:16]  INFO FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[01:10:16]  INFO FourSepulchersManager: loaded 30588 physical monsters spawns.
+[01:10:16]  INFO FourSepulchersManager: loaded 30588 magical monsters spawns.
+[01:10:16]  INFO FourSepulchersManager: loaded 2116 Church of duke monsters spawns.
+[01:10:16]  INFO FourSepulchersManager: loaded 1156 Emperor's grave NPC spawns.
+[01:10:16]  INFO FourSepulchersManager: Spawned Conquerors' Sepulcher Manager
+[01:10:16]  INFO FourSepulchersManager: Spawned Emperors' Sepulcher Manager
+[01:10:16]  INFO FourSepulchersManager: Spawned Great Sages' Sepulcher Manager
+[01:10:16]  INFO FourSepulchersManager: Spawned Judges' Sepulcher Manager
+[01:10:16]  INFO FourSepulchersManager: Beginning in Attack time
+[01:10:16]  INFO SailrenManager: State of Sailren is NOTSPAWN.
+[01:10:16]  INFO SailrenManager: Next spawn date of Sailren is 01:00 01.01.1970.
+[01:10:16]  INFO Fri Oct 20 01:10:16 CEST 2017 Atk announce scheduled to 10.0 minute of this hour.
+[01:10:16]  INFO ValakasManager: State of Valakas is NOTSPAWN.
+[01:10:16]  INFO ValakasManager: Next spawn date of Valakas is 01:00 01.01.1970.
+[01:10:16]  INFO Loaded Event: Apil Fool's Day [state: deactivated]
+[01:10:16]  INFO Loaded Event: Christmas [state: deactivated]
+[01:10:16]  INFO Loaded Event: Coffer of Shadows [state: deactivated]
+[01:10:16]  INFO Loaded Event: Freya Celebration [state: deactivated]
+[01:10:16]  INFO Loaded Event: Gift Of Vitality [state: deactivated]
+[01:10:16]  INFO Loaded Event: March 8 [state: deactivated]
+[01:10:16]  INFO Loaded Event: Master of Enchanting [state: deactivated]
+[01:10:16]  INFO Loaded Event: PcCafePointsExchange [state: deactivated]
+[01:10:16]  INFO Loaded Event: Santa Christmas [state: deactivated]
+[01:10:16]  INFO Loaded Event: SavingSnowman [state: deactivated]
+[01:10:16]  INFO Loaded Event: Summer Meleons [state: deactivated]
+[01:10:16]  INFO Loaded Event: The Fall Harvest [state: deactivated]
+[01:10:16]  INFO Loaded Event: The Flow Of The Horror [state: deactivated]
+[01:10:16]  INFO Loaded Event: Trick of Trnasmutation [state: deactivated]
+[01:10:16]  INFO Loaded Event: TvT Arena 1 [state: deactivated]
+[01:10:16]  INFO Loaded Event: TvT Arena 2 [state: deactivated]
+[01:10:16]  INFO Loaded Event: TvT Arena 3 [state: deactivated]
+[01:10:16]  INFO Loaded Event: L2 Medal Collection Event [state: deactivated]
+[01:10:16]  INFO Loaded Event: Change of Heart[state: deactivated]
+[01:10:16]  INFO Loaded Event: l2day [state: deactivated]
+[01:10:16]  INFO ManorManager: Loaded 270 seeds
 Loaded Service: Teleport to Parnassus
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO =====================================-[ GameMaster ]
-[08:37:14]  INFO Initializing PetitionManager
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO ===================================-[ NativeBootup ]
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO ===========================================-[ Mods ]
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO =====================================-[ Extensions ]
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO =====================================-[ Protection ]
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO ========================================-[ Daemons ]
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:14]  INFO =====================================-[ ServerInfo ]
-[08:37:14]  INFO Free memory: 3876 / 7282 mb
-[08:37:14]  INFO Ready on IP: 164.132.204.74:[7777]
-[08:37:14]  INFO Max players: 3000
-[08:37:14]  INFO Load time: 35 seconds.
-[08:37:14]  INFO Level loaded in [0.0] secs
-[08:37:15]  INFO Restored 0 offline traders
-[08:37:15]  INFO Connecting to authserver on 127.0.0.1:9014
-[08:37:15]  INFO Scheduled server restart in 20h 22m 45s.
-[08:37:15]  INFO General Pool-31
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO =====================================-[ GameMaster ]
+[01:10:16]  INFO Initializing PetitionManager
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO ===================================-[ NativeBootup ]
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO ===========================================-[ Mods ]
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO =====================================-[ Extensions ]
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO =====================================-[ Protection ]
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO ========================================-[ Daemons ]
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:16]  INFO =====================================-[ ServerInfo ]
+[01:10:16]  INFO Free memory: 3990 / 7282 mb
+[01:10:16]  INFO Ready on IP: 164.132.204.74:[7777]
+[01:10:16]  INFO Max players: 3000
+[01:10:16]  INFO Load time: 35 seconds.
+[01:10:16]  INFO Level loaded in [0.0] secs
+[01:10:18]  INFO Restored 0 offline traders
+[01:10:18]  INFO Scheduled server restart in 3h 49m 42s.
+[01:10:18]  INFO Connecting to authserver on 127.0.0.1:9014
+[01:10:18]  INFO General Pool-31
 =================================================
 	getActiveCount: ...... 0
 	getCorePoolSize: ..... 30
 	getPoolSize: ......... 30
 	getLargestPoolSize: .. 30
 	getMaximumPoolSize: .. 30
-	getCompletedTaskCount: 882
-	getQueuedTaskCount: .. 1399
-	getTaskCount: ........ 2281
+	getCompletedTaskCount: 880
+	getQueuedTaskCount: .. 1393
+	getTaskCount: ........ 2273
 
 
-[08:37:15]  INFO Moving Pool-31
+[01:10:18]  INFO Moving Pool-20
 =================================================
 	getActiveCount: ...... 0
 	getCorePoolSize: ..... 30
-	getPoolSize: ......... 30
-	getLargestPoolSize: .. 30
+	getPoolSize: ......... 19
+	getLargestPoolSize: .. 19
 	getMaximumPoolSize: .. 30
-	getCompletedTaskCount: 22
-	getQueuedTaskCount: .. 9
-	getTaskCount: ........ 31
+	getCompletedTaskCount: 13
+	getQueuedTaskCount: .. 6
+	getTaskCount: ........ 19
 
 
-[08:37:15]  INFO Effect Pool-1
+[01:10:18]  INFO Effect Pool-1
 =================================================
 	getActiveCount: ...... 0
 	getCorePoolSize: ..... 15
@@ -954,19 +977,19 @@ Loaded Service: Teleport to Parnassus
 	getTaskCount: ........ 0
 
 
-[08:37:15]  INFO AI Pool-31
+[01:10:18]  INFO AI Pool-31
 =================================================
 	getActiveCount: ...... 0
 	getCorePoolSize: ..... 30
 	getPoolSize: ......... 30
 	getLargestPoolSize: .. 30
 	getMaximumPoolSize: .. 30
-	getCompletedTaskCount: 75
+	getCompletedTaskCount: 76
 	getQueuedTaskCount: .. 3
-	getTaskCount: ........ 78
+	getTaskCount: ........ 79
 
 
-[08:37:15]  INFO PC AI Pool-1
+[01:10:18]  INFO PC AI Pool-1
 =================================================
 	getActiveCount: ...... 0
 	getCorePoolSize: ..... 30
@@ -978,7 +1001,7 @@ Loaded Service: Teleport to Parnassus
 	getTaskCount: ........ 0
 
 
-[08:37:15]  INFO LSGS Pool-1
+[01:10:18]  INFO LSGS Pool-1
 =================================================
 	getActiveCount: ...... 0
 	getCorePoolSize: ..... 10
@@ -990,7 +1013,7 @@ Loaded Service: Teleport to Parnassus
 	getTaskCount: ........ 0
 
 
-[08:37:15]  INFO Packet Executor-1
+[01:10:18]  INFO Packet Executor-1
 =================================================
 	getActiveCount: ...... 0
 	getCorePoolSize: ..... 15
@@ -1002,160 +1025,396 @@ Loaded Service: Teleport to Parnassus
 	getTaskCount: ........ 0
 
 
-[08:37:15]  INFO Registered on authserver as 1 [Bartz]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25146:Serpent Demon Bifrons] at [-13458;213609;-3712]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25063:Chertuba of Great Soul] at [-91005;116261;-3456]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25004:Turek Mercenary Captain] at [-94389;100097;-3504]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25076:Princess Molrang] at [-60602;128317;-3024]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25369:Soul Scavenger] at [-46048;111211;-3808]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25001:Greyclaw Kutus] at [-54381;147126;-2880]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25169:Ragraman] at [-54047;170745;-3200]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25362:Tracker Leader Sharuk] at [-55308;187144;-3424]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25365:Patriarch Kuroboros] at [-62398;190319;-3664]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25366:Kuroboros' Priest] at [-62538;179028;-3600]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25060:Unrequited Kael] at [-60406;188133;-4512]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25038:Tirak] at [-57366;186136;-4968]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25095:Elf Renoa] at [-37603;198119;-2704]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25127:Langk Matriarch Rashkos] at [-48018;219363;-2408]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25357:Sukar Wererat Chief] at [-3027;113217;-3520]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25149:Zombie Lord Crowl] at [-12497;138108;-3520]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25166:Ikuntai] at [-21839;152024;-3056]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25352:Giant Wasteland Basilisk] at [-16313;174910;-3432]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25354:Gargoyle Lord Sirocco] at [-16072;184361;-3807]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25378:Madness Beast] at [-54622;83905;-3456]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25099:Rotten Tree Repiro] at [64216;16068;-3536]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25418:Dread Avenger Kraven] at [62389;8065;-3368]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25420:Orfen's Handmaiden] at [41398;24979;-4440]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25131:Carnage Lord Gato] at [75667;-8450;-2792]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25122:Refugee Hopeful Leo] at [86253;-8273;-3040]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25067:Captain of Red Flag Shaka] at [94141;-23261;-2096]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25088:Crazy Mechanic Golem] at [90471;16441;-5296]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25431:Flamestone Golem] at [79579;18693;-5248]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25260:Iron Giant Totem] at [92738;19896;-3600]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25026:Katu Van Leader Atui] at [93103;7559;-3904]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25158:King Tarlk] at [76701;5331;-3136]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25437:Timak Orc Gosmos] at [67746;64175;-3712]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25230:Timak Seer Ragoth] at [66443;47048;-3920]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25085:Timak Orc Chief Ranger] at [66471;67472;-3712]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25155:Shaman King Selu] at [73194;67300;-3712]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25064:Wizard of Storm Teruk] at [97259;94572;-3712]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25134:Leto Chief Talkin] at [95094;82332;-3712]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25226:Roaring Lord Kastor] at [104007;-2925;-3376]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25051:Rahha] at [117730;-9417;-3264]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25248:Doom Blade Tanatos] at [127859;-13312;-3744]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25426:Betrayer of Urutu Freki] at [-18563;-100587;-2112]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25429:Mammon Collector Talos] at [172252;-214114;-3584]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25041:Remmel] at [10095;126984;-3632]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25170:Lizardmen Leader Hellion] at [26354;123303;-3624]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25023:Stakato Queen Zyrnna] at [28243;102114;-3704]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25392:Captain of Queen's Royal Guards] at [29308;107245;-3696]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25128:Vuku Grand Seer Gharmash] at [17785;178769;-3520]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25360:Tiger Hornet] at [29473;179272;-3616]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25019:Pan Dryad] at [6866;169434;-3552]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25398:Eye of Beleth] at [4661;189525;-3712]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25388:Red Eye Captain Trakia] at [40129;102048;-1248]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25391:Nurka's Messenger] at [45943;120179;-2488]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25272:Partisan Leader Talakin] at [49407;127718;-3584]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25079:Cat's Eye Bandit] at [53867;102838;-1056]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25152:Flame Lord Shadar] at [44049;123799;-3008]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25385:Evil Spirit Tempest] at [53640;144200;-3848]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25118:Guilotine] at [50537;146405;-3616]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25223:Soul Collector Acheron] at [43050;152758;-2776]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25383:Revenant of Sir Calibus] at [51029;153656;-3536]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25404:Corsair Captain Kylon] at [35899;191169;-3088]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25410:Road Scavenger Leader] at [72393;125742;-3648]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25020:Breka Warlock Pastu] at [90448;125314;-2128]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25173:Tiger King Karuta] at [79424;103714;-3488]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25082:Leader of Cat Gang] at [87928;140426;-3440]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25112:Agent of Beres Meana] at [115904;139786;-3632]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25098:Sejarr's Servitor] at [124108;133291;-3568]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25415:Nakondas] at [128142;138226;-3472]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25198:Fafurion's Herald Lokness] at [102656;157424;-3735]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25199:Water Dragon Seer Sheshark] at [108096;157408;-3688]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25202:Krokian Padisha Sobekk] at [119760;157392;-3744]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25205:Ocean Flame Ashakiel] at [123808;153408;-3671]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25498:Fafurion's Henchman Istary] at [127006;174824;-3024]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25057:Biconne of Blue Sky] at [106634;168528;-3440]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25192:Earth Protector Panathen] at [125127;190919;-3232]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25434:Bandit Leader Barda] at [103508;-16651;-1808]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25444:Enmity Ghost Ramdal] at [113244;17376;-4376]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25220:Death Lord Hallate] at [113018;17158;-2120]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25447:Immortal Savior Mardil] at [113507;17731;-1408]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25092:Korim] at [116358;16279;1944]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25054:Kernon] at [113617;16654;3960]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25126:Longhorn Golkonda] at [116815;16024;6992]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25143:Fire of Wrath Shuriel] at [112732;16257;6992]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25450:Cherub Galaxia] at [113614;14890;9560]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25044:Barion] at [107293;27215;-3488]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25047:Karte] at [116294;28132;-3312]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25050:Verfa] at [124860;27402;-3616]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25423:Fairy Queen Timiniel] at [113597;45993;-4656]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25159:Paniel the Unicorn] at [125326;43067;-3584]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25119:Messenger of Fairy Queen Berun] at [121481;64466;-3472]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25070:Enchanted Forest Watcher Ruell] at [125705;50171;-3712]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25010:Furious Thieles] at [114388;52768;-3760]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25163:Roaring Skylancer] at [130109;59062;3600]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25007:Retreat Spider Cletu] at [124287;75493;-2752]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25102:Shacram] at [113906;84278;-2480]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25441:Evil Spirit Cyrion] at [111272;83033;-2912]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25438:Thief Kelbar] at [107095;92109;-2192]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25263:Kernon's Faithful Servant Kelone] at [144723;-28081;-1920]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25276:Death Lord Ipos] at [153821;-13471;-3792]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25229:Storm Winged Naga] at [137270;-19856;-3504]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25249:Palatanos of Horrific Power] at [148235;-20892;-3360]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25453:Meanas Anor] at [156666;-6009;-4144]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25103:Sorcerer Isirr] at [136326;94193;-3712]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25456:Mirror of Oblivion] at [133441;87021;-3616]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25460:Deadman Ereve] at [150715;67544;-3632]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25238:Abyss Brukunt] at [154989;85383;-3472]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25255:Gargoyle Lord Tiphon] at [170201;-24647;-3408]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25106:Ghost of the Well Lidia] at [174068;-11231;-2872]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25233:Spirit of Andras the Betrayer] at [185941;-26561;-2128]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25478:Shilen's Priest Hisilrome] at [168930;28852;-3664]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25013:Ghost of Peasant Leader] at [170251;12022;-2736]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25473:Grave Robber Kim] at [175220;29704;-3760]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25475:Ghost Knight Kabed] at [183128;24776;-3168]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25035:Shilen's Messenger Cabrio] at [181110;11907;-2720]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25252:Palibati Queen Themis] at [193174;22637;-3616]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25266:Bloody Empress Decarbia] at [189242;13782;-2672]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25245:Last Lesser Giant Glaki] at [188468;48247;-5904]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25244:Last Lesser Giant Olkuth] at [172060;55356;-5920]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25256:Taik High Prefect Arak] at [170537;42771;-4832]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25125:Fierce Tiger King Angel] at [170690;85355;-1984]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25089:Soulless Wild Boar] at [164953;93901;-3120]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25241:Harit Hero Tamash] at [165729;87695;-2368]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25463:Harit Guardian Garangky] at [166062;68095;-3264]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25312:Varka's Commander Mos] at [109636;-36831;-1104]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25315:Varka's Chief Horus] at [105912;-42602;-1760]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25309:Varka's Hero Shadith] at [116205;-39221;-2432]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25235:Vanor Chief Kandra] at [116732;-62720;-3264]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25269:Beast Lord Behemoth] at [123948;-23171;-3472]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25293:Hestia] at [134494;-115069;-1184]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25302:Ketra's Commander Tayr] at [145458;-81870;-6016]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25305:Ketra's Chief Brakki] at [145385;-85235;-6224]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25299:Ketra's Hero Hekaton] at [148767;-73381;-4912]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25325:Flame of Splendor Barakiel] at [90483;-86586;-2728]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25322:Demon's Agent Falston] at [93274;-74875;-1808]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25277:Lilith's Witch Marilion] at [54803;180426;-4976]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25280:Pagan Watcher Cerberon] at [-12887;-240627;-8160]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25281:Anakim's Nemesis Zakaron] at [150895;87913;-5424]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25286:Anakim] at [184971;-12530;-5488]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25283:Lilith] at [185090;-9840;-5488]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [25282:Death Lord Shax] at [179071;-7567;-4896]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [29001:Queen Ant] at [-21610;181594;-5734]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [29014:Orfen] at [55024;17368;-5412]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [29006:Core] at [17726;108915;-6480]
-[08:37:16]  INFO RaidBossSpawnManager: spawning RaidBoss [29020:Baium] at [-105200;-253104;-15264]
-[08:37:18]  INFO RaidBossSpawnManager: spawning RaidBoss [29030:Fenril Hound Kerinne] at [190139;-116811;-1576]
-[08:37:18]  INFO RaidBossSpawnManager: spawning RaidBoss [29033:Fenril Hound Freki] at [193293;-113506;-1352]
-[08:37:18]  INFO RaidBossSpawnManager: spawning RaidBoss [29036:Fenril Hound Uruz] at [189496;-109336;-1016]
-[08:37:18]  INFO RaidBossSpawnManager: spawning RaidBoss [29037:Fenril Hound Kinaz] at [192178;-108964;-1016]
-[08:37:18]  INFO RaidBossSpawnManager: spawning RaidBoss [29040:Wings of Flame Ixion] at [190046;-105833;-784]
-[08:37:19]  INFO RaidBossSpawnManager: spawning RaidBoss [25701:Anais] at [112798;-76800;-10]
-[08:37:19]  INFO RaidBossSpawnManager: spawning RaidBoss [25687:Hekaton Prime] at [191777;56197;-7624]
-[08:37:19]  INFO RaidBossSpawnManager: spawning RaidBoss [25680:Giant Marpanak] at [194492;54525;-4368]
-[08:37:19]  INFO RaidBossSpawnManager: spawning RaidBoss [25684:Last Titan Utenus] at [187537;60792;-5010]
-[08:37:19]  INFO RaidBossSpawnManager: spawning RaidBoss [25681:Gorgolos] at [186043;61358;-4152]
-Oct 19, 2017 8:37:19 AM ru.akumu.smartguard.SmartGuard main
+[01:10:18]  INFO Registered on authserver as 1 [Bartz]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25146:Serpent Demon Bifrons] at [-13699;214171;-3744]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25063:Chertuba of Great Soul] at [-90977;116370;-3456]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25004:Turek Mercenary Captain] at [-94399;99848;-3520]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25076:Princess Molrang] at [-60928;127760;-2976]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25369:Soul Scavenger] at [-45548;110936;-3808]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25001:Greyclaw Kutus] at [-53988;146856;-2880]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25169:Ragraman] at [-54543;169732;-3152]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25362:Tracker Leader Sharuk] at [-56306;187471;-3360]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25365:Patriarch Kuroboros] at [-62509;190226;-3648]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25366:Kuroboros' Priest] at [-62672;179477;-3600]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25060:Unrequited Kael] at [-60595;188150;-4512]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25038:Tirak] at [-57371;186203;-4968]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25095:Elf Renoa] at [-37657;197899;-2720]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25127:Langk Matriarch Rashkos] at [-47262;219214;-2400]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25357:Sukar Wererat Chief] at [-3563;112529;-3440]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25149:Zombie Lord Crowl] at [-12658;138462;-3600]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25166:Ikuntai] at [-21925;152207;-3072]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25352:Giant Wasteland Basilisk] at [-17194;175239;-3264]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25354:Gargoyle Lord Sirocco] at [-16072;184361;-3807]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25378:Madness Beast] at [-53962;84713;-3552]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25099:Rotten Tree Repiro] at [64267;16400;-3568]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25418:Dread Avenger Kraven] at [62547;7485;-3328]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25420:Orfen's Handmaiden] at [42158;23907;-4696]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25131:Carnage Lord Gato] at [75332;-9321;-2752]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25122:Refugee Hopeful Leo] at [86359;-8229;-3040]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25067:Captain of Red Flag Shaka] at [94984;-23200;-2176]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25088:Crazy Mechanic Golem] at [90844;17141;-5264]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25431:Flamestone Golem] at [80473;18849;-5280]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25260:Iron Giant Totem] at [93066;19844;-3600]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25026:Katu Van Leader Atui] at [92596;7666;-3904]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25158:King Tarlk] at [77181;5291;-3088]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25437:Timak Orc Gosmos] at [66691;64014;-3712]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25230:Timak Seer Ragoth] at [66592;47108;-3920]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25085:Timak Orc Chief Ranger] at [67455;67577;-3696]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25155:Shaman King Selu] at [73218;67097;-3712]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25064:Wizard of Storm Teruk] at [97493;94214;-3728]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25134:Leto Chief Talkin] at [95353;82254;-3712]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25226:Roaring Lord Kastor] at [104684;-3535;-3344]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25051:Rahha] at [117939;-9244;-3264]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25248:Doom Blade Tanatos] at [127860;-13492;-3744]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25426:Betrayer of Urutu Freki] at [-18156;-101802;-2112]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25429:Mammon Collector Talos] at [172140;-214220;-3568]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25041:Remmel] at [10426;126644;-3696]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25170:Lizardmen Leader Hellion] at [26523;123153;-3632]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25023:Stakato Queen Zyrnna] at [27323;102438;-3616]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25392:Captain of Queen's Royal Guards] at [29390;107131;-3696]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25128:Vuku Grand Seer Gharmash] at [17518;179363;-3520]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25360:Tiger Hornet] at [29405;179015;-3616]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25019:Pan Dryad] at [7054;169526;-3616]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25398:Eye of Beleth] at [5433;189452;-3712]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25388:Red Eye Captain Trakia] at [40129;102048;-1248]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25391:Nurka's Messenger] at [45178;120741;-2408]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25272:Partisan Leader Talakin] at [48947;128067;-3504]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25079:Cat's Eye Bandit] at [54024;102781;-1056]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25152:Flame Lord Shadar] at [44246;124291;-3144]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25385:Evil Spirit Tempest] at [53586;144199;-3856]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25118:Guilotine] at [51193;147134;-3632]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25223:Soul Collector Acheron] at [43260;152911;-2808]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25383:Revenant of Sir Calibus] at [51370;154032;-3552]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25404:Corsair Captain Kylon] at [36146;191477;-3088]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25410:Road Scavenger Leader] at [72394;125454;-3648]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25020:Breka Warlock Pastu] at [90213;125576;-2112]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25173:Tiger King Karuta] at [81339;103272;-3392]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25082:Leader of Cat Gang] at [87952;140687;-3424]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25112:Agent of Beres Meana] at [116168;139716;-3632]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25098:Sejarr's Servitor] at [123271;133776;-3616]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25415:Nakondas] at [128172;138675;-3472]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25198:Fafurion's Herald Lokness] at [102656;157424;-3735]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25199:Water Dragon Seer Sheshark] at [108096;157408;-3688]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25202:Krokian Padisha Sobekk] at [119760;157392;-3744]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25205:Ocean Flame Ashakiel] at [123808;153408;-3671]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25498:Fafurion's Henchman Istary] at [126235;174503;-3088]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25057:Biconne of Blue Sky] at [106976;167758;-3360]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25192:Earth Protector Panathen] at [125868;189769;-3296]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25434:Bandit Leader Barda] at [104153;-16454;-1808]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25444:Enmity Ghost Ramdal] at [113176;17319;-4376]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25220:Death Lord Hallate] at [112837;17409;-2120]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25447:Immortal Savior Mardil] at [113185;17132;-1408]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25092:Korim] at [115794;16520;1944]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25054:Kernon] at [113035;16814;3960]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25126:Longhorn Golkonda] at [116327;16007;6992]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25143:Fire of Wrath Shuriel] at [112820;15948;6992]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25450:Cherub Galaxia] at [113185;14786;9560]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25044:Barion] at [107503;27281;-3488]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25047:Karte] at [116529;28123;-3312]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25050:Verfa] at [124872;27661;-3616]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25423:Fairy Queen Timiniel] at [114035;47945;-4656]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25159:Paniel the Unicorn] at [124746;43223;-3664]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25119:Messenger of Fairy Queen Berun] at [121864;63905;-3536]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25070:Enchanted Forest Watcher Ruell] at [125682;50239;-3696]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25010:Furious Thieles] at [114739;53374;-3776]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25163:Roaring Skylancer] at [130252;58993;3600]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25007:Retreat Spider Cletu] at [124532;75960;-2560]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25102:Shacram] at [113926;84038;-2464]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25441:Evil Spirit Cyrion] at [111509;82643;-2912]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25438:Thief Kelbar] at [106790;92361;-2160]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25263:Kernon's Faithful Servant Kelone] at [144965;-27983;-1936]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25276:Death Lord Ipos] at [154057;-14071;-3760]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25229:Storm Winged Naga] at [137822;-19686;-3552]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25249:Palatanos of Horrific Power] at [146329;-20845;-3352]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25453:Meanas Anor] at [156666;-6009;-4144]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25103:Sorcerer Isirr] at [136177;94381;-3712]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25456:Mirror of Oblivion] at [133517;87414;-3632]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25460:Deadman Ereve] at [149915;67962;-3696]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25238:Abyss Brukunt] at [155005;85310;-3472]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25255:Gargoyle Lord Tiphon] at [170305;-24917;-3456]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25106:Ghost of the Well Lidia] at [174019;-11216;-2872]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25233:Spirit of Andras the Betrayer] at [185758;-26618;-2144]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25478:Shilen's Priest Hisilrome] at [168563;28224;-3632]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25013:Ghost of Peasant Leader] at [170127;11938;-2736]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25473:Grave Robber Kim] at [175510;29611;-3744]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25475:Ghost Knight Kabed] at [183462;24590;-3168]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25035:Shilen's Messenger Cabrio] at [181110;11907;-2720]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25252:Palibati Queen Themis] at [193103;22109;-3616]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25266:Bloody Empress Decarbia] at [189180;13625;-2672]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25245:Last Lesser Giant Glaki] at [188537;48369;-5888]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25244:Last Lesser Giant Olkuth] at [171923;55463;-5920]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25256:Taik High Prefect Arak] at [170495;42775;-4832]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25125:Fierce Tiger King Angel] at [170588;85504;-1984]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25089:Soulless Wild Boar] at [165489;94137;-2904]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25241:Harit Hero Tamash] at [165805;88281;-2368]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25463:Harit Guardian Garangky] at [166203;68115;-3264]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25312:Varka's Commander Mos] at [109866;-36072;-936]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25315:Varka's Chief Horus] at [105314;-42771;-1744]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25309:Varka's Hero Shadith] at [115412;-38482;-2432]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25235:Vanor Chief Kandra] at [116941;-62310;-3320]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25269:Beast Lord Behemoth] at [123159;-23035;-3488]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25293:Hestia] at [134884;-115739;-1216]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25302:Ketra's Commander Tayr] at [145827;-81126;-5984]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25305:Ketra's Chief Brakki] at [145014;-85264;-6224]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25299:Ketra's Hero Hekaton] at [148452;-73063;-4912]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25325:Flame of Splendor Barakiel] at [91026;-86615;-2712]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25322:Demon's Agent Falston] at [93311;-75329;-1808]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25277:Lilith's Witch Marilion] at [54136;180465;-4976]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25280:Pagan Watcher Cerberon] at [-13187;-240399;-8160]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25281:Anakim's Nemesis Zakaron] at [150820;88140;-5424]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25286:Anakim] at [184240;-11966;-5488]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25283:Lilith] at [185565;-9079;-5488]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [25282:Death Lord Shax] at [179268;-7618;-4896]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [29001:Queen Ant] at [-21610;181594;-5734]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [29014:Orfen] at [53504;21248;-5496]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [29006:Core] at [17726;108915;-6480]
+[01:10:18]  INFO RaidBossSpawnManager: spawning RaidBoss [29020:Baium] at [-105200;-253104;-15264]
+[01:10:21]  INFO RaidBossSpawnManager: spawning RaidBoss [29030:Fenril Hound Kerinne] at [190120;-116781;-1576]
+[01:10:21]  INFO RaidBossSpawnManager: spawning RaidBoss [29033:Fenril Hound Freki] at [193389;-113176;-1344]
+[01:10:21]  INFO RaidBossSpawnManager: spawning RaidBoss [29036:Fenril Hound Uruz] at [189582;-109337;-1016]
+[01:10:21]  INFO RaidBossSpawnManager: spawning RaidBoss [29037:Fenril Hound Kinaz] at [192250;-108939;-1016]
+[01:10:21]  INFO RaidBossSpawnManager: spawning RaidBoss [29040:Wings of Flame Ixion] at [190246;-105830;-760]
+[01:10:22]  INFO RaidBossSpawnManager: spawning RaidBoss [25701:Anais] at [112798;-76800;-10]
+[01:10:22]  INFO RaidBossSpawnManager: spawning RaidBoss [25687:Hekaton Prime] at [191777;56197;-7624]
+[01:10:22]  INFO RaidBossSpawnManager: spawning RaidBoss [25680:Giant Marpanak] at [194353;54364;-4368]
+[01:10:22]  INFO RaidBossSpawnManager: spawning RaidBoss [25684:Last Titan Utenus] at [187537;60792;-5010]
+[01:10:22]  INFO RaidBossSpawnManager: spawning RaidBoss [25681:Gorgolos] at [186431;61288;-4152]
+Oct 20, 2017 1:10:22 AM ru.akumu.smartguard.SmartGuard main
 INFO: SmartGuard has been initialized.
-[08:50:14]  INFO FourSepulchersManager: Entry time: Thu Oct 19 08:55:14 CEST 2017
+[01:10:46]  INFO level_bonus: Loaded 99 levels.
+[01:10:54] ERROR Not found link @prem_wtt
+java.lang.Exception
+	at l2p.dataparser.nasc_loader.pch.LinkerFactory.findValueFor(LinkerFactory.java:110)
+	at l2p.dataparser.nasc_loader.pch.LinkerUtils.getIntValue(LinkerUtils.java:21)
+	at l2p.gameserver.data.extended.holder.CommunityShopHolder.getMultisell(CommunityShopHolder.java:43)
+	at l2p.gameserver.handler.bbs.community.CommunityBoard.onBypassCommand(CommunityBoard.java:135)
+	at l2p.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:148)
+	at l2p.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:50)
+	at l2p.technical.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:38)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[01:10:54]  INFO StringHolder: load strings: 547 for lang: ENGLISH
+[01:10:54]  INFO StringHolder: load strings: 547 for lang: RUSSIAN
+[01:11:28] ERROR Not found link @prem_wtt
+java.lang.Exception
+	at l2p.dataparser.nasc_loader.pch.LinkerFactory.findValueFor(LinkerFactory.java:110)
+	at l2p.dataparser.nasc_loader.pch.LinkerUtils.getIntValue(LinkerUtils.java:21)
+	at l2p.gameserver.data.extended.holder.CommunityShopHolder.getMultisell(CommunityShopHolder.java:43)
+	at l2p.gameserver.handler.bbs.community.CommunityBoard.onBypassCommand(CommunityBoard.java:135)
+	at l2p.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:148)
+	at l2p.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:50)
+	at l2p.technical.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:38)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[01:14:39] ERROR Not found link @prem_wtt
+java.lang.Exception
+	at l2p.dataparser.nasc_loader.pch.LinkerFactory.findValueFor(LinkerFactory.java:110)
+	at l2p.dataparser.nasc_loader.pch.LinkerUtils.getIntValue(LinkerUtils.java:21)
+	at l2p.gameserver.data.extended.holder.CommunityShopHolder.getMultisell(CommunityShopHolder.java:43)
+	at l2p.gameserver.handler.bbs.community.CommunityBoard.onBypassCommand(CommunityBoard.java:135)
+	at l2p.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:148)
+	at l2p.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:50)
+	at l2p.technical.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:38)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[01:14:41] ERROR Not found link @prem_wtt
+java.lang.Exception
+	at l2p.dataparser.nasc_loader.pch.LinkerFactory.findValueFor(LinkerFactory.java:110)
+	at l2p.dataparser.nasc_loader.pch.LinkerUtils.getIntValue(LinkerUtils.java:21)
+	at l2p.gameserver.data.extended.holder.CommunityShopHolder.getMultisell(CommunityShopHolder.java:43)
+	at l2p.gameserver.handler.bbs.community.CommunityBoard.onBypassCommand(CommunityBoard.java:135)
+	at l2p.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:148)
+	at l2p.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:50)
+	at l2p.technical.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:38)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[01:14:49] ERROR Not found link @prem_wtt
+java.lang.Exception
+	at l2p.dataparser.nasc_loader.pch.LinkerFactory.findValueFor(LinkerFactory.java:110)
+	at l2p.dataparser.nasc_loader.pch.LinkerUtils.getIntValue(LinkerUtils.java:21)
+	at l2p.gameserver.data.extended.holder.CommunityShopHolder.getMultisell(CommunityShopHolder.java:43)
+	at l2p.gameserver.handler.bbs.community.CommunityBoard.onBypassCommand(CommunityBoard.java:135)
+	at l2p.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:148)
+	at l2p.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:50)
+	at l2p.technical.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:38)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[01:45:00] ERROR Exception: RunnableImpl.run(): java.lang.NullPointerException
+java.lang.NullPointerException
+	at ai.base.pets.PetPremiumHybrid.onEvtTimer(PetPremiumHybrid.java:299)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:195)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:121)
+	at l2p.gameserver.ai.CharacterAI$Timer.runImpl(CharacterAI.java:294)
+	at l2p.technical.threading.RunnableImpl.run(RunnableImpl.java:17)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at ai.base.pets.PetPremiumHybrid.onEvtTimer(PetPremiumHybrid.java:299)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:195)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:121)
+	at l2p.gameserver.ai.CharacterAI$Timer.runImpl(CharacterAI.java:294)
+	at l2p.technical.threading.RunnableImpl.run(RunnableImpl.java:17)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[01:45:10] ERROR Exception: RunnableImpl.run(): java.lang.NullPointerException
+java.lang.NullPointerException
+	at ai.base.pets.PetPremiumHybrid.onEvtTimer(PetPremiumHybrid.java:289)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:195)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:121)
+	at l2p.gameserver.ai.CharacterAI$Timer.runImpl(CharacterAI.java:294)
+	at l2p.technical.threading.RunnableImpl.run(RunnableImpl.java:17)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at ai.base.pets.PetPremiumHybrid.onEvtTimer(PetPremiumHybrid.java:289)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:195)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:121)
+	at l2p.gameserver.ai.CharacterAI$Timer.runImpl(CharacterAI.java:294)
+	at l2p.technical.threading.RunnableImpl.run(RunnableImpl.java:17)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[01:50:16]  INFO FourSepulchersManager: Entry time: Fri Oct 20 01:55:16 CEST 2017
+[01:55:25] ERROR Scripts: Error while calling services.ActivateSub.show()
+java.lang.NullPointerException
+	at services.ActivateSub.SubQuestComplete(ActivateSub.java:81)
+	at services.ActivateSub.show(ActivateSub.java:119)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.commons.lang3.reflect.MethodUtils.invokeMethod(MethodUtils.java:159)
+	at l2p.gameserver.scripts.Scripts.callScripts(Scripts.java:444)
+	at l2p.gameserver.scripts.Scripts.callScripts(Scripts.java:384)
+	at l2p.gameserver.handler.bbs.community.CommunityBoard.onBypassCommand(CommunityBoard.java:175)
+	at l2p.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:148)
+	at l2p.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:50)
+	at l2p.technical.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:38)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[02:50:16]  INFO FourSepulchersManager: Entry time: Fri Oct 20 02:55:16 CEST 2017
+[02:54:03] ERROR Community Teleportation Error
+java.lang.NullPointerException
+	at l2p.gameserver.handler.bbs.community.CommunityTeleport.teleportPlayer(CommunityTeleport.java:77)
+	at l2p.gameserver.handler.bbs.community.CommunityTeleport.onBypassCommand(CommunityTeleport.java:33)
+	at l2p.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:148)
+	at l2p.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:50)
+	at l2p.technical.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:38)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[03:26:46] ERROR Exception: RunnableImpl.run(): java.lang.NullPointerException
+java.lang.NullPointerException
+	at l2p.gameserver.model.instances.PetInstance.tryToAutoFeed(PetInstance.java:465)
+	at l2p.gameserver.ai.PetAI.onEvtTimer(PetAI.java:48)
+	at ai.base.pets.PetPremiumAttacker.onEvtTimer(PetPremiumAttacker.java:289)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:195)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:121)
+	at l2p.gameserver.ai.CharacterAI$Timer.runImpl(CharacterAI.java:294)
+	at l2p.technical.threading.RunnableImpl.run(RunnableImpl.java:17)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l2p.gameserver.model.instances.PetInstance.tryToAutoFeed(PetInstance.java:465)
+	at l2p.gameserver.ai.PetAI.onEvtTimer(PetAI.java:48)
+	at ai.base.pets.PetPremiumAttacker.onEvtTimer(PetPremiumAttacker.java:289)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:195)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:121)
+	at l2p.gameserver.ai.CharacterAI$Timer.runImpl(CharacterAI.java:294)
+	at l2p.technical.threading.RunnableImpl.run(RunnableImpl.java:17)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[03:27:29] ERROR Exception: RunnableImpl.run(): java.lang.NullPointerException
+java.lang.NullPointerException
+	at l2p.gameserver.model.instances.PetInstance.tryToAutoFeed(PetInstance.java:465)
+	at l2p.gameserver.ai.PetAI.onEvtTimer(PetAI.java:48)
+	at ai.base.pets.PetPremiumHybrid.onEvtTimer(PetPremiumHybrid.java:430)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:195)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:121)
+	at l2p.gameserver.ai.CharacterAI$Timer.runImpl(CharacterAI.java:294)
+	at l2p.technical.threading.RunnableImpl.run(RunnableImpl.java:17)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l2p.gameserver.model.instances.PetInstance.tryToAutoFeed(PetInstance.java:465)
+	at l2p.gameserver.ai.PetAI.onEvtTimer(PetAI.java:48)
+	at ai.base.pets.PetPremiumHybrid.onEvtTimer(PetPremiumHybrid.java:430)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:195)
+	at l2p.gameserver.ai.AbstractAI.notifyEvent(AbstractAI.java:121)
+	at l2p.gameserver.ai.CharacterAI$Timer.runImpl(CharacterAI.java:294)
+	at l2p.technical.threading.RunnableImpl.run(RunnableImpl.java:17)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

@@ -1,0 +1,146 @@
+[19.10.17 10:39:02] SUCCESS Testa[268480771] admin_sg
+[19.10.17 10:39:09] SUCCESS LacosteR[268495178] -> 35275 Kruger admin_sg
+[19.10.17 10:39:11] SUCCESS Testa[268480771] admin_sg
+[19.10.17 10:39:12] SUCCESS Testa[268480771] admin_sg_bans
+[19.10.17 10:39:13] SUCCESS Testa[268480771] admin_sg_modules
+[19.10.17 10:39:20] SUCCESS LacosteR[268495178] -> 35275 Kruger admin_sg_modules
+[19.10.17 10:39:27] SUCCESS Testa[268480771] admin_sg_bans
+[19.10.17 10:39:29] SUCCESS Testa[268480771] admin_sg
+[19.10.17 10:51:02] SUCCESS Testa[268480771] admin_admin
+[19.10.17 10:51:05] SUCCESS Testa[268480771] admin_char_manage
+[19.10.17 10:51:07] SUCCESS Testa[268480771] admin_admin
+[19.10.17 10:51:08] SUCCESS Testa[268480771] admin_itemcreate
+[19.10.17 10:51:18] SUCCESS Testa[268480771] admin_create_item 21754
+[19.10.17 10:52:01] SUCCESS Testa[268480771] admin_create_item 21780
+[19.10.17 10:52:31] SUCCESS Testa[268480771] admin_create_item 21812
+[19.10.17 10:53:52] SUCCESS Testa[268480771] admin_create_item 21919
+[19.10.17 10:54:30] SUCCESS Testa[268480771] admin_create_item 21939
+[19.10.17 10:55:12] SUCCESS Testa[268480771] admin_create_item 21959
+[19.10.17 10:55:35] SUCCESS Testa[268480771] admin_create_item 21973
+[19.10.17 10:56:11] SUCCESS Testa[268480771] admin_create_item 21990
+[19.10.17 10:56:28] FAIL    Testa[268480771] admin_create_item 22281
+[19.10.17 10:57:15] SUCCESS Testa[268480771] admin_admin
+[19.10.17 10:57:16] SUCCESS Testa[268480771] admin_itemcreate
+[19.10.17 10:57:30] FAIL    Testa[268480771] admin_create_item 22281
+[19.10.17 10:57:49] SUCCESS Testa[268480771] admin_admin
+[19.10.17 10:57:50] SUCCESS Testa[268480771] admin_itemcreate
+[19.10.17 10:57:53] SUCCESS Testa[268480771] admin_create_item 30000
+[19.10.17 10:58:08] SUCCESS Testa[268480771] admin_create_item 30001
+[19.10.17 10:58:21] SUCCESS Testa[268480771] admin_create_item 30002
+[19.10.17 10:58:50] SUCCESS Testa[268480771] admin_create_item 30003
+[19.10.17 10:59:05] SUCCESS Testa[268480771] admin_create_item 30098
+[19.10.17 10:59:29] FAIL    Testa[268480771] admin_create_item 30006
+[19.10.17 10:59:36] SUCCESS Testa[268480771] admin_admin
+[19.10.17 10:59:37] SUCCESS Testa[268480771] admin_itemcreate
+[19.10.17 10:59:40] FAIL    Testa[268480771] admin_create_item 30006
+[19.10.17 11:34:46] SUCCESS Testa[268480771] admin_admin
+[19.10.17 11:34:48] SUCCESS Testa[268480771] admin_itemcreate
+[19.10.17 11:34:53] SUCCESS Testa[268480771] admin_create_item 34000
+[19.10.17 11:35:21] SUCCESS Testa[268480771] admin_create_item 34001
+[19.10.17 11:35:34] SUCCESS Testa[268480771] admin_create_item 34009
+[19.10.17 11:35:49] SUCCESS Testa[268480771] admin_create_item 34012
+[19.10.17 11:36:01] SUCCESS Testa[268480771] admin_create_item 34014
+[19.10.17 11:36:18] SUCCESS Testa[268480771] admin_create_item 34015
+[19.10.17 11:36:25] SUCCESS Testa[268480771] admin_create_item 34016
+[19.10.17 11:36:40] SUCCESS Testa[268480771] admin_create_item 34020
+[19.10.17 11:36:54] SUCCESS Testa[268480771] admin_create_item 34024
+[19.10.17 11:37:07] SUCCESS Testa[268480771] admin_create_item 34025
+[19.10.17 11:37:33] SUCCESS Testa[268480771] admin_create_item 34034
+[19.10.17 11:37:51] SUCCESS Testa[268480771] admin_create_item 34039
+[19.10.17 11:38:33] SUCCESS Testa[268480771] admin_create_item 34068
+[19.10.17 11:39:32] SUCCESS Testa[268480771] admin_create_item 90004
+[19.10.17 11:39:57] SUCCESS Testa[268480771] admin_admin
+[19.10.17 11:39:58] SUCCESS Testa[268480771] admin_itemcreate
+[19.10.17 11:40:00] SUCCESS Testa[268480771] admin_create_item 90001
+[19.10.17 11:48:46] SUCCESS LacosteR[268495178] admin_reload
+[19.10.17 11:48:47] SUCCESS LacosteR[268495178] admin_server admserver.htm
+[19.10.17 11:48:49] SUCCESS LacosteR[268495178] admin_server_shutdown
+[19.10.17 11:49:13] SUCCESS LacosteR[268495178] admin_admin
+[19.10.17 11:49:24] SUCCESS Testa[268480771] admin_create_item 20335
+[19.10.17 11:50:09] SUCCESS Testa[268480771] admin_create_item 35051
+[19.10.17 11:51:35] SUCCESS Testa[268480771] admin_admin
+[19.10.17 11:51:37] SUCCESS Testa[268480771] admin_itemcreate
+[19.10.17 11:51:39] SUCCESS Testa[268480771] admin_create_item 35000
+[19.10.17 11:52:01] SUCCESS Testa[268480771] admin_create_item 35002
+[19.10.17 11:52:21] SUCCESS Testa[268480771] admin_create_item 35007
+[19.10.17 11:52:43] SUCCESS Testa[268480771] admin_create_item 35013
+[19.10.17 11:53:23] SUCCESS Testa[268480771] admin_create_item 35014
+[19.10.17 11:53:37] SUCCESS Testa[268480771] admin_create_item 35015
+[19.10.17 11:53:59] SUCCESS Testa[268480771] admin_create_item 35016
+[19.10.17 11:54:15] SUCCESS Testa[268480771] admin_create_item 35022
+[19.10.17 11:54:32] SUCCESS Testa[268480771] admin_create_item 35023
+[19.10.17 11:54:53] SUCCESS Testa[268480771] admin_create_item 35024
+[19.10.17 11:55:09] SUCCESS Testa[268480771] admin_create_item 35025
+[19.10.17 11:55:28] SUCCESS Testa[268480771] admin_create_item 35026
+[19.10.17 11:55:50] SUCCESS Testa[268480771] admin_create_item 35027
+[19.10.17 11:56:08] SUCCESS Testa[268480771] admin_create_item 35028
+[19.10.17 11:56:22] SUCCESS Testa[268480771] admin_create_item 35031
+[19.10.17 11:56:40] SUCCESS Testa[268480771] admin_create_item 35032
+[19.10.17 11:56:56] SUCCESS Testa[268480771] admin_create_item 35034
+[19.10.17 11:57:11] SUCCESS Testa[268480771] admin_create_item 35035
+[19.10.17 11:57:29] SUCCESS Testa[268480771] admin_create_item 35037
+[19.10.17 11:57:42] SUCCESS Testa[268480771] admin_create_item 35041
+[19.10.17 11:58:00] SUCCESS Testa[268480771] admin_create_item 35042
+[19.10.17 11:58:55] SUCCESS Testa[268480771] admin_create_item 35049
+[19.10.17 12:20:51] SUCCESS Testa[268480771] admin_admin
+[19.10.17 12:20:53] SUCCESS Testa[268480771] admin_itemcreate
+[19.10.17 12:20:56] SUCCESS Testa[268480771] admin_create_item 35078
+[19.10.17 12:33:30] SUCCESS Testa[268480771] admin_create_item 36000
+[19.10.17 12:34:21] SUCCESS Testa[268480771] admin_create_item 36036
+[19.10.17 12:34:30] SUCCESS Testa[268480771] admin_create_item 36030
+[19.10.17 12:51:36] SUCCESS Testa[268480771] admin_admin
+[19.10.17 12:51:38] SUCCESS Testa[268480771] admin_server admserver.htm
+[19.10.17 12:51:39] SUCCESS Testa[268480771] admin_server_shutdown
+[19.10.17 12:52:27] SUCCESS Testa[268480771] admin_server_restart 30
+[19.10.17 14:19:33] SUCCESS Testa[268480771] admin_admin
+[19.10.17 14:19:35] SUCCESS Testa[268480771] admin_server admserver.htm
+[19.10.17 14:19:37] SUCCESS Testa[268480771] admin_show_html reload.htm
+[19.10.17 14:19:40] SUCCESS Testa[268480771] admin_reload_multisell
+[19.10.17 14:26:41] SUCCESS Testa[268480771] admin_admin
+[19.10.17 14:26:43] SUCCESS Testa[268480771] admin_server admserver.htm
+[19.10.17 14:26:43] SUCCESS Testa[268480771] admin_server_shutdown
+[19.10.17 14:26:46] SUCCESS Testa[268480771] admin_server_restart 15
+[19.10.17 22:45:15] SUCCESS Testa[268480771] admin_admin
+[19.10.17 22:45:21] SUCCESS Testa[268480771] admin_char_manage
+[19.10.17 22:50:09] SUCCESS Testa[268480771] admin_admin
+[19.10.17 22:50:10] SUCCESS Testa[268480771] admin_admin
+[19.10.17 22:50:13] SUCCESS Testa[268480771] admin_admin
+[19.10.17 22:50:18] SUCCESS Testa[268480771] admin_admin
+[19.10.17 22:50:18] SUCCESS Testa[268480771] admin_admin
+[19.10.17 22:50:18] SUCCESS Testa[268480771] admin_admin
+[19.10.17 22:56:04] SUCCESS Testa[268480771] admin_admin
+[19.10.17 22:56:06] SUCCESS Testa[268480771] admin_server admserver.htm
+[19.10.17 22:56:07] SUCCESS Testa[268480771] admin_server_shutdown
+[19.10.17 22:56:11] SUCCESS Testa[268480771] admin_server_restart 15
+[19.10.17 23:19:08] SUCCESS LacosteR[268495178] -> LacosteR[268495178] admin_edit_character
+[19.10.17 23:19:11] SUCCESS LacosteR[268495178] admin_save_modifications & & & & & 1 &
+[19.10.17 23:19:28] SUCCESS LacosteR[268495178] -> LacosteR[268495178] admin_setlevel 1
+[19.10.17 23:19:39] SUCCESS LacosteR[268495178] -> LacosteR[268495178] admin_setlevel 20
+[19.10.17 23:19:58] SUCCESS Testa[268480771] admin_admin
+[19.10.17 23:19:59] SUCCESS Testa[268480771] admin_char_manage
+[19.10.17 23:20:01] SUCCESS Testa[268480771] admin_show_characters 0
+[19.10.17 23:20:05] SUCCESS Testa[268480771] admin_admin
+[19.10.17 23:20:24] SUCCESS Testa[268480771] admin_char_manage
+[19.10.17 23:20:24] SUCCESS Testa[268480771] admin_show_characters 0
+[19.10.17 23:20:26] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_character_list kghkgh
+[19.10.17 23:20:30] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_show_characters 0
+[19.10.17 23:20:32] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_character_list kghkgh
+[19.10.17 23:20:34] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_character_actions
+[19.10.17 23:20:35] SUCCESS Testa[268480771] admin_teleportto kghkgh
+[19.10.17 23:21:06] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_setlevel 20
+[19.10.17 23:21:30] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_admin
+[19.10.17 23:21:31] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_itemcreate
+[19.10.17 23:21:37] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_create_item 57 1100000
+[19.10.17 23:21:51] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_admin
+[19.10.17 23:21:51] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_admin
+[19.10.17 23:21:57] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_enchant
+[19.10.17 23:22:03] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_admin
+[19.10.17 23:22:04] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_itemcreate
+[19.10.17 23:22:08] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_create_item 57 1
+[19.10.17 23:22:18] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_create_item 57 200000000
+[19.10.17 23:22:22] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_admin
+[19.10.17 23:22:23] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_invis
+[19.10.17 23:24:34] SUCCESS Testa[268480771] -> kghkgh[268512775] admin_setlevel 40
+[19.10.17 23:56:17] SUCCESS Testa[268480771] -> 18342 Gremlin admin_admin
+[19.10.17 23:56:18] SUCCESS Testa[268480771] -> 18342 Gremlin admin_char_manage
+[19.10.17 23:56:18] SUCCESS Testa[268480771] -> 18342 Gremlin admin_show_characters 0

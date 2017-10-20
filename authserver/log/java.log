@@ -28,3 +28,69 @@
 [19.10.17 08:36:32:489]  INFO gameservercon.GameServerConnection: Setting gameserver down.
 [19.10.17 08:37:15:684]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
 [19.10.17 08:37:15:684]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 10:10:46:030]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[19.10.17 10:10:46:030]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[19.10.17 10:11:44:401]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 10:11:44:401]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 12:52:57:442]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[19.10.17 12:52:57:443]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[19.10.17 12:54:05:082]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 12:54:05:082]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 14:27:01:845]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[19.10.17 14:27:01:845]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[19.10.17 14:28:09:661]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 14:28:09:662]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 15:03:29:967] ERROR accounts.Account: 
+java.sql.SQLException: Field 'unlock_pass' doesn't have a default value
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:963)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3966)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3902)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2526)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2673)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1192)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172)
+	at l2p.authserver.accounts.Account.save(Account.java:238)
+	at l2p.authserver.clientpackets.RequestAuthLogin.runImpl(RequestAuthLogin.java:77)
+	at l2p.authserver.clientpackets.L2LoginClientPacket.run(L2LoginClientPacket.java:32)
+	at l2p.technical.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:38)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[19.10.17 22:56:26:397]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[19.10.17 22:56:26:397]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[19.10.17 22:57:33:207]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[19.10.17 22:57:33:207]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[19.10.17 23:07:39:050] ERROR accounts.Account: 
+java.sql.SQLException: Field 'unlock_pass' doesn't have a default value
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:963)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3966)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3902)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2526)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2673)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1192)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172)
+	at l2p.authserver.accounts.Account.save(Account.java:238)
+	at l2p.authserver.clientpackets.RequestAuthLogin.runImpl(RequestAuthLogin.java:77)
+	at l2p.authserver.clientpackets.L2LoginClientPacket.run(L2LoginClientPacket.java:32)
+	at l2p.technical.net.nio.impl.MMOExecutableQueue.run(MMOExecutableQueue.java:38)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[20.10.17 00:39:08:445]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[20.10.17 00:39:08:446]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[20.10.17 00:40:15:732]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[20.10.17 00:40:15:732]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[20.10.17 00:59:34:051]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[20.10.17 00:59:34:052]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[20.10.17 01:00:41:961]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[20.10.17 01:00:41:961]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[20.10.17 01:09:10:722]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[20.10.17 01:09:10:722]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[20.10.17 01:10:18:208]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[20.10.17 01:10:18:208]  INFO gspackets.AuthRequest: Gameserver registration successful.

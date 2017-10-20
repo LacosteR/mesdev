@@ -3,54 +3,6 @@
   <config showall="true" notax="false" keepenchanted="false" />
   <!-- Jewels --><!-- All -->
   <item>
-    <ingredient id="57" count="120000000"/>
-    <production id="15719" count="1" /> <!-- Elegia Necklace -->
-  </item>
-  <item>
-    <ingredient id="57" count="120000000"/>
-    <production id="15718" count="1" /> <!-- Elegia Earring -->
-  </item>
-   <item>
-    <ingredient id="57" count="120000000"/>
-    <production id="15717" count="1" /> <!-- Elegia Ring -->
-  </item>
-  <item>
-    <ingredient id="57" count="120000000"/>
-    <production id="15722" count="1" /> <!-- Vorpal Necklace -->
-  </item>
-  <item>
-    <ingredient id="57" count="120000000"/>
-    <production id="15721" count="1" /> <!-- Vorpal Earring -->
-  </item>
-   <item>
-    <ingredient id="57" count="120000000"/>
-    <production id="15720" count="1" /> <!-- Vorpal Ring -->
-  </item>
-  <item>
-    <ingredient id="57" count="120000000"/>
-    <production id="14164" count="1" /> <!-- Vesper Necklace -->
-  </item>
-  <item>
-    <ingredient id="57" count="120000000"/>
-    <production id="14163" count="1" /> <!-- Vesper Earring -->
-  </item>
-   <item>
-    <ingredient id="57" count="120000000"/>
-    <production id="14165" count="1" /> <!-- Vesper Ring -->
-  </item>
-  <item>
-    <ingredient id="57" count="8000000"/>
-    <production id="15725" count="1" /> <!-- Moirai Necklace -->
-  </item>
-  <item>
-    <ingredient id="57" count="8000000"/>
-    <production id="15724" count="1" /> <!-- Moirai Earring -->
-  </item>
-   <item>
-    <ingredient id="57" count="8000000"/>
-    <production id="15723" count="1" /> <!-- Moirai Ring -->
-  </item>
-  <item>
     <ingredient id="57" count="20000000"/>
     <production id="9456" count="1" /> <!-- Dynasty Necklace -->
   </item>

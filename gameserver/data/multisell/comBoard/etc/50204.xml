@@ -2,119 +2,6 @@
 <list>
   <config showall="true" notax="false" keepenchanted="false" />
 
-<!--Soul Shots-->
-	<!--No Grade-->
-	<item>
-		<ingredient id="57" count="1000"/>
-		<production id="1835" count="1000"/>
-	</item>
-	
-	<!--D Grade-->
-	<item>
-		<ingredient id="57" count="2000"/>
-		<production id="1463" count="1000"/>
-	</item>
-
-	<!--C Grade-->
-	<item>
-		<ingredient id="57" count="4000"/>
-		<production id="1464" count="1000"/>
-	</item>
-	
-	<!--B Grade-->
-	<item>
-		<ingredient id="57" count="8000"/>
-		<production id="1465" count="1000"/>
-	</item>
-
-	<!--A Grade-->
-	<item>
-		<ingredient id="57" count="16000"/>
-		<production id="1466" count="1000"/>
-	</item>
-
-	<!--S Grade-->
-	<item>
-		<ingredient id="57" count="32000"/>
-		<production id="1467" count="1000"/>
-	</item>
-
-<!--Blessed SpiritShots-->
-	<!--No Grade-->
-	<item>
-		<ingredient id="57" count="4000"/>
-		<production id="3947" count="1000"/>
-	</item>
-	
-	<!--D Grade-->
-	<item>
-		<ingredient id="57" count="8000"/>
-		<production id="3948" count="1000"/>
-	</item>
-
-	<!--C Grade-->
-	<item>
-		<ingredient id="57" count="16000"/>
-		<production id="3949" count="1000"/>
-	</item>
-	
-	<!--B Grade-->
-	<item>
-		<ingredient id="57" count="32000"/>
-		<production id="3950" count="1000"/>
-	</item>
-
-	<!--A Grade-->
-	<item>
-		<ingredient id="57" count="64000"/>
-		<production id="3951" count="1000"/>
-	</item>
-
-	<!--S Grade-->
-	<item>
-		<ingredient id="57" count="128000"/>
-		<production id="3952" count="1000"/>
-	</item>
-
-<!--Fishing Shots-->
-	
-	<!--C Grade-->
-	<item>
-		<ingredient id="57" count="100000"/>
-		<production id="6537" count="1000"/>
-	</item>
-	
-	<!--B Grade-->
-	<item>
-		<ingredient id="57" count="250000"/>
-		<production id="6538" count="1000"/>
-	</item>
-
-	<!--A Grade-->
-	<item>
-		<ingredient id="57" count="500000"/>
-		<production id="6539" count="1000"/>
-	</item>
-
-	<!--S Grade-->
-	<item>
-		<ingredient id="57" count="1000000"/>
-		<production id="6540" count="1000"/>
-	</item>
-
-<!--Pet and servitor shots-->
-	<!--Beast SS-->
-	<item>
-		<ingredient id="57" count="10000"/>
-		<production id="6645" count="1000"/>
-	</item>
-
-	<!--Beast Bsps-->
-	<item>
-		<ingredient id="57" count="50000"/>
-		<production id="6647" count="1000"/>
-	</item>
-
 <!--Wooden Arrow-->
 <item>
 	<ingredient id="57" count="2000" />
@@ -330,6 +217,95 @@
 	<ingredient id="57" count="522000" />
 	<production id="2134" count="1" />
 </item>
+	<item>
+	<ingredient id="57" count="100000000" />
+	<production id="6029" count="1" />
+</item>
+
+<!--Hellfire Oil-->
+<item>
+	<ingredient id="57" count="500000000" />
+	<production id="6033" count="1" />
+</item>
+
+<!--Frintezza's Magic Force Field Removal Scroll-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="8073" count="1" />
+</item>
+
+<!--Vacualite Floating Stone-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="7267" count="1" />
+</item>
+
+<!--Portal Stone-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="3865" count="1" />
+</item>
+
+<!--Blooded Fabric-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="4295" count="1" />
+</item>
+
+<!--Blood Oath-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9910" count="1" />
+</item>
+
+<!--Blood Alliance-->
+<item>
+	<ingredient id="57" count="1000000000" />
+	<production id="9910" count="1" />
+</item>
+
+<!--Memento Mori-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9814" count="5" />
+</item>
+
+<!--Dragon Heart-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9815" count="5" />
+</item>
+
+<!--Earth Egg-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9816" count="5" />
+</item>
+
+<!--Nonliving Nucleus-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9817" count="5" />
+</item>
+
+<!--Angelic Essence-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="9818" count="5" />
+</item>
+  
+  <!--Destruction Tombstone-->
+<item>
+	<ingredient id="57" count="100000000" />
+	<production id="8176" count="5" />
+</item>
+
+<!--Cradle Of Creation-->
+<item>
+	<ingredient id="57" count="200000000" />
+	<production id="8175" count="1" />
+</item>
+
 
 
 </list>
